@@ -114,6 +114,44 @@
       "tagline" : "Convert files by dropping them on the menu bar."
     },
     {
+      "alternativeTo" : "DaisyDisk",
+      "audience" : "everyone",
+      "bundleID" : "org.freeup.FreeUp",
+      "icon" : "https://store.explainsims.com/icons/freeup.png",
+      "id" : "freeup",
+      "kind" : "tools",
+      "name" : "FreeUp",
+      "readmeURL" : "https://store.explainsims.com/readme/freeup.txt",
+      "release" : {
+        "build" : "2",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:40:00Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "DS/tOFnn0/WjytNOcS+NFSn2u0B7PM8q+5BvuFT70rWGvGOFGebE1m+Pjnbe29vg0xu4GZBmCQq0LJGxqhmjDA==",
+          "length" : 2359773,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0-update.zip"
+        },
+        "version" : "2.1.0",
+        "zip" : {
+          "edSignature" : "AeXnmUUTZXbuzatXMcAuzZaaEjEGFxSWM+ooayolwv9NRjruVlUkQe6zauNGxchQ0wajP1sY/gVQtSQFXYaLBQ==",
+          "length" : 2362444,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "Scans a disk or folder and draws it as rings. Click to go in, drag what you don't need to be deleted, and see the space come back.",
+      "tagline" : "See what fills your disk, on a sunburst map."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
@@ -165,5 +203,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:39:46Z"
+  "updated" : "2026-11-08T01:40:00Z"
 }
