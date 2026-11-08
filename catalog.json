@@ -204,6 +204,44 @@
       "tagline" : "Hi-res and DSD player, with a library, radio and EQ."
     },
     {
+      "alternativeTo" : "VolumePad",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.hem",
+      "icon" : "https://store.explainsims.com/icons/hem.png",
+      "id" : "hem",
+      "kind" : "menubar",
+      "name" : "Hem",
+      "readmeURL" : "https://store.explainsims.com/readme/hem.txt",
+      "release" : {
+        "build" : "3",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:40:26Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "yFspjeLlsov2FfYQhra+dw94X3OFhozQScj0gU70G5UUGOt7bpEULl9kUIIsNGPq9z7TQmGVLi2TPcEJEmmhCA==",
+          "length" : 1399703,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "4nCKfTcKp8DIXUxpGJzIYNIYaC1BatWptv3z0Z7ZqeMFPCK6O93fCp/Z+/RqN+6nVHflUSAu0Xo0sEca2b1hDA==",
+          "length" : 1402998,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "Slide along an edge of the trackpad to change the volume, the screen or keyboard brightness, or scrub what's playing. Tap then slide for a second action.",
+      "tagline" : "Volume and brightness sliders on your trackpad's edges."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
@@ -255,5 +293,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:40:10Z"
+  "updated" : "2026-11-08T01:40:26Z"
 }

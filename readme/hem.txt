@@ -1,0 +1,100 @@
+Hem 1.0.0
+Slide a finger along an edge of your MacBook's trackpad to change the
+volume, the screen brightness or the keyboard backlight, or to skip
+through what's playing. You choose which edges do what, so your palms
+can rest beside the trackpad without changing anything.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Hem.app: the app
+  • Install Hem.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • A MacBook with its own trackpad: Any Mac (Apple Silicon or Intel) running macOS
+    14 or later. It was made and tested on a MacBook Air
+    with macOS 27.
+  • If you use VolumePad, quit it first. Both apps would react to the
+    same touches. Hem offers a button for this.
+
+
+INSTALL
+
+  1. Double-click "Install Hem.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Hem.command" into the Terminal window, and press Return.
+
+  2. The installer copies Hem into Applications and opens it. A welcome
+     window walks you through the rest.
+
+  3. Allow Accessibility when the welcome window asks: System Settings →
+     Privacy & Security → Accessibility, and turn on Hem. Hem uses it only
+     to keep the pointer still while you slide. It doesn't read what you
+     type and doesn't look at your screen.
+
+  Prefer to do it by hand? Drag Hem into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Hem
+
+  • Top edge: slide right to turn the volume up, left to turn it down.
+    Sliding all the way down mutes. Tap once, then slide, for the
+    keyboard backlight.
+
+  • Bottom edge: slide right to make the screen brighter, left to make it
+    dimmer. Tap once, then slide, to skip through what's playing (10
+    seconds a step, right for ahead and left for back).
+
+  • Start right at the edge and slide along it. Moving the pointer, clicking,
+    dragging and two-finger scrolling all work as usual, even near the edges.
+
+  • You feel a small tick every 5%, and a bump at 0% and 100%. A small
+    level shows on screen by the edge you're using.
+
+  • Click Hem's icon in the menu bar (a small teal square with a stitched
+    trackpad) to change things:
+      - The picture of your trackpad shows your fingers as you touch it.
+        Grey shapes are palms that Hem ignores. Click an edge to change it.
+      - For each edge: what a slide does, what tap-then-slide does, how far
+        in from the edge it reaches (Depth), and whether the ends of the
+        edge count (Dead corners). The left and right sides are off at
+        first, because that's where palms rest.
+      - "After a short rest" makes a slide wait until your finger has been
+        still for a moment, so a quick pointer move from the edge never
+        counts.
+      - "Pause after typing": touches just after you type are ignored.
+      - Haptics, the on-screen level, the colour icon and Launch at login.
+      - Put back: undoes the last slide.
+
+
+GOOD TO KNOW
+
+  • Skipping through media works with apps that answer the Mac's own skip
+    buttons, such as Safari and other browsers playing video, and Podcasts.
+    Some apps ignore them.
+
+  • If you turn tap to click on, the first tap of "tap once, then slide"
+    also clicks whatever is under the pointer.
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old one and keeps your settings. You'll need to turn Hem on again in
+    Accessibility afterwards.
+
+  • To uninstall: quit Hem from its menu, drag it from Applications to
+    the Trash, and remove it from System Settings → Privacy & Security →
+    Accessibility.
+
+  • Hem is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the first
+    time. It's an open-source alternative to VolumePad, and isn't made by
+    or connected with VolumePad's developer or with Apple.
