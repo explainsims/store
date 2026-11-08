@@ -2,6 +2,44 @@
   "apps" : [
     {
       "audience" : "everyone",
+      "bundleID" : "local.APODWallpaper",
+      "icon" : "https://store.explainsims.com/icons/apodwallpaper.png",
+      "id" : "apodwallpaper",
+      "internet" : "To fetch NASA's picture and the satellite images",
+      "kind" : "menubar",
+      "name" : "APOD Wallpaper",
+      "readmeURL" : "https://store.explainsims.com/readme/apodwallpaper.txt",
+      "release" : {
+        "build" : "3",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:39:25Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "QigD907i81r3bSCE4PbknGvmwBLamYZburq2IEAVaXq2x4RVQoLF3ywm1BFuarUp6RpmfqTvUPmVd0VxZWQlBw==",
+          "length" : 3380441,
+          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2-update.zip"
+        },
+        "version" : "1.2",
+        "zip" : {
+          "edSignature" : "vomZ37lUtuXlsAn5OZDQqNJpDtrb5VGARKBCZeX6y5y4OhbmQJYASmWdlnIP+KgcyGYvSNvxTJpSnG4D+CfyAw==",
+          "length" : 3385104,
+          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "Sets your wallpaper to NASA's Astronomy Picture of the Day, the latest whole-Earth satellite picture, a star chart drawn for where you are, or a solid colour.",
+      "tagline" : "NASA's picture of the day, Live Earth or the night sky, as your wallpaper."
+    },
+    {
+      "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
       "id" : "storefront",
@@ -52,5 +90,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:39:09Z"
+  "updated" : "2026-11-08T01:39:25Z"
 }
