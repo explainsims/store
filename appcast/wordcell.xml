@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>WordCell</title>
+    <item>
+      <title>WordCell 0.4.0</title>
+      <pubDate>Sun, 08 Nov 2026 01:41:26 +0000</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/wordcell-0.4.0/WordCell-0.4.0-update.zip" length="140201819" type="application/octet-stream" sparkle:edSignature="JjKFU7WLGARyaTxmjaJsCAHwbewQv4S6pIBME2ogQuJUOJ7qqmKH3nI8M95uSeYdMjPOl7L6oqQf/vQXOnFwCQ=="/>
+    </item>
+  </channel>
+</rss>
