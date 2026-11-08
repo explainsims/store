@@ -471,26 +471,26 @@
       "name" : "Tuck",
       "readmeURL" : "https://store.explainsims.com/readme/tuck.txt",
       "release" : {
-        "build" : "1",
+        "build" : "4",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:41:13Z",
+        "date" : "2026-11-08T14:23:39Z",
         "minimumSystemVersion" : "27.0",
         "notes" : [
-
+          "Apps you delete leave the list by themselves, and you can right-click one that isn't open to remove it. A long list now scrolls instead of running off the screen."
         ],
         "update" : {
-          "edSignature" : "DZvEM/rjdEf1/MFrDnu2U1DmBd6fScs/hbVzd4haSa4FCVkmFCFqvVbTSFGr7+se5EJ4YU/olxwD3b7znT4mAQ==",
-          "length" : 823054,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.0/Tuck-1.1.0-update.zip"
+          "edSignature" : "1TZyw42DX8tgelE5LDZi6tFXXCS7NHI/r5gQzFGDBvLLKyyqW587YoniU84IlBdOONWVZ2feRMCUAkihBODPDQ==",
+          "length" : 857597,
+          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1-update.zip"
         },
-        "version" : "1.1.0",
+        "version" : "1.1.1",
         "zip" : {
-          "edSignature" : "OI2SuCCBU94h/s/5eHdO9frr01+FhKzYp74UtSsiATgNBiGIOkrZjhe7dRWgi2ZHCgrRaNBthU/By0GEYHJTAw==",
-          "length" : 826217,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.0/Tuck-1.1.0.zip"
+          "edSignature" : "6N8KuvHszJHmDWtyKFiwww8ALuROi69UNqHktPpe9WrckaMc1V9Q5W7zPiePuuRvkDVg3mbFPHlJzNjnIQb/Cg==",
+          "length" : 860842,
+          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1.zip"
         }
       },
       "screenshots" : [
@@ -537,5 +537,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T14:07:11Z"
+  "updated" : "2026-11-08T14:23:39Z"
 }

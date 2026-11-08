@@ -3,12 +3,13 @@
   <channel>
     <title>Tuck</title>
     <item>
-      <title>Tuck 1.1.0</title>
-      <pubDate>Sun, 08 Nov 2026 01:41:13 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Tuck 1.1.1</title>
+      <pubDate>Sun, 08 Nov 2026 14:23:39 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/tuck-1.1.0/Tuck-1.1.0-update.zip" length="823054" type="application/octet-stream" sparkle:edSignature="DZvEM/rjdEf1/MFrDnu2U1DmBd6fScs/hbVzd4haSa4FCVkmFCFqvVbTSFGr7+se5EJ4YU/olxwD3b7znT4mAQ=="/>
+      <description><![CDATA[<ul><li>Apps you delete leave the list by themselves, and you can right-click one that isn't open to remove it. A long list now scrolls instead of running off the screen.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1-update.zip" length="857597" type="application/octet-stream" sparkle:edSignature="1TZyw42DX8tgelE5LDZi6tFXXCS7NHI/r5gQzFGDBvLLKyyqW587YoniU84IlBdOONWVZ2feRMCUAkihBODPDQ=="/>
     </item>
   </channel>
 </rss>

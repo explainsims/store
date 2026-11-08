@@ -1,4 +1,4 @@
-Tuck 1.1.0
+Tuck 1.1.1
 Keep your menu bar to the icons you use. Tuck hides the others until you
 click its arrow.
 
@@ -45,6 +45,9 @@ USING Tuck
   • Choose what to tuck: right-click the arrow → Menu-Bar Apps…, then set
     each app to Show or Tuck. Or, while everything shows, ⌘-drag an icon to
     the left of the arrow to tuck it, or to the right to show it.
+    Apps you delete leave the list by themselves. To take off an app you
+    still have but no longer use, quit it, then right-click it in the list
+    → Remove from List.
 
   • Click the arrow (or press ⌃⌥B) to show every icon for a moment. Tuck
     puts them away again after 10 seconds, but waits while your pointer is
