@@ -242,6 +242,43 @@
       "tagline" : "Volume and brightness sliders on your trackpad's edges."
     },
     {
+      "alternativeTo" : "Skitch",
+      "audience" : "everyone",
+      "bundleID" : "local.scrawl.Scrawl",
+      "icon" : "https://store.explainsims.com/icons/scrawl.png",
+      "id" : "scrawl",
+      "kind" : "tools",
+      "name" : "Scrawl",
+      "readmeURL" : "https://store.explainsims.com/readme/scrawl.txt",
+      "release" : {
+        "build" : "2",
+        "chips" : [
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:40:37Z",
+        "minimumSystemVersion" : "27.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "oDMJTRJ4T/Q6Wjw4VbXnJWyGASH92qWzQ4T8lM6aC4Mnq6htSVrJisQKAChJkLltC4LLV2IoyDckWQQA4pmUCg==",
+          "length" : 1290924,
+          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1-update.zip"
+        },
+        "version" : "1.1",
+        "zip" : {
+          "edSignature" : "rEUQYgk9srVnKMNjREJLFKsSVB13ozbmxPdvb0K/em0Ji9nbyHGIzuiPtzXJaUrIazd4pbPRK2E1J4uPZf0rBA==",
+          "length" : 1294112,
+          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "Capture an area, a window or the whole screen from the menu bar, then mark it up with arrows, shapes, text, highlights and blur.",
+      "tagline" : "Screenshots with arrows, text and blur."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
@@ -293,5 +330,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:40:26Z"
+  "updated" : "2026-11-08T01:40:37Z"
 }

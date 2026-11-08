@@ -1,0 +1,91 @@
+Scrawl 1.1
+Take a snapshot of any part of your screen, mark it up with arrows, text,
+shapes and highlights, then copy or save it. Everything you take is kept
+in a library, so you can change it again later.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Scrawl.app: the app
+  • Install Scrawl.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • An Apple Silicon Mac (M1 or later) running macOS 27 or later.
+
+
+INSTALL
+
+  1. Double-click "Install Scrawl.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Scrawl.command" into the Terminal window, and press Return.
+
+  2. The installer copies Scrawl into Applications and opens it.
+
+  Prefer to do it by hand? Drag Scrawl into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Scrawl
+
+  Taking a snapshot. These keys work in any app, or use the Scrawl icon
+  in the menu bar:
+
+    ⇧⌘5     drag across the area you want (or click a window to take it)
+    ⌥⇧⌘5    the same area as last time
+    ⌃⇧⌘5    the same as ⇧⌘5, after a countdown
+    ⇧⌘6     the whole screen
+
+  ⇧⌘5 and ⇧⌘6 are also macOS's own screenshot keys. To use them for
+  Scrawl, turn those off in System Settings → Keyboard → Keyboard
+  Shortcuts → Screenshots. Or choose other keys in Scrawl → Settings →
+  Shortcuts.
+
+  The first time, Scrawl asks for Screen Recording permission. Click
+  "Open System Settings", turn Scrawl on, and let macOS reopen it.
+
+  Marking it up. Pick a tool in the side panel: arrow, text, rectangle,
+  filled rectangle (to hide something), rounded rectangle, ellipse, line,
+  marker, highlighter, pixelate (to blur something) or crop. Then pick a
+  colour and one of five sizes. Click anything you've drawn to move,
+  change or delete it. ⌘Z undoes.
+
+  Copying and saving. With nothing selected, ⌘C copies the whole
+  marked-up picture, ready to paste into an email, chat or document.
+  ⌘E exports it as PNG, JPG, HEIC, TIFF, GIF, BMP or PDF.
+
+  The library. Every snapshot and every change is saved for you, so
+  Scrawl never asks "Save?". ⌘L opens the library. It lives in
+  Pictures → Scrawl. To have it on all your Macs, choose a Google Drive,
+  iCloud Drive or OneDrive folder in Settings → Library.
+
+  The menu bar. Look for the white scribble on a blue square. Settings →
+  General can start Scrawl at login, hide its Dock icon, and turn the
+  menu-bar icon black and white. Closing windows (even ⌘Q) leaves Scrawl
+  running in the menu bar, ready for the next snapshot.
+
+
+GOOD TO KNOW
+
+  • To quit: click the Scrawl icon in the menu bar → Quit Scrawl.
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old one and keeps your settings and library.
+
+  • To uninstall: quit Scrawl and drag it from Applications to the
+    Trash. Your library stays in Pictures → Scrawl.
+
+  • Coming from Skitch? Scrawl opens Skitch's PNG and JPG files with
+    their annotations still editable. Scrawl is a separate app, not made
+    by or connected to Skitch's makers.
+
+  • Scrawl is free. It isn't from the App Store and isn't notarized by
+    Apple, which is why macOS asks you to confirm it the first time.
