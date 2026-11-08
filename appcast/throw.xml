@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Throw</title>
+    <item>
+      <title>Throw 1.0.2</title>
+      <pubDate>Sun, 08 Nov 2026 01:40:58 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2-update.zip" length="2213871" type="application/octet-stream" sparkle:edSignature="zEzOCnU8zfirbetLk7c86NS6CgZgvHIeaVdQ6F5gMNkdckAdNHECIu6g91LfEcBu7j048NqKbdrsNggs4Vv3CQ=="/>
+    </item>
+  </channel>
+</rss>

@@ -364,9 +364,46 @@
       ],
       "summary" : "A menu-bar app that lists every app here, installs any of them without the Open Anyway step, and updates them all.",
       "tagline" : "Install any of these apps in one click, and keep them all up to date."
+    },
+    {
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.throw",
+      "icon" : "https://store.explainsims.com/icons/throw.png",
+      "id" : "throw",
+      "kind" : "menubar",
+      "name" : "Throw",
+      "readmeURL" : "https://store.explainsims.com/readme/throw.txt",
+      "release" : {
+        "build" : "10",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:40:58Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "zEzOCnU8zfirbetLk7c86NS6CgZgvHIeaVdQ6F5gMNkdckAdNHECIu6g91LfEcBu7j048NqKbdrsNggs4Vv3CQ==",
+          "length" : 2213871,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2-update.zip"
+        },
+        "version" : "1.0.2",
+        "zip" : {
+          "edSignature" : "/ALyTe+bJv1mByc02Z7PjPKJUt673xp6nBMUoDOvoTVTYCcZx/izY52wcM/iG3RbK6I9fI/LdK8pbGQG0aTPAA==",
+          "length" : 2217011,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "Connect to nearby TVs as a mirror, an extra screen or a window, drag the TV around an arrangement map, pick a resolution, and remember each room.",
+      "tagline" : "AirPlay to TVs from the menu bar, then arrange them."
     }
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:40:49Z"
+  "updated" : "2026-11-08T01:40:58Z"
 }
