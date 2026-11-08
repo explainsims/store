@@ -447,28 +447,26 @@
       "name" : "Storefront",
       "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
       "release" : {
-        "build" : "29",
+        "build" : "32",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:28:32Z",
+        "date" : "2026-11-08T15:33:47Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "The Storefront window checks for new apps, updates and screenshots each time you open it.",
-          "Check Now at the top of the window, with when it last checked.",
-          "Screenshots that change on the store now update in the app too."
+          "When Storefront finds an update by itself, its update window now comes to the front, so it isn't missed behind other windows."
         ],
         "update" : {
-          "edSignature" : "2n3YpmC1QNykeE4O/k+m+0BuD/6szGKISLW/bWMaGVoYgv+yiptqpgNeYQndEVG2IoIW24u1rw+ugEiEnWs1Cg==",
-          "length" : 3800782,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.1/Storefront-1.1.1-update.zip"
+          "edSignature" : "QiK9hLXnZPEl6b4vNZv/MmkbEmfoQ8cuUYgVO1GPNb1tru2PYUAVwq4Ku1iWZZc7XWZJHeCAvWkzrfaF7Tq9DA==",
+          "length" : 3808836,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.2/Storefront-1.1.2-update.zip"
         },
-        "version" : "1.1.1",
+        "version" : "1.1.2",
         "zip" : {
-          "edSignature" : "D50swdB0kNYrpY4ibl7ohx6GfPHzZsYDq+BYbOc+UGFE1B864KdBmlkOhri1EeAKGGv4Bxog2VzTfs89N/vhBg==",
-          "length" : 3806502,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.1/Storefront-1.1.1.zip"
+          "edSignature" : "Eiq+017aWEr9dAgPdrlLX6tpotUQueu/LnP8MyPVva75Oe9IuSWx3pnlnEugL4WStN5zWIaZmdZjRdgF29IgBg==",
+          "length" : 3814578,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.2/Storefront-1.1.2.zip"
         }
       },
       "screenshots" : [
@@ -634,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T15:28:32Z"
+  "updated" : "2026-11-08T15:33:47Z"
 }
