@@ -279,6 +279,44 @@
       "tagline" : "Screenshots with arrows, text and blur."
     },
     {
+      "alternativeTo" : "CheatSheet",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.smartcut",
+      "icon" : "https://store.explainsims.com/icons/smartcut.png",
+      "id" : "smartcut",
+      "kind" : "menubar",
+      "name" : "SmartCut",
+      "readmeURL" : "https://store.explainsims.com/readme/smartcut.txt",
+      "release" : {
+        "build" : "2",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:40:49Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "vknRG4X4PbaEdkBUcClB8iHaLlSVSOwCoQnx8SltKgdrOl2Oawwm9nuLyIuBv2GAXet96ltJdLjXqDA5di0cDg==",
+          "length" : 1128946,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "X06jnEoksbIIeOfDITr/mOL8ZwVceNo0ZrWSQ5s3TMmb0H/4deqLKW035Wqor97hAjdF0YuYSG5Tc82KdWopAw==",
+          "length" : 1131943,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "Hold ⌘ and a panel lists the front app's keyboard shortcuts, including Google Docs, Sheets, Slides and Gmail in your browser. Type to filter, and find hotkeys that clash.",
+      "tagline" : "Hold ⌘ to see every shortcut in the app you're using."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
@@ -330,5 +368,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:40:37Z"
+  "updated" : "2026-11-08T01:40:49Z"
 }

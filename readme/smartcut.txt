@@ -1,0 +1,81 @@
+SmartCut 1.0.0
+Hold ⌘ in any app to see all its keyboard shortcuts. Let go and they're gone.
+
+
+WHAT'S IN THIS FOLDER
+
+  • SmartCut.app: the app
+  • Install SmartCut.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later.
+
+
+INSTALL
+
+  1. Double-click "Install SmartCut.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install SmartCut.command" into the Terminal window, and press Return.
+
+  2. The installer copies SmartCut into Applications and opens it.
+
+  3. A welcome window asks for Accessibility access, which SmartCut needs to
+     read other apps' menus and notice when you hold ⌘. Click Allow Access…,
+     then turn on SmartCut in System Settings → Privacy & Security →
+     Accessibility (on macOS 27 this list is called Device Control and Data
+     Access). Come back and click Start.
+
+  Prefer to do it by hand? Drag SmartCut into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING SmartCut
+
+  • Hold ⌘ for a second in any app: its shortcuts appear, grouped by menu.
+    Click one to run it. Let go of ⌘ and the panel disappears.
+
+  • Tap ⌘ twice, or click the ⌘ icon in the menu bar, to keep the panel
+    open. Type to find any command (even ones without a shortcut), use ↑ ↓
+    to choose, ↩ to run it and ⎋ to close.
+
+  • In a browser showing Google Docs, Sheets, Slides, Gmail, Calendar or
+    Drive, you see that app's own shortcuts first, with a switch to the
+    browser's. Gmail's single-key shortcuts only work once "Keyboard
+    shortcuts on" is chosen in Gmail's settings.
+
+  • A ⚠ next to a shortcut means another app's global hotkey uses the same
+    keys first, so that shortcut never reaches the app. Right-click the menu
+    bar icon and choose Clash Finder… to see every global hotkey SmartCut can
+    find, and the ones that clash.
+
+  • Settings (right-click the menu-bar icon): how long to hold ⌘, apps to
+    skip, the colour or black-and-white icon, and Launch at Login.
+
+
+GOOD TO KNOW
+
+  • SmartCut only reads menus and the ⌘ key. It doesn't record what you
+    type or send anything anywhere.
+
+  • After installing a newer copy, macOS may need SmartCut turned off and on
+    again in Accessibility settings, because the app isn't signed with a
+    paid Apple Developer ID.
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old one and keeps your settings.
+
+  • To uninstall: right-click the menu-bar icon, choose Quit SmartCut, and
+    drag SmartCut from Applications to the Trash.
+
+  • SmartCut is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time.
