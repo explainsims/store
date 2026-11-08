@@ -1,0 +1,97 @@
+Chào 1.0.0
+A Vietnamese word or phrase a day, Saigon-style, from your Mac's menu bar.
+Say it aloud and Chào draws your tones over the right shapes, so you can
+hear and see what to fix.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Chào.app: the app
+  • Install Chào.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later.
+  • A microphone (the Mac's own is fine) to practise saying the words.
+
+
+INSTALL
+
+  1. Double-click "Install Chào.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Chào.command" into the Terminal window, and press Return.
+
+  2. The installer copies Chào into Applications and opens it.
+
+  3. Look for the speech bubble on a small red square in the menu bar, with
+     today's word beside it. macOS also tells you a login item was added:
+     that is Chào starting itself when you log in, so a new word is waiting
+     each morning.
+
+  Prefer to do it by hand? Drag Chào into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Chào
+
+  Click the bubble in the menu bar.
+
+  • Today: the day's word, each syllable coloured by its tone, with the
+    tone's shape above it. Listen (the tortoise slows it down), read the
+    example, then press Say it. Chào listens, then draws your voice over the
+    tone shapes and tells you which tones were right.
+
+    The first time you press Say it, macOS asks for the microphone. If you
+    said no by mistake: System Settings → Privacy & Security → Microphone,
+    and turn on Chào.
+
+  • Practice: words come back after 1, 2, 4, 8 and 16 days (the next day if
+    you missed them). Say them from the English, recall their meaning, and
+    try tone drills: hear ma, mà, má, mả or mạ and pick the tone.
+
+  • Week: this week's words, and the ones to go over again.
+
+  • Phrases: must-have phrases for emergencies, allergies, getting home and
+    money. Click one to hear it, or show it large to hand to someone.
+
+  • Record a native speaker: in Today's … menu. Ask a Vietnamese friend or
+    colleague to say the word; Chào then plays their voice and shapes the
+    tone graph to it.
+
+  • Settings (the gear at the bottom, or right-click the bubble): topics,
+    the menu-bar icon and word, speaking speed, the word check and Launch
+    at Login.
+
+  Saigon Vietnamese has five tones: level (ngang), falling (huyền), rising
+  (sắc), dipping (hỏi and ngã sound the same in the South) and low (nặng).
+
+
+GOOD TO KNOW
+
+  • The tone graph works entirely on your Mac. The optional word check
+    (off at first, in Settings) sends your recording to Apple's speech
+    recogniser, because Vietnamese isn't available on the Mac itself.
+
+  • Apple's built-in Vietnamese voice is basic. A clearer one is a free
+    download: System Settings → Accessibility → Spoken Content → System
+    voice → Manage Voices… → Vietnamese.
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old one and keeps your progress. macOS asks for the microphone again
+    after an update.
+
+  • To uninstall: right-click the bubble, choose Quit Chào, and drag Chào
+    from Applications to the Trash. Your progress is in
+    ~/Library/Application Support/Chào.
+
+  • Chào is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time.

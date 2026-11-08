@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Chào</title>
+    <item>
+      <title>Chào 1.0.0</title>
+      <pubDate>Sun, 08 Nov 2026 01:39:36 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0-update.zip" length="1666282" type="application/octet-stream" sparkle:edSignature="37yfrgTmg8PH3Xtb3iwSF1mfmNe8COItsNlWiYiEAi1Ei2jIhsQI3eyfgAeybm3oI3zZvfPn+sexbg5lKwAVCA=="/>
+    </item>
+  </channel>
+</rss>

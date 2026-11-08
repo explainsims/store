@@ -40,6 +40,43 @@
     },
     {
       "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.chao",
+      "icon" : "https://store.explainsims.com/icons/chao.png",
+      "id" : "chao",
+      "kind" : "menubar",
+      "name" : "Chào",
+      "readmeURL" : "https://store.explainsims.com/readme/chao.txt",
+      "release" : {
+        "build" : "3",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:39:36Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "37yfrgTmg8PH3Xtb3iwSF1mfmNe8COItsNlWiYiEAi1Ei2jIhsQI3eyfgAeybm3oI3zZvfPn+sexbg5lKwAVCA==",
+          "length" : 1666282,
+          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "L5QtC2tq+d05xAwbXgaP+NsjrFCIN0u2XWSmGQmGGECoSF5qsIFTTz/OIk+zWZPeBuqN0/q2DfcrnKXNt27bAQ==",
+          "length" : 1669537,
+          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "A word of the day in the menu bar, coloured by tone. Say it and see your pitch against the tone, practise with cards and tone drills, and keep a phrase sheet handy.",
+      "tagline" : "A Southern Vietnamese word a day, with tone practice."
+    },
+    {
+      "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
       "id" : "storefront",
@@ -90,5 +127,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:39:25Z"
+  "updated" : "2026-11-08T01:39:36Z"
 }
