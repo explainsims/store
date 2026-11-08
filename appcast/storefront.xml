@@ -3,13 +3,13 @@
   <channel>
     <title>Storefront</title>
     <item>
-      <title>Storefront 1.1.0</title>
-      <pubDate>Sun, 08 Nov 2026 15:12:52 +0000</pubDate>
-      <sparkle:version>27</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Storefront 1.1.1</title>
+      <pubDate>Sun, 08 Nov 2026 15:28:32 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Send private, anonymous feedback about any app from its page: an idea, a problem, anything.</li><li>Send Feedback at the top of each app's page takes you straight to the form.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.1.0/Storefront-1.1.0-update.zip" length="3789837" type="application/octet-stream" sparkle:edSignature="4wELRsNA5hkBuCAYtF9qmbjLHtPYAxggqMPKNaIfjF0Pnuds1kh+oC4+A1K7NFKcAzdRdlOeip+wZZ2Rq9TcAA=="/>
+      <description><![CDATA[<ul><li>The Storefront window checks for new apps, updates and screenshots each time you open it.</li><li>Check Now at the top of the window, with when it last checked.</li><li>Screenshots that change on the store now update in the app too.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.1.1/Storefront-1.1.1-update.zip" length="3800782" type="application/octet-stream" sparkle:edSignature="2n3YpmC1QNykeE4O/k+m+0BuD/6szGKISLW/bWMaGVoYgv+yiptqpgNeYQndEVG2IoIW24u1rw+ugEiEnWs1Cg=="/>
     </item>
   </channel>
 </rss>

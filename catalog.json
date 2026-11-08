@@ -447,27 +447,28 @@
       "name" : "Storefront",
       "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
       "release" : {
-        "build" : "27",
+        "build" : "29",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:12:52Z",
+        "date" : "2026-11-08T15:28:32Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Send private, anonymous feedback about any app from its page: an idea, a problem, anything.",
-          "Send Feedback at the top of each app's page takes you straight to the form."
+          "The Storefront window checks for new apps, updates and screenshots each time you open it.",
+          "Check Now at the top of the window, with when it last checked.",
+          "Screenshots that change on the store now update in the app too."
         ],
         "update" : {
-          "edSignature" : "4wELRsNA5hkBuCAYtF9qmbjLHtPYAxggqMPKNaIfjF0Pnuds1kh+oC4+A1K7NFKcAzdRdlOeip+wZZ2Rq9TcAA==",
-          "length" : 3789837,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.0/Storefront-1.1.0-update.zip"
+          "edSignature" : "2n3YpmC1QNykeE4O/k+m+0BuD/6szGKISLW/bWMaGVoYgv+yiptqpgNeYQndEVG2IoIW24u1rw+ugEiEnWs1Cg==",
+          "length" : 3800782,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.1/Storefront-1.1.1-update.zip"
         },
-        "version" : "1.1.0",
+        "version" : "1.1.1",
         "zip" : {
-          "edSignature" : "pIT6FN4WiPiFf6AiZEdBK1P9saxXQhEj8XaHHNdgYZhRNWOcF0BoINGrRDryIv1oXTuGrUkkvA+Ew7W4AxVRCw==",
-          "length" : 3795557,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.0/Storefront-1.1.0.zip"
+          "edSignature" : "D50swdB0kNYrpY4ibl7ohx6GfPHzZsYDq+BYbOc+UGFE1B864KdBmlkOhri1EeAKGGv4Bxog2VzTfs89N/vhBg==",
+          "length" : 3806502,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.1/Storefront-1.1.1.zip"
         }
       },
       "screenshots" : [
@@ -633,5 +634,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T15:25:23Z"
+  "updated" : "2026-11-08T15:28:32Z"
 }
