@@ -31,13 +31,13 @@ footer{margin-top:36px;padding:16px 8px 0;border-top:1px solid var(--sep);color:
 @media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}}</style>
 </head>
 <body>
-<header class="nav"><b>ExplAIn Sims · Mac apps</b><nav><a href="../">Apps</a><a href="../#apps">Storefront</a><a class="here" href="./">SSIS staff</a></nav></header>
+<header class="nav"><b>ExplAIn Sims · Mac apps</b><nav><a href="../">Apps</a><a class="here" href="./">SSIS staff</a></nav></header>
 <main>
   <div id="signedout" class="signin">
     <div class="badge">🎓</div>
     <h2>For SSIS staff</h2>
     <p>Apps that only work at SSIS. Sign in with your @ssis.edu.vn Google account to see and download them.</p>
-    <p class="alt">This page isn't set up yet.</p>
+    <button id="signin" class="btn primary">Sign In with SSIS</button>
     <p id="problem" class="problem" hidden></p>
   </div>
   <div id="signedin" hidden>
@@ -46,6 +46,54 @@ footer{margin-top:36px;padding:16px 8px 0;border-top:1px solid var(--sep);color:
     <p class="alt pad">Easier: get Storefront from the main page and sign in there, and these keep themselves up to date.</p>
   </div>
 </main>
-
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
+import { getStorage, ref, getBlob } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-storage.js";
+const domain = "ssis.edu.vn", prefix = "store/ssis";
+const app = initializeApp({ apiKey: "AIzaSyD40lxPH6seRBUXOtSoF3SEVNTMq3LsZjw", authDomain: "ssis-apps.firebaseapp.com", projectId: "ssis-apps", storageBucket: "ssis-apps-store" });
+const auth = getAuth(app), storage = getStorage(app);
+const provider = new GoogleAuthProvider();
+provider.setCustomParameters({ hd: domain, prompt: "select_account" });
+const $ = (id) => document.getElementById(id);
+const esc = (t) => String(t ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+const pathOf = (url) => decodeURIComponent(new URL(url).pathname.split("/o/")[1] || "");
+const blobURL = async (url) => URL.createObjectURL(await getBlob(ref(storage, pathOf(url))));
+const size = (n) => n > 1048576 ? (n / 1048576).toFixed(1) + " MB" : Math.round(n / 1024) + " KB";
+function problem(text) { $("problem").textContent = text; $("problem").hidden = !text; }
+$("signin").onclick = () => signInWithPopup(auth, provider).catch((e) => problem("Sign-in didn't finish: " + e.message));
+$("signout").onclick = () => signOut(auth);
+onAuthStateChanged(auth, async (user) => {
+  if (user && !(user.email || "").toLowerCase().endsWith("@" + domain)) {
+    await signOut(auth); problem("Only @" + domain + " accounts can see these apps."); return;
+  }
+  $("signedout").hidden = !!user; $("signedin").hidden = !user;
+  if (!user) return;
+  problem(""); $("email").textContent = user.email;
+  try {
+    const catalog = JSON.parse(await (await getBlob(ref(storage, prefix + "/catalog.json"))).text());
+    const list = $("apps"); list.innerHTML = "";
+    for (const a of catalog.apps) {
+      const zip = a.release.zip || a.release.update;
+      const card = document.createElement("article");
+      card.className = "card";
+      card.innerHTML = `<img class="icon" alt="" width="52" height="52"><div class="body"><h3>${esc(a.name)}</h3><p>${esc(a.tagline)}</p>` +
+        (a.needs ? `<p class="needs">🔑 ${esc(a.needs)}</p>` : "") +
+        `<div class="row"><button class="btn">Download</button><small>${esc(a.release.version)} · ${size(zip.length)}</small></div></div>`;
+      list.append(card);
+      if (a.icon) blobURL(a.icon).then((u) => card.querySelector("img").src = u).catch(() => {});
+      card.querySelector("button").onclick = async (e) => {
+        e.target.textContent = "Downloading…";
+        try {
+          const link = document.createElement("a");
+          link.href = await blobURL(zip.url); link.download = pathOf(zip.url).split("/").pop(); link.click();
+          e.target.textContent = "Download";
+        } catch (err) { e.target.textContent = "Download"; problem("The download didn't work: " + err.message); }
+      };
+    }
+    if (!catalog.apps.length) list.innerHTML = '<p class="alt">No SSIS apps are published yet.</p>';
+  } catch (err) { problem("The SSIS apps couldn't be loaded: " + err.message); }
+});
+</script>
 </body>
 </html>
