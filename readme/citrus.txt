@@ -3,8 +3,9 @@ A free file converter that lives in your Mac's menu bar.
 
 Drag a file, hold Shift, and a wheel of formats appears under the pointer.
 Drop the file on a format and the converted copy appears next to the original.
-Citrus converts images, documents, spreadsheets, audio, video, archives
-and subtitles.
+Citrus converts images (camera RAW and Photoshop too), documents (LaTeX,
+Markdown and Jupyter notebooks too), spreadsheets, audio (DSD and MIDI too),
+video, archives and subtitles.
 
 
 WHAT'S IN THIS FOLDER
@@ -35,8 +36,8 @@ INSTALL
 
   2. Follow the prompts in the Terminal window. The installer:
        • installs Homebrew if needed (the standard free installer for Mac tools)
-       • installs ffmpeg, WebP tools, ExifTool, pngquant, Java and LibreOffice
-         (anything already installed is skipped)
+       • installs ffmpeg, WebP tools, ExifTool, pngquant, pandoc, Java and
+         LibreOffice (anything already installed is skipped)
        • copies Citrus into Applications and opens it
 
   3. Look for the lemon in the menu bar, on a small green square.
@@ -56,11 +57,30 @@ USING CITRUS
         Control   Actions (view metadata)
     Drop the file on a segment. Release elsewhere or press Esc to cancel.
 
+  • The common formats are on the wheel. The rest are under More: move
+    onto More and a second ring opens around the wheel, with formats such
+    as GIF, ICNS (Mac icon), ICO, PSD and SVG for pictures, or Apple
+    Lossless, M4B (audiobook) and MP4 for sound. SVG traces a picture's
+    shapes into a drawing that stays sharp at any size. MP4 from a song
+    makes a video with its cover art as the picture.
+
+  • Settings for one conversion: drop the file on the middle of the wheel
+    (or use "Convert Files…"), then right-click a format. Choose the
+    quality, size, bitrate, sample rate and so on, then click Convert.
+    Tick "Use these every time" to keep them.
+
   • Or choose "Convert Files…" from the lemon menu.
 
   • Converted files are saved next to the original and never overwrite
     anything; an existing name gets " 2", " 3" and so on. Multi-page
     documents saved as JPG or PNG go into a folder of page images.
+
+  • A file with the wrong ending (say, an iPhone photo named .jpg that is
+    really HEIC) is read as what it really is. The wheel says so under
+    the file's name.
+
+  • Sound keeps its quality: 24-bit files stay 24-bit, DSD becomes 88.2 kHz
+    24-bit, and MIDI files are played with the Mac's own instruments.
 
   • Lemon menu → Settings… lets you change the keys, turn on Launch at
     Login, set image quality, and see every supported format (Compatibility).
@@ -80,4 +100,4 @@ GOOD TO KNOW
   • To uninstall: choose Quit Citrus from the lemon menu, then drag
     Citrus from Applications to the Trash. The tools stay installed; to
     remove them too, run this in Terminal:
-        brew uninstall ffmpeg webp exiftool pngquant openjdk && brew uninstall --cask libreoffice
+        brew uninstall ffmpeg webp exiftool pngquant pandoc openjdk && brew uninstall --cask libreoffice
