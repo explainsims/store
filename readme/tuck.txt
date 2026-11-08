@@ -1,0 +1,100 @@
+Tuck 1.1.0
+Keep your menu bar to the icons you use. Tuck hides the others until you
+click its arrow.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Tuck.app: the app
+  • Install Tuck.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 27 or later. Tuck uses a part of
+    macOS 27 that earlier versions don't have.
+
+
+INSTALL
+
+  1. Double-click "Install Tuck.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Tuck.command" into the Terminal window, and press Return.
+
+  2. The installer copies Tuck into Applications and opens it. A welcome
+     window explains the rest.
+
+  3. ⌘-drag Tuck's green arrow to the right, next to the Control Center
+     icons. New icons start at the left, the first place macOS squeezes into
+     its » overflow menu when the bar is full. If you can't see the arrow,
+     click » and ⌘-drag it out from there.
+
+  Prefer to do it by hand? Drag Tuck into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Tuck
+
+  • Choose what to tuck: right-click the arrow → Menu-Bar Apps…, then set
+    each app to Show or Tuck. Or, while everything shows, ⌘-drag an icon to
+    the left of the arrow to tuck it, or to the right to show it.
+
+  • Click the arrow (or press ⌃⌥B) to show every icon for a moment. Tuck
+    puts them away again after 10 seconds, but waits while your pointer is
+    in the menu bar or a menu is open.
+
+  • Or just rest the pointer on the arrow: everything shows, and tucks
+    away again soon after you move away from the menu bar. (This needs
+    Accessibility access, below.)
+
+  • Press ⌃⌥F to search: type part of an app's name and press Return to
+    open its menu, even if it's tucked or squeezed into macOS's » overflow.
+    You can also right-click the arrow to open a tucked app.
+
+  • While everything shows, Tuck moves the app's menus aside to make room
+    (you'll see Tuck in the Dock for that moment). Your app comes back to
+    the front when Tuck tucks away. You can turn this off in Settings.
+
+  • Icon spacing (Settings): narrower gaps fit more icons. Each app picks
+    it up when it next opens; "Restart Menu-Bar Apps…" does that for you.
+
+  • Accessibility access (optional, asked for in the welcome window) lets
+    Tuck see where icons sit, show everything on hover, and open menus for
+    you. Hiding works without it.
+    On macOS 27 the list is called Device Control and Data Access, in
+    System Settings → Privacy & Security.
+
+  • Settings (right-click the arrow): showing on hover, how soon to tuck
+    away again, hiding app menus, the shortcuts, icon spacing, the colour
+    or black-and-white arrow, and Launch at Login.
+
+
+GOOD TO KNOW
+
+  • Apple's own icons (Wi-Fi, battery, Control Center, the clock) always
+    stay, and an app with several icons tucks them all.
+
+  • Quit Tuck and every icon comes straight back.
+
+  • Lost the arrow? Open Tuck again from Applications to get the list of
+    apps, or press ⌃⌥B.
+
+  • Tuck uses a private part of macOS, so a future macOS update could stop
+    it hiding icons. If that happens, its arrow turns grey and says so.
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old one and keeps your settings.
+
+  • To uninstall: right-click the arrow, choose Quit Tuck, and drag Tuck
+    from Applications to the Trash.
+
+  • Tuck is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time.
