@@ -383,28 +383,27 @@
       "name" : "Storefront",
       "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
       "release" : {
-        "build" : "20",
+        "build" : "27",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T02:44:47Z",
+        "date" : "2026-11-08T15:12:52Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "SSIS staff can sign in (Settings › Account) to see the school's apps on their own page.",
-          "App cards line up, with two lines for every description.",
-          "Not listed apps can be taken down from Settings › Publishing."
+          "Send private, anonymous feedback about any app from its page: an idea, a problem, anything.",
+          "Send Feedback at the top of each app's page takes you straight to the form."
         ],
         "update" : {
-          "edSignature" : "DyUOMQVzBg12vArv+eS/ALPRzocl1Bdscbl1T/gif0kRjktpGFFXtyxWEDdBuSQNFodYgKUT/azUUQXDvVRgDQ==",
-          "length" : 3334307,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.1/Storefront-1.0.1-update.zip"
+          "edSignature" : "4wELRsNA5hkBuCAYtF9qmbjLHtPYAxggqMPKNaIfjF0Pnuds1kh+oC4+A1K7NFKcAzdRdlOeip+wZZ2Rq9TcAA==",
+          "length" : 3789837,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.0/Storefront-1.1.0-update.zip"
         },
-        "version" : "1.0.1",
+        "version" : "1.1.0",
         "zip" : {
-          "edSignature" : "h1h+nSBiYTpmMaEs55a42OVUInJJDJ1uQlnn+cSWNsraA/S5f9uGmeBKBzHLFCscU+NZV7wdJ4jYRzT6g7o0BQ==",
-          "length" : 3339901,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.1/Storefront-1.0.1.zip"
+          "edSignature" : "pIT6FN4WiPiFf6AiZEdBK1P9saxXQhEj8XaHHNdgYZhRNWOcF0BoINGrRDryIv1oXTuGrUkkvA+Ew7W4AxVRCw==",
+          "length" : 3795557,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.0/Storefront-1.1.0.zip"
         }
       },
       "screenshots" : [
@@ -537,5 +536,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T14:23:39Z"
+  "updated" : "2026-11-08T15:12:52Z"
 }

@@ -1,4 +1,4 @@
-Storefront 1.0.1
+Storefront 1.1.0
 Storefront puts all of Lennox's free Mac apps in one place. Install any of them in a click, and keep them all up
 to date from the menu bar.
 
@@ -45,6 +45,11 @@ USING Storefront
   • Storefront checks for updates when it starts, when your Mac wakes, and
     every six hours, and tells you when there are some. Turn that off in
     Settings › General.
+
+  • Got an idea, or found something wrong? Every app's page has "Send
+    feedback" at the bottom. It's private and anonymous: only the maker of
+    these apps reads it, and your name and sign-in aren't sent. Send as
+    many as you like.
 
   • SSIS staff: Settings › Account › Sign In with SSIS shows the apps that
     only work at school, on their own SSIS page.

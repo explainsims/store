@@ -5,105 +5,172 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ExplAIn Sims · Mac apps</title>
 <meta name="description" content="Small, original Mac apps, free to download.">
+<meta property="og:title" content="ExplAIn Sims · Mac apps">
+<meta property="og:description" content="Small, original Mac apps, free to download.">
+<meta property="og:url" content="https://store.explainsims.com">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://store.explainsims.com/icons/storefront.png">
 <link rel="icon" type="image/png" href="icons/storefront.png">
-<style>:root{--bg:#fbfbfd;--bg2:#f1f1f5;--card:#fff;--edge:0 0 0 .5px rgba(0,0,0,.07),0 6px 22px rgba(30,30,60,.06);--text:#1d1d1f;--text2:#6e6e73;--text3:#a3a3a8;--sep:rgba(0,0,0,.085);--fill:rgba(0,0,0,.075);--accent:#0a7aff;--ink:#0a6be0;--warm:#e98400;
+<style>:root{--bg:#fbfbfd;--bg2:#f1f1f5;--card:#fff;--edge:0 0 0 .5px rgba(0,0,0,.07),0 6px 22px rgba(30,30,60,.06);--text:#1d1d1f;--text2:#6e6e73;--text3:#a3a3a8;--sep:rgba(0,0,0,.085);--fill:rgba(0,0,0,.06);--accent:#0a7aff;--ink:#0a6be0;--warm:#e98400;--green:#1f8f3b;--raised:#fff;
 --hero:radial-gradient(70% 120% at 15% 0%,#dfe9ff 0%,rgba(223,233,255,0) 60%),radial-gradient(60% 120% at 90% 10%,#ffe6dc 0%,rgba(255,230,220,0) 60%)}
-@media (prefers-color-scheme:dark){:root{--bg:#141417;--bg2:#1b1b1f;--card:#1f1f24;--edge:0 0 0 .5px rgba(255,255,255,.08),0 6px 22px rgba(0,0,0,.3);--text:#f4f4f7;--text2:#a2a2aa;--text3:#6c6c74;--sep:rgba(255,255,255,.09);--fill:rgba(255,255,255,.12);--accent:#2f8cff;--ink:#6aaeff;--warm:#ff9f2e;
+@media (prefers-color-scheme:dark){:root{--bg:#141417;--bg2:#1b1b1f;--card:#1f1f24;--edge:0 0 0 .5px rgba(255,255,255,.08),0 6px 22px rgba(0,0,0,.3);--text:#f4f4f7;--text2:#a2a2aa;--text3:#6c6c74;--sep:rgba(255,255,255,.09);--fill:rgba(255,255,255,.1);--accent:#2f8cff;--ink:#6aaeff;--warm:#ff9f2e;--green:#45d16f;--raised:#3a3a40;
 --hero:radial-gradient(70% 120% at 15% 0%,#1b2a55 0%,rgba(27,42,85,0) 60%),radial-gradient(60% 120% at 90% 10%,#48262a 0%,rgba(72,38,42,0) 60%)}}
-*{box-sizing:border-box}html{background:var(--bg)}body{margin:0 auto;max-width:1180px;padding:0 16px 40px;font:15px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif;color:var(--text);-webkit-font-smoothing:antialiased}
+*{box-sizing:border-box}[hidden]{display:none!important}html{background:var(--bg)}body{margin:0 auto;max-width:1180px;padding:0 16px 40px;font:15px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif;color:var(--text);-webkit-font-smoothing:antialiased}
 a{color:var(--ink);text-decoration:none}a:hover{text-decoration:underline}
+a svg,button svg{vertical-align:-2px;margin-right:5px}
 .nav{display:flex;justify-content:space-between;align-items:center;padding:18px 24px;gap:16px;flex-wrap:wrap}.nav nav{display:flex;gap:20px}.nav nav a{color:var(--text2)}.nav nav a.here{color:var(--text);font-weight:600}
+.brand{display:inline-flex;align-items:center;gap:9px;color:var(--text);font-weight:700}.brand:hover{text-decoration:none}.brand img{border-radius:6px}
 .hero{border-radius:22px;background:var(--hero),var(--bg2);padding:44px 48px;display:flex;gap:36px;align-items:center;flex-wrap:wrap}
 .hero h1{font-size:clamp(32px,5vw,46px);line-height:1.05;letter-spacing:-.035em;margin:0;font-weight:800}.hero p{color:var(--text2);margin:12px 0 0;max-width:520px;font-size:17px}
-.get{margin-left:auto;max-width:380px;border-radius:18px;background:var(--card);box-shadow:var(--edge);padding:20px;display:flex;gap:16px}.get b{font-size:18px}.get p{margin:4px 0 12px;color:var(--text2);font-size:14px}.get small{display:block;margin-top:8px;color:var(--text3)}
-.btn{display:inline-flex;align-items:center;height:30px;padding:0 14px;border-radius:15px;background:var(--fill);color:var(--ink);font:600 14px/1 inherit;border:0;cursor:pointer;font-family:inherit}.btn.primary{background:var(--accent);color:#fff}.btn:hover{text-decoration:none;filter:brightness(1.05)}
-h2.sec{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--text2);margin:32px 8px 14px}
+.get{margin-left:auto;max-width:400px;border-radius:18px;background:var(--card);box-shadow:var(--edge);padding:20px;display:flex;gap:16px}.get b{font-size:18px}.get p{margin:4px 0 12px;color:var(--text2);font-size:14px}.get small{display:block;margin-top:8px;color:var(--text3)}.get .row{gap:14px;font-size:14px}
+.btn{display:inline-flex;align-items:center;height:30px;padding:0 14px;border-radius:15px;background:var(--fill);color:var(--ink);font:600 14px/1 inherit;border:0;cursor:pointer;font-family:inherit;white-space:nowrap}.btn.primary{background:var(--accent);color:#fff}.btn:hover{text-decoration:none;filter:brightness(1.05)}
+.btn.big{height:38px;padding:0 24px;border-radius:19px;font-size:15px}
+.bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:32px 0 10px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{display:inline-flex;align-items:center;gap:7px;height:32px;padding:0 14px;border-radius:16px;border:0;background:var(--fill);color:var(--text);font:500 14px/1 inherit;font-family:inherit;cursor:pointer}
+.chip span{color:var(--text3);font-size:12px;font-weight:650}.chip.on{background:var(--text);color:var(--bg);font-weight:600}.chip.on span{color:inherit;opacity:.6}
+.search{margin-left:auto;display:flex;align-items:center;gap:7px;height:34px;min-width:240px;border-radius:10px;background:var(--fill);padding:0 12px;color:var(--text3)}
+.search input{flex:1;min-width:0;border:0;background:none;outline:none;color:var(--text);font:15px inherit;font-family:inherit}.search:focus-within{box-shadow:0 0 0 2px var(--accent)}
+.applist{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));column-gap:44px}
+.app{position:relative;display:flex;align-items:center;gap:16px;padding:16px 4px;border-top:1px solid var(--sep)}
+.app .icon{flex:none;width:64px;height:64px}.app .t{flex:1;min-width:0}.app h3{margin:0;font-size:16px}.app h3 a{color:var(--text)}
+.app .tag{margin:2px 0 4px;color:var(--text2);font-size:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.app small{color:var(--text3);font-size:12px}
+.cover::after{content:"";position:absolute;inset:0;border-radius:12px}.app:hover{background:var(--fill);border-radius:12px}.app:hover h3 a{text-decoration:none}
+.app .get{position:relative;z-index:1;flex:none;margin:0}
+.page{max-width:1000px;margin:0 auto;padding:0 8px}
+.back{display:inline-flex;align-items:center;gap:4px;font-size:14px;margin:6px 0 16px}
+.apphead{display:flex;gap:28px;align-items:center;margin-bottom:22px}.apphead .icon{flex:none;width:128px;height:128px}
+.apphead h1{margin:0;font-size:clamp(30px,4.4vw,40px);line-height:1.08;letter-spacing:-.03em}.apphead .sum{margin:8px 0 2px;color:var(--text2);font-size:16px;max-width:660px}.apphead .alt{margin:0}
+.acts{display:flex;align-items:center;gap:16px;margin-top:16px;flex-wrap:wrap}.acts small{color:var(--text3);font-size:13px}.acts a:not(.btn){font-size:14px}
+.tip{font-size:13px;color:var(--text2);margin:12px 0 0;max-width:620px}
+.facts{display:grid;grid-template-columns:repeat(5,1fr);border-top:1px solid var(--sep);border-bottom:1px solid var(--sep);padding:12px 0;margin:4px 0 30px}
+.facts div{text-align:center;border-left:1px solid var(--sep);padding:2px 6px}.facts div:first-child{border-left:0}
+.facts small{display:block;font-size:11px;font-weight:650;color:var(--text3);text-transform:uppercase;letter-spacing:.05em}.facts b{display:block;font-size:17px;margin-top:3px}.facts i{display:block;font-style:normal;font-size:12px;color:var(--text2)}
+.page h2{font-size:20px;margin:0;letter-spacing:-.01em}
+.sh{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
+.seg{display:inline-flex;padding:2px;border-radius:9px;background:var(--fill);gap:2px}
+.seg button{border:0;background:none;color:var(--text2);font:500 13px/1 inherit;font-family:inherit;padding:6px 16px;border-radius:7px;cursor:pointer}
+.seg button[aria-pressed=true]{background:var(--raised);color:var(--text);font-weight:650;box-shadow:0 1px 3px rgba(0,0,0,.16)}
+.strip{display:flex;gap:14px;overflow-x:auto;padding:2px 2px 12px;scroll-snap-type:x proximity}
+.shot{flex:none;border:0;padding:0;background:none;cursor:zoom-in;scroll-snap-align:start;border-radius:10px}
+.shot img{display:block;height:min(340px,56vw);width:auto;border-radius:10px;box-shadow:0 0 0 .5px var(--sep),0 6px 20px rgba(0,0,0,.12)}
+dialog.lightbox{max-width:none;max-height:none;width:100vw;height:100vh;margin:0;padding:0;border:0;background:transparent;display:grid;place-items:center}dialog.lightbox:not([open]){display:none}
+dialog.lightbox::backdrop{background:rgba(0,0,0,.78)}dialog.lightbox img{max-width:92vw;max-height:88vh;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+.lb{position:fixed;width:42px;height:42px;border-radius:21px;border:0;background:rgba(255,255,255,.16);color:#fff;font-size:26px;line-height:1;cursor:pointer}.lb:hover{background:rgba(255,255,255,.28)}
+.lb.prev{left:16px;top:50%}.lb.next{right:16px;top:50%}.lb.x{right:16px;top:16px;font-size:22px}
+.cols{display:grid;grid-template-columns:1.1fr 1fr;gap:36px;margin:24px 0 30px}.cols ul{margin:10px 0;padding-left:20px;line-height:1.55}
+.kv{display:grid;grid-template-columns:96px 1fr;gap:7px 14px;margin:12px 0 0;font-size:14px}.kv dt{color:var(--text2)}.kv dd{margin:0}
+.fbcard{border-radius:18px;background:var(--card);box-shadow:var(--edge);padding:20px 22px 18px}
+.fbtop{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}.priv{display:inline-flex;align-items:center;gap:5px;color:var(--green);font-size:13px;font-weight:650}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}.grid.two{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));margin-top:16px}
 .card{border-radius:16px;background:var(--card);box-shadow:var(--edge);padding:16px;display:flex;gap:14px;align-items:flex-start}.card .icon{flex:none;border-radius:12px}
-.card h3{margin:0;font-size:16px}.card p{margin:3px 0 10px;color:var(--text2);font-size:14px}.card p.tag{min-height:2.9em}
-.grid:not(.two) .card{display:grid;grid-row:span 4;grid-template-rows:subgrid;grid-template-columns:56px minmax(0,1fr);column-gap:14px;row-gap:0;align-items:start}
-.grid:not(.two) .card .body{display:contents}.grid:not(.two) .card .icon{grid-column:1;grid-row:1 / span 4}.grid:not(.two) .card .body>*{grid-column:2}.card .body{flex:1;min-width:0}
-.row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.row small{color:var(--text3);font-size:12px}.links{font-size:12px;color:var(--text3)}
-details{margin-top:10px;font-size:14px}summary{cursor:pointer;color:var(--ink);font-size:13px}details ul{margin:4px 0 8px;padding-left:20px;color:var(--text2)}
-.shots{display:flex;gap:8px;overflow-x:auto;margin:8px 0}.shots img{height:150px;border-radius:8px;box-shadow:0 0 0 .5px var(--sep)}
+.card h3{margin:0;font-size:16px}.card p{margin:3px 0 10px;color:var(--text2);font-size:14px}.card .body{flex:1;min-width:0}
+.row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.row small{color:var(--text3);font-size:12px}
 .alt{color:var(--text2);font-size:13px}.pad{padding:12px 8px}.needs{color:var(--warm)!important;font-size:13px!important;font-weight:500}
 footer{margin-top:36px;padding:16px 8px 0;border-top:1px solid var(--sep);color:var(--text2);font-size:13px}.empty{color:var(--text2);padding:20px 8px}
 .signin{margin:40px auto;max-width:440px;text-align:center;border-radius:20px;background:var(--card);box-shadow:var(--edge);padding:28px 30px}.signin h2{margin:4px 0}.signin p{color:var(--text2)}
 .badge{font-size:30px}.problem{color:var(--warm)!important}
 .who{display:flex;justify-content:space-between;align-items:center;margin:4px 0 0;padding:12px 16px;border-radius:14px;background:var(--bg2);color:var(--text2)}.who b{color:var(--text)}
+.fbl{display:inline-flex;align-items:center;border:0;background:none;padding:0;color:var(--ink);font:600 12px/1 inherit;font-family:inherit;cursor:pointer}.fbl:hover{text-decoration:underline}
+dialog.fb{width:min(560px,calc(100vw - 32px));border:0;border-radius:20px;padding:20px 22px 18px;background:var(--card);color:var(--text);box-shadow:0 30px 80px rgba(0,0,0,.35),0 0 0 .5px var(--sep)}
+dialog.fb::backdrop{background:rgba(0,0,0,.32)}
+.fbh{display:flex;align-items:center;gap:12px;margin-bottom:12px}.fbh img{border-radius:9px}.fbh b{display:block;font-size:16px}.fbh small{color:var(--text2);font-size:12px}
+.fbh .x{margin-left:auto;width:28px;height:28px;border-radius:14px;border:0;background:var(--fill);color:var(--text2);font-size:18px;line-height:1;cursor:pointer}
+.kinds{border:0;margin:0 0 10px;padding:0;display:flex;gap:8px;flex-wrap:wrap}.kinds legend{position:absolute;left:-9999px}
+.kinds label{flex:1 1 150px;cursor:pointer}.kinds input{position:absolute;opacity:0;pointer-events:none}
+.kinds span{display:flex;align-items:center;padding:9px 10px;border-radius:10px;font-size:13.5px;font-weight:500;background:var(--fill);box-shadow:inset 0 0 0 .5px var(--sep);white-space:nowrap}.kinds span svg{margin-right:7px}
+.kinds input:checked+span{color:var(--ink);background:color-mix(in srgb,var(--accent) 13%,transparent);box-shadow:inset 0 0 0 1.5px var(--accent);font-weight:650}
+.kinds input:focus-visible+span{outline:2px solid var(--accent);outline-offset:2px}
+.fbbox textarea{display:block;width:100%;resize:vertical;min-height:110px;border-radius:9px;border:0;box-shadow:inset 0 0 0 1px var(--sep);background:var(--bg);color:var(--text);padding:10px 11px;font:14px/1.45 inherit;font-family:inherit}
+.fbbox textarea:focus{outline:2px solid var(--accent);outline-offset:0}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.fbrow{display:flex;align-items:center;gap:12px;margin-top:10px;font-size:12.5px;color:var(--text2)}.fbrow span{flex:1}.fbrow small{color:var(--text3);font-variant-numeric:tabular-nums}
+.fbrow .btn{height:32px;padding:0 20px;border-radius:16px}.fbrow .btn:disabled{opacity:.45;cursor:default}
+.fine{font-size:12px;color:var(--text2);margin:10px 0 0}
+.done{display:flex;align-items:center;gap:12px}.done div{flex:1}.done b{display:block}.done small{color:var(--text2);font-size:12.5px}
+.tick{width:36px;height:36px;border-radius:18px;display:grid;place-items:center;background:color-mix(in srgb,var(--green) 16%,transparent);color:var(--green);font-weight:700}
+@media (max-width:760px){.applist{grid-template-columns:1fr}.search{margin-left:0;flex:1 1 100%}.apphead{flex-direction:column;align-items:flex-start;gap:14px}.apphead .icon{width:96px;height:96px}
+.facts{grid-template-columns:repeat(3,1fr);row-gap:14px}.facts div:nth-child(4){border-left:0}.cols{grid-template-columns:1fr;gap:24px}.fbrow{flex-wrap:wrap}.fbrow span{flex:1 1 100%}}
 @media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}}</style>
 </head>
 <body>
-<header class="nav"><b>ExplAIn Sims · Mac apps</b>
-  <nav><a href="#apps">Apps</a><a href="ssis/">SSIS staff ›</a></nav></header>
+<header class="nav"><a class="brand" href="./"><img src="icons/storefront.png" alt="" width="26" height="26">ExplAIn Sims · Mac apps</a>
+  <nav><a class="here" href="#apps">Apps</a><a href="ssis/">SSIS staff ›</a></nav></header>
 <section class="hero">
   <div><h1>Free Mac apps,<br>made in Saigon.</h1>
   <p>Small, original apps for macOS 14 and later, on Apple silicon and Intel. Every one is free.</p></div>
-  <div class="get"><img src="icons/storefront.png" alt="" width="72" height="72">
+  <div class="get" id="get"><img src="icons/storefront.png" alt="" width="72" height="72">
   <div><b>Get Storefront</b><p>Install any app below in one click, and keep them all up to date.</p>
-  <a class="btn primary" href="https://github.com/explainsims/store/releases/download/storefront-1.0.1/Storefront-1.0.1.zip">Download Storefront</a>
-  <small>1.0.1 · 3.3 MB</small></div></div>
+  <div class="row"><a class="btn primary" href="https://github.com/explainsims/store/releases/download/storefront-1.1.0/Storefront-1.1.0.zip">Download Storefront</a><a href="apps/storefront/">More about it ›</a></div>
+  <small>1.1.0 · 3.8 MB</small></div></div>
 </section>
 <main id="apps">
-<h2 class="sec">Menu bar</h2>
-<div class="grid"><article class="card" id="apodwallpaper"><img class="icon" src="icons/apodwallpaper.png" alt="" width="56" height="56">
-  <div class="body"><h3>APOD Wallpaper</h3><p class="tag">NASA's picture of the day, Live Earth or the night sky, as your wallpaper.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2.zip">Download</a><small>1.2 · 3.4 MB</small><span class="links"><a href="readme/apodwallpaper.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Sets your wallpaper to NASA's Astronomy Picture of the Day, the latest whole-Earth satellite picture, a star chart drawn for where you are, or a solid colour.</p><p class="alt">Internet: To fetch NASA's picture and the satellite images</p></details></div></article>
-<article class="card" id="chao"><img class="icon" src="icons/chao.png" alt="" width="56" height="56">
-  <div class="body"><h3>Chào</h3><p class="tag">A Southern Vietnamese word a day, with tone practice.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0.zip">Download</a><small>1.0.0 · 1.7 MB</small><span class="links"><a href="readme/chao.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>A word of the day in the menu bar, coloured by tone. Say it and see your pitch against the tone, practise with cards and tone drills, and keep a phrase sheet handy.</p></details></div></article>
-<article class="card" id="hem"><img class="icon" src="icons/hem.png" alt="" width="56" height="56">
-  <div class="body"><h3>Hem</h3><p class="tag">Volume and brightness sliders on your trackpad's edges.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0.zip">Download</a><small>1.0.0 · 1.4 MB</small><span class="links"><a href="readme/hem.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Slide along an edge of the trackpad to change the volume, the screen or keyboard brightness, or scrub what's playing. Tap then slide for a second action.</p><p class="alt">An alternative to VolumePad.</p></details></div></article>
-<article class="card" id="smartcut"><img class="icon" src="icons/smartcut.png" alt="" width="56" height="56">
-  <div class="body"><h3>SmartCut</h3><p class="tag">Hold ⌘ to see every shortcut in the app you're using.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0.zip">Download</a><small>1.0.0 · 1.1 MB</small><span class="links"><a href="readme/smartcut.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Hold ⌘ and a panel lists the front app's keyboard shortcuts, including Google Docs, Sheets, Slides and Gmail in your browser. Type to filter, and find hotkeys that clash.</p><p class="alt">An alternative to CheatSheet.</p></details></div></article>
-<article class="card" id="throw"><img class="icon" src="icons/throw.png" alt="" width="56" height="56">
-  <div class="body"><h3>Throw</h3><p class="tag">AirPlay to TVs from the menu bar, then arrange them.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2.zip">Download</a><small>1.0.2 · 2.2 MB</small><span class="links"><a href="readme/throw.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Connect to nearby TVs as a mirror, an extra screen or a window, drag the TV around an arrangement map, pick a resolution, and remember each room.</p></details></div></article>
-<article class="card" id="tuck"><img class="icon" src="icons/tuck.png" alt="" width="56" height="56">
-  <div class="body"><h3>Tuck</h3><p class="tag">Tidy the menu bar. Tuck icons away behind an arrow.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1.zip">Download</a><small>1.1.1 · 861 KB</small><span class="links"><a href="readme/tuck.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Choose which apps' icons to tuck away; the arrow (click, hover or a shortcut) shows everything for a moment. Search opens any icon's menu. Needs macOS 27.</p><p class="alt">An alternative to Bartender.</p><b>What's new in 1.1.1</b><ul><li>Apps you delete leave the list by themselves, and you can right-click one that isn't open to remove it. A long list now scrolls instead of running off the screen.</li></ul></details></div></article>
+<div class="bar"><div class="chips" role="group" aria-label="Show"><button type="button" class="chip on" data-kind="all" aria-pressed="true">All apps <span>12</span></button><button type="button" class="chip" data-kind="menubar" aria-pressed="false">Menu bar <span>6</span></button><button type="button" class="chip" data-kind="music" aria-pressed="false">Music <span>1</span></button><button type="button" class="chip" data-kind="tools" aria-pressed="false">Tools <span>5</span></button></div>
+  <label class="search"><svg width="15" height="15" viewBox="0 0 15 15" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="6.5" cy="6.5" r="4.6"/><path d="M10 10l3.4 3.4"/></svg><input id="q" type="search" placeholder="Search" aria-label="Search the apps" autocomplete="off"></label></div>
+<div class="applist"><article class="app" id="apodwallpaper" data-kind="menubar" data-text="apod wallpaper nasa's picture of the day, live earth or the night sky, as your wallpaper. sets your wallpaper to nasa's astronomy picture of the day, the latest whole-earth satellite picture, a star chart drawn for where you are, or a solid colour.  menu bar"><img class="icon" src="icons/apodwallpaper.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/apodwallpaper/">APOD Wallpaper</a></h3><p class="tag">NASA's picture of the day, Live Earth or the night sky, as your wallpaper.</p><small>1.2 · 3.4 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2.zip" aria-label="Download APOD Wallpaper">Download</a></article>
+<article class="app" id="chao" data-kind="menubar" data-text="chào a southern vietnamese word a day, with tone practice. a word of the day in the menu bar, coloured by tone. say it and see your pitch against the tone, practise with cards and tone drills, and keep a phrase sheet handy.  menu bar"><img class="icon" src="icons/chao.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/chao/">Chào</a></h3><p class="tag">A Southern Vietnamese word a day, with tone practice.</p><small>1.0.0 · 1.7 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0.zip" aria-label="Download Chào">Download</a></article>
+<article class="app" id="citrus" data-kind="tools" data-text="citrus convert files by dragging onto a pop-up wheel. drag files with a modifier key held to convert them: images, documents, audio and video. its installer adds the homebrew tools it uses. tangerine tools"><img class="icon" src="icons/citrus.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/citrus/">Citrus</a></h3><p class="tag">Convert files by dragging onto a pop-up wheel.</p><small>1.2 · 23.5 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/citrus-1.2/Citrus-1.2.zip" aria-label="Download Citrus">Download</a></article>
+<article class="app" id="figureit" data-kind="tools" data-text="figure it figures for tests and worksheets, with student copies and answer keys. 73 figures for physics, chemistry, biology, maths and economics. change the numbers and labels, make a student copy and an answer key, make versions a, b and c, then drag the figure into pages, keynote or google docs.  tools"><img class="icon" src="icons/figureit.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/figureit/">Figure It</a></h3><p class="tag">Figures for tests and worksheets, with student copies and answer keys.</p><small>0.5.9 · 4.4 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9.zip" aria-label="Download Figure It">Download</a></article>
+<article class="app" id="freeup" data-kind="tools" data-text="freeup see what fills your disk, on a sunburst map. scans a disk or folder and draws it as rings. click to go in, drag what you don't need to be deleted, and see the space come back. daisydisk tools"><img class="icon" src="icons/freeup.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/freeup/">FreeUp</a></h3><p class="tag">See what fills your disk, on a sunburst map.</p><small>2.1.0 · 2.4 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0.zip" aria-label="Download FreeUp">Download</a></article>
+<article class="app" id="hdmusic" data-kind="music" data-text="hd music hi-res and dsd player, with a library, radio and eq. plays dsf, dff, sacd isos, blu-ray audio and hi-res files bit-perfect, with a signal path, eq and converter, a library for local drives and nas shares, internet radio and the internet archive. sony's hi-res audio player music"><img class="icon" src="icons/hdmusic.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/hdmusic/">HD Music</a></h3><p class="tag">Hi-res and DSD player, with a library, radio and EQ.</p><small>1.8.1 · 25.5 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1.zip" aria-label="Download HD Music">Download</a></article>
+<article class="app" id="hem" data-kind="menubar" data-text="hem volume and brightness sliders on your trackpad's edges. slide along an edge of the trackpad to change the volume, the screen or keyboard brightness, or scrub what's playing. tap then slide for a second action. volumepad menu bar"><img class="icon" src="icons/hem.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/hem/">Hem</a></h3><p class="tag">Volume and brightness sliders on your trackpad's edges.</p><small>1.0.0 · 1.4 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0.zip" aria-label="Download Hem">Download</a></article>
+<article class="app" id="scrawl" data-kind="tools" data-text="scrawl screenshots with arrows, text and blur. capture an area, a window or the whole screen from the menu bar, then mark it up with arrows, shapes, text, highlights and blur. skitch tools"><img class="icon" src="icons/scrawl.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/scrawl/">Scrawl</a></h3><p class="tag">Screenshots with arrows, text and blur.</p><small>1.1 · 1.3 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1.zip" aria-label="Download Scrawl">Download</a></article>
+<article class="app" id="smartcut" data-kind="menubar" data-text="smartcut hold ⌘ to see every shortcut in the app you're using. hold ⌘ and a panel lists the front app's keyboard shortcuts, including google docs, sheets, slides and gmail in your browser. type to filter, and find hotkeys that clash. cheatsheet menu bar"><img class="icon" src="icons/smartcut.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/smartcut/">SmartCut</a></h3><p class="tag">Hold ⌘ to see every shortcut in the app you're using.</p><small>1.0.0 · 1.1 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0.zip" aria-label="Download SmartCut">Download</a></article>
+<article class="app" id="throw" data-kind="menubar" data-text="throw airplay to tvs from the menu bar, then arrange them. connect to nearby tvs as a mirror, an extra screen or a window, drag the tv around an arrangement map, pick a resolution, and remember each room.  menu bar"><img class="icon" src="icons/throw.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/throw/">Throw</a></h3><p class="tag">AirPlay to TVs from the menu bar, then arrange them.</p><small>1.0.2 · 2.2 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2.zip" aria-label="Download Throw">Download</a></article>
+<article class="app" id="tuck" data-kind="menubar" data-text="tuck tidy the menu bar. tuck icons away behind an arrow. choose which apps' icons to tuck away; the arrow (click, hover or a shortcut) shows everything for a moment. search opens any icon's menu. needs macos 27. bartender menu bar"><img class="icon" src="icons/tuck.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/tuck/">Tuck</a></h3><p class="tag">Tidy the menu bar. Tuck icons away behind an arrow.</p><small>1.1.1 · 861 KB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1.zip" aria-label="Download Tuck">Download</a></article>
+<article class="app" id="wordcell" data-kind="tools" data-text="wordcell documents, spreadsheets and slides in one app. word, grid and deck tabs in one window, saved together in one file.  tools"><img class="icon" src="icons/wordcell.png" alt="" width="64" height="64" loading="lazy">
+  <div class="t"><h3><a class="cover" href="apps/wordcell/">WordCell</a></h3><p class="tag">Documents, spreadsheets and slides in one app.</p><small>0.4.0 · 140.2 MB</small></div>
+  <a class="btn get" href="https://github.com/explainsims/store/releases/download/wordcell-0.4.0/WordCell-0.4.0.zip" aria-label="Download WordCell">Download</a></article>
 </div>
-<h2 class="sec">Music</h2>
-<div class="grid"><article class="card" id="hdmusic"><img class="icon" src="icons/hdmusic.png" alt="" width="56" height="56">
-  <div class="body"><h3>HD Music</h3><p class="tag">Hi-res and DSD player, with a library, radio and EQ.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1.zip">Download</a><small>1.8.1 · 25.5 MB</small><span class="links"><a href="readme/hdmusic.txt">Read Me</a> · <a href="https://github.com/explainsims/store/releases/download/hdmusic-library-sources/HD-Music-library-sources.tar.gz">Library sources</a></span></div>
-  <details><summary>More</summary><p>Plays DSF, DFF, SACD ISOs, Blu-ray audio and hi-res files bit-perfect, with a signal path, EQ and converter, a library for local drives and NAS shares, internet radio and the Internet Archive.</p><p class="alt">An alternative to Sony's Hi-Res Audio Player.</p><div class="shots"><picture><source srcset="shots/hdmusic/1-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/hdmusic/1-light.jpg" alt="HD Music screenshot" loading="lazy"></picture><picture><source srcset="shots/hdmusic/2-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/hdmusic/2-light.jpg" alt="HD Music screenshot" loading="lazy"></picture><picture><source srcset="shots/hdmusic/3-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/hdmusic/3-light.jpg" alt="HD Music screenshot" loading="lazy"></picture></div><p class="alt">Internet: Only for radio, MusicBrainz and the Internet Archive</p></details></div></article>
-</div>
-<h2 class="sec">Tools</h2>
-<div class="grid"><article class="card" id="citrus"><img class="icon" src="icons/citrus.png" alt="" width="56" height="56">
-  <div class="body"><h3>Citrus</h3><p class="tag">Convert files by dragging onto a pop-up wheel.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/citrus-1.2/Citrus-1.2.zip">Download</a><small>1.2 · 23.5 MB</small><span class="links"><a href="readme/citrus.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Drag files with a modifier key held to convert them: images, documents, audio and video. Its installer adds the Homebrew tools it uses.</p><p class="alt">An alternative to Tangerine.</p><b>What's new in 1.2</b><ul><li>A More ring on the wheel for less common formats, and right-click settings for one conversion. New: camera RAW, Photoshop, JPEG XL, DSD, MIDI, LaTeX, Typst and Jupyter notebooks in; ICNS, ICO, traced SVG, Apple Lossless, audiobooks and cover-art videos out. 24-bit sound stays 24-bit, and misnamed files are read as what they really are.</li></ul></details></div></article>
-<article class="card" id="figureit"><img class="icon" src="icons/figureit.png" alt="" width="56" height="56">
-  <div class="body"><h3>Figure It</h3><p class="tag">Figures for tests and worksheets, with student copies and answer keys.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9.zip">Download</a><small>0.5.9 · 4.4 MB</small><span class="links"><a href="readme/figureit.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>73 figures for Physics, Chemistry, Biology, Maths and Economics. Change the numbers and labels, make a student copy and an answer key, make versions A, B and C, then drag the figure into Pages, Keynote or Google Docs.</p><div class="shots"><picture><source srcset="shots/figureit/1-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/figureit/1-light.jpg" alt="Figure It screenshot" loading="lazy"></picture><picture><source srcset="shots/figureit/2-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/figureit/2-light.jpg" alt="Figure It screenshot" loading="lazy"></picture><picture><source srcset="shots/figureit/3-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/figureit/3-light.jpg" alt="Figure It screenshot" loading="lazy"></picture><picture><source srcset="shots/figureit/4-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/figureit/4-light.jpg" alt="Figure It screenshot" loading="lazy"></picture><picture><source srcset="shots/figureit/5-dark.jpg" media="(prefers-color-scheme: dark)"><img src="shots/figureit/5-light.jpg" alt="Figure It screenshot" loading="lazy"></picture></div><b>What's new in 0.5.9</b><ul><li>First release: 73 figures for Physics, Chemistry, Biology, Maths and Economics, with student copies, answer keys and versions A, B and C.</li></ul></details></div></article>
-<article class="card" id="freeup"><img class="icon" src="icons/freeup.png" alt="" width="56" height="56">
-  <div class="body"><h3>FreeUp</h3><p class="tag">See what fills your disk, on a sunburst map.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0.zip">Download</a><small>2.1.0 · 2.4 MB</small><span class="links"><a href="readme/freeup.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Scans a disk or folder and draws it as rings. Click to go in, drag what you don't need to be deleted, and see the space come back.</p><p class="alt">An alternative to DaisyDisk.</p></details></div></article>
-<article class="card" id="scrawl"><img class="icon" src="icons/scrawl.png" alt="" width="56" height="56">
-  <div class="body"><h3>Scrawl</h3><p class="tag">Screenshots with arrows, text and blur.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1.zip">Download</a><small>1.1 · 1.3 MB</small><span class="links"><a href="readme/scrawl.txt">Read Me</a></span></div>
-  <details><summary>More</summary><p>Capture an area, a window or the whole screen from the menu bar, then mark it up with arrows, shapes, text, highlights and blur.</p><p class="alt">An alternative to Skitch.</p></details></div></article>
-<article class="card" id="wordcell"><img class="icon" src="icons/wordcell.png" alt="" width="56" height="56">
-  <div class="body"><h3>WordCell</h3><p class="tag">Documents, spreadsheets and slides in one app.</p>
-  <div class="row"><a class="btn" href="https://github.com/explainsims/store/releases/download/wordcell-0.4.0/WordCell-0.4.0.zip">Download</a><small>0.4.0 · 140.2 MB</small></div>
-  <details><summary>More</summary><p>Word, Grid and Deck tabs in one window, saved together in one file.</p></details></div></article>
-</div>
-
+<p class="empty" id="none" hidden>No apps match.</p>
 </main>
 <footer>
   <p>The first time you open an app downloaded here, macOS asks you to allow it under System Settings › Privacy &amp; Security › Open Anyway, because the apps aren't notarised by Apple. Apps installed through Storefront skip that step.</p>
   <p>Not affiliated with Apple or with the makers of any app these are alternatives to. Updated 8 November 2026.</p>
 </footer>
+<script>
+(() => {
+  const chips = [...document.querySelectorAll(".chip")], rows = [...document.querySelectorAll(".applist .app")], q = document.getElementById("q");
+  if (!q) return;
+  let kind = "all";
+  function apply() {
+    const words = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    let shown = 0;
+    for (const r of rows) {
+      const ok = (kind === "all" || r.dataset.kind === kind) && words.every((w) => r.dataset.text.includes(w));
+      r.hidden = !ok; if (ok) shown++;
+    }
+    document.getElementById("none").hidden = shown > 0;
+  }
+  for (const c of chips) c.addEventListener("click", () => {
+    kind = c.dataset.kind;
+    for (const o of chips) { o.classList.toggle("on", o === c); o.setAttribute("aria-pressed", String(o === c)); }
+    apply();
+  });
+  q.addEventListener("input", apply);
+})();
+</script>
 </body>
 </html>
