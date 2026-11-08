@@ -1,482 +1,438 @@
 {
-  "apps" : [
+  "apps": [
     {
-      "audience" : "everyone",
-      "bundleID" : "local.APODWallpaper",
-      "icon" : "https://store.explainsims.com/icons/apodwallpaper.png",
-      "id" : "apodwallpaper",
-      "internet" : "To fetch NASA's picture and the satellite images",
-      "kind" : "menubar",
-      "name" : "APOD Wallpaper",
-      "readmeURL" : "https://store.explainsims.com/readme/apodwallpaper.txt",
-      "release" : {
-        "build" : "3",
-        "chips" : [
+      "audience": "everyone",
+      "bundleID": "local.APODWallpaper",
+      "icon": "https://store.explainsims.com/icons/apodwallpaper.png",
+      "id": "apodwallpaper",
+      "internet": "To fetch NASA's picture and the satellite images",
+      "kind": "menubar",
+      "name": "APOD Wallpaper",
+      "readmeURL": "https://store.explainsims.com/readme/apodwallpaper.txt",
+      "release": {
+        "build": "3",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:39:25Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "QigD907i81r3bSCE4PbknGvmwBLamYZburq2IEAVaXq2x4RVQoLF3ywm1BFuarUp6RpmfqTvUPmVd0VxZWQlBw==",
-          "length" : 3380441,
-          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2-update.zip"
+        "date": "2026-11-08T01:39:25Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "QigD907i81r3bSCE4PbknGvmwBLamYZburq2IEAVaXq2x4RVQoLF3ywm1BFuarUp6RpmfqTvUPmVd0VxZWQlBw==",
+          "length": 3380441,
+          "url": "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2-update.zip"
         },
-        "version" : "1.2",
-        "zip" : {
-          "edSignature" : "vomZ37lUtuXlsAn5OZDQqNJpDtrb5VGARKBCZeX6y5y4OhbmQJYASmWdlnIP+KgcyGYvSNvxTJpSnG4D+CfyAw==",
-          "length" : 3385104,
-          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2.zip"
+        "version": "1.2",
+        "zip": {
+          "edSignature": "vomZ37lUtuXlsAn5OZDQqNJpDtrb5VGARKBCZeX6y5y4OhbmQJYASmWdlnIP+KgcyGYvSNvxTJpSnG4D+CfyAw==",
+          "length": 3385104,
+          "url": "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Sets your wallpaper to NASA's Astronomy Picture of the Day, the latest whole-Earth satellite picture, a star chart drawn for where you are, or a solid colour.",
-      "tagline" : "NASA's picture of the day, Live Earth or the night sky, as your wallpaper."
+      "screenshots": [],
+      "summary": "Sets your wallpaper to NASA's Astronomy Picture of the Day, the latest whole-Earth satellite picture, a star chart drawn for where you are, or a solid colour.",
+      "tagline": "NASA's picture of the day, Live Earth or the night sky, as your wallpaper."
     },
     {
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.chao",
-      "icon" : "https://store.explainsims.com/icons/chao.png",
-      "id" : "chao",
-      "kind" : "menubar",
-      "name" : "Chào",
-      "readmeURL" : "https://store.explainsims.com/readme/chao.txt",
-      "release" : {
-        "build" : "3",
-        "chips" : [
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.chao",
+      "icon": "https://store.explainsims.com/icons/chao.png",
+      "id": "chao",
+      "kind": "menubar",
+      "name": "Chào",
+      "readmeURL": "https://store.explainsims.com/readme/chao.txt",
+      "release": {
+        "build": "3",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:39:36Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "37yfrgTmg8PH3Xtb3iwSF1mfmNe8COItsNlWiYiEAi1Ei2jIhsQI3eyfgAeybm3oI3zZvfPn+sexbg5lKwAVCA==",
-          "length" : 1666282,
-          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0-update.zip"
+        "date": "2026-11-08T01:39:36Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "37yfrgTmg8PH3Xtb3iwSF1mfmNe8COItsNlWiYiEAi1Ei2jIhsQI3eyfgAeybm3oI3zZvfPn+sexbg5lKwAVCA==",
+          "length": 1666282,
+          "url": "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0-update.zip"
         },
-        "version" : "1.0.0",
-        "zip" : {
-          "edSignature" : "L5QtC2tq+d05xAwbXgaP+NsjrFCIN0u2XWSmGQmGGECoSF5qsIFTTz/OIk+zWZPeBuqN0/q2DfcrnKXNt27bAQ==",
-          "length" : 1669537,
-          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0.zip"
+        "version": "1.0.0",
+        "zip": {
+          "edSignature": "L5QtC2tq+d05xAwbXgaP+NsjrFCIN0u2XWSmGQmGGECoSF5qsIFTTz/OIk+zWZPeBuqN0/q2DfcrnKXNt27bAQ==",
+          "length": 1669537,
+          "url": "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "A word of the day in the menu bar, coloured by tone. Say it and see your pitch against the tone, practise with cards and tone drills, and keep a phrase sheet handy.",
-      "tagline" : "A Southern Vietnamese word a day, with tone practice."
+      "screenshots": [],
+      "summary": "A word of the day in the menu bar, coloured by tone. Say it and see your pitch against the tone, practise with cards and tone drills, and keep a phrase sheet handy.",
+      "tagline": "A Southern Vietnamese word a day, with tone practice."
     },
     {
-      "alternativeTo" : "Tangerine",
-      "audience" : "everyone",
-      "bundleID" : "com.local.citrus",
-      "icon" : "https://store.explainsims.com/icons/citrus.png",
-      "id" : "citrus",
-      "kind" : "tools",
-      "name" : "Citrus",
-      "needs" : "Some conversions need tools its installer adds: run Install Citrus.command from the Download zip once",
-      "readmeURL" : "https://store.explainsims.com/readme/citrus.txt",
-      "release" : {
-        "build" : "2",
-        "chips" : [
+      "alternativeTo": "Tangerine",
+      "audience": "everyone",
+      "bundleID": "com.local.citrus",
+      "icon": "https://store.explainsims.com/icons/citrus.png",
+      "id": "citrus",
+      "kind": "tools",
+      "name": "Citrus",
+      "needs": "Some conversions need tools its installer adds: run Install Citrus.command from the Download zip once",
+      "readmeURL": "https://store.explainsims.com/readme/citrus.txt",
+      "release": {
+        "build": "2",
+        "chips": [
           "arm64"
         ],
-        "date" : "2026-11-08T01:39:46Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "uGz/lnGWqvqJu1zpgBUKtCXnX86ZPIYO8rWleOaPyTbSLOtfdc/eZ7l4zb4isa7yJFVKaLfpA5HmsPw0oC/XDQ==",
-          "length" : 22457182,
-          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.1/Citrus-1.1-update.zip"
+        "date": "2026-11-08T01:39:46Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "uGz/lnGWqvqJu1zpgBUKtCXnX86ZPIYO8rWleOaPyTbSLOtfdc/eZ7l4zb4isa7yJFVKaLfpA5HmsPw0oC/XDQ==",
+          "length": 22457182,
+          "url": "https://github.com/explainsims/store/releases/download/citrus-1.1/Citrus-1.1-update.zip"
         },
-        "version" : "1.1",
-        "zip" : {
-          "edSignature" : "/aReEGa//MPmrc7tcyrmOuT+jL310hAl/vfbflPatuXjzU5PUzJl2VbX/33X2GvL14V/FqecqQDwvCcyKFlWBg==",
-          "length" : 22461279,
-          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.1/Citrus-1.1.zip"
+        "version": "1.1",
+        "zip": {
+          "edSignature": "/aReEGa//MPmrc7tcyrmOuT+jL310hAl/vfbflPatuXjzU5PUzJl2VbX/33X2GvL14V/FqecqQDwvCcyKFlWBg==",
+          "length": 22461279,
+          "url": "https://github.com/explainsims/store/releases/download/citrus-1.1/Citrus-1.1.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Drag files with a modifier key held to convert them: images, documents, audio and video. Its installer adds the Homebrew tools it uses.",
-      "tagline" : "Convert files by dropping them on the menu bar."
+      "screenshots": [],
+      "summary": "Drag files with a modifier key held to convert them: images, documents, audio and video. Its installer adds the Homebrew tools it uses.",
+      "tagline": "Convert files by dropping them on the menu bar."
     },
     {
-      "alternativeTo" : "DaisyDisk",
-      "audience" : "everyone",
-      "bundleID" : "org.freeup.FreeUp",
-      "icon" : "https://store.explainsims.com/icons/freeup.png",
-      "id" : "freeup",
-      "kind" : "tools",
-      "name" : "FreeUp",
-      "readmeURL" : "https://store.explainsims.com/readme/freeup.txt",
-      "release" : {
-        "build" : "2",
-        "chips" : [
+      "alternativeTo": "DaisyDisk",
+      "audience": "everyone",
+      "bundleID": "org.freeup.FreeUp",
+      "icon": "https://store.explainsims.com/icons/freeup.png",
+      "id": "freeup",
+      "kind": "tools",
+      "name": "FreeUp",
+      "readmeURL": "https://store.explainsims.com/readme/freeup.txt",
+      "release": {
+        "build": "2",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:00Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "DS/tOFnn0/WjytNOcS+NFSn2u0B7PM8q+5BvuFT70rWGvGOFGebE1m+Pjnbe29vg0xu4GZBmCQq0LJGxqhmjDA==",
-          "length" : 2359773,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0-update.zip"
+        "date": "2026-11-08T01:40:00Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "DS/tOFnn0/WjytNOcS+NFSn2u0B7PM8q+5BvuFT70rWGvGOFGebE1m+Pjnbe29vg0xu4GZBmCQq0LJGxqhmjDA==",
+          "length": 2359773,
+          "url": "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0-update.zip"
         },
-        "version" : "2.1.0",
-        "zip" : {
-          "edSignature" : "AeXnmUUTZXbuzatXMcAuzZaaEjEGFxSWM+ooayolwv9NRjruVlUkQe6zauNGxchQ0wajP1sY/gVQtSQFXYaLBQ==",
-          "length" : 2362444,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0.zip"
+        "version": "2.1.0",
+        "zip": {
+          "edSignature": "AeXnmUUTZXbuzatXMcAuzZaaEjEGFxSWM+ooayolwv9NRjruVlUkQe6zauNGxchQ0wajP1sY/gVQtSQFXYaLBQ==",
+          "length": 2362444,
+          "url": "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Scans a disk or folder and draws it as rings. Click to go in, drag what you don't need to be deleted, and see the space come back.",
-      "tagline" : "See what fills your disk, on a sunburst map."
+      "screenshots": [],
+      "summary": "Scans a disk or folder and draws it as rings. Click to go in, drag what you don't need to be deleted, and see the space come back.",
+      "tagline": "See what fills your disk, on a sunburst map."
     },
     {
-      "alternativeTo" : "Sony's Hi-Res Audio Player",
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.hdmusic",
-      "icon" : "https://store.explainsims.com/icons/hdmusic.png",
-      "id" : "hdmusic",
-      "internet" : "Only for radio, MusicBrainz and the Internet Archive",
-      "kind" : "music",
-      "licence" : "MIT, with LGPL libraries (FFmpeg, libbluray, dsd-nexus)",
-      "licenceURL" : "https://github.com/explainsims/store/releases/tag/hdmusic-library-sources",
-      "name" : "HD Music",
-      "readmeURL" : "https://store.explainsims.com/readme/hdmusic.txt",
-      "release" : {
-        "build" : "24",
-        "chips" : [
+      "alternativeTo": "Sony's Hi-Res Audio Player",
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.hdmusic",
+      "icon": "https://store.explainsims.com/icons/hdmusic.png",
+      "id": "hdmusic",
+      "internet": "Only for radio, MusicBrainz and the Internet Archive",
+      "kind": "music",
+      "licence": "MIT, with LGPL libraries (FFmpeg, libbluray, dsd-nexus)",
+      "licenceURL": "https://github.com/explainsims/store/releases/download/hdmusic-library-sources/HD-Music-library-sources.tar.gz",
+      "name": "HD Music",
+      "readmeURL": "https://store.explainsims.com/readme/hdmusic.txt",
+      "release": {
+        "build": "24",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:10Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "bjhsq2ZctFkOl7HOjFQiwxBj9ZF9p+e2cBSnlTJvTUBOIXrI0rgVppyHsY38xztMIw7eigFR/RfGKM54bsSqCw==",
-          "length" : 25504898,
-          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1-update.zip"
+        "date": "2026-11-08T01:40:10Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "bjhsq2ZctFkOl7HOjFQiwxBj9ZF9p+e2cBSnlTJvTUBOIXrI0rgVppyHsY38xztMIw7eigFR/RfGKM54bsSqCw==",
+          "length": 25504898,
+          "url": "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1-update.zip"
         },
-        "version" : "1.8.1",
-        "zip" : {
-          "edSignature" : "gtZwkCihR10V3H0eyD/pWv73PsqNzqq0VPR5Wfmhhevik+SZj9FPp6CoinIEZDkfUc1mTB3AEt5M1k/B8gWeDg==",
-          "length" : 25511216,
-          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1.zip"
+        "version": "1.8.1",
+        "zip": {
+          "edSignature": "gtZwkCihR10V3H0eyD/pWv73PsqNzqq0VPR5Wfmhhevik+SZj9FPp6CoinIEZDkfUc1mTB3AEt5M1k/B8gWeDg==",
+          "length": 25511216,
+          "url": "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1.zip"
         }
       },
-      "screenshots" : [
+      "screenshots": [
         {
-          "dark" : "https://store.explainsims.com/shots/hdmusic/1-dark.jpg",
-          "light" : "https://store.explainsims.com/shots/hdmusic/1-light.jpg"
+          "dark": "https://store.explainsims.com/shots/hdmusic/1-dark.jpg",
+          "light": "https://store.explainsims.com/shots/hdmusic/1-light.jpg"
         },
         {
-          "dark" : "https://store.explainsims.com/shots/hdmusic/2-dark.jpg",
-          "light" : "https://store.explainsims.com/shots/hdmusic/2-light.jpg"
+          "dark": "https://store.explainsims.com/shots/hdmusic/2-dark.jpg",
+          "light": "https://store.explainsims.com/shots/hdmusic/2-light.jpg"
         },
         {
-          "dark" : "https://store.explainsims.com/shots/hdmusic/3-dark.jpg",
-          "light" : "https://store.explainsims.com/shots/hdmusic/3-light.jpg"
+          "dark": "https://store.explainsims.com/shots/hdmusic/3-dark.jpg",
+          "light": "https://store.explainsims.com/shots/hdmusic/3-light.jpg"
         }
       ],
-      "summary" : "Plays DSF, DFF, SACD ISOs, Blu-ray audio and hi-res files bit-perfect, with a signal path, EQ and converter, a library for local drives and NAS shares, internet radio and the Internet Archive.",
-      "tagline" : "Hi-res and DSD player, with a library, radio and EQ."
+      "summary": "Plays DSF, DFF, SACD ISOs, Blu-ray audio and hi-res files bit-perfect, with a signal path, EQ and converter, a library for local drives and NAS shares, internet radio and the Internet Archive.",
+      "tagline": "Hi-res and DSD player, with a library, radio and EQ."
     },
     {
-      "alternativeTo" : "VolumePad",
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.hem",
-      "icon" : "https://store.explainsims.com/icons/hem.png",
-      "id" : "hem",
-      "kind" : "menubar",
-      "name" : "Hem",
-      "readmeURL" : "https://store.explainsims.com/readme/hem.txt",
-      "release" : {
-        "build" : "3",
-        "chips" : [
+      "alternativeTo": "VolumePad",
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.hem",
+      "icon": "https://store.explainsims.com/icons/hem.png",
+      "id": "hem",
+      "kind": "menubar",
+      "name": "Hem",
+      "readmeURL": "https://store.explainsims.com/readme/hem.txt",
+      "release": {
+        "build": "3",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:26Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "yFspjeLlsov2FfYQhra+dw94X3OFhozQScj0gU70G5UUGOt7bpEULl9kUIIsNGPq9z7TQmGVLi2TPcEJEmmhCA==",
-          "length" : 1399703,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0-update.zip"
+        "date": "2026-11-08T01:40:26Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "yFspjeLlsov2FfYQhra+dw94X3OFhozQScj0gU70G5UUGOt7bpEULl9kUIIsNGPq9z7TQmGVLi2TPcEJEmmhCA==",
+          "length": 1399703,
+          "url": "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0-update.zip"
         },
-        "version" : "1.0.0",
-        "zip" : {
-          "edSignature" : "4nCKfTcKp8DIXUxpGJzIYNIYaC1BatWptv3z0Z7ZqeMFPCK6O93fCp/Z+/RqN+6nVHflUSAu0Xo0sEca2b1hDA==",
-          "length" : 1402998,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0.zip"
+        "version": "1.0.0",
+        "zip": {
+          "edSignature": "4nCKfTcKp8DIXUxpGJzIYNIYaC1BatWptv3z0Z7ZqeMFPCK6O93fCp/Z+/RqN+6nVHflUSAu0Xo0sEca2b1hDA==",
+          "length": 1402998,
+          "url": "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Slide along an edge of the trackpad to change the volume, the screen or keyboard brightness, or scrub what's playing. Tap then slide for a second action.",
-      "tagline" : "Volume and brightness sliders on your trackpad's edges."
+      "screenshots": [],
+      "summary": "Slide along an edge of the trackpad to change the volume, the screen or keyboard brightness, or scrub what's playing. Tap then slide for a second action.",
+      "tagline": "Volume and brightness sliders on your trackpad's edges."
     },
     {
-      "alternativeTo" : "Skitch",
-      "audience" : "everyone",
-      "bundleID" : "local.scrawl.Scrawl",
-      "icon" : "https://store.explainsims.com/icons/scrawl.png",
-      "id" : "scrawl",
-      "kind" : "tools",
-      "name" : "Scrawl",
-      "readmeURL" : "https://store.explainsims.com/readme/scrawl.txt",
-      "release" : {
-        "build" : "2",
-        "chips" : [
+      "alternativeTo": "Skitch",
+      "audience": "everyone",
+      "bundleID": "local.scrawl.Scrawl",
+      "icon": "https://store.explainsims.com/icons/scrawl.png",
+      "id": "scrawl",
+      "kind": "tools",
+      "name": "Scrawl",
+      "readmeURL": "https://store.explainsims.com/readme/scrawl.txt",
+      "release": {
+        "build": "2",
+        "chips": [
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:37Z",
-        "minimumSystemVersion" : "27.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "oDMJTRJ4T/Q6Wjw4VbXnJWyGASH92qWzQ4T8lM6aC4Mnq6htSVrJisQKAChJkLltC4LLV2IoyDckWQQA4pmUCg==",
-          "length" : 1290924,
-          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1-update.zip"
+        "date": "2026-11-08T01:40:37Z",
+        "minimumSystemVersion": "27.0",
+        "notes": [],
+        "update": {
+          "edSignature": "oDMJTRJ4T/Q6Wjw4VbXnJWyGASH92qWzQ4T8lM6aC4Mnq6htSVrJisQKAChJkLltC4LLV2IoyDckWQQA4pmUCg==",
+          "length": 1290924,
+          "url": "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1-update.zip"
         },
-        "version" : "1.1",
-        "zip" : {
-          "edSignature" : "rEUQYgk9srVnKMNjREJLFKsSVB13ozbmxPdvb0K/em0Ji9nbyHGIzuiPtzXJaUrIazd4pbPRK2E1J4uPZf0rBA==",
-          "length" : 1294112,
-          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1.zip"
+        "version": "1.1",
+        "zip": {
+          "edSignature": "rEUQYgk9srVnKMNjREJLFKsSVB13ozbmxPdvb0K/em0Ji9nbyHGIzuiPtzXJaUrIazd4pbPRK2E1J4uPZf0rBA==",
+          "length": 1294112,
+          "url": "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Capture an area, a window or the whole screen from the menu bar, then mark it up with arrows, shapes, text, highlights and blur.",
-      "tagline" : "Screenshots with arrows, text and blur."
+      "screenshots": [],
+      "summary": "Capture an area, a window or the whole screen from the menu bar, then mark it up with arrows, shapes, text, highlights and blur.",
+      "tagline": "Screenshots with arrows, text and blur."
     },
     {
-      "alternativeTo" : "CheatSheet",
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.smartcut",
-      "icon" : "https://store.explainsims.com/icons/smartcut.png",
-      "id" : "smartcut",
-      "kind" : "menubar",
-      "name" : "SmartCut",
-      "readmeURL" : "https://store.explainsims.com/readme/smartcut.txt",
-      "release" : {
-        "build" : "2",
-        "chips" : [
+      "alternativeTo": "CheatSheet",
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.smartcut",
+      "icon": "https://store.explainsims.com/icons/smartcut.png",
+      "id": "smartcut",
+      "kind": "menubar",
+      "name": "SmartCut",
+      "readmeURL": "https://store.explainsims.com/readme/smartcut.txt",
+      "release": {
+        "build": "2",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:49Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "vknRG4X4PbaEdkBUcClB8iHaLlSVSOwCoQnx8SltKgdrOl2Oawwm9nuLyIuBv2GAXet96ltJdLjXqDA5di0cDg==",
-          "length" : 1128946,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0-update.zip"
+        "date": "2026-11-08T01:40:49Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "vknRG4X4PbaEdkBUcClB8iHaLlSVSOwCoQnx8SltKgdrOl2Oawwm9nuLyIuBv2GAXet96ltJdLjXqDA5di0cDg==",
+          "length": 1128946,
+          "url": "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0-update.zip"
         },
-        "version" : "1.0.0",
-        "zip" : {
-          "edSignature" : "X06jnEoksbIIeOfDITr/mOL8ZwVceNo0ZrWSQ5s3TMmb0H/4deqLKW035Wqor97hAjdF0YuYSG5Tc82KdWopAw==",
-          "length" : 1131943,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0.zip"
+        "version": "1.0.0",
+        "zip": {
+          "edSignature": "X06jnEoksbIIeOfDITr/mOL8ZwVceNo0ZrWSQ5s3TMmb0H/4deqLKW035Wqor97hAjdF0YuYSG5Tc82KdWopAw==",
+          "length": 1131943,
+          "url": "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Hold ⌘ and a panel lists the front app's keyboard shortcuts, including Google Docs, Sheets, Slides and Gmail in your browser. Type to filter, and find hotkeys that clash.",
-      "tagline" : "Hold ⌘ to see every shortcut in the app you're using."
+      "screenshots": [],
+      "summary": "Hold ⌘ and a panel lists the front app's keyboard shortcuts, including Google Docs, Sheets, Slides and Gmail in your browser. Type to filter, and find hotkeys that clash.",
+      "tagline": "Hold ⌘ to see every shortcut in the app you're using."
     },
     {
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.storefront",
-      "icon" : "https://store.explainsims.com/icons/storefront.png",
-      "id" : "storefront",
-      "isStorefront" : true,
-      "kind" : "tools",
-      "name" : "Storefront",
-      "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
-      "release" : {
-        "build" : "6",
-        "chips" : [
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.storefront",
+      "icon": "https://store.explainsims.com/icons/storefront.png",
+      "id": "storefront",
+      "isStorefront": true,
+      "kind": "tools",
+      "name": "Storefront",
+      "readmeURL": "https://store.explainsims.com/readme/storefront.txt",
+      "release": {
+        "build": "6",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:39:09Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "5dGWqBaPEWOa9iUjBhIhAxKKg9FCCy6BBfUwib3uQ0ejhyqwpaHdWOKw0KzYoirozhmrPsMnzfW3Jk/oIe9UAg==",
-          "length" : 3298965,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0-update.zip"
+        "date": "2026-11-08T01:39:09Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "5dGWqBaPEWOa9iUjBhIhAxKKg9FCCy6BBfUwib3uQ0ejhyqwpaHdWOKw0KzYoirozhmrPsMnzfW3Jk/oIe9UAg==",
+          "length": 3298965,
+          "url": "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0-update.zip"
         },
-        "version" : "1.0.0",
-        "zip" : {
-          "edSignature" : "60vV4EYvScmU5V0gbci5/416XHh89v6FLd8AjbUQKQ2QXMq5Q7NMK/jXv4+0wwseXs7Lml5L850BjFZlHpujCQ==",
-          "length" : 3304559,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0.zip"
+        "version": "1.0.0",
+        "zip": {
+          "edSignature": "60vV4EYvScmU5V0gbci5/416XHh89v6FLd8AjbUQKQ2QXMq5Q7NMK/jXv4+0wwseXs7Lml5L850BjFZlHpujCQ==",
+          "length": 3304559,
+          "url": "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0.zip"
         }
       },
-      "screenshots" : [
+      "screenshots": [
         {
-          "dark" : "https://store.explainsims.com/shots/storefront/1-dark.jpg",
-          "light" : "https://store.explainsims.com/shots/storefront/1-light.jpg"
+          "dark": "https://store.explainsims.com/shots/storefront/1-dark.jpg",
+          "light": "https://store.explainsims.com/shots/storefront/1-light.jpg"
         },
         {
-          "dark" : "https://store.explainsims.com/shots/storefront/2-dark.jpg",
-          "light" : "https://store.explainsims.com/shots/storefront/2-light.jpg"
+          "dark": "https://store.explainsims.com/shots/storefront/2-dark.jpg",
+          "light": "https://store.explainsims.com/shots/storefront/2-light.jpg"
         },
         {
-          "dark" : "https://store.explainsims.com/shots/storefront/3-dark.jpg",
-          "light" : "https://store.explainsims.com/shots/storefront/3-light.jpg"
+          "dark": "https://store.explainsims.com/shots/storefront/3-dark.jpg",
+          "light": "https://store.explainsims.com/shots/storefront/3-light.jpg"
         }
       ],
-      "summary" : "A menu-bar app that lists every app here, installs any of them without the Open Anyway step, and updates them all.",
-      "tagline" : "Install any of these apps in one click, and keep them all up to date."
+      "summary": "A menu-bar app that lists every app here, installs any of them without the Open Anyway step, and updates them all.",
+      "tagline": "Install any of these apps in one click, and keep them all up to date."
     },
     {
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.throw",
-      "icon" : "https://store.explainsims.com/icons/throw.png",
-      "id" : "throw",
-      "kind" : "menubar",
-      "name" : "Throw",
-      "readmeURL" : "https://store.explainsims.com/readme/throw.txt",
-      "release" : {
-        "build" : "10",
-        "chips" : [
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.throw",
+      "icon": "https://store.explainsims.com/icons/throw.png",
+      "id": "throw",
+      "kind": "menubar",
+      "name": "Throw",
+      "readmeURL": "https://store.explainsims.com/readme/throw.txt",
+      "release": {
+        "build": "10",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:58Z",
-        "minimumSystemVersion" : "14.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "zEzOCnU8zfirbetLk7c86NS6CgZgvHIeaVdQ6F5gMNkdckAdNHECIu6g91LfEcBu7j048NqKbdrsNggs4Vv3CQ==",
-          "length" : 2213871,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2-update.zip"
+        "date": "2026-11-08T01:40:58Z",
+        "minimumSystemVersion": "14.0",
+        "notes": [],
+        "update": {
+          "edSignature": "zEzOCnU8zfirbetLk7c86NS6CgZgvHIeaVdQ6F5gMNkdckAdNHECIu6g91LfEcBu7j048NqKbdrsNggs4Vv3CQ==",
+          "length": 2213871,
+          "url": "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2-update.zip"
         },
-        "version" : "1.0.2",
-        "zip" : {
-          "edSignature" : "/ALyTe+bJv1mByc02Z7PjPKJUt673xp6nBMUoDOvoTVTYCcZx/izY52wcM/iG3RbK6I9fI/LdK8pbGQG0aTPAA==",
-          "length" : 2217011,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2.zip"
+        "version": "1.0.2",
+        "zip": {
+          "edSignature": "/ALyTe+bJv1mByc02Z7PjPKJUt673xp6nBMUoDOvoTVTYCcZx/izY52wcM/iG3RbK6I9fI/LdK8pbGQG0aTPAA==",
+          "length": 2217011,
+          "url": "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Connect to nearby TVs as a mirror, an extra screen or a window, drag the TV around an arrangement map, pick a resolution, and remember each room.",
-      "tagline" : "AirPlay to TVs from the menu bar, then arrange them."
+      "screenshots": [],
+      "summary": "Connect to nearby TVs as a mirror, an extra screen or a window, drag the TV around an arrangement map, pick a resolution, and remember each room.",
+      "tagline": "AirPlay to TVs from the menu bar, then arrange them."
     },
     {
-      "alternativeTo" : "Bartender",
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.tuck",
-      "icon" : "https://store.explainsims.com/icons/tuck.png",
-      "id" : "tuck",
-      "kind" : "menubar",
-      "name" : "Tuck",
-      "readmeURL" : "https://store.explainsims.com/readme/tuck.txt",
-      "release" : {
-        "build" : "1",
-        "chips" : [
+      "alternativeTo": "Bartender",
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.tuck",
+      "icon": "https://store.explainsims.com/icons/tuck.png",
+      "id": "tuck",
+      "kind": "menubar",
+      "name": "Tuck",
+      "readmeURL": "https://store.explainsims.com/readme/tuck.txt",
+      "release": {
+        "build": "1",
+        "chips": [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:41:13Z",
-        "minimumSystemVersion" : "27.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "DZvEM/rjdEf1/MFrDnu2U1DmBd6fScs/hbVzd4haSa4FCVkmFCFqvVbTSFGr7+se5EJ4YU/olxwD3b7znT4mAQ==",
-          "length" : 823054,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.0/Tuck-1.1.0-update.zip"
+        "date": "2026-11-08T01:41:13Z",
+        "minimumSystemVersion": "27.0",
+        "notes": [],
+        "update": {
+          "edSignature": "DZvEM/rjdEf1/MFrDnu2U1DmBd6fScs/hbVzd4haSa4FCVkmFCFqvVbTSFGr7+se5EJ4YU/olxwD3b7znT4mAQ==",
+          "length": 823054,
+          "url": "https://github.com/explainsims/store/releases/download/tuck-1.1.0/Tuck-1.1.0-update.zip"
         },
-        "version" : "1.1.0",
-        "zip" : {
-          "edSignature" : "OI2SuCCBU94h/s/5eHdO9frr01+FhKzYp74UtSsiATgNBiGIOkrZjhe7dRWgi2ZHCgrRaNBthU/By0GEYHJTAw==",
-          "length" : 826217,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.0/Tuck-1.1.0.zip"
+        "version": "1.1.0",
+        "zip": {
+          "edSignature": "OI2SuCCBU94h/s/5eHdO9frr01+FhKzYp74UtSsiATgNBiGIOkrZjhe7dRWgi2ZHCgrRaNBthU/By0GEYHJTAw==",
+          "length": 826217,
+          "url": "https://github.com/explainsims/store/releases/download/tuck-1.1.0/Tuck-1.1.0.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Choose which apps' icons to tuck away; the arrow (click, hover or a shortcut) shows everything for a moment. Search opens any icon's menu. Needs macOS 27.",
-      "tagline" : "Tidy the menu bar. Tuck icons away behind an arrow."
+      "screenshots": [],
+      "summary": "Choose which apps' icons to tuck away; the arrow (click, hover or a shortcut) shows everything for a moment. Search opens any icon's menu. Needs macOS 27.",
+      "tagline": "Tidy the menu bar. Tuck icons away behind an arrow."
     },
     {
-      "audience" : "everyone",
-      "bundleID" : "com.lennoxmeldrum.wordcell",
-      "icon" : "https://store.explainsims.com/icons/wordcell.png",
-      "id" : "wordcell",
-      "kind" : "tools",
-      "name" : "WordCell",
-      "release" : {
-        "build" : "0.4.0",
-        "chips" : [
+      "audience": "everyone",
+      "bundleID": "com.lennoxmeldrum.wordcell",
+      "icon": "https://store.explainsims.com/icons/wordcell.png",
+      "id": "wordcell",
+      "kind": "tools",
+      "name": "WordCell",
+      "release": {
+        "build": "0.4.0",
+        "chips": [
           "arm64"
         ],
-        "date" : "2026-11-08T01:41:26Z",
-        "minimumSystemVersion" : "11.0",
-        "notes" : [
-
-        ],
-        "update" : {
-          "edSignature" : "JjKFU7WLGARyaTxmjaJsCAHwbewQv4S6pIBME2ogQuJUOJ7qqmKH3nI8M95uSeYdMjPOl7L6oqQf/vQXOnFwCQ==",
-          "length" : 140201819,
-          "url" : "https://github.com/explainsims/store/releases/download/wordcell-0.4.0/WordCell-0.4.0-update.zip"
+        "date": "2026-11-08T01:41:26Z",
+        "minimumSystemVersion": "11.0",
+        "notes": [],
+        "update": {
+          "edSignature": "JjKFU7WLGARyaTxmjaJsCAHwbewQv4S6pIBME2ogQuJUOJ7qqmKH3nI8M95uSeYdMjPOl7L6oqQf/vQXOnFwCQ==",
+          "length": 140201819,
+          "url": "https://github.com/explainsims/store/releases/download/wordcell-0.4.0/WordCell-0.4.0-update.zip"
         },
-        "version" : "0.4.0",
-        "zip" : {
-          "edSignature" : "zKG9T4qv8EOXRsK6lYZ2g3XJYJul68cz6UheIPtO0/Wakrrenj5bhZuhNUREPfKcZWbsxHVYraxo0I0WkkO4AQ==",
-          "length" : 140205707,
-          "url" : "https://github.com/explainsims/store/releases/download/wordcell-0.4.0/WordCell-0.4.0.zip"
+        "version": "0.4.0",
+        "zip": {
+          "edSignature": "zKG9T4qv8EOXRsK6lYZ2g3XJYJul68cz6UheIPtO0/Wakrrenj5bhZuhNUREPfKcZWbsxHVYraxo0I0WkkO4AQ==",
+          "length": 140205707,
+          "url": "https://github.com/explainsims/store/releases/download/wordcell-0.4.0/WordCell-0.4.0.zip"
         }
       },
-      "screenshots" : [
-
-      ],
-      "summary" : "Word, Grid and Deck tabs in one window, saved together in one file.",
-      "tagline" : "Documents, spreadsheets and slides in one app."
+      "screenshots": [],
+      "summary": "Word, Grid and Deck tabs in one window, saved together in one file.",
+      "tagline": "Documents, spreadsheets and slides in one app."
     }
   ],
-  "format" : 1,
-  "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:41:26Z"
+  "format": 1,
+  "name": "ExplAIn Sims · Mac apps",
+  "updated": "2026-11-08T01:41:26Z"
 }
