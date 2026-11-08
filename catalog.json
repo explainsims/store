@@ -326,26 +326,28 @@
       "name" : "Storefront",
       "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
       "release" : {
-        "build" : "6",
+        "build" : "20",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:39:09Z",
+        "date" : "2026-11-08T02:44:47Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "SSIS staff can sign in (Settings › Account) to see the school's apps on their own page.",
+          "App cards line up, with two lines for every description.",
+          "Not listed apps can be taken down from Settings › Publishing."
         ],
         "update" : {
-          "edSignature" : "5dGWqBaPEWOa9iUjBhIhAxKKg9FCCy6BBfUwib3uQ0ejhyqwpaHdWOKw0KzYoirozhmrPsMnzfW3Jk/oIe9UAg==",
-          "length" : 3298965,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0-update.zip"
+          "edSignature" : "DyUOMQVzBg12vArv+eS/ALPRzocl1Bdscbl1T/gif0kRjktpGFFXtyxWEDdBuSQNFodYgKUT/azUUQXDvVRgDQ==",
+          "length" : 3334307,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.1/Storefront-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "60vV4EYvScmU5V0gbci5/416XHh89v6FLd8AjbUQKQ2QXMq5Q7NMK/jXv4+0wwseXs7Lml5L850BjFZlHpujCQ==",
-          "length" : 3304559,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0.zip"
+          "edSignature" : "h1h+nSBiYTpmMaEs55a42OVUInJJDJ1uQlnn+cSWNsraA/S5f9uGmeBKBzHLFCscU+NZV7wdJ4jYRzT6g7o0BQ==",
+          "length" : 3339901,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.1/Storefront-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -478,5 +480,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:41:26Z"
+  "updated" : "2026-11-08T02:44:47Z"
 }
