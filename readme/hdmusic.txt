@@ -1,4 +1,4 @@
-HD Music 1.8.1
+HD Music 1.8.2
 HD Music is a music player for DSD and hi-res audio. It plays DSF, DFF (including
 DST-compressed), SACD ISO images, Blu-ray audio, audio CDs and every common PCM format,
 and shows you exactly what reaches your DAC. It keeps a library of your music wherever it

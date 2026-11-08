@@ -1,4 +1,4 @@
-Throw 1.0.2
+Throw 1.0.3
 Show your Mac on a TV, an Apple TV or a projector, then put the screen
 where you want it and pick its resolution, all from one menu-bar icon.
 

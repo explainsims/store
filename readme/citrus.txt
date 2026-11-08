@@ -94,8 +94,9 @@ GOOD TO KNOW
     first time, macOS asks whether Citrus may control Pages: click OK.
     No other permissions are needed.
 
-  • To update: unzip a newer copy and run its installer. It replaces the
-    old Citrus and skips tools that are already installed.
+  • To update: choose Check for Updates… from the lemon menu (Citrus also
+    checks once a day). Or unzip a newer copy and run its installer: it
+    replaces the old Citrus and skips tools that are already installed.
 
   • To uninstall: choose Quit Citrus from the lemon menu, then drag
     Citrus from Applications to the Trash. The tools stay installed; to

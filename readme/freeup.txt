@@ -1,4 +1,4 @@
-FreeUp 2.1.0
+FreeUp 2.1.1
 FreeUp shows what's taking up space on your Mac as a colourful map, and
 helps you free it up safely.
 

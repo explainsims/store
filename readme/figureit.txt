@@ -1,4 +1,4 @@
-Figure It 0.5.9
+Figure It 0.5.10
 Figures for tests and worksheets: 73 of them, for Physics, Chemistry, Biology, Maths
 and Economics. Change the numbers and labels, make a student copy and an answer key,
 then drag the figure into Pages, Keynote or Google Docs.

@@ -3,13 +3,13 @@
   <channel>
     <title>Figure It</title>
     <item>
-      <title>Figure It 0.5.9</title>
-      <pubDate>Sun, 08 Nov 2026 14:07:11 +0000</pubDate>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+      <title>Figure It 0.5.10</title>
+      <pubDate>Sun, 08 Nov 2026 15:24:13 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release: 73 figures for Physics, Chemistry, Biology, Maths and Economics, with student copies, answer keys and versions A, B and C.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9-update.zip" length="4443057" type="application/octet-stream" sparkle:edSignature="26178HN9Y2Kblh9mel0NDczUfwtwgq+apvEt8CjSb72rDVjDE6aL55ELwa2ETDumrUe2zSUCtXhs6SYKLDjtAQ=="/>
+      <description><![CDATA[<ul><li>Check for Updates… in the Figure It menu. From now on Figure It updates itself, checking once a day.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10-update.zip" length="5366760" type="application/octet-stream" sparkle:edSignature="dT2tQbHtl7ko1455Cqfkc8G1ti4s6rTw/cY6OgqCYZhn0Dlu724w3VYQrMIqP3QzRSUSQTc+6NHMvC12RwqRDQ=="/>
     </item>
   </channel>
 </rss>

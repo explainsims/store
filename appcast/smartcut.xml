@@ -3,12 +3,13 @@
   <channel>
     <title>SmartCut</title>
     <item>
-      <title>SmartCut 1.0.0</title>
-      <pubDate>Sun, 08 Nov 2026 01:40:49 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>SmartCut 1.0.1</title>
+      <pubDate>Sun, 08 Nov 2026 15:24:23 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0-update.zip" length="1128946" type="application/octet-stream" sparkle:edSignature="vknRG4X4PbaEdkBUcClB8iHaLlSVSOwCoQnx8SltKgdrOl2Oawwm9nuLyIuBv2GAXet96ltJdLjXqDA5di0cDg=="/>
+      <description><![CDATA[<ul><li>Check for Updates… in SmartCut's menu. From now on SmartCut updates itself, checking once a day. Also fixes an occasional crash when SmartCut starts.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/smartcut-1.0.1/SmartCut-1.0.1-update.zip" length="2051701" type="application/octet-stream" sparkle:edSignature="rSyO/Mk9LOZgiMR+swmRFxilFBPMycd/o4QbVocCDLVEgb7O5qcO+HwTewTOKURAf84ZvDfgHB3xX2juc9gSAg=="/>
     </item>
   </channel>
 </rss>

@@ -10,26 +10,26 @@
       "name" : "APOD Wallpaper",
       "readmeURL" : "https://store.explainsims.com/readme/apodwallpaper.txt",
       "release" : {
-        "build" : "3",
+        "build" : "4",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:39:25Z",
+        "date" : "2026-11-08T15:24:59Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "Check for Updates… in the menu. From now on APOD Wallpaper updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "QigD907i81r3bSCE4PbknGvmwBLamYZburq2IEAVaXq2x4RVQoLF3ywm1BFuarUp6RpmfqTvUPmVd0VxZWQlBw==",
-          "length" : 3380441,
-          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2-update.zip"
+          "edSignature" : "/Hzxqgm+ytj/IbG+5r+YOnX6m49cRnh543gzHJb7oXxpUkGxDzODlLF7LbonzdKDBxJueECPEZdd5g7Jj33ZDA==",
+          "length" : 4301564,
+          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2.1/APOD-Wallpaper-1.2.1-update.zip"
         },
-        "version" : "1.2",
+        "version" : "1.2.1",
         "zip" : {
-          "edSignature" : "vomZ37lUtuXlsAn5OZDQqNJpDtrb5VGARKBCZeX6y5y4OhbmQJYASmWdlnIP+KgcyGYvSNvxTJpSnG4D+CfyAw==",
-          "length" : 3385104,
-          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2.zip"
+          "edSignature" : "PwtEhTy2GBxkpx7Shprpf8JgWfhwzn4Yx9UnlThFl4JCITDJpc1q9E4xhwAFdB9hL3xthDCCM1/WOZ8y0M8jCA==",
+          "length" : 4310378,
+          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2.1/APOD-Wallpaper-1.2.1.zip"
         }
       },
       "screenshots" : [
@@ -55,26 +55,26 @@
       "name" : "Chào",
       "readmeURL" : "https://store.explainsims.com/readme/chao.txt",
       "release" : {
-        "build" : "3",
+        "build" : "10",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:39:36Z",
+        "date" : "2026-11-08T15:24:50Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "Check for Updates… in Chào's menu and its gear menu. From now on Chào updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "37yfrgTmg8PH3Xtb3iwSF1mfmNe8COItsNlWiYiEAi1Ei2jIhsQI3eyfgAeybm3oI3zZvfPn+sexbg5lKwAVCA==",
-          "length" : 1666282,
-          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0-update.zip"
+          "edSignature" : "sK4ys2x1w8L955s4T+JKyA0fPG05pjfrSJQ3SCIwkZqgPQYJROGNw2qt0N01VkbhuIliHAoulAkIy3CIlom2CA==",
+          "length" : 2732380,
+          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.1/Chao-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "L5QtC2tq+d05xAwbXgaP+NsjrFCIN0u2XWSmGQmGGECoSF5qsIFTTz/OIk+zWZPeBuqN0/q2DfcrnKXNt27bAQ==",
-          "length" : 1669537,
-          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.0/Chao-1.0.0.zip"
+          "edSignature" : "W8W/F6FgmgQeb5SSaX0ohpjSvloZmTuQCd2FuJkNShKoj3tfS1ztXpjkmwye20bvewZwL0Hmk7OOZWwlM6W7Dg==",
+          "length" : 2737279,
+          "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.1/Chao-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -109,25 +109,25 @@
       "needs" : "Some conversions need tools its installer adds: run Install Citrus.command from the Download zip once",
       "readmeURL" : "https://store.explainsims.com/readme/citrus.txt",
       "release" : {
-        "build" : "3",
+        "build" : "4",
         "chips" : [
           "arm64"
         ],
-        "date" : "2026-11-08T11:15:56Z",
+        "date" : "2026-11-08T15:25:10Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "A More ring on the wheel for less common formats, and right-click settings for one conversion. New: camera RAW, Photoshop, JPEG XL, DSD, MIDI, LaTeX, Typst and Jupyter notebooks in; ICNS, ICO, traced SVG, Apple Lossless, audiobooks and cover-art videos out. 24-bit sound stays 24-bit, and misnamed files are read as what they really are."
+          "Check for Updates… in Citrus's menu. From now on Citrus updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "LxT+EgT8jK2ZBRuNOK4d6Y2Lq8PBmK7/P7kDQxGka5u4SAKrpNXt2JbxO1oyI/DT95nTs3wDRU6+0wqrazfbBg==",
-          "length" : 23480656,
-          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.2/Citrus-1.2-update.zip"
+          "edSignature" : "iN8HmOo8Wuz5YtkUeTNcElK3EshsHFyRIXxQnTekVSSzLOnCYzVymk246Grynq7FSW72XyQkSVPyKmRt7nsDCg==",
+          "length" : 24394049,
+          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.2.1/Citrus-1.2.1-update.zip"
         },
-        "version" : "1.2",
+        "version" : "1.2.1",
         "zip" : {
-          "edSignature" : "9OH8+TJTbdFCngl78vvBWBzMCIyQkV/f66rv7WZAMkjrDQ6kxcSW+uV5oDgoAYsp8llX4tdk5oQ2iVmP2Ad2AQ==",
-          "length" : 23485340,
-          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.2/Citrus-1.2.zip"
+          "edSignature" : "+EHWUIWG1IKnjyYOBf8p3zDNuXyHc6i51H6GbS4u2u/7VARl9IJkOFSPNx2ndjalb58I9iVjNEyGtNZcrKSbDA==",
+          "length" : 24400683,
+          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.2.1/Citrus-1.2.1.zip"
         }
       },
       "screenshots" : [
@@ -154,26 +154,26 @@
       "name" : "Figure It",
       "readmeURL" : "https://store.explainsims.com/readme/figureit.txt",
       "release" : {
-        "build" : "20",
+        "build" : "22",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T14:07:11Z",
+        "date" : "2026-11-08T15:24:13Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "First release: 73 figures for Physics, Chemistry, Biology, Maths and Economics, with student copies, answer keys and versions A, B and C."
+          "Check for Updates… in the Figure It menu. From now on Figure It updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "26178HN9Y2Kblh9mel0NDczUfwtwgq+apvEt8CjSb72rDVjDE6aL55ELwa2ETDumrUe2zSUCtXhs6SYKLDjtAQ==",
-          "length" : 4443057,
-          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9-update.zip"
+          "edSignature" : "dT2tQbHtl7ko1455Cqfkc8G1ti4s6rTw/cY6OgqCYZhn0Dlu724w3VYQrMIqP3QzRSUSQTc+6NHMvC12RwqRDQ==",
+          "length" : 5366760,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10-update.zip"
         },
-        "version" : "0.5.9",
+        "version" : "0.5.10",
         "zip" : {
-          "edSignature" : "XGHIGMmREdNjFdiqSN+UrThRLvdLv1bVofh/c04MfZmuimpj/cEfHgpFq4W6fLmGcf9GqOFqTU6w2jX8g+QyDw==",
-          "length" : 4448990,
-          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9.zip"
+          "edSignature" : "lVNakS5RoAj2xJXZHDV8mGIbZDTaoENE8vEQnq4c3V7uvNA/pMaKCxVYkm2XduIxsPwD3otzuCBYEPE98DlaDw==",
+          "length" : 5375434,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10.zip"
         }
       },
       "screenshots" : [
@@ -211,26 +211,26 @@
       "name" : "FreeUp",
       "readmeURL" : "https://store.explainsims.com/readme/freeup.txt",
       "release" : {
-        "build" : "2",
+        "build" : "5",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:00Z",
+        "date" : "2026-11-08T15:23:49Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "Check for Updates… in the FreeUp menu. From now on FreeUp updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "DS/tOFnn0/WjytNOcS+NFSn2u0B7PM8q+5BvuFT70rWGvGOFGebE1m+Pjnbe29vg0xu4GZBmCQq0LJGxqhmjDA==",
-          "length" : 2359773,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0-update.zip"
+          "edSignature" : "l9DYCFXo4XW3dm86EcLEwJVZTka1LjtjTUC4zIwfzdiORaYoqvUi6FLr7CWmhWSeyCjiMxlEVSqtOkhZTgKVCg==",
+          "length" : 3286191,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1-update.zip"
         },
-        "version" : "2.1.0",
+        "version" : "2.1.1",
         "zip" : {
-          "edSignature" : "AeXnmUUTZXbuzatXMcAuzZaaEjEGFxSWM+ooayolwv9NRjruVlUkQe6zauNGxchQ0wajP1sY/gVQtSQFXYaLBQ==",
-          "length" : 2362444,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.0/FreeUp-2.1.0.zip"
+          "edSignature" : "fbMP4YglPIMli+LSaSGW7Tyjw/2SuC/dhPCOHtG98kxxypaTMi9vq3xSRmm4PwFRFENZOx931VITf/+oXhMmDQ==",
+          "length" : 3290780,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1.zip"
         }
       },
       "screenshots" : [
@@ -263,26 +263,26 @@
       "name" : "HD Music",
       "readmeURL" : "https://store.explainsims.com/readme/hdmusic.txt",
       "release" : {
-        "build" : "24",
+        "build" : "26",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:10Z",
+        "date" : "2026-11-08T15:23:58Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "Check for Updates… in the HD Music menu. From now on HD Music updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "bjhsq2ZctFkOl7HOjFQiwxBj9ZF9p+e2cBSnlTJvTUBOIXrI0rgVppyHsY38xztMIw7eigFR/RfGKM54bsSqCw==",
-          "length" : 25504898,
-          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1-update.zip"
+          "edSignature" : "cV2MNKB5nLpVINpQ12PahqQ8i52yjB7ezeTeZL5V9Bbe3PaepuTOmVytczkYeHpF/Yh3K6IWogWpA+6ujab2CA==",
+          "length" : 26428448,
+          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.2/HD-Music-1.8.2-update.zip"
         },
-        "version" : "1.8.1",
+        "version" : "1.8.2",
         "zip" : {
-          "edSignature" : "gtZwkCihR10V3H0eyD/pWv73PsqNzqq0VPR5Wfmhhevik+SZj9FPp6CoinIEZDkfUc1mTB3AEt5M1k/B8gWeDg==",
-          "length" : 25511216,
-          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1.zip"
+          "edSignature" : "UfUYEdoMmzNuumkpSSEJFI4Ft0oE4e28K9HzeelppDudvdpCk3U4GouKNpLI9mTYu0BfgJwXIVafHm6+7HXcCA==",
+          "length" : 26437215,
+          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.2/HD-Music-1.8.2.zip"
         }
       },
       "screenshots" : [
@@ -312,26 +312,26 @@
       "name" : "Hem",
       "readmeURL" : "https://store.explainsims.com/readme/hem.txt",
       "release" : {
-        "build" : "3",
+        "build" : "4",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:26Z",
+        "date" : "2026-11-08T15:24:41Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "Check for Updates… at the bottom of Hem's panel. From now on Hem updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "yFspjeLlsov2FfYQhra+dw94X3OFhozQScj0gU70G5UUGOt7bpEULl9kUIIsNGPq9z7TQmGVLi2TPcEJEmmhCA==",
-          "length" : 1399703,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0-update.zip"
+          "edSignature" : "1fvvZtc3RGYww/OGRnTWo9B+DFAkxrsjYe1meC3kPXBNUvMWa4MImAj5T2r+WB6+3V04EnLZ0C4TJRtE3kTZBA==",
+          "length" : 2321718,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.1/Hem-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "4nCKfTcKp8DIXUxpGJzIYNIYaC1BatWptv3z0Z7ZqeMFPCK6O93fCp/Z+/RqN+6nVHflUSAu0Xo0sEca2b1hDA==",
-          "length" : 1402998,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0.zip"
+          "edSignature" : "ruX8/8zUnXtz/19YK+Muld1b1b+cEeyXMsPqFgDoHlnfaJetnjvi5aJNp7dPrm8/oZr3viaqQbj8L03JzNWIDw==",
+          "length" : 2326109,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.1/Hem-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -361,25 +361,25 @@
       "name" : "Scrawl",
       "readmeURL" : "https://store.explainsims.com/readme/scrawl.txt",
       "release" : {
-        "build" : "2",
+        "build" : "3",
         "chips" : [
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:37Z",
+        "date" : "2026-11-08T15:25:23Z",
         "minimumSystemVersion" : "27.0",
         "notes" : [
-
+          "Check for Updates… in Scrawl's menu. From now on Scrawl updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "oDMJTRJ4T/Q6Wjw4VbXnJWyGASH92qWzQ4T8lM6aC4Mnq6htSVrJisQKAChJkLltC4LLV2IoyDckWQQA4pmUCg==",
-          "length" : 1290924,
-          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1-update.zip"
+          "edSignature" : "5d9fFeh12eB9vjAGjojLI7UEaRzDaHXWhPjNZh+imPcR7yMRrLv3y1HoSazqh4QbmWdgk6oByjaVV/Y+0MypAQ==",
+          "length" : 2234763,
+          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1-update.zip"
         },
-        "version" : "1.1",
+        "version" : "1.1.1",
         "zip" : {
-          "edSignature" : "rEUQYgk9srVnKMNjREJLFKsSVB13ozbmxPdvb0K/em0Ji9nbyHGIzuiPtzXJaUrIazd4pbPRK2E1J4uPZf0rBA==",
-          "length" : 1294112,
-          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1/Scrawl-1.1.zip"
+          "edSignature" : "IIFiZqDLjYDPgXD9ljokjkKQbmmdqOLK6x8CToTwUXMuKSBS2JQdi0YTlf7L4AvYfRsWmos5SckoNym1jwb9BA==",
+          "length" : 2239592,
+          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1.zip"
         }
       },
       "screenshots" : [
@@ -398,26 +398,26 @@
       "name" : "SmartCut",
       "readmeURL" : "https://store.explainsims.com/readme/smartcut.txt",
       "release" : {
-        "build" : "2",
+        "build" : "4",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:49Z",
+        "date" : "2026-11-08T15:24:23Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "Check for Updates… in SmartCut's menu. From now on SmartCut updates itself, checking once a day. Also fixes an occasional crash when SmartCut starts."
         ],
         "update" : {
-          "edSignature" : "vknRG4X4PbaEdkBUcClB8iHaLlSVSOwCoQnx8SltKgdrOl2Oawwm9nuLyIuBv2GAXet96ltJdLjXqDA5di0cDg==",
-          "length" : 1128946,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0-update.zip"
+          "edSignature" : "rSyO/Mk9LOZgiMR+swmRFxilFBPMycd/o4QbVocCDLVEgb7O5qcO+HwTewTOKURAf84ZvDfgHB3xX2juc9gSAg==",
+          "length" : 2051701,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.1/SmartCut-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "X06jnEoksbIIeOfDITr/mOL8ZwVceNo0ZrWSQ5s3TMmb0H/4deqLKW035Wqor97hAjdF0YuYSG5Tc82KdWopAw==",
-          "length" : 1131943,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.0/SmartCut-1.0.0.zip"
+          "edSignature" : "IBMdt7D5mH4voI1rNJEIw5NefLuDNi4v2ooi85Z6hj8YKdZd2//4LfCJBrePoNDfrq/7GzC5Dj8x7W7vFT/HBg==",
+          "length" : 2057163,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.1/SmartCut-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -496,26 +496,26 @@
       "name" : "Throw",
       "readmeURL" : "https://store.explainsims.com/readme/throw.txt",
       "release" : {
-        "build" : "10",
+        "build" : "12",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T01:40:58Z",
+        "date" : "2026-11-08T15:24:32Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "Check for Updates… in Throw's menu, above Quit. From now on Throw updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "zEzOCnU8zfirbetLk7c86NS6CgZgvHIeaVdQ6F5gMNkdckAdNHECIu6g91LfEcBu7j048NqKbdrsNggs4Vv3CQ==",
-          "length" : 2213871,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2-update.zip"
+          "edSignature" : "iUs5MilBb675LOfS8t+CjUL17pzs3VexWlEpwm/c+hTTwkFe1Rxar7sPtZVddbaea/HQ12lVKwEnLbKeDf9VBw==",
+          "length" : 3136609,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3-update.zip"
         },
-        "version" : "1.0.2",
+        "version" : "1.0.3",
         "zip" : {
-          "edSignature" : "/ALyTe+bJv1mByc02Z7PjPKJUt673xp6nBMUoDOvoTVTYCcZx/izY52wcM/iG3RbK6I9fI/LdK8pbGQG0aTPAA==",
-          "length" : 2217011,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.2/Throw-1.0.2.zip"
+          "edSignature" : "mRNXrLGG0O+MXupAjp2mDd2PXNTEEq9iDrGG0MGUVk+iPrss4mbh1JKggRL0q36M2uiDb5k6QhGLGHx6cZQqBA==",
+          "length" : 3141392,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3.zip"
         }
       },
       "screenshots" : [
@@ -545,26 +545,26 @@
       "name" : "Tuck",
       "readmeURL" : "https://store.explainsims.com/readme/tuck.txt",
       "release" : {
-        "build" : "4",
+        "build" : "5",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T14:23:39Z",
+        "date" : "2026-11-08T15:23:37Z",
         "minimumSystemVersion" : "27.0",
         "notes" : [
-          "Apps you delete leave the list by themselves, and you can right-click one that isn't open to remove it. A long list now scrolls instead of running off the screen."
+          "Check for Updates… in the arrow's right-click menu. From now on Tuck updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "1TZyw42DX8tgelE5LDZi6tFXXCS7NHI/r5gQzFGDBvLLKyyqW587YoniU84IlBdOONWVZ2feRMCUAkihBODPDQ==",
-          "length" : 857597,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1-update.zip"
+          "edSignature" : "iJrnn7W6MyFst/j2bbz0ea9BbXcLdGKEeHI7mBCb5tPVUx65wAir3LOL7Xv8jcDk2lihjcngcoeHQASD/RenBQ==",
+          "length" : 1773755,
+          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2-update.zip"
         },
-        "version" : "1.1.1",
+        "version" : "1.1.2",
         "zip" : {
-          "edSignature" : "6N8KuvHszJHmDWtyKFiwww8ALuROi69UNqHktPpe9WrckaMc1V9Q5W7zPiePuuRvkDVg3mbFPHlJzNjnIQb/Cg==",
-          "length" : 860842,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1.zip"
+          "edSignature" : "gRfEoTJOvdRfxuJHgAg8wCmrJVZRviCaqvH0CANAC+7+SUrQ0qNfp/uoRDKgfpHWLvsYweYdcdW4jBjHHk2wAw==",
+          "length" : 1778371,
+          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2.zip"
         }
       },
       "screenshots" : [
@@ -633,5 +633,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T15:12:52Z"
+  "updated" : "2026-11-08T15:25:23Z"
 }

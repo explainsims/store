@@ -1,4 +1,4 @@
-Tuck 1.1.1
+Tuck 1.1.2
 Keep your menu bar to the icons you use. Tuck hides the others until you
 click its arrow.
 

@@ -3,12 +3,13 @@
   <channel>
     <title>HD Music</title>
     <item>
-      <title>HD Music 1.8.1</title>
-      <pubDate>Sun, 08 Nov 2026 01:40:10 +0000</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+      <title>HD Music 1.8.2</title>
+      <pubDate>Sun, 08 Nov 2026 15:23:58 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1-update.zip" length="25504898" type="application/octet-stream" sparkle:edSignature="bjhsq2ZctFkOl7HOjFQiwxBj9ZF9p+e2cBSnlTJvTUBOIXrI0rgVppyHsY38xztMIw7eigFR/RfGKM54bsSqCw=="/>
+      <description><![CDATA[<ul><li>Check for Updates… in the HD Music menu. From now on HD Music updates itself, checking once a day.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/hdmusic-1.8.2/HD-Music-1.8.2-update.zip" length="26428448" type="application/octet-stream" sparkle:edSignature="cV2MNKB5nLpVINpQ12PahqQ8i52yjB7ezeTeZL5V9Bbe3PaepuTOmVytczkYeHpF/Yh3K6IWogWpA+6ujab2CA=="/>
     </item>
   </channel>
 </rss>

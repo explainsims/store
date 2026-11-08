@@ -3,13 +3,13 @@
   <channel>
     <title>Citrus</title>
     <item>
-      <title>Citrus 1.2</title>
-      <pubDate>Sun, 08 Nov 2026 11:15:56 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <title>Citrus 1.2.1</title>
+      <pubDate>Sun, 08 Nov 2026 15:25:10 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>A More ring on the wheel for less common formats, and right-click settings for one conversion. New: camera RAW, Photoshop, JPEG XL, DSD, MIDI, LaTeX, Typst and Jupyter notebooks in; ICNS, ICO, traced SVG, Apple Lossless, audiobooks and cover-art videos out. 24-bit sound stays 24-bit, and misnamed files are read as what they really are.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/citrus-1.2/Citrus-1.2-update.zip" length="23480656" type="application/octet-stream" sparkle:edSignature="LxT+EgT8jK2ZBRuNOK4d6Y2Lq8PBmK7/P7kDQxGka5u4SAKrpNXt2JbxO1oyI/DT95nTs3wDRU6+0wqrazfbBg=="/>
+      <description><![CDATA[<ul><li>Check for Updates… in Citrus's menu. From now on Citrus updates itself, checking once a day.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/citrus-1.2.1/Citrus-1.2.1-update.zip" length="24394049" type="application/octet-stream" sparkle:edSignature="iN8HmOo8Wuz5YtkUeTNcElK3EshsHFyRIXxQnTekVSSzLOnCYzVymk246Grynq7FSW72XyQkSVPyKmRt7nsDCg=="/>
     </item>
   </channel>
 </rss>

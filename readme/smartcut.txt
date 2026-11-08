@@ -1,4 +1,4 @@
-SmartCut 1.0.0
+SmartCut 1.0.1
 Hold ⌘ in any app to see all its keyboard shortcuts. Let go and they're gone.
 
 

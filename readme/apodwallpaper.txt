@@ -84,6 +84,8 @@ USING APOD WALLPAPER
         Colour Icon in the Menu Bar
                            untick it for black-and-white sparkles like the
                            menu bar's other icons
+        Check for Updates… get a newer APOD Wallpaper (it also checks once
+                           a day)
 
     With Night Sky on, the top of the menu also says what phase the Moon is
     in, when it rises or sets, and which planets are up.
@@ -104,8 +106,8 @@ GOOD TO KNOW
   • Only the current picture is kept on your Mac. On days when APOD is a
     video, you get a still from it.
 
-  • To update: unzip a newer copy and run its installer. It replaces the
-    old one and keeps your settings.
+  • To update: choose Check for Updates… in the sparkles menu, or unzip a
+    newer copy and run its installer. Either way your settings are kept.
 
   • To uninstall: untick Launch at Login in the sparkles menu, choose Quit
     APOD Wallpaper, then drag APOD Wallpaper from Applications to the Trash

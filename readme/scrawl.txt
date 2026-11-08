@@ -1,4 +1,4 @@
-Scrawl 1.1
+Scrawl 1.1.1
 Take a snapshot of any part of your screen, mark it up with arrows, text,
 shapes and highlights, then copy or save it. Everything you take is kept
 in a library, so you can change it again later.
@@ -77,8 +77,9 @@ GOOD TO KNOW
 
   • To quit: click the Scrawl icon in the menu bar → Quit Scrawl.
 
-  • To update: unzip a newer copy and run its installer. It replaces the
-    old one and keeps your settings and library.
+  • To update: click the Scrawl icon in the menu bar → Check for
+    Updates… (Scrawl also checks once a day). Or unzip a newer copy and
+    run its installer. Either way your settings and library are kept.
 
   • To uninstall: quit Scrawl and drag it from Applications to the
     Trash. Your library stays in Pictures → Scrawl.

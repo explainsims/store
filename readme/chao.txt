@@ -1,4 +1,4 @@
-Chào 1.0.0
+Chào 1.0.1
 A Vietnamese word or phrase a day, Saigon-style, from your Mac's menu bar.
 Say it aloud and Chào draws your tones over the right shapes, so you can
 hear and see what to fix.

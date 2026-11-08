@@ -3,12 +3,13 @@
   <channel>
     <title>Hem</title>
     <item>
-      <title>Hem 1.0.0</title>
-      <pubDate>Sun, 08 Nov 2026 01:40:26 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Hem 1.0.1</title>
+      <pubDate>Sun, 08 Nov 2026 15:24:41 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/hem-1.0.0/Hem-1.0.0-update.zip" length="1399703" type="application/octet-stream" sparkle:edSignature="yFspjeLlsov2FfYQhra+dw94X3OFhozQScj0gU70G5UUGOt7bpEULl9kUIIsNGPq9z7TQmGVLi2TPcEJEmmhCA=="/>
+      <description><![CDATA[<ul><li>Check for Updates… at the bottom of Hem's panel. From now on Hem updates itself, checking once a day.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/hem-1.0.1/Hem-1.0.1-update.zip" length="2321718" type="application/octet-stream" sparkle:edSignature="1fvvZtc3RGYww/OGRnTWo9B+DFAkxrsjYe1meC3kPXBNUvMWa4MImAj5T2r+WB6+3V04EnLZ0C4TJRtE3kTZBA=="/>
     </item>
   </channel>
 </rss>

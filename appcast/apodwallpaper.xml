@@ -3,12 +3,13 @@
   <channel>
     <title>APOD Wallpaper</title>
     <item>
-      <title>APOD Wallpaper 1.2</title>
-      <pubDate>Sun, 08 Nov 2026 01:39:25 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <title>APOD Wallpaper 1.2.1</title>
+      <pubDate>Sun, 08 Nov 2026 15:24:59 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/apodwallpaper-1.2/APOD-Wallpaper-1.2-update.zip" length="3380441" type="application/octet-stream" sparkle:edSignature="QigD907i81r3bSCE4PbknGvmwBLamYZburq2IEAVaXq2x4RVQoLF3ywm1BFuarUp6RpmfqTvUPmVd0VxZWQlBw=="/>
+      <description><![CDATA[<ul><li>Check for Updates… in the menu. From now on APOD Wallpaper updates itself, checking once a day.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/apodwallpaper-1.2.1/APOD-Wallpaper-1.2.1-update.zip" length="4301564" type="application/octet-stream" sparkle:edSignature="/Hzxqgm+ytj/IbG+5r+YOnX6m49cRnh543gzHJb7oXxpUkGxDzODlLF7LbonzdKDBxJueECPEZdd5g7Jj33ZDA=="/>
     </item>
   </channel>
 </rss>

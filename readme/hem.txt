@@ -1,4 +1,4 @@
-Hem 1.0.0
+Hem 1.0.1
 Slide a finger along an edge of your MacBook's trackpad to change the
 volume, the screen brightness or the keyboard backlight, or to skip
 through what's playing. You choose which edges do what, so your palms

@@ -3,13 +3,13 @@
   <channel>
     <title>Tuck</title>
     <item>
-      <title>Tuck 1.1.1</title>
-      <pubDate>Sun, 08 Nov 2026 14:23:39 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <title>Tuck 1.1.2</title>
+      <pubDate>Sun, 08 Nov 2026 15:23:37 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Apps you delete leave the list by themselves, and you can right-click one that isn't open to remove it. A long list now scrolls instead of running off the screen.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/tuck-1.1.1/Tuck-1.1.1-update.zip" length="857597" type="application/octet-stream" sparkle:edSignature="1TZyw42DX8tgelE5LDZi6tFXXCS7NHI/r5gQzFGDBvLLKyyqW587YoniU84IlBdOONWVZ2feRMCUAkihBODPDQ=="/>
+      <description><![CDATA[<ul><li>Check for Updates… in the arrow's right-click menu. From now on Tuck updates itself, checking once a day.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2-update.zip" length="1773755" type="application/octet-stream" sparkle:edSignature="iJrnn7W6MyFst/j2bbz0ea9BbXcLdGKEeHI7mBCb5tPVUx65wAir3LOL7Xv8jcDk2lihjcngcoeHQASD/RenBQ=="/>
     </item>
   </channel>
 </rss>
