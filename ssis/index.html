@@ -19,9 +19,7 @@ a{color:var(--ink);text-decoration:none}a:hover{text-decoration:underline}
 h2.sec{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--text2);margin:32px 8px 14px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}.grid.two{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));margin-top:16px}
 .card{border-radius:16px;background:var(--card);box-shadow:var(--edge);padding:16px;display:flex;gap:14px;align-items:flex-start}.card .icon{flex:none;border-radius:12px}
-.card h3{margin:0;font-size:16px}.card p{margin:3px 0 10px;color:var(--text2);font-size:14px}.card p.tag{min-height:2.9em}
-.grid:not(.two) .card{display:grid;grid-row:span 4;grid-template-rows:subgrid;grid-template-columns:56px minmax(0,1fr);column-gap:14px;row-gap:0;align-items:start}
-.grid:not(.two) .card .body{display:contents}.grid:not(.two) .card .icon{grid-column:1;grid-row:1 / span 4}.grid:not(.two) .card .body>*{grid-column:2}.card .body{flex:1;min-width:0}
+.card h3{margin:0;font-size:16px}.card p{margin:3px 0 10px;color:var(--text2);font-size:14px}.card .body{flex:1;min-width:0}
 .row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.row small{color:var(--text3);font-size:12px}.links{font-size:12px;color:var(--text3)}
 details{margin-top:10px;font-size:14px}summary{cursor:pointer;color:var(--ink);font-size:13px}details ul{margin:4px 0 8px;padding-left:20px;color:var(--text2)}
 .shots{display:flex;gap:8px;overflow-x:auto;margin:8px 0}.shots img{height:150px;border-radius:8px;box-shadow:0 0 0 .5px var(--sep)}
@@ -33,7 +31,7 @@ footer{margin-top:36px;padding:16px 8px 0;border-top:1px solid var(--sep);color:
 @media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}}</style>
 </head>
 <body>
-<header class="nav"><b>ExplAIn Sims · Mac apps</b><nav><a href="../">Apps</a><a class="here" href="./">SSIS staff</a></nav></header>
+<header class="nav"><b>ExplAIn Sims · Mac apps</b><nav><a href="../">Apps</a><a href="../#apps">Storefront</a><a class="here" href="./">SSIS staff</a></nav></header>
 <main>
   <div id="signedout" class="signin">
     <div class="badge">🎓</div>
@@ -79,7 +77,7 @@ onAuthStateChanged(auth, async (user) => {
       const zip = a.release.zip || a.release.update;
       const card = document.createElement("article");
       card.className = "card";
-      card.innerHTML = `<img class="icon" alt="" width="52" height="52"><div class="body"><h3>${esc(a.name)}</h3><p class="tag">${esc(a.tagline)}</p>` +
+      card.innerHTML = `<img class="icon" alt="" width="52" height="52"><div class="body"><h3>${esc(a.name)}</h3><p>${esc(a.tagline)}</p>` +
         (a.needs ? `<p class="needs">🔑 ${esc(a.needs)}</p>` : "") +
         `<div class="row"><button class="btn">Download</button><small>${esc(a.release.version)} · ${size(zip.length)}</small></div></div>`;
       list.append(card);
