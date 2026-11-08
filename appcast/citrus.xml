@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Citrus</title>
+    <item>
+      <title>Citrus 1.1</title>
+      <pubDate>Sun, 08 Nov 2026 01:39:46 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/citrus-1.1/Citrus-1.1-update.zip" length="22457182" type="application/octet-stream" sparkle:edSignature="uGz/lnGWqvqJu1zpgBUKtCXnX86ZPIYO8rWleOaPyTbSLOtfdc/eZ7l4zb4isa7yJFVKaLfpA5HmsPw0oC/XDQ=="/>
+    </item>
+  </channel>
+</rss>

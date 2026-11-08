@@ -1,0 +1,83 @@
+CITRUS 🍋
+A free file converter that lives in your Mac's menu bar.
+
+Drag a file, hold Shift, and a wheel of formats appears under the pointer.
+Drop the file on a format and the converted copy appears next to the original.
+Citrus converts images, documents, spreadsheets, audio, video, archives
+and subtitles.
+
+
+WHAT'S IN THIS FOLDER
+
+  Citrus.app               the app
+  Install Citrus.command   sets everything up (run this)
+  Read Me.txt              this file
+
+
+BEFORE YOU START
+
+  • An Apple Silicon Mac (M1 or later) running macOS 14 Sonoma or newer.
+  • An internet connection and a few GB of free space for the tools.
+  • Your Mac password. Allow 10–20 minutes the first time.
+
+
+INSTALL
+
+  1. Double-click "Install Citrus.command".
+
+     If macOS says it can't be opened ("unidentified developer" or
+     "Apple could not verify…"): click Done, open System Settings →
+     Privacy & Security, scroll down and click "Open Anyway", then
+     double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Citrus.command" into the Terminal window, and press Return.
+
+  2. Follow the prompts in the Terminal window. The installer:
+       • installs Homebrew if needed (the standard free installer for Mac tools)
+       • installs ffmpeg, WebP tools, ExifTool, pngquant, Java and LibreOffice
+         (anything already installed is skipped)
+       • copies Citrus into Applications and opens it
+
+  3. Look for the lemon in the menu bar, on a small green square.
+
+
+USING CITRUS
+
+  • Start dragging a file, then hold a key (before or during the drag):
+        Shift     Convert wheel (JPG, PDF, MP3, DOCX …)
+        Command   Tools:
+                    images  Medium (1280 px), Small (640 px), favicon set,
+                            compress, rotate, remove background,
+                            copy text (reads text in the picture), strip metadata
+                    PDFs    split (or merge several), compress, rotate,
+                            strip metadata, copy text
+                    archives extract
+        Control   Actions (view metadata)
+    Drop the file on a segment. Release elsewhere or press Esc to cancel.
+
+  • Or choose "Convert Files…" from the lemon menu.
+
+  • Converted files are saved next to the original and never overwrite
+    anything; an existing name gets " 2", " 3" and so on. Multi-page
+    documents saved as JPG or PNG go into a folder of page images.
+
+  • Lemon menu → Settings… lets you change the keys, turn on Launch at
+    Login, set image quality, and see every supported format (Compatibility).
+    Untick "Colour icon in the menu bar" for a black-and-white lemon like
+    the menu bar's other icons.
+
+
+GOOD TO KNOW
+
+  • Saving as PAGES uses Apple's free Pages app (from the App Store). The
+    first time, macOS asks whether Citrus may control Pages: click OK.
+    No other permissions are needed.
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old Citrus and skips tools that are already installed.
+
+  • To uninstall: choose Quit Citrus from the lemon menu, then drag
+    Citrus from Applications to the Trash. The tools stay installed; to
+    remove them too, run this in Terminal:
+        brew uninstall ffmpeg webp exiftool pngquant openjdk && brew uninstall --cask libreoffice

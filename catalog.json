@@ -76,6 +76,44 @@
       "tagline" : "A Southern Vietnamese word a day, with tone practice."
     },
     {
+      "alternativeTo" : "Tangerine",
+      "audience" : "everyone",
+      "bundleID" : "com.local.citrus",
+      "icon" : "https://store.explainsims.com/icons/citrus.png",
+      "id" : "citrus",
+      "kind" : "tools",
+      "name" : "Citrus",
+      "needs" : "Some conversions need tools its installer adds: run Install Citrus.command from the Download zip once",
+      "readmeURL" : "https://store.explainsims.com/readme/citrus.txt",
+      "release" : {
+        "build" : "2",
+        "chips" : [
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:39:46Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "uGz/lnGWqvqJu1zpgBUKtCXnX86ZPIYO8rWleOaPyTbSLOtfdc/eZ7l4zb4isa7yJFVKaLfpA5HmsPw0oC/XDQ==",
+          "length" : 22457182,
+          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.1/Citrus-1.1-update.zip"
+        },
+        "version" : "1.1",
+        "zip" : {
+          "edSignature" : "/aReEGa//MPmrc7tcyrmOuT+jL310hAl/vfbflPatuXjzU5PUzJl2VbX/33X2GvL14V/FqecqQDwvCcyKFlWBg==",
+          "length" : 22461279,
+          "url" : "https://github.com/explainsims/store/releases/download/citrus-1.1/Citrus-1.1.zip"
+        }
+      },
+      "screenshots" : [
+
+      ],
+      "summary" : "Drag files with a modifier key held to convert them: images, documents, audio and video. Its installer adds the Homebrew tools it uses.",
+      "tagline" : "Convert files by dropping them on the menu bar."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
@@ -127,5 +165,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:39:36Z"
+  "updated" : "2026-11-08T01:39:46Z"
 }
