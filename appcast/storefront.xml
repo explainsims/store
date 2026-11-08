@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Storefront</title>
+    <item>
+      <title>Storefront 1.0.0</title>
+      <pubDate>Sun, 08 Nov 2026 01:39:09 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0-update.zip" length="3298965" type="application/octet-stream" sparkle:edSignature="5dGWqBaPEWOa9iUjBhIhAxKKg9FCCy6BBfUwib3uQ0ejhyqwpaHdWOKw0KzYoirozhmrPsMnzfW3Jk/oIe9UAg=="/>
+    </item>
+  </channel>
+</rss>

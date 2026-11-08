@@ -1,0 +1,56 @@
+{
+  "apps" : [
+    {
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.storefront",
+      "icon" : "https://store.explainsims.com/icons/storefront.png",
+      "id" : "storefront",
+      "isStorefront" : true,
+      "kind" : "tools",
+      "name" : "Storefront",
+      "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
+      "release" : {
+        "build" : "6",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:39:09Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "5dGWqBaPEWOa9iUjBhIhAxKKg9FCCy6BBfUwib3uQ0ejhyqwpaHdWOKw0KzYoirozhmrPsMnzfW3Jk/oIe9UAg==",
+          "length" : 3298965,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "60vV4EYvScmU5V0gbci5/416XHh89v6FLd8AjbUQKQ2QXMq5Q7NMK/jXv4+0wwseXs7Lml5L850BjFZlHpujCQ==",
+          "length" : 3304559,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.0.0/Storefront-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/storefront/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/storefront/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/storefront/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/storefront/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/storefront/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/storefront/3-light.jpg"
+        }
+      ],
+      "summary" : "A menu-bar app that lists every app here, installs any of them without the Open Anyway step, and updates them all.",
+      "tagline" : "Install any of these apps in one click, and keep them all up to date."
+    }
+  ],
+  "format" : 1,
+  "name" : "ExplAIn Sims · Mac apps",
+  "updated" : "2026-11-08T01:39:09Z"
+}
