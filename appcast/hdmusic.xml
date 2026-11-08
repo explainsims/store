@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>HD Music</title>
+    <item>
+      <title>HD Music 1.8.1</title>
+      <pubDate>Sun, 08 Nov 2026 01:40:10 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1-update.zip" length="25504898" type="application/octet-stream" sparkle:edSignature="bjhsq2ZctFkOl7HOjFQiwxBj9ZF9p+e2cBSnlTJvTUBOIXrI0rgVppyHsY38xztMIw7eigFR/RfGKM54bsSqCw=="/>
+    </item>
+  </channel>
+</rss>

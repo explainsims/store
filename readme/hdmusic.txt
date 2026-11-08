@@ -1,0 +1,194 @@
+HD Music 1.8.1
+HD Music is a music player for DSD and hi-res audio. It plays DSF, DFF (including
+DST-compressed), SACD ISO images, Blu-ray audio, audio CDs and every common PCM format,
+and shows you exactly what reaches your DAC. It keeps a library of your music wherever it
+is (Mac, external drives, a NAS), and can tidy a whole collection into a new home.
+
+
+WHAT'S IN THIS FOLDER
+
+  • HD Music.app: the app
+  • Install HD Music.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later.
+
+
+INSTALL
+
+  1. Double-click "Install HD Music.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install HD Music.command" into the Terminal window, and press Return.
+
+  2. The installer copies HD Music into Applications and opens it.
+
+  Prefer to do it by hand? Drag HD Music into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING HD Music
+
+  • Library: Albums, Artists, Songs and Genres at the top of the sidebar
+    (⌘1 to ⌘4). Add the folders, drives or network shares that hold your
+    music (File ▸ Add Music Folder…, or Settings ▸ Library). HD Music reads
+    them once, then only what changes. Albums on a drive that's unplugged
+    stay listed, greyed out, until you connect it again. "Connect to
+    Server…" finds a NAS or another Mac on your network; macOS asks for the
+    password and keeps it in your Keychain.
+
+  • Radio (⌘5): thousands of stations on a world map. Click a place to hear
+    what's on there, or search by name, country or genre. Star the ones
+    you like. Radio plays through HD Music's own output, so your DAC, EQ
+    and Signal Path all apply, and the song title shows when the station
+    sends it. Stations come from the free Radio Browser directory.
+
+  • Internet Archive (⌘6): search the Archive's free music, from the
+    Live Music Archive's concerts to 78 rpm records and netlabels. Play
+    any item straight away: it downloads as it plays, through your DAC,
+    EQ and Signal Path. Star items as favourites; Recently Played keeps
+    the rest. "Save to Library" keeps a tagged, lossless copy with its
+    notes in Music ▸ HD Music Archive (or a folder you choose in
+    Settings ▸ Library). If your connection is slow, Settings ▸ Library
+    ▸ Internet Archive playback can play the Archive's smaller MP3s
+    instead; Automatic picks whichever your downloads keep up with.
+
+  • Remove from Library: right-click an album, artist, song or genre ▸
+    Remove from Library… It disappears from the library but its files stay
+    exactly where they are. Settings ▸ Library ▸ Removed Items brings any
+    of it back.
+
+  • Clean Up (sidebar ▸ Tools): tidies folders where they are. Like
+    Organize, it identifies albums (MusicBrainz) and you review them; then
+    it fixes the tags, renames the files and sorts them into tidy folders
+    inside the folder you chose, and removes folders left empty. Every
+    change is recorded first, so "Undo Clean Up" puts everything back. You
+    can also have it copy the cleaned-up music to a NAS or another drive
+    afterwards.
+
+  • Play Next and Add to Queue: right-click any album or song. The list
+    button at the top right shows what's coming up.
+
+  • Get Info (right-click ▸ Get Info…): edit the tags of one track or many
+    at once, including the cover (drop an image on it). Changes are saved
+    into the files themselves (MP3, FLAC, DSF, DFF, AIFF, WAV, M4A,
+    WavPack, APE); only the tags change, never the audio.
+
+  • Organize (sidebar ▸ Tools): tidies a whole collection into a new place,
+    such as a NAS or a new drive, leaving the originals untouched.
+      1. Sources: the folders and drives your music is on now, and where it
+         should go, and how files should be named.
+      2. Review: HD Music groups files into albums, fills gaps from file
+         and folder names, and identifies albums on MusicBrainz (about two
+         seconds an album; it carries on after a quit). Check the ones
+         marked "Needs a look"; duplicates in lower quality are left out.
+      3. Copy: every file is copied, checked against its original, renamed,
+         and given its fixed tags. Covers, booklets and rip logs come along,
+         and a report lists everything. Your original files are never
+         changed.
+
+  • Mini Player (Window ▸ Mini Player, ⌥⌘M): a small window that stays on
+    top. Controls in the menu bar: Window ▸ Controls in Menu Bar.
+
+  • Playlists: drag music files or folders onto a playlist (left sidebar).
+    + at the bottom of the sidebar makes a new playlist, or a folder
+    playlist that follows a folder on your disk and updates by itself.
+    Double-click a track to play it. Right-click for Play Next, Get Info,
+    Show in Finder, Convert and Remove. CUE sheets split single-file albums into
+    tracks. File ▸ Add Files… (⌘O) works too.
+
+  • Discs: an audio CD in a USB drive appears under Discs with its track
+    names and cover (looked up on MusicBrainz; you can turn that off in
+    Settings ▸ General). SACD ISO images and Blu-ray folders or ISOs open
+    like files. Copy-protected Blu-ray discs can't be played: HD Music
+    never breaks copy protection.
+
+  • Output: choose your DAC from the menu at the top right. Settings ▸
+    Output (⌘,) has the options for each device. DSD playback: DoP sends
+    DSD to the DAC untouched; Convert to PCM is for speakers, headphones
+    and AirPods. You can also set exclusive access, the sample rate,
+    volume, and how 5.1/7.1 is played (stereo downmix, headphones
+    binaural, or one channel per speaker). Exclusive access is off, so
+    your Mac's own sound stays on the DAC. Turn it on to keep other
+    apps' sound out; macOS then moves its own sound to another output
+    while HD Music plays.
+
+  • DSD and volume: DSD reaches the DAC untouched only while the Mac's
+    volume for the DAC is at full. Turn it all the way up and use the
+    DAC's own knob for pure DSD. If you turn the Mac's volume down,
+    HD Music switches to a high-quality PCM conversion so the volume keys
+    still work, and goes back to pure DSD at full volume.
+
+  • Adding music: click Music Library at the top of the sidebar, then
+    drop folders or music files on it (or on Albums, Artists, Songs or
+    Genres), or use Add Folder… and Add Files…. Folders stay where they
+    are and are watched for changes. Loose files are copied into your
+    Music folder, in "HD Music".
+
+  • Check your DAC: Settings ▸ Output ▸ "Check This DAC…" plays a quiet
+    tone at every sample rate, then a DSD tone over DoP at each DSD rate
+    and asks what you heard. HD Music then knows exactly what your DAC
+    takes. Turn the volume down first.
+
+  • Speakers: Settings ▸ Output has a test tone for each speaker. For a
+    5.1/7.1 receiver you can also choose which output each speaker is on.
+
+  • Signal Path (sidebar ▸ Tools, or ⌥⌘1): shows every step from the file
+    to your DAC and tells you whether it's Bit-perfect, DSD untouched (DoP),
+    or Converted, and why. With a level meter and spectrum.
+
+  • EQ & DSP (⌥⌘3): a parametric EQ with presets (import AutoEQ files for
+    your headphones), loudness levelling (ReplayGain), headphone
+    crossfeed, balance. Turn it off for bit-perfect playback. To level
+    files that have no ReplayGain tags, use a playlist's ⋯ menu ▸ Measure
+    Loudness.
+
+  • Converter (⌥⌘2): DSD to FLAC, ALAC or WAV; SACD ISO or DST to plain
+    DSF; PCM to another rate or format. Drop files on it, or right-click
+    tracks ▸ Convert. CD tracks are read twice and compared, and a
+    "Rip log.txt" says whether every track verified.
+
+  • Watchdog: if another app changes your DAC's sample rate while you
+    listen, HD Music tells you and puts it back.
+
+  • Keys: Space plays and pauses, ⌘← and ⌘→ skip, ⌥⌘← and ⌥⌘→ jump
+    10 seconds. Media keys and Now Playing work too.
+
+  • Online: HD Music goes online only to look up audio CDs, to identify
+    albums and fetch covers in Organize (MusicBrainz and the Cover Art
+    Archive), for Radio (the Radio Browser directory and the stations
+    themselves), and for the Internet Archive section (archive.org). The first time you connect to a server, macOS asks whether
+    HD Music may look for devices on your local network.
+
+
+GOOD TO KNOW
+
+  • For a Sony PHA-3 or another USB DAC: set DSD playback to DoP. DSD64
+    and DSD128 then reach the DAC untouched. Higher rates are converted to
+    the best PCM rate the DAC takes.
+
+  • Dolby Atmos and DTS:X play their full lossless 7.1 bed. Rendering the
+    height objects needs Dolby's and DTS's own software, which isn't
+    available to open-source players.
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old one and keeps your settings and playlists.
+
+  • To uninstall: quit HD Music and drag it from Applications to the Trash.
+    Your playlists and library catalogue are in
+    ~/Library/Application Support/HD Music.
+
+  • HD Music is free and open source (MIT). It includes FFmpeg, libbluray
+    and dsd-nexus under the LGPL; their licences and source are inside the
+    app (Contents/Resources/Licenses). It is an open-source alternative to
+    Sony's Hi-Res Audio Player and is not affiliated with Sony. It isn't
+    from the App Store and isn't notarized by Apple, which is why macOS
+    asks you to confirm it the first time.

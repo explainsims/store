@@ -152,6 +152,58 @@
       "tagline" : "See what fills your disk, on a sunburst map."
     },
     {
+      "alternativeTo" : "Sony's Hi-Res Audio Player",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.hdmusic",
+      "icon" : "https://store.explainsims.com/icons/hdmusic.png",
+      "id" : "hdmusic",
+      "internet" : "Only for radio, MusicBrainz and the Internet Archive",
+      "kind" : "music",
+      "licence" : "MIT, with LGPL libraries (FFmpeg, libbluray, dsd-nexus)",
+      "licenceURL" : "https://github.com/explainsims/store/releases/tag/hdmusic-library-sources",
+      "name" : "HD Music",
+      "readmeURL" : "https://store.explainsims.com/readme/hdmusic.txt",
+      "release" : {
+        "build" : "24",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T01:40:10Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "bjhsq2ZctFkOl7HOjFQiwxBj9ZF9p+e2cBSnlTJvTUBOIXrI0rgVppyHsY38xztMIw7eigFR/RfGKM54bsSqCw==",
+          "length" : 25504898,
+          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1-update.zip"
+        },
+        "version" : "1.8.1",
+        "zip" : {
+          "edSignature" : "gtZwkCihR10V3H0eyD/pWv73PsqNzqq0VPR5Wfmhhevik+SZj9FPp6CoinIEZDkfUc1mTB3AEt5M1k/B8gWeDg==",
+          "length" : 25511216,
+          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.1/HD-Music-1.8.1.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/hdmusic/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/hdmusic/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/hdmusic/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/hdmusic/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/hdmusic/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/hdmusic/3-light.jpg"
+        }
+      ],
+      "summary" : "Plays DSF, DFF, SACD ISOs, Blu-ray audio and hi-res files bit-perfect, with a signal path, EQ and converter, a library for local drives and NAS shares, internet radio and the Internet Archive.",
+      "tagline" : "Hi-res and DSD player, with a library, radio and EQ."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
@@ -203,5 +255,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T01:40:00Z"
+  "updated" : "2026-11-08T01:40:10Z"
 }
