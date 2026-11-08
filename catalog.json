@@ -114,6 +114,63 @@
       "tagline" : "Convert files by dragging onto a pop-up wheel."
     },
     {
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.figureit",
+      "icon" : "https://store.explainsims.com/icons/figureit.png",
+      "id" : "figureit",
+      "kind" : "tools",
+      "licence" : "MIT, with teacher.dev's Apache-2.0 figure generators",
+      "name" : "Figure It",
+      "readmeURL" : "https://store.explainsims.com/readme/figureit.txt",
+      "release" : {
+        "build" : "20",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-08T14:07:11Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: 73 figures for Physics, Chemistry, Biology, Maths and Economics, with student copies, answer keys and versions A, B and C."
+        ],
+        "update" : {
+          "edSignature" : "26178HN9Y2Kblh9mel0NDczUfwtwgq+apvEt8CjSb72rDVjDE6aL55ELwa2ETDumrUe2zSUCtXhs6SYKLDjtAQ==",
+          "length" : 4443057,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9-update.zip"
+        },
+        "version" : "0.5.9",
+        "zip" : {
+          "edSignature" : "XGHIGMmREdNjFdiqSN+UrThRLvdLv1bVofh/c04MfZmuimpj/cEfHgpFq4W6fLmGcf9GqOFqTU6w2jX8g+QyDw==",
+          "length" : 4448990,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/figureit/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/figureit/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/figureit/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/figureit/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/figureit/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/figureit/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/figureit/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/figureit/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/figureit/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/figureit/5-light.jpg"
+        }
+      ],
+      "summary" : "73 figures for Physics, Chemistry, Biology, Maths and Economics. Change the numbers and labels, make a student copy and an answer key, make versions A, B and C, then drag the figure into Pages, Keynote or Google Docs.",
+      "tagline" : "Figures for tests and worksheets, with student copies and answer keys."
+    },
+    {
       "alternativeTo" : "DaisyDisk",
       "audience" : "everyone",
       "bundleID" : "org.freeup.FreeUp",
@@ -480,5 +537,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T11:15:56Z"
+  "updated" : "2026-11-08T14:07:11Z"
 }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Figure It</title>
+    <item>
+      <title>Figure It 0.5.9</title>
+      <pubDate>Sun, 08 Nov 2026 14:07:11 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: 73 figures for Physics, Chemistry, Biology, Maths and Economics, with student copies, answer keys and versions A, B and C.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.9/Figure-It-0.5.9-update.zip" length="4443057" type="application/octet-stream" sparkle:edSignature="26178HN9Y2Kblh9mel0NDczUfwtwgq+apvEt8CjSb72rDVjDE6aL55ELwa2ETDumrUe2zSUCtXhs6SYKLDjtAQ=="/>
+    </item>
+  </channel>
+</rss>
