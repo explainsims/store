@@ -9,7 +9,7 @@
 <meta property="og:description" content="Choose which apps' icons to tuck away; the arrow (click, hover or a shortcut) shows everything for a moment. Search opens any icon's menu. Needs macOS 27.">
 <meta property="og:url" content="https://store.explainsims.com/apps/tuck/">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://store.explainsims.com/icons/tuck.png">
+<meta property="og:image" content="https://store.explainsims.com/shots/tuck/1-light.jpg">
 <link rel="icon" type="image/png" href="../../icons/storefront.png">
 <style>:root{--bg:#fbfbfd;--bg2:#f1f1f5;--card:#fff;--edge:0 0 0 .5px rgba(0,0,0,.07),0 6px 22px rgba(30,30,60,.06);--text:#1d1d1f;--text2:#6e6e73;--text3:#a3a3a8;--sep:rgba(0,0,0,.085);--fill:rgba(0,0,0,.06);--accent:#0a7aff;--ink:#0a6be0;--warm:#e98400;--green:#1f8f3b;--raised:#fff;
 --hero:radial-gradient(70% 120% at 15% 0%,#dfe9ff 0%,rgba(223,233,255,0) 60%),radial-gradient(60% 120% at 90% 10%,#ffe6dc 0%,rgba(255,230,220,0) 60%)}
@@ -112,7 +112,11 @@ dialog.fb::backdrop{background:rgba(0,0,0,.32)}
     <div><small>Chip</small><b>Any Mac</b><i>Apple silicon and Intel</i></div>
     <div><small>Updated</small><b>8 Nov</b><i>2026</i></div>
   </section>
-  
+  <section class="shots">
+  <div class="sh"><h2>Screenshots</h2><div class="seg" role="group" aria-label="Appearance"><button type="button" data-mode="light" aria-pressed="true">Light</button><button type="button" data-mode="dark" aria-pressed="false">Dark</button></div></div>
+  <div class="strip"><button type="button" class="shot" data-light="../../shots/tuck/1-light.jpg" data-dark="../../shots/tuck/1-dark.jpg" aria-label="Screenshot 1 of 2, larger"><picture><source srcset="../../shots/tuck/1-dark.jpg" media="(prefers-color-scheme: dark)"><img src="../../shots/tuck/1-light.jpg" alt="Tuck screenshot 1"></picture></button><button type="button" class="shot" data-light="../../shots/tuck/2-light.jpg" data-dark="../../shots/tuck/2-dark.jpg" aria-label="Screenshot 2 of 2, larger"><picture><source srcset="../../shots/tuck/2-dark.jpg" media="(prefers-color-scheme: dark)"><img src="../../shots/tuck/2-light.jpg" alt="Tuck screenshot 2"></picture></button></div>
+</section>
+<dialog class="lightbox" aria-label="Screenshot"><img alt=""><button type="button" class="lb prev" aria-label="Previous">&#8249;</button><button type="button" class="lb next" aria-label="Next">&#8250;</button><button type="button" class="lb x" aria-label="Close">&times;</button></dialog>
   <section class="cols">
     <div><h2>What's new in 1.1.1</h2><ul><li>Apps you delete leave the list by themselves, and you can right-click one that isn't open to remove it. A long list now scrolls instead of running off the screen.</li></ul></div>
     <div><h2>Good to know</h2><dl class="kv"><dt>Read Me</dt><dd><a href="../../readme/tuck.txt">How to use Tuck</a></dd><dt>First open</dt><dd>macOS asks you to allow it once, under System Settings › Privacy &amp; Security › Open Anyway. Apps installed through Storefront skip that.</dd></dl></div>
@@ -136,7 +140,29 @@ dialog.fb::backdrop{background:rgba(0,0,0,.32)}
   
   <p>Not affiliated with Apple or with the makers of any app these are alternatives to.</p>
 </footer>
-
+<script>
+(() => {
+  const shots = [...document.querySelectorAll(".shot")], seg = [...document.querySelectorAll(".seg button")];
+  const box = document.querySelector("dialog.lightbox"), big = box.querySelector("img");
+  let mode = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light", at = 0;
+  const src = (b) => (mode === "dark" && b.dataset.dark) || b.dataset.light;
+  const mark = () => { for (const s of seg) s.setAttribute("aria-pressed", String(s.dataset.mode === mode)); };
+  for (const s of seg) s.addEventListener("click", () => {
+    mode = s.dataset.mode; mark();
+    for (const b of shots) { const source = b.querySelector("source"); if (source) source.remove(); b.querySelector("img").src = src(b); }
+    if (box.open) big.src = src(shots[at]);
+  });
+  mark();
+  const open = (n) => { at = (n + shots.length) % shots.length; big.src = src(shots[at]); big.alt = shots[at].querySelector("img").alt; if (!box.open) box.showModal(); };
+  shots.forEach((b, n) => b.addEventListener("click", () => open(n)));
+  box.querySelector(".prev").onclick = () => open(at - 1);
+  box.querySelector(".next").onclick = () => open(at + 1);
+  box.querySelector(".x").onclick = () => box.close();
+  box.addEventListener("click", (e) => { if (e.target === box) box.close(); });
+  box.addEventListener("keydown", (e) => { if (e.key === "ArrowLeft") open(at - 1); if (e.key === "ArrowRight") open(at + 1); });
+  if (shots.length < 2) for (const b of box.querySelectorAll(".prev,.next")) b.hidden = true;
+})();
+</script>
 <script>
 (() => {
   const cfg = { base: "https://firestore.googleapis.com/v1/", project: "ssis-apps", database: "store-feedback", key: "AIzaSyD40lxPH6seRBUXOtSoF3SEVNTMq3LsZjw", limit: 200, max: 3000 };

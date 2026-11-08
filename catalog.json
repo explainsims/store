@@ -33,7 +33,15 @@
         }
       },
       "screenshots" : [
-
+        {
+          "light" : "https://store.explainsims.com/shots/apodwallpaper/1-light.jpg"
+        },
+        {
+          "light" : "https://store.explainsims.com/shots/apodwallpaper/2-light.jpg"
+        },
+        {
+          "light" : "https://store.explainsims.com/shots/apodwallpaper/3-light.jpg"
+        }
       ],
       "summary" : "Sets your wallpaper to NASA's Astronomy Picture of the Day, the latest whole-Earth satellite picture, a star chart drawn for where you are, or a solid colour.",
       "tagline" : "NASA's picture of the day, Live Earth or the night sky, as your wallpaper."
@@ -70,7 +78,22 @@
         }
       },
       "screenshots" : [
-
+        {
+          "dark" : "https://store.explainsims.com/shots/chao/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/chao/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/chao/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/chao/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/chao/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/chao/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/chao/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/chao/4-light.jpg"
+        }
       ],
       "summary" : "A word of the day in the menu bar, coloured by tone. Say it and see your pitch against the tone, practise with cards and tone drills, and keep a phrase sheet handy.",
       "tagline" : "A Southern Vietnamese word a day, with tone practice."
@@ -108,7 +131,15 @@
         }
       },
       "screenshots" : [
-
+        {
+          "light" : "https://store.explainsims.com/shots/citrus/1-light.jpg"
+        },
+        {
+          "light" : "https://store.explainsims.com/shots/citrus/2-light.jpg"
+        },
+        {
+          "light" : "https://store.explainsims.com/shots/citrus/3-light.jpg"
+        }
       ],
       "summary" : "Drag files with a modifier key held to convert them: images, documents, audio and video. Its installer adds the Homebrew tools it uses.",
       "tagline" : "Convert files by dragging onto a pop-up wheel."
@@ -203,7 +234,18 @@
         }
       },
       "screenshots" : [
-
+        {
+          "dark" : "https://store.explainsims.com/shots/freeup/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/freeup/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/freeup/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/freeup/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/freeup/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/freeup/3-light.jpg"
+        }
       ],
       "summary" : "Scans a disk or folder and draws it as rings. Click to go in, drag what you don't need to be deleted, and see the space come back.",
       "tagline" : "See what fills your disk, on a sunburst map."
@@ -293,7 +335,18 @@
         }
       },
       "screenshots" : [
-
+        {
+          "dark" : "https://store.explainsims.com/shots/hem/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/hem/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/hem/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/hem/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/hem/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/hem/3-light.jpg"
+        }
       ],
       "summary" : "Slide along an edge of the trackpad to change the volume, the screen or keyboard brightness, or scrub what's playing. Tap then slide for a second action.",
       "tagline" : "Volume and brightness sliders on your trackpad's edges."
@@ -368,7 +421,18 @@
         }
       },
       "screenshots" : [
-
+        {
+          "dark" : "https://store.explainsims.com/shots/smartcut/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/smartcut/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/smartcut/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/smartcut/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/smartcut/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/smartcut/3-light.jpg"
+        }
       ],
       "summary" : "Hold ⌘ and a panel lists the front app's keyboard shortcuts, including Google Docs, Sheets, Slides and Gmail in your browser. Type to filter, and find hotkeys that clash.",
       "tagline" : "Hold ⌘ to see every shortcut in the app you're using."
@@ -455,7 +519,18 @@
         }
       },
       "screenshots" : [
-
+        {
+          "dark" : "https://store.explainsims.com/shots/throw/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/throw/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/throw/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/throw/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/throw/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/throw/3-light.jpg"
+        }
       ],
       "summary" : "Connect to nearby TVs as a mirror, an extra screen or a window, drag the TV around an arrangement map, pick a resolution, and remember each room.",
       "tagline" : "AirPlay to TVs from the menu bar, then arrange them."
@@ -493,7 +568,14 @@
         }
       },
       "screenshots" : [
-
+        {
+          "dark" : "https://store.explainsims.com/shots/tuck/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/tuck/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/tuck/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/tuck/2-light.jpg"
+        }
       ],
       "summary" : "Choose which apps' icons to tuck away; the arrow (click, hover or a shortcut) shows everything for a moment. Search opens any icon's menu. Needs macOS 27.",
       "tagline" : "Tidy the menu bar. Tuck icons away behind an arrow."
@@ -528,7 +610,22 @@
         }
       },
       "screenshots" : [
-
+        {
+          "dark" : "https://store.explainsims.com/shots/wordcell/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/wordcell/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/wordcell/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/wordcell/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/wordcell/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/wordcell/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/wordcell/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/wordcell/4-light.jpg"
+        }
       ],
       "summary" : "Word, Grid and Deck tabs in one window, saved together in one file.",
       "tagline" : "Documents, spreadsheets and slides in one app."
