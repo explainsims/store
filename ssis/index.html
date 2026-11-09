@@ -94,7 +94,7 @@ dialog.fb::backdrop{background:rgba(0,0,0,.32)}
   <div id="signedout" class="signin">
     <div class="badge">🎓</div>
     <h2>For SSIS staff</h2>
-    <p>Apps that only work at SSIS. Sign in with your @ssis.edu.vn Google account to see and download them.</p>
+    <p>Apps that only work at SSIS. Sign in with your @ssis.edu.vn staff Google account to see and download them.</p>
     <button id="signin" class="btn primary">Sign In with SSIS</button>
     <p id="problem" class="problem" hidden></p>
   </div>
@@ -122,8 +122,13 @@ function problem(text) { $("problem").textContent = text; $("problem").hidden = 
 $("signin").onclick = () => signInWithPopup(auth, provider).catch((e) => problem("Sign-in didn't finish: " + e.message));
 $("signout").onclick = () => signOut(auth);
 onAuthStateChanged(auth, async (user) => {
-  if (user && !(user.email || "").toLowerCase().endsWith("@" + domain)) {
+  const mail = (user?.email || "").toLowerCase();
+  if (user && !mail.endsWith("@" + domain)) {
     await signOut(auth); problem("Only @" + domain + " accounts can see these apps."); return;
+  }
+  // Students' addresses end in their graduation year (as Storefront and the storage rules check).
+  if (user && /[0-9]{2}$/.test(mail.slice(0, -(domain.length + 1)))) {
+    await signOut(auth); problem(mail + " is a student account. These apps are for staff only."); return;
   }
   $("signedout").hidden = !!user; $("signedin").hidden = !user;
   if (!user) return;
