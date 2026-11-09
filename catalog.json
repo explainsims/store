@@ -447,26 +447,26 @@
       "name" : "Storefront",
       "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
       "release" : {
-        "build" : "34",
+        "build" : "37",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T05:08:24Z",
+        "date" : "2026-11-09T07:13:21Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "The SSIS apps are now for staff only: student accounts are turned away when they sign in."
+          "Each app's Read Me now opens laid out, with headings and numbered steps, instead of as a plain text file."
         ],
         "update" : {
-          "edSignature" : "zZQrErOjM79/0f4LvpS3Bc+l+bsZLZQ8qe6Hv5wlK6E9iUoKVnafxPPdgDw0Aopy2JRqNadmyEh2uRAXJHanBg==",
-          "length" : 3811908,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.3/Storefront-1.1.3-update.zip"
+          "edSignature" : "i7ZI6PEZGUDKGpj4LfC5GoaDdX1bat9CnV2kiku677P4SvuRiJde3byGOf0hgcdod9doFHBxEqTHSzd8iYfrCQ==",
+          "length" : 4037125,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.2.0/Storefront-1.2.0-update.zip"
         },
-        "version" : "1.1.3",
+        "version" : "1.2.0",
         "zip" : {
-          "edSignature" : "Lf8M/CTKIEPzHRwvvydFIqd5sWtEGGwUrJfinPP5ccvk7Yj6HORkch+1BDX620p42cqpBrjd1VlQog9KH/tVAA==",
-          "length" : 3817990,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.3/Storefront-1.1.3.zip"
+          "edSignature" : "qDAE5Ru2x0GsCypukV5dpoAUr1tXlRUmlYpWNXRkIGca4RK9mBniQojrznmf7kUYv69GxmBAzrwj0RnlUEbpCg==",
+          "length" : 4043274,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.2.0/Storefront-1.2.0.zip"
         }
       },
       "screenshots" : [
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T06:25:20Z"
+  "updated" : "2026-11-09T07:13:21Z"
 }

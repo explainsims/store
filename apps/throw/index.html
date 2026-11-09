@@ -89,6 +89,14 @@ dialog.fb::backdrop{background:rgba(0,0,0,.32)}
 .fine{font-size:12px;color:var(--text2);margin:10px 0 0}
 .done{display:flex;align-items:center;gap:12px}.done div{flex:1}.done b{display:block}.done small{color:var(--text2);font-size:12.5px}
 .tick{width:36px;height:36px;border-radius:18px;display:grid;place-items:center;background:color-mix(in srgb,var(--green) 16%,transparent);color:var(--green);font-weight:700}
+.readme{max-width:760px}.rmtop{display:flex;justify-content:space-between;align-items:baseline;font-size:14px}.rmtop .back{margin-bottom:10px}
+.rmhead{display:flex;gap:16px;align-items:center;margin:4px 0 22px}.rmhead .icon{flex:none;width:64px;height:64px}.rmhead h1{margin:0;font-size:32px;letter-spacing:-.025em;line-height:1.1}.rmhead p{margin:3px 0 0;color:var(--text2)}
+.readme h2{font-size:20px;margin:32px 0 10px;letter-spacing:-.01em}.readme p{margin:10px 0;line-height:1.55}.readme p.lead{font-size:17px;color:var(--text2)}
+.readme code{font:13.5px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--fill);border-radius:5px;padding:1px 6px}
+ul.rm{margin:8px 0;padding-left:22px;line-height:1.55}ul.rm>li{margin:8px 0;padding-left:2px}ul.rm li::marker{color:var(--text3)}ul.rm ul{margin:6px 0;padding-left:20px}ul.rm ul li{margin:4px 0;list-style:"– "}
+ol.rm{list-style:none;margin:8px 0;padding:0}ol.rm>li{display:flex;gap:12px;margin:12px 0;line-height:1.55}ol.rm>li>div{flex:1;min-width:0}ol.rm>li>div>p{margin:0 0 8px}
+ol.rm .n{flex:none;width:24px;height:24px;border-radius:12px;display:grid;place-items:center;margin-top:1px;background:color-mix(in srgb,var(--accent) 14%,transparent);color:var(--ink);font-weight:700;font-size:13px;font-variant-numeric:tabular-nums}
+.rmend{margin-top:34px}
 @media (max-width:760px){.applist{grid-template-columns:1fr}.search{margin-left:0;flex:1 1 100%}.apphead{flex-direction:column;align-items:flex-start;gap:14px}.apphead .icon{width:96px;height:96px}
 .facts{grid-template-columns:repeat(3,1fr);row-gap:14px}.facts div:nth-child(4){border-left:0}.cols{grid-template-columns:1fr;gap:24px}.fbrow{flex-wrap:wrap}.fbrow span{flex:1 1 100%}}
 @media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}}</style>
@@ -119,7 +127,7 @@ dialog.fb::backdrop{background:rgba(0,0,0,.32)}
 <dialog class="lightbox" aria-label="Screenshot"><img alt=""><button type="button" class="lb prev" aria-label="Previous">&#8249;</button><button type="button" class="lb next" aria-label="Next">&#8250;</button><button type="button" class="lb x" aria-label="Close">&times;</button></dialog>
   <section class="cols">
     <div><h2>What's new in 1.1.0</h2><ul><li>Finds Apple TVs close by the way Screen Mirroring does, even on school networks that keep them apart (over direct Wi-Fi), and connects to them reliably. If Control Center doesn't list a screen, Throw tries System Settings › Displays.</li></ul></div>
-    <div><h2>Good to know</h2><dl class="kv"><dt>Read Me</dt><dd><a href="../../readme/throw.txt">How to use Throw</a></dd><dt>First open</dt><dd>macOS asks you to allow it once, under System Settings › Privacy &amp; Security › Open Anyway. Apps installed through Storefront skip that.</dd></dl></div>
+    <div><h2>Good to know</h2><dl class="kv"><dt>Read Me</dt><dd><a href="readme.html">How to use Throw</a></dd><dt>First open</dt><dd>macOS asks you to allow it once, under System Settings › Privacy &amp; Security › Open Anyway. Apps installed through Storefront skip that.</dd></dl></div>
   </section>
   <section class="fbcard" id="feedback"><div class="fbtop"><h2>Send feedback about Throw</h2><span class="priv"><svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="2" y="5.2" width="8" height="5.6" rx="1.4"/><path d="M3.8 5.2V3.8a2.2 2.2 0 0 1 4.4 0v1.4"/></svg>Private and anonymous</span></div>
   <div class="fbbox" data-app="throw">

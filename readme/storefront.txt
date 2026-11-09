@@ -1,4 +1,4 @@
-Storefront 1.1.3
+Storefront 1.2.0
 Storefront puts all of Lennox's free Mac apps in one place. Install any of them in a click, and keep them all up
 to date from the menu bar.
 
@@ -41,6 +41,9 @@ USING Storefront
   • "Open Storefront…" shows every app. Click one to see what it does,
     screenshots and what's new, then Install. Apps you install here open
     straight away, with no "Open Anyway" step.
+
+  • "How to use …" on an app's page opens its Read Me, laid out with
+    headings and steps. Plain Text opens the file that comes in its zip.
 
   • Storefront checks for updates when it starts, when your Mac wakes, and
     every six hours, and tells you when there are some. Turn that off in
