@@ -60,20 +60,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:24:50Z",
+        "date" : "2026-11-09T00:38:29Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in Chào's menu and its gear menu. From now on Chào updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "sK4ys2x1w8L955s4T+JKyA0fPG05pjfrSJQ3SCIwkZqgPQYJROGNw2qt0N01VkbhuIliHAoulAkIy3CIlom2CA==",
+          "edSignature" : "ntGnAMX1ErQ1eG4lIJhJuZ+EAzjU1F2pKp7f5Ykv+336VHg6DfKF6bT/sHuU1EPQz/3OHEQ+YtVkLiBlR0cPDg==",
           "length" : 2732380,
           "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.1/Chao-1.0.1-update.zip"
         },
         "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "W8W/F6FgmgQeb5SSaX0ohpjSvloZmTuQCd2FuJkNShKoj3tfS1ztXpjkmwye20bvewZwL0Hmk7OOZWwlM6W7Dg==",
-          "length" : 2737279,
+          "edSignature" : "VjSFN74blffIkzE9+H238MomnyuW+ob3voR1wJ/B2kAFpXUGteru2wXKKHwqpFUddPp1KF/rOZ8JfQHw69XpBg==",
+          "length" : 2737620,
           "url" : "https://github.com/explainsims/store/releases/download/chao-1.0.1/Chao-1.0.1.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:38:12Z"
+  "updated" : "2026-11-09T00:38:29Z"
 }

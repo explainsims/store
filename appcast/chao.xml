@@ -4,12 +4,12 @@
     <title>Chào</title>
     <item>
       <title>Chào 1.0.1</title>
-      <pubDate>Sun, 08 Nov 2026 15:24:50 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:38:29 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Check for Updates… in Chào's menu and its gear menu. From now on Chào updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/chao-1.0.1/Chao-1.0.1-update.zip" length="2732380" type="application/octet-stream" sparkle:edSignature="sK4ys2x1w8L955s4T+JKyA0fPG05pjfrSJQ3SCIwkZqgPQYJROGNw2qt0N01VkbhuIliHAoulAkIy3CIlom2CA=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/chao-1.0.1/Chao-1.0.1-update.zip" length="2732380" type="application/octet-stream" sparkle:edSignature="ntGnAMX1ErQ1eG4lIJhJuZ+EAzjU1F2pKp7f5Ykv+336VHg6DfKF6bT/sHuU1EPQz/3OHEQ+YtVkLiBlR0cPDg=="/>
     </item>
   </channel>
 </rss>

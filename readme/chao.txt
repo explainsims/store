@@ -28,7 +28,7 @@ INSTALL
      Or open Terminal, type  bash  followed by a space, drag
      "Install Chào.command" into the Terminal window, and press Return.
 
-  2. The installer copies Chào into Applications and opens it.
+  2. The installer moves Chào into Applications and opens it.
 
   3. Look for the speech bubble on a small red square in the menu bar, with
      today's word beside it. macOS also tells you a login item was added:
