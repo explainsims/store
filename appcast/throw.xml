@@ -4,12 +4,12 @@
     <title>Throw</title>
     <item>
       <title>Throw 1.0.3</title>
-      <pubDate>Sun, 08 Nov 2026 15:24:32 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:40:44 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Check for Updates… in Throw's menu, above Quit. From now on Throw updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3-update.zip" length="3136609" type="application/octet-stream" sparkle:edSignature="iUs5MilBb675LOfS8t+CjUL17pzs3VexWlEpwm/c+hTTwkFe1Rxar7sPtZVddbaea/HQ12lVKwEnLbKeDf9VBw=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3-update.zip" length="3136609" type="application/octet-stream" sparkle:edSignature="ON7OU3LvJ4/wHwvYU6V9YFLWyUMJQ//CpCNp5+RYZRpSZsmwKbDu/XVZVB/U8xDFm6aUjW0L/yIOKdzAj8erDQ=="/>
     </item>
   </channel>
 </rss>

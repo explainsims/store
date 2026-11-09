@@ -500,20 +500,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:24:32Z",
+        "date" : "2026-11-09T00:40:44Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in Throw's menu, above Quit. From now on Throw updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "iUs5MilBb675LOfS8t+CjUL17pzs3VexWlEpwm/c+hTTwkFe1Rxar7sPtZVddbaea/HQ12lVKwEnLbKeDf9VBw==",
+          "edSignature" : "ON7OU3LvJ4/wHwvYU6V9YFLWyUMJQ//CpCNp5+RYZRpSZsmwKbDu/XVZVB/U8xDFm6aUjW0L/yIOKdzAj8erDQ==",
           "length" : 3136609,
           "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3-update.zip"
         },
         "version" : "1.0.3",
         "zip" : {
-          "edSignature" : "mRNXrLGG0O+MXupAjp2mDd2PXNTEEq9iDrGG0MGUVk+iPrss4mbh1JKggRL0q36M2uiDb5k6QhGLGHx6cZQqBA==",
-          "length" : 3141392,
+          "edSignature" : "6UgxfIPLdSImrqOaufrIvL2fs5Fasxtb6WaPU5Kvy+9LC9XoGd4wFB7Tdmdro4y/Fw7U6kYt4fJBgy33c3UMAw==",
+          "length" : 3141735,
           "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:40:30Z"
+  "updated" : "2026-11-09T00:40:44Z"
 }
