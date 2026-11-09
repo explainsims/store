@@ -4,12 +4,12 @@
     <title>Figure It</title>
     <item>
       <title>Figure It 0.5.10</title>
-      <pubDate>Sun, 08 Nov 2026 15:24:13 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:39:04 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Check for Updates… in the Figure It menu. From now on Figure It updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10-update.zip" length="5366760" type="application/octet-stream" sparkle:edSignature="dT2tQbHtl7ko1455Cqfkc8G1ti4s6rTw/cY6OgqCYZhn0Dlu724w3VYQrMIqP3QzRSUSQTc+6NHMvC12RwqRDQ=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10-update.zip" length="5366760" type="application/octet-stream" sparkle:edSignature="qAMtolga/TszcWJ+5X4T7Vfucq4K/9juoAZDvV7VmvpOzJJToFfP126yraM6IZMZ14xUGtNE8tptFWtHeltsCg=="/>
     </item>
   </channel>
 </rss>

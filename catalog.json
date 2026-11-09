@@ -159,20 +159,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:24:13Z",
+        "date" : "2026-11-09T00:39:04Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in the Figure It menu. From now on Figure It updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "dT2tQbHtl7ko1455Cqfkc8G1ti4s6rTw/cY6OgqCYZhn0Dlu724w3VYQrMIqP3QzRSUSQTc+6NHMvC12RwqRDQ==",
+          "edSignature" : "qAMtolga/TszcWJ+5X4T7Vfucq4K/9juoAZDvV7VmvpOzJJToFfP126yraM6IZMZ14xUGtNE8tptFWtHeltsCg==",
           "length" : 5366760,
           "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10-update.zip"
         },
         "version" : "0.5.10",
         "zip" : {
-          "edSignature" : "lVNakS5RoAj2xJXZHDV8mGIbZDTaoENE8vEQnq4c3V7uvNA/pMaKCxVYkm2XduIxsPwD3otzuCBYEPE98DlaDw==",
-          "length" : 5375434,
+          "edSignature" : "Fsq3DxHlb7pRYTiyv2ZTeRPceXtOQETbTlkQjKYzP2z+mdZ5GCUSuPOgs9OzqEsvODqlxzvN40EXsCWkxWWtCg==",
+          "length" : 5375771,
           "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:38:41Z"
+  "updated" : "2026-11-09T00:39:04Z"
 }
