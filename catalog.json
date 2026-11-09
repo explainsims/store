@@ -268,20 +268,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:23:58Z",
+        "date" : "2026-11-09T00:39:31Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in the HD Music menu. From now on HD Music updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "cV2MNKB5nLpVINpQ12PahqQ8i52yjB7ezeTeZL5V9Bbe3PaepuTOmVytczkYeHpF/Yh3K6IWogWpA+6ujab2CA==",
+          "edSignature" : "gdocjsidimOLV3zJUlHJsI20mX8Lw2ELRhVksI3+N6lEodywrKb9IniSq3t/U6Zed54qwM4M6sQYoWhqxzy2Bg==",
           "length" : 26428448,
           "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.2/HD-Music-1.8.2-update.zip"
         },
         "version" : "1.8.2",
         "zip" : {
-          "edSignature" : "UfUYEdoMmzNuumkpSSEJFI4Ft0oE4e28K9HzeelppDudvdpCk3U4GouKNpLI9mTYu0BfgJwXIVafHm6+7HXcCA==",
-          "length" : 26437215,
+          "edSignature" : "F4C5xpamT96G6fFkaa8GuS+6Jn75rCRsEEEXBcPI9QcI0m2A1BHDRpuISHp6r+2iDUEWIl+MvlSmyOpwaqxxBA==",
+          "length" : 26437555,
           "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.8.2/HD-Music-1.8.2.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:39:18Z"
+  "updated" : "2026-11-09T00:39:31Z"
 }
