@@ -3,13 +3,13 @@
   <channel>
     <title>Throw</title>
     <item>
-      <title>Throw 1.0.3</title>
-      <pubDate>Mon, 09 Nov 2026 00:40:44 +0000</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <title>Throw 1.1.0</title>
+      <pubDate>Mon, 09 Nov 2026 06:25:20 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Check for Updates… in Throw's menu, above Quit. From now on Throw updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3-update.zip" length="3136609" type="application/octet-stream" sparkle:edSignature="ON7OU3LvJ4/wHwvYU6V9YFLWyUMJQ//CpCNp5+RYZRpSZsmwKbDu/XVZVB/U8xDFm6aUjW0L/yIOKdzAj8erDQ=="/>
+      <description><![CDATA[<ul><li>Finds Apple TVs close by the way Screen Mirroring does, even on school networks that keep them apart (over direct Wi-Fi), and connects to them reliably. If Control Center doesn't list a screen, Throw tries System Settings › Displays.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/throw-1.1.0/Throw-1.1.0-update.zip" length="3210063" type="application/octet-stream" sparkle:edSignature="NBrRqLmaulTLI0bjyA2Sx6ZI5BW++iHepTIZT58sy6vVMpONtb6O3EqhPqchv0farrpwX9wzONan2EFN6fScAQ=="/>
     </item>
   </channel>
 </rss>

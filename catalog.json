@@ -495,26 +495,26 @@
       "name" : "Throw",
       "readmeURL" : "https://store.explainsims.com/readme/throw.txt",
       "release" : {
-        "build" : "12",
+        "build" : "16",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T00:40:44Z",
+        "date" : "2026-11-09T06:25:20Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Check for Updates… in Throw's menu, above Quit. From now on Throw updates itself, checking once a day."
+          "Finds Apple TVs close by the way Screen Mirroring does, even on school networks that keep them apart (over direct Wi-Fi), and connects to them reliably. If Control Center doesn't list a screen, Throw tries System Settings › Displays."
         ],
         "update" : {
-          "edSignature" : "ON7OU3LvJ4/wHwvYU6V9YFLWyUMJQ//CpCNp5+RYZRpSZsmwKbDu/XVZVB/U8xDFm6aUjW0L/yIOKdzAj8erDQ==",
-          "length" : 3136609,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3-update.zip"
+          "edSignature" : "NBrRqLmaulTLI0bjyA2Sx6ZI5BW++iHepTIZT58sy6vVMpONtb6O3EqhPqchv0farrpwX9wzONan2EFN6fScAQ==",
+          "length" : 3210063,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.0/Throw-1.1.0-update.zip"
         },
-        "version" : "1.0.3",
+        "version" : "1.1.0",
         "zip" : {
-          "edSignature" : "6UgxfIPLdSImrqOaufrIvL2fs5Fasxtb6WaPU5Kvy+9LC9XoGd4wFB7Tdmdro4y/Fw7U6kYt4fJBgy33c3UMAw==",
-          "length" : 3141735,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.0.3/Throw-1.0.3.zip"
+          "edSignature" : "ElWviVN291B6/SqxNe4qpTebLPcAumG/S33IKiHsL8YpGZSVzIY4KrF6g8p0LLexWlkigmhCpX4YuLmZeTHMCg==",
+          "length" : 3215339,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.0/Throw-1.1.0.zip"
         }
       },
       "screenshots" : [
@@ -531,7 +531,7 @@
           "light" : "https://store.explainsims.com/shots/throw/3-light.jpg"
         }
       ],
-      "summary" : "Connect to nearby TVs as a mirror, an extra screen or a window, drag the TV around an arrangement map, pick a resolution, and remember each room.",
+      "summary" : "Connect to nearby TVs, and to Apple TVs over direct Wi-Fi where the network keeps them apart, as a mirror, an extra screen or a window. Drag the TV around an arrangement map, pick a resolution, and remember each room.",
       "tagline" : "AirPlay to TVs from the menu bar, then arrange them."
     },
     {
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T05:08:24Z"
+  "updated" : "2026-11-09T06:25:20Z"
 }

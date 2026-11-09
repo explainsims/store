@@ -1,4 +1,4 @@
-Throw 1.0.3
+Throw 1.1.0
 Show your Mac on a TV, an Apple TV or a projector, then put the screen
 where you want it and pick its resolution, all from one menu-bar icon.
 
@@ -14,8 +14,10 @@ BEFORE YOU START
 
   • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
     on macOS 27.
-  • The TV or Apple TV must be on, with AirPlay turned on, and on the same
-    network as your Mac.
+  • The TV or Apple TV must be on, with AirPlay turned on. A TV must be on
+    the same network as your Mac. An Apple TV close by also works over
+    direct Wi-Fi, even on a school or office network that keeps it apart.
+  • Bluetooth and Wi-Fi on, so your Mac can find Apple TVs close by.
 
 
 INSTALL
@@ -48,7 +50,9 @@ INSTALL
 USING Throw
 
   • Click Throw's icon (a screen with an arc thrown into it) in the menu
-    bar. It lists the screens near you.
+    bar. It lists the screens near you. Apple TVs close by can take a few
+    seconds to appear; "direct Wi-Fi" under a name means your Mac reaches
+    it directly rather than over the network.
 
   • Choose Mirror, Extend or Window under "Connect as", then click a screen
     and Connect. If the TV shows a code, type it in the box macOS puts up.
