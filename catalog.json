@@ -216,20 +216,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:23:49Z",
+        "date" : "2026-11-09T00:39:18Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in the FreeUp menu. From now on FreeUp updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "l9DYCFXo4XW3dm86EcLEwJVZTka1LjtjTUC4zIwfzdiORaYoqvUi6FLr7CWmhWSeyCjiMxlEVSqtOkhZTgKVCg==",
+          "edSignature" : "w1x2HeO8ruWrwA30TXo11Bguoppux+QHcQlsMjXFQs3smflEibvtAQAfEnipJGTLgBvvgR84EN8U47fGfjSzCQ==",
           "length" : 3286191,
           "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1-update.zip"
         },
         "version" : "2.1.1",
         "zip" : {
-          "edSignature" : "fbMP4YglPIMli+LSaSGW7Tyjw/2SuC/dhPCOHtG98kxxypaTMi9vq3xSRmm4PwFRFENZOx931VITf/+oXhMmDQ==",
-          "length" : 3290780,
+          "edSignature" : "O5uZDJP5YTdvRcYvBOrHFlm9jtvTHqjgc4tT0U1611oX1usSCTKdN/oCyARBwcKEUdF0XXr6i7XuMuwcVbViCw==",
+          "length" : 3291121,
           "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:39:04Z"
+  "updated" : "2026-11-09T00:39:18Z"
 }

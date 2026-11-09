@@ -4,12 +4,12 @@
     <title>FreeUp</title>
     <item>
       <title>FreeUp 2.1.1</title>
-      <pubDate>Sun, 08 Nov 2026 15:23:49 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:39:18 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Check for Updates… in the FreeUp menu. From now on FreeUp updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1-update.zip" length="3286191" type="application/octet-stream" sparkle:edSignature="l9DYCFXo4XW3dm86EcLEwJVZTka1LjtjTUC4zIwfzdiORaYoqvUi6FLr7CWmhWSeyCjiMxlEVSqtOkhZTgKVCg=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1-update.zip" length="3286191" type="application/octet-stream" sparkle:edSignature="w1x2HeO8ruWrwA30TXo11Bguoppux+QHcQlsMjXFQs3smflEibvtAQAfEnipJGTLgBvvgR84EN8U47fGfjSzCQ=="/>
     </item>
   </channel>
 </rss>
