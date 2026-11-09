@@ -452,20 +452,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:33:47Z",
+        "date" : "2026-11-09T00:40:30Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "When Storefront finds an update by itself, its update window now comes to the front, so it isn't missed behind other windows."
         ],
         "update" : {
-          "edSignature" : "QiK9hLXnZPEl6b4vNZv/MmkbEmfoQ8cuUYgVO1GPNb1tru2PYUAVwq4Ku1iWZZc7XWZJHeCAvWkzrfaF7Tq9DA==",
+          "edSignature" : "pJrvlaA4jFRokKZ7A6G1IzUF6HVsFw7DtIimb56mbL2EGcDk0lEP2CPtfQUEKoyq5SX+l0cdAyzv1zzEU2T2Ag==",
           "length" : 3808836,
           "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.2/Storefront-1.1.2-update.zip"
         },
         "version" : "1.1.2",
         "zip" : {
-          "edSignature" : "Eiq+017aWEr9dAgPdrlLX6tpotUQueu/LnP8MyPVva75Oe9IuSWx3pnlnEugL4WStN5zWIaZmdZjRdgF29IgBg==",
-          "length" : 3814578,
+          "edSignature" : "2woNvfy4SC9PueXLQ1t74GUZA0PqfckR4XZD4733TMrpKBpea7T3ACZgaa5bPyh3o6oh+9ZDC5pPrqRICpbiDg==",
+          "length" : 3814918,
           "url" : "https://github.com/explainsims/store/releases/download/storefront-1.1.2/Storefront-1.1.2.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:40:19Z"
+  "updated" : "2026-11-09T00:40:30Z"
 }

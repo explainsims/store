@@ -4,12 +4,12 @@
     <title>Storefront</title>
     <item>
       <title>Storefront 1.1.2</title>
-      <pubDate>Sun, 08 Nov 2026 15:33:47 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:40:30 +0000</pubDate>
       <sparkle:version>32</sparkle:version>
       <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>When Storefront finds an update by itself, its update window now comes to the front, so it isn't missed behind other windows.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.1.2/Storefront-1.1.2-update.zip" length="3808836" type="application/octet-stream" sparkle:edSignature="QiK9hLXnZPEl6b4vNZv/MmkbEmfoQ8cuUYgVO1GPNb1tru2PYUAVwq4Ku1iWZZc7XWZJHeCAvWkzrfaF7Tq9DA=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.1.2/Storefront-1.1.2-update.zip" length="3808836" type="application/octet-stream" sparkle:edSignature="pJrvlaA4jFRokKZ7A6G1IzUF6HVsFw7DtIimb56mbL2EGcDk0lEP2CPtfQUEKoyq5SX+l0cdAyzv1zzEU2T2Ag=="/>
     </item>
   </channel>
 </rss>
