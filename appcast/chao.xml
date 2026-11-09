@@ -3,13 +3,13 @@
   <channel>
     <title>Chào</title>
     <item>
-      <title>Chào 1.0.1</title>
-      <pubDate>Mon, 09 Nov 2026 00:38:29 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <title>Chào 1.0.2</title>
+      <pubDate>Mon, 09 Nov 2026 10:42:03 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Check for Updates… in Chào's menu and its gear menu. From now on Chào updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/chao-1.0.1/Chao-1.0.1-update.zip" length="2732380" type="application/octet-stream" sparkle:edSignature="ntGnAMX1ErQ1eG4lIJhJuZ+EAzjU1F2pKp7f5Ykv+336VHg6DfKF6bT/sHuU1EPQz/3OHEQ+YtVkLiBlR0cPDg=="/>
+      <description><![CDATA[<ul><li>Launch at Login now always opens this copy in Applications. Before, a Mac could keep opening an old copy at login.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/chao-1.0.2/Chao-1.0.2-update.zip" length="2734619" type="application/octet-stream" sparkle:edSignature="BxVzJ+jVAQDTE3q+4Beqysls3yiCq1U44ks87qXTONW3yw4zSndx/Xn1wRQ1XRpwPSi2S0h17scK8TK+vmQ5Bw=="/>
     </item>
   </channel>
 </rss>
