@@ -4,12 +4,12 @@
     <title>Citrus</title>
     <item>
       <title>Citrus 1.2.1</title>
-      <pubDate>Sun, 08 Nov 2026 15:25:10 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:38:41 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Check for Updates… in Citrus's menu. From now on Citrus updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/citrus-1.2.1/Citrus-1.2.1-update.zip" length="24394049" type="application/octet-stream" sparkle:edSignature="iN8HmOo8Wuz5YtkUeTNcElK3EshsHFyRIXxQnTekVSSzLOnCYzVymk246Grynq7FSW72XyQkSVPyKmRt7nsDCg=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/citrus-1.2.1/Citrus-1.2.1-update.zip" length="24394049" type="application/octet-stream" sparkle:edSignature="PvIO9e3uUahc6T0xGhM3nBO50t1YYKwC3NN6W2rtNZAuxT3eichVPXU5wcSDZyPWEht/V12LiD/7EekYkGRmDw=="/>
     </item>
   </channel>
 </rss>

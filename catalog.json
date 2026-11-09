@@ -113,20 +113,20 @@
         "chips" : [
           "arm64"
         ],
-        "date" : "2026-11-08T15:25:10Z",
+        "date" : "2026-11-09T00:38:41Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in Citrus's menu. From now on Citrus updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "iN8HmOo8Wuz5YtkUeTNcElK3EshsHFyRIXxQnTekVSSzLOnCYzVymk246Grynq7FSW72XyQkSVPyKmRt7nsDCg==",
+          "edSignature" : "PvIO9e3uUahc6T0xGhM3nBO50t1YYKwC3NN6W2rtNZAuxT3eichVPXU5wcSDZyPWEht/V12LiD/7EekYkGRmDw==",
           "length" : 24394049,
           "url" : "https://github.com/explainsims/store/releases/download/citrus-1.2.1/Citrus-1.2.1-update.zip"
         },
         "version" : "1.2.1",
         "zip" : {
-          "edSignature" : "+EHWUIWG1IKnjyYOBf8p3zDNuXyHc6i51H6GbS4u2u/7VARl9IJkOFSPNx2ndjalb58I9iVjNEyGtNZcrKSbDA==",
-          "length" : 24400683,
+          "edSignature" : "GHk1lE34b/1fpUv/vuYyVh4IhgTqLcAitgOUpFj4UZNFVnihHA16+hFAawaqg5obxQmRPjM0WjWLLyv0LWVGDA==",
+          "length" : 24401030,
           "url" : "https://github.com/explainsims/store/releases/download/citrus-1.2.1/Citrus-1.2.1.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:38:29Z"
+  "updated" : "2026-11-09T00:38:41Z"
 }

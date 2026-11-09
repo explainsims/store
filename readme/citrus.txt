@@ -38,7 +38,7 @@ INSTALL
        • installs Homebrew if needed (the standard free installer for Mac tools)
        • installs ffmpeg, WebP tools, ExifTool, pngquant, pandoc, Java and
          LibreOffice (anything already installed is skipped)
-       • copies Citrus into Applications and opens it
+       • moves Citrus into Applications and opens it
 
   3. Look for the lemon in the menu bar, on a small green square.
 
