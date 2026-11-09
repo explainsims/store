@@ -317,20 +317,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:24:41Z",
+        "date" : "2026-11-09T00:39:55Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… at the bottom of Hem's panel. From now on Hem updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "1fvvZtc3RGYww/OGRnTWo9B+DFAkxrsjYe1meC3kPXBNUvMWa4MImAj5T2r+WB6+3V04EnLZ0C4TJRtE3kTZBA==",
+          "edSignature" : "wqLRLmR+AuMAvLRQyFffYdKJqZGLImHFDKqbLpm7d1v+anwgaOdQIKor1Xr+vMquIoNFO4DBeZrsG0JC4wT/CA==",
           "length" : 2321718,
           "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.1/Hem-1.0.1-update.zip"
         },
         "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "ruX8/8zUnXtz/19YK+Muld1b1b+cEeyXMsPqFgDoHlnfaJetnjvi5aJNp7dPrm8/oZr3viaqQbj8L03JzNWIDw==",
-          "length" : 2326109,
+          "edSignature" : "QRlVck3mLqSkuTUbwLnR/96HkOlIlbzGNkLJMDDx0SAhm8J/xIfaR8FnWAsThsoS0V6RIJhSSO2Yl/GLB0AxCg==",
+          "length" : 2326450,
           "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.1/Hem-1.0.1.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:39:31Z"
+  "updated" : "2026-11-09T00:39:55Z"
 }

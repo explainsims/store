@@ -32,7 +32,7 @@ INSTALL
      Or open Terminal, type  bash  followed by a space, drag
      "Install Hem.command" into the Terminal window, and press Return.
 
-  2. The installer copies Hem into Applications and opens it. A welcome
+  2. The installer moves Hem into Applications and opens it. A welcome
      window walks you through the rest.
 
   3. Allow Accessibility when the welcome window asks: System Settings →
