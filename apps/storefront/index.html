@@ -99,7 +99,12 @@ ol.rm .n{flex:none;width:24px;height:24px;border-radius:12px;display:grid;place-
 .rmend{margin-top:34px}
 @media (max-width:760px){.applist{grid-template-columns:1fr}.search{margin-left:0;flex:1 1 100%}.apphead{flex-direction:column;align-items:flex-start;gap:14px}.apphead .icon{width:96px;height:96px}
 .facts{grid-template-columns:repeat(3,1fr);row-gap:14px}.facts div:nth-child(4){border-left:0}.cols{grid-template-columns:1fr;gap:24px}.fbrow{flex-wrap:wrap}.fbrow span{flex:1 1 100%}}
-@media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}}</style>
+.term{margin-top:14px;max-width:620px;font-size:13px;color:var(--text2)}.term summary{cursor:pointer;color:var(--ink);font-size:14px;width:max-content}
+.get .term p,.term p{margin:8px 0;font-size:13px;color:var(--text2)}
+.get>div{min-width:0}.cmd{display:flex;flex-wrap:wrap;align-items:center;gap:8px;background:var(--bg2);border-radius:10px;padding:7px 7px 7px 12px;box-shadow:inset 0 0 0 .5px var(--sep)}
+.cmd code{flex:1 1 170px;min-width:0;font:12.5px/1.45 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--text);overflow-wrap:anywhere;user-select:all}
+.cmd .btn{flex:none;height:26px;padding:0 12px;font-size:13px}
+@media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}.cmd code{font-size:11.5px}}</style>
 </head>
 <body>
 <header class="nav"><a class="brand" href="../../"><img src="../../icons/storefront.png" alt="" width="26" height="26">ExplAIn Sims · Mac apps</a>
@@ -111,7 +116,7 @@ ol.rm .n{flex:none;width:24px;height:24px;border-radius:12px;display:grid;place-
     <p class="sum">A menu-bar app that lists every app here, installs any of them without the Open Anyway step, and updates them all.</p>
     
     <div class="acts"><a class="btn primary big" href="https://github.com/explainsims/store/releases/download/storefront-1.2.0/Storefront-1.2.0.zip">Download</a><small>1.2.0 · 4 MB · free</small><a href="#feedback"><svg width="14" height="14" viewBox="0 0 15 15" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" aria-hidden="true"><path d="M2.2 3.6c0-.9.7-1.6 1.6-1.6h7.4c.9 0 1.6.7 1.6 1.6v5.2c0 .9-.7 1.6-1.6 1.6H6.4L3.6 12.8v-2.4c-.8 0-1.4-.7-1.4-1.6z"/></svg>Send Feedback</a></div>
-    <p class="tip">Then every app here is one click to install, and they all stay up to date.</p></div>
+    <p class="tip">Then every app here is one click to install, and they all stay up to date.</p><div class="term"><p>Or paste this into Terminal and press Return. Storefront then opens without the Open Anyway step.</p><div class="cmd"><code>curl -fsSL https://<wbr>store.explainsims.com<wbr>/install.sh | bash</code><button type="button" class="btn copy" data-copy="curl -fsSL https://store.explainsims.com/install.sh | bash">Copy</button></div></div></div>
   </header>
   <section class="facts" aria-label="Facts">
     <div><small>Version</small><b>1.2.0</b><i>latest</i></div>
@@ -127,7 +132,7 @@ ol.rm .n{flex:none;width:24px;height:24px;border-radius:12px;display:grid;place-
 <dialog class="lightbox" aria-label="Screenshot"><img alt=""><button type="button" class="lb prev" aria-label="Previous">&#8249;</button><button type="button" class="lb next" aria-label="Next">&#8250;</button><button type="button" class="lb x" aria-label="Close">&times;</button></dialog>
   <section class="cols">
     <div><h2>What's new in 1.2.0</h2><ul><li>Each app's Read Me now opens laid out, with headings and numbered steps, instead of as a plain text file.</li></ul></div>
-    <div><h2>Good to know</h2><dl class="kv"><dt>Read Me</dt><dd><a href="readme.html">How to use Storefront</a></dd><dt>First open</dt><dd>macOS asks you to allow it once, under System Settings › Privacy &amp; Security › Open Anyway.</dd></dl></div>
+    <div><h2>Good to know</h2><dl class="kv"><dt>Read Me</dt><dd><a href="readme.html">How to use Storefront</a></dd><dt>First open</dt><dd>macOS asks you to allow it once, under System Settings › Privacy &amp; Security › Open Anyway. Not when you install it from Terminal.</dd></dl></div>
   </section>
   <section class="fbcard" id="feedback"><div class="fbtop"><h2>Send feedback about Storefront</h2><span class="priv"><svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="2" y="5.2" width="8" height="5.6" rx="1.4"/><path d="M3.8 5.2V3.8a2.2 2.2 0 0 1 4.4 0v1.4"/></svg>Private and anonymous</span></div>
   <div class="fbbox" data-app="storefront">
@@ -253,6 +258,13 @@ ol.rm .n{flex:none;width:24px;height:24px;border-radius:12px;display:grid;place-
     dialog.addEventListener("click", (e) => { if (e.target === dialog) dialog.close(); });
   }
 })();
+</script>
+<script>
+for (const b of document.querySelectorAll("button.copy")) b.addEventListener("click", async () => {
+  try { await navigator.clipboard.writeText(b.dataset.copy); b.textContent = "Copied"; }
+  catch { getSelection().selectAllChildren(b.previousElementSibling); b.textContent = "Press ⌘C"; }
+  setTimeout(() => { b.textContent = "Copy"; }, 2000);
+});
 </script>
 </body>
 </html>

@@ -99,7 +99,12 @@ ol.rm .n{flex:none;width:24px;height:24px;border-radius:12px;display:grid;place-
 .rmend{margin-top:34px}
 @media (max-width:760px){.applist{grid-template-columns:1fr}.search{margin-left:0;flex:1 1 100%}.apphead{flex-direction:column;align-items:flex-start;gap:14px}.apphead .icon{width:96px;height:96px}
 .facts{grid-template-columns:repeat(3,1fr);row-gap:14px}.facts div:nth-child(4){border-left:0}.cols{grid-template-columns:1fr;gap:24px}.fbrow{flex-wrap:wrap}.fbrow span{flex:1 1 100%}}
-@media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}}</style>
+.term{margin-top:14px;max-width:620px;font-size:13px;color:var(--text2)}.term summary{cursor:pointer;color:var(--ink);font-size:14px;width:max-content}
+.get .term p,.term p{margin:8px 0;font-size:13px;color:var(--text2)}
+.get>div{min-width:0}.cmd{display:flex;flex-wrap:wrap;align-items:center;gap:8px;background:var(--bg2);border-radius:10px;padding:7px 7px 7px 12px;box-shadow:inset 0 0 0 .5px var(--sep)}
+.cmd code{flex:1 1 170px;min-width:0;font:12.5px/1.45 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--text);overflow-wrap:anywhere;user-select:all}
+.cmd .btn{flex:none;height:26px;padding:0 12px;font-size:13px}
+@media (max-width:640px){.hero{padding:28px 22px}.get{margin-left:0}.nav{padding:14px 4px}.cmd code{font-size:11.5px}}</style>
 </head>
 <body>
 <header class="nav"><a class="brand" href="../../"><img src="../../icons/storefront.png" alt="" width="26" height="26">ExplAIn Sims · Mac apps</a>
@@ -228,5 +233,6 @@ ol.rm .n{flex:none;width:24px;height:24px;border-radius:12px;display:grid;place-
   }
 })();
 </script>
+
 </body>
 </html>
