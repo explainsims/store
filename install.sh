@@ -1,13 +1,13 @@
 #!/bin/bash
 # Installs Storefront from store.explainsims.com into Applications and opens it:
 #   curl -fsSL https://store.explainsims.com/install.sh | bash
-# Written when Storefront 1.2.0 was published; every publish rewrites it.
+# Written when Storefront 1.3.0 was published; every publish rewrites it.
 # Everything happens in main, called on the last line, so a download cut off halfway runs nothing.
 
 main() {
     set -u
-    local name='Storefront' app='Storefront.app' id='com.lennoxmeldrum.storefront' version='1.2.0'
-    local url='https://github.com/explainsims/store/releases/download/storefront-1.2.0/Storefront-1.2.0.zip'
+    local name='Storefront' app='Storefront.app' id='com.lennoxmeldrum.storefront' version='1.3.0'
+    local url='https://github.com/explainsims/store/releases/download/storefront-1.3.0/Storefront-1.3.0.zip'
     local minimum=14
 
     ok()   { printf '  \033[32m✓\033[0m %s\n' "$*"; }
