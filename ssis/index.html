@@ -60,7 +60,7 @@ dialog.lightbox::backdrop{background:rgba(0,0,0,.78)}dialog.lightbox img{max-wid
 .card{border-radius:16px;background:var(--card);box-shadow:var(--edge);padding:16px;display:flex;gap:14px;align-items:flex-start}.card .icon{flex:none;border-radius:12px}
 .card h3{margin:0;font-size:16px}.card p{margin:3px 0 10px;color:var(--text2);font-size:14px}.card .body{flex:1;min-width:0}
 .row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.row small{color:var(--text3);font-size:12px}
-.alt{color:var(--text2);font-size:13px}.pad{padding:12px 8px}.needs{color:var(--warm)!important;font-size:13px!important;font-weight:500}
+.alt{color:var(--text2);font-size:13px}.pad{padding:12px 8px}.needs{color:var(--warm)!important;font-size:13px!important;font-weight:500}.elig{display:inline-block;margin-left:7px;font-size:11px;font-weight:700;color:var(--accent);background:color-mix(in srgb,var(--accent) 15%,transparent);padding:1px 7px;border-radius:6px;vertical-align:middle}
 footer{margin-top:36px;padding:16px 8px 0;border-top:1px solid var(--sep);color:var(--text2);font-size:13px}.empty{color:var(--text2);padding:20px 8px}
 .signin{margin:40px auto;max-width:440px;text-align:center;border-radius:20px;background:var(--card);box-shadow:var(--edge);padding:28px 30px}.signin h2{margin:4px 0}.signin p{color:var(--text2)}
 .badge{font-size:30px}.problem{color:var(--warm)!important}
@@ -153,7 +153,7 @@ onAuthStateChanged(auth, async (user) => {
       const zip = a.release.zip || a.release.update;
       const card = document.createElement("article");
       card.className = "card";
-      card.innerHTML = `<img class="icon" alt="" width="52" height="52"><div class="body"><h3>${esc(a.name)}</h3><p class="tag">${esc(a.tagline)}</p>` +
+      card.innerHTML = `<img class="icon" alt="" width="52" height="52"><div class="body"><h3>${esc(a.name)}${a.eligibility ? ` <span class="elig">${esc(a.eligibility)}</span>` : ""}</h3><p class="tag">${esc(a.tagline)}</p>` +
         (a.needs ? `<p class="needs">🔑 ${esc(a.needs)}</p>` : "") +
         `<div class="row"><button class="btn">Download</button><small>${esc(a.release.version)} · ${size(zip.length)}</small>` +
         (feedback ? `<button type="button" class="fbl" data-feedback="${esc(a.id)}" data-name="${esc(a.name)}"><svg width="14" height="14" viewBox="0 0 15 15" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" aria-hidden="true"><path d="M2.2 3.6c0-.9.7-1.6 1.6-1.6h7.4c.9 0 1.6.7 1.6 1.6v5.2c0 .9-.7 1.6-1.6 1.6H6.4L3.6 12.8v-2.4c-.8 0-1.4-.7-1.4-1.6z"/></svg>Feedback</button>` : "") +
