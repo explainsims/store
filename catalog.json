@@ -549,20 +549,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:23:37Z",
+        "date" : "2026-11-09T00:40:56Z",
         "minimumSystemVersion" : "27.0",
         "notes" : [
           "Check for Updates… in the arrow's right-click menu. From now on Tuck updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "iJrnn7W6MyFst/j2bbz0ea9BbXcLdGKEeHI7mBCb5tPVUx65wAir3LOL7Xv8jcDk2lihjcngcoeHQASD/RenBQ==",
+          "edSignature" : "CyPSa2alUL3ob9eUFh25tHv2Lq+8c87FEqauUiSo/D60cVQRyIQEJ3l7kfFR6Xw833c3A1Fgc4rZYG5REfxLDg==",
           "length" : 1773755,
           "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2-update.zip"
         },
         "version" : "1.1.2",
         "zip" : {
-          "edSignature" : "gRfEoTJOvdRfxuJHgAg8wCmrJVZRviCaqvH0CANAC+7+SUrQ0qNfp/uoRDKgfpHWLvsYweYdcdW4jBjHHk2wAw==",
-          "length" : 1778371,
+          "edSignature" : "i3/WGdyedH3FZxJj3sstwWaYxMED/F0bmUTSAaeq2Nab4ZKwSNDAi38/PgpPW/EtN3roGSkjMRDlJuMv4erxCA==",
+          "length" : 1778707,
           "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:40:44Z"
+  "updated" : "2026-11-09T00:40:56Z"
 }

@@ -27,7 +27,7 @@ INSTALL
      Or open Terminal, type  bash  followed by a space, drag
      "Install Tuck.command" into the Terminal window, and press Return.
 
-  2. The installer copies Tuck into Applications and opens it. A welcome
+  2. The installer moves Tuck into Applications and opens it. A welcome
      window explains the rest.
 
   3. ⌘-drag Tuck's green arrow to the right, next to the Control Center
