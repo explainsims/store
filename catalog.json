@@ -544,26 +544,26 @@
       "name" : "Tuck",
       "readmeURL" : "https://store.explainsims.com/readme/tuck.txt",
       "release" : {
-        "build" : "5",
+        "build" : "8",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T00:40:56Z",
+        "date" : "2026-11-09T10:41:37Z",
         "minimumSystemVersion" : "27.0",
         "notes" : [
-          "Check for Updates… in the arrow's right-click menu. From now on Tuck updates itself, checking once a day."
+          "Launch at Login now always opens this copy in Applications. Before, a Mac could keep opening an old copy at login."
         ],
         "update" : {
-          "edSignature" : "CyPSa2alUL3ob9eUFh25tHv2Lq+8c87FEqauUiSo/D60cVQRyIQEJ3l7kfFR6Xw833c3A1Fgc4rZYG5REfxLDg==",
-          "length" : 1773755,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2-update.zip"
+          "edSignature" : "ARwg1aq/OMGPlMt75DMg3aWJF3YtLODQ2NxnLnu7BlAJhh09GxcW89Cnpf5vDSvUetK6UsnyCqQLMYEPWAV0BQ==",
+          "length" : 1775808,
+          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.3/Tuck-1.1.3-update.zip"
         },
-        "version" : "1.1.2",
+        "version" : "1.1.3",
         "zip" : {
-          "edSignature" : "i3/WGdyedH3FZxJj3sstwWaYxMED/F0bmUTSAaeq2Nab4ZKwSNDAi38/PgpPW/EtN3roGSkjMRDlJuMv4erxCA==",
-          "length" : 1778707,
-          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2.zip"
+          "edSignature" : "cZ2C/ur8kCb4/Zpa76ORgzjoaJDghF/+gZ6u/UvdNPk9Jdjz2hv3VIuiwO9X5EyvD1D2dqjqD8TIrIE6oepKBg==",
+          "length" : 1780760,
+          "url" : "https://github.com/explainsims/store/releases/download/tuck-1.1.3/Tuck-1.1.3.zip"
         }
       },
       "screenshots" : [
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T07:13:21Z"
+  "updated" : "2026-11-09T10:41:37Z"
 }

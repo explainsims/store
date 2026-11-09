@@ -3,13 +3,13 @@
   <channel>
     <title>Tuck</title>
     <item>
-      <title>Tuck 1.1.2</title>
-      <pubDate>Mon, 09 Nov 2026 00:40:56 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <title>Tuck 1.1.3</title>
+      <pubDate>Mon, 09 Nov 2026 10:41:37 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Check for Updates… in the arrow's right-click menu. From now on Tuck updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/tuck-1.1.2/Tuck-1.1.2-update.zip" length="1773755" type="application/octet-stream" sparkle:edSignature="CyPSa2alUL3ob9eUFh25tHv2Lq+8c87FEqauUiSo/D60cVQRyIQEJ3l7kfFR6Xw833c3A1Fgc4rZYG5REfxLDg=="/>
+      <description><![CDATA[<ul><li>Launch at Login now always opens this copy in Applications. Before, a Mac could keep opening an old copy at login.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/tuck-1.1.3/Tuck-1.1.3-update.zip" length="1775808" type="application/octet-stream" sparkle:edSignature="ARwg1aq/OMGPlMt75DMg3aWJF3YtLODQ2NxnLnu7BlAJhh09GxcW89Cnpf5vDSvUetK6UsnyCqQLMYEPWAV0BQ=="/>
     </item>
   </channel>
 </rss>
