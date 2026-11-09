@@ -398,26 +398,26 @@
       "name" : "SmartCut",
       "readmeURL" : "https://store.explainsims.com/readme/smartcut.txt",
       "release" : {
-        "build" : "4",
+        "build" : "7",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T00:40:19Z",
+        "date" : "2026-11-09T10:41:51Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Check for Updates… in SmartCut's menu. From now on SmartCut updates itself, checking once a day. Also fixes an occasional crash when SmartCut starts."
+          "Launch at Login now always opens this copy in Applications. Before, a Mac could keep opening an old copy at login."
         ],
         "update" : {
-          "edSignature" : "iGGbrkH9WqZv0XxZ6R9+xx9ULgzMxmq3IdCf1Cqu8nmYNzGCPhZJpBN58FcuQrYiq+O+323NghIJhskMyNPwCg==",
-          "length" : 2051701,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.1/SmartCut-1.0.1-update.zip"
+          "edSignature" : "Im78aCi0CZ8hCWKHjCP/vB7lkyWX4KaDtdMJ3tEKR7zjOc+mnpP3pj5gOGl9gfnOvuXzO9pDRU4KuYOp78FZCA==",
+          "length" : 2053020,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.2/SmartCut-1.0.2-update.zip"
         },
-        "version" : "1.0.1",
+        "version" : "1.0.2",
         "zip" : {
-          "edSignature" : "1UI7Pat4ibfHdNHCfMgs9ysFPAdQESn6acuzE4Nd5LhTzeRo7sGoQj+QgdbHDcliQe/yLtxaIVWeow8xSaBaAg==",
-          "length" : 2057503,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.1/SmartCut-1.0.1.zip"
+          "edSignature" : "Q9uVUvtV+Suj21jouwZUZXky+CZ/usksRRicNB4jwn6+joOjmsAQDtz5TI/jjVMkKupGbP9WaxnCHja4JIlfCQ==",
+          "length" : 2058822,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.2/SmartCut-1.0.2.zip"
         }
       },
       "screenshots" : [
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T10:41:37Z"
+  "updated" : "2026-11-09T10:41:51Z"
 }
