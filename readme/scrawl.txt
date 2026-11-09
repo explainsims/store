@@ -27,7 +27,7 @@ INSTALL
      Or open Terminal, type  bash  followed by a space, drag
      "Install Scrawl.command" into the Terminal window, and press Return.
 
-  2. The installer copies Scrawl into Applications and opens it.
+  2. The installer moves Scrawl into Applications and opens it.
 
   Prefer to do it by hand? Drag Scrawl into Applications and open it. The
   first time, macOS blocks it: go to System Settings → Privacy & Security

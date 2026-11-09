@@ -365,20 +365,20 @@
         "chips" : [
           "arm64"
         ],
-        "date" : "2026-11-08T15:25:23Z",
+        "date" : "2026-11-09T00:40:08Z",
         "minimumSystemVersion" : "27.0",
         "notes" : [
           "Check for Updates… in Scrawl's menu. From now on Scrawl updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "5d9fFeh12eB9vjAGjojLI7UEaRzDaHXWhPjNZh+imPcR7yMRrLv3y1HoSazqh4QbmWdgk6oByjaVV/Y+0MypAQ==",
+          "edSignature" : "PdxDRRlwQ/n4oqUQO/IWn5yir7N+9uXJPhlDthB0Y/jCZ0eV+sNPuwuhpGI72yIAf8aTVCIEcMr8OxXSRaWpAw==",
           "length" : 2234763,
           "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1-update.zip"
         },
         "version" : "1.1.1",
         "zip" : {
-          "edSignature" : "IIFiZqDLjYDPgXD9ljokjkKQbmmdqOLK6x8CToTwUXMuKSBS2JQdi0YTlf7L4AvYfRsWmos5SckoNym1jwb9BA==",
-          "length" : 2239592,
+          "edSignature" : "rkHpAagZ2NcmjmS7doj6JFXKcVQGHNTSvAZJ8nFru/bNJz8BDDID0nYpaZQDB26Y6q/4lusJRRmaL4qJjsPeCQ==",
+          "length" : 2239934,
           "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:39:55Z"
+  "updated" : "2026-11-09T00:40:08Z"
 }

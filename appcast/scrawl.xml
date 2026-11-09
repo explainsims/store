@@ -4,12 +4,12 @@
     <title>Scrawl</title>
     <item>
       <title>Scrawl 1.1.1</title>
-      <pubDate>Sun, 08 Nov 2026 15:25:23 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:40:08 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Check for Updates… in Scrawl's menu. From now on Scrawl updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1-update.zip" length="2234763" type="application/octet-stream" sparkle:edSignature="5d9fFeh12eB9vjAGjojLI7UEaRzDaHXWhPjNZh+imPcR7yMRrLv3y1HoSazqh4QbmWdgk6oByjaVV/Y+0MypAQ=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1-update.zip" length="2234763" type="application/octet-stream" sparkle:edSignature="PdxDRRlwQ/n4oqUQO/IWn5yir7N+9uXJPhlDthB0Y/jCZ0eV+sNPuwuhpGI72yIAf8aTVCIEcMr8OxXSRaWpAw=="/>
     </item>
   </channel>
 </rss>
