@@ -25,7 +25,7 @@ INSTALL
      Or open Terminal, type  bash  followed by a space, drag
      "Install SmartCut.command" into the Terminal window, and press Return.
 
-  2. The installer copies SmartCut into Applications and opens it.
+  2. The installer moves SmartCut into Applications and opens it.
 
   3. A welcome window asks for Accessibility access, which SmartCut needs to
      read other apps' menus and notice when you hold ⌘. Click Allow Access…,

@@ -403,20 +403,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:24:23Z",
+        "date" : "2026-11-09T00:40:19Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in SmartCut's menu. From now on SmartCut updates itself, checking once a day. Also fixes an occasional crash when SmartCut starts."
         ],
         "update" : {
-          "edSignature" : "rSyO/Mk9LOZgiMR+swmRFxilFBPMycd/o4QbVocCDLVEgb7O5qcO+HwTewTOKURAf84ZvDfgHB3xX2juc9gSAg==",
+          "edSignature" : "iGGbrkH9WqZv0XxZ6R9+xx9ULgzMxmq3IdCf1Cqu8nmYNzGCPhZJpBN58FcuQrYiq+O+323NghIJhskMyNPwCg==",
           "length" : 2051701,
           "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.1/SmartCut-1.0.1-update.zip"
         },
         "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "IBMdt7D5mH4voI1rNJEIw5NefLuDNi4v2ooi85Z6hj8YKdZd2//4LfCJBrePoNDfrq/7GzC5Dj8x7W7vFT/HBg==",
-          "length" : 2057163,
+          "edSignature" : "1UI7Pat4ibfHdNHCfMgs9ysFPAdQESn6acuzE4Nd5LhTzeRo7sGoQj+QgdbHDcliQe/yLtxaIVWeow8xSaBaAg==",
+          "length" : 2057503,
           "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.1/SmartCut-1.0.1.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-09T00:40:08Z"
+  "updated" : "2026-11-09T00:40:19Z"
 }
