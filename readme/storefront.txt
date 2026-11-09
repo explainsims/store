@@ -1,4 +1,4 @@
-Storefront 1.1.2
+Storefront 1.1.3
 Storefront puts all of Lennox's free Mac apps in one place. Install any of them in a click, and keep them all up
 to date from the menu bar.
 

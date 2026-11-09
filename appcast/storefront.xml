@@ -3,13 +3,13 @@
   <channel>
     <title>Storefront</title>
     <item>
-      <title>Storefront 1.1.2</title>
-      <pubDate>Mon, 09 Nov 2026 00:40:30 +0000</pubDate>
-      <sparkle:version>32</sparkle:version>
-      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <title>Storefront 1.1.3</title>
+      <pubDate>Mon, 09 Nov 2026 05:08:24 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>When Storefront finds an update by itself, its update window now comes to the front, so it isn't missed behind other windows.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.1.2/Storefront-1.1.2-update.zip" length="3808836" type="application/octet-stream" sparkle:edSignature="pJrvlaA4jFRokKZ7A6G1IzUF6HVsFw7DtIimb56mbL2EGcDk0lEP2CPtfQUEKoyq5SX+l0cdAyzv1zzEU2T2Ag=="/>
+      <description><![CDATA[<ul><li>The SSIS apps are now for staff only: student accounts are turned away when they sign in.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.1.3/Storefront-1.1.3-update.zip" length="3811908" type="application/octet-stream" sparkle:edSignature="zZQrErOjM79/0f4LvpS3Bc+l+bsZLZQ8qe6Hv5wlK6E9iUoKVnafxPPdgDw0Aopy2JRqNadmyEh2uRAXJHanBg=="/>
     </item>
   </channel>
 </rss>
