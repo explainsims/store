@@ -383,7 +383,15 @@
         }
       },
       "screenshots" : [
-
+        {
+          "light" : "https://store.explainsims.com/shots/scrawl/1-light.jpg"
+        },
+        {
+          "light" : "https://store.explainsims.com/shots/scrawl/2-light.jpg"
+        },
+        {
+          "light" : "https://store.explainsims.com/shots/scrawl/3-light.jpg"
+        }
       ],
       "summary" : "Capture an area, a window or the whole screen from the menu bar, then mark it up with arrows, shapes, text, highlights and blur.",
       "tagline" : "Screenshots with arrows, text and blur."
