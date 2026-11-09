@@ -34,7 +34,7 @@ INSTALL
      "Install APOD Wallpaper.command" into the Terminal window, and press
      Return.
 
-  2. The installer copies APOD Wallpaper into Applications and opens it.
+  2. The installer moves APOD Wallpaper into Applications and opens it.
 
   3. Look for the sparkles in the menu bar, on a small purple square. Today's
      picture appears on your desktop within a few seconds. macOS also tells

@@ -15,20 +15,20 @@
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-08T15:24:59Z",
+        "date" : "2026-11-09T00:38:12Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
           "Check for Updates… in the menu. From now on APOD Wallpaper updates itself, checking once a day."
         ],
         "update" : {
-          "edSignature" : "/Hzxqgm+ytj/IbG+5r+YOnX6m49cRnh543gzHJb7oXxpUkGxDzODlLF7LbonzdKDBxJueECPEZdd5g7Jj33ZDA==",
+          "edSignature" : "iK2QCkMdd6q5J70qskiyS/2ocZycXRGOeJ5H55Nx4rfGwlRpgqjxLaz9iIOp8ImK4ZwUUiMFjewh1cfy29CwAQ==",
           "length" : 4301564,
           "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2.1/APOD-Wallpaper-1.2.1-update.zip"
         },
         "version" : "1.2.1",
         "zip" : {
-          "edSignature" : "PwtEhTy2GBxkpx7Shprpf8JgWfhwzn4Yx9UnlThFl4JCITDJpc1q9E4xhwAFdB9hL3xthDCCM1/WOZ8y0M8jCA==",
-          "length" : 4310378,
+          "edSignature" : "b8TnFDIbkC8E1dzNl67nbCGMT8uBhcUEt23xia3jkrTgOL4WjcaT6AzOHpIJKirZOj/HvgbX8tYqi7FGUgIeCg==",
+          "length" : 4310717,
           "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.2.1/APOD-Wallpaper-1.2.1.zip"
         }
       },
@@ -632,5 +632,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-08T15:33:47Z"
+  "updated" : "2026-11-09T00:38:12Z"
 }
