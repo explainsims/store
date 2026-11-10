@@ -1,4 +1,4 @@
-Storefront 1.3.0
+Storefront 1.3.1
 Storefront puts all of Lennox's free Mac apps in one place. Install any of them in a click, and keep them all up
 to date from the menu bar.
 
@@ -54,11 +54,16 @@ USING Storefront
     these apps reads it, and your name and sign-in aren't sent. Send as
     many as you like.
 
-  • SSIS staff: Settings › Account › Sign In with SSIS shows the apps that
-    only work at school, on their own SSIS page.
+  • SSIS staff: click Sign In with SSIS at the bottom left of the
+    Storefront window (it's in Settings › Account too). The apps that only
+    work at school then appear on their own SSIS page.
 
 
 GOOD TO KNOW
+
+  • Can't see the awning in the menu bar? When the menu bar is full, macOS
+    hides new icons first. Open Storefront from Applications instead:
+    everything is in its window, and Settings… is at the bottom left.
 
   • Storefront updates itself: Storefront Settings › General › Check for
     Storefront Updates.
