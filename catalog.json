@@ -452,6 +452,59 @@
       "tagline" : "Screenshots with arrows, text and blur."
     },
     {
+      "alternativeTo" : "OpenLink",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.signpost",
+      "icon" : "https://store.explainsims.com/icons/signpost.png",
+      "id" : "signpost",
+      "kind" : "menubar",
+      "name" : "Signpost",
+      "readmeURL" : "https://store.explainsims.com/readme/signpost.txt",
+      "release" : {
+        "build" : "7",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-11T15:13:33Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: choose the browser and the profile for every link and HTML file, with tracking tags removed and redirect links unwrapped."
+        ],
+        "update" : {
+          "edSignature" : "+zhfL5bvoIIGBp+guP1uxRLgBAS+UYTplsPBlu1EJdzelZxl6BLevhQ8ES4oPBRvmR42kVEdHQv+MO22NwbHCw==",
+          "length" : 2864632,
+          "url" : "https://github.com/explainsims/store/releases/download/signpost-1.0.0/Signpost-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "rQiJOx0nn+Ti57i1B/YlEq5HF+LZsXUKXPFZN63S9fbHO4hPo3R2fEXMYOPAW2hHgJ/bDdaN4ZeXJ8Q3LtGzCA==",
+          "length" : 2870866,
+          "url" : "https://github.com/explainsims/store/releases/download/signpost-1.0.0/Signpost-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/signpost/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/signpost/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/signpost/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/signpost/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/signpost/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/signpost/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/signpost/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/signpost/4-light.jpg"
+        }
+      ],
+      "summary" : "Each time you open a link or an HTML file, choose the browser and the profile from a list right by the pointer. Tracking tags come out, redirect links are unwrapped, and the menu keeps your recent links.",
+      "tagline" : "Choose the browser and profile for every link."
+    },
+    {
       "alternativeTo" : "CheatSheet",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.smartcut",
@@ -695,5 +748,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-11T13:00:01Z"
+  "updated" : "2026-11-11T15:13:33Z"
 }

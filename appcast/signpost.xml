@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Signpost</title>
+    <item>
+      <title>Signpost 1.0.0</title>
+      <pubDate>Wed, 11 Nov 2026 15:13:33 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: choose the browser and the profile for every link and HTML file, with tracking tags removed and redirect links unwrapped.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/signpost-1.0.0/Signpost-1.0.0-update.zip" length="2864632" type="application/octet-stream" sparkle:edSignature="+zhfL5bvoIIGBp+guP1uxRLgBAS+UYTplsPBlu1EJdzelZxl6BLevhQ8ES4oPBRvmR42kVEdHQv+MO22NwbHCw=="/>
+    </item>
+  </channel>
+</rss>

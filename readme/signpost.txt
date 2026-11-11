@@ -1,0 +1,103 @@
+Signpost 1.0.0
+Each time you open a link or an HTML file, Signpost asks where it should go:
+which browser, and which browser profile. It takes out tracking tags and
+shows where redirect links really go.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Signpost.app: the app
+  • Install Signpost.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
+    on macOS 27.
+
+
+INSTALL
+
+  1. Double-click "Install Signpost.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Signpost.command" into the Terminal window, and press Return.
+
+  2. The installer moves Signpost into Applications and opens it.
+
+  3. In the welcome window, click "Use Signpost for Links and HTML Files".
+     macOS asks you to confirm the new default browser: choose Signpost.
+
+  Prefer to do it by hand? Drag Signpost into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Signpost
+
+  • Click a link anywhere (Mail, Teams, Notes…). A small list appears by
+    the pointer, with the first choice right under it. Click one, or use
+    ↑ ↓ and Return. Esc, or a click somewhere else, closes it without
+    opening anything.
+
+  • Each browser profile is its own choice: Chrome (School) and Chrome
+    (Personal), for example. Arc's spaces are choices too.
+
+  • The top of the list shows where the link really goes. Tracking tags
+    (utm_source, fbclid and the like) are taken out, and Google, Facebook,
+    LinkedIn and other redirect links are unwrapped. "Show Original" shows
+    the link as it arrived; "Copy Link" copies the clean one.
+
+  • Outlook and Teams Safe Links: by default Signpost shows where they go
+    but still opens them through Microsoft's safety check. Settings → Links
+    can keep them as they are or unwrap them completely.
+
+  • HTML files: double-click one and choose a browser, or an app that edits
+    HTML (TextEdit, Xcode…), Quick Look or Show in Finder.
+
+  • The menu-bar icon (a green road fork) lists your recent links and where
+    each went. Pick one to open it again, open it somewhere else, or copy
+    it. They stay on this Mac only.
+
+  • Settings (from the menu): which browsers and profiles the list shows
+    and their order (drag them), link cleaning, how long to keep recent
+    links, where the list opens, the icon's colour, and opening at login.
+
+
+PERMISSIONS
+
+  • Chrome and Edge profiles: macOS 27 keeps other apps out of Chrome's
+    and Edge's settings, without asking. Until you allow it, Chrome and Edge
+    appear once each and open in the profile you used last. To allow it:
+    System Settings → Privacy & Security → Files & Folders → Signpost, and
+    turn on Google Chrome and Microsoft Edge. Then choose Look Again in
+    Signpost's Settings → Browsers. You may need to do this again after an
+    update.
+
+  • Arc: the first time you open a link in an Arc space, macOS asks
+    whether Signpost may control Arc. Without it, Arc still opens the link,
+    in whichever space is in front.
+
+  • Nothing else. Signpost only goes online to check for updates, and to
+    look up short links (bit.ly, t.co…) if you turn that on.
+
+
+GOOD TO KNOW
+
+  • To update: use "Check for Updates…" in the menu, or unzip a newer copy
+    and run its installer. It replaces the old one and keeps your settings.
+
+  • To go back to your old browser: System Settings → Desktop & Dock →
+    Default web browser.
+
+  • To uninstall: set another default browser first, then quit Signpost and
+    drag it from Applications to the Trash.
+
+  • Signpost is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time.
