@@ -3,12 +3,12 @@
   <channel>
     <title>HD Music</title>
     <item>
-      <title>HD Music 1.9.0</title>
-      <pubDate>Wed, 11 Nov 2026 12:37:53 +0000</pubDate>
-      <sparkle:version>28</sparkle:version>
-      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <title>HD Music 1.9.1</title>
+      <pubDate>Wed, 11 Nov 2026 13:00:01 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/hdmusic-1.9.0/HD-Music-1.9.0-update.zip" length="26785026" type="application/octet-stream" sparkle:edSignature="IRzby8x/r8X4TMgmv84iMx7RFl2qvTPZlcivIxYP5bayU9PMikGjvdd1H/L5+WCzuodvDYds4tV+ClWslYaXBA=="/>
+      <enclosure url="https://github.com/explainsims/store/releases/download/hdmusic-1.9.1/HD-Music-1.9.1-update.zip" length="26843707" type="application/octet-stream" sparkle:edSignature="Uqa7Ga1cJK5o4K2B/6AKi9YoTsQm3nwAbGkjVqaMXQDDPynTckYsM+qt2wvkbGVJKABOC+2PqVYvRXkug3jpCQ=="/>
     </item>
   </channel>
 </rss>

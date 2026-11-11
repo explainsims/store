@@ -318,26 +318,26 @@
       "name" : "HD Music",
       "readmeURL" : "https://store.explainsims.com/readme/hdmusic.txt",
       "release" : {
-        "build" : "28",
+        "build" : "30",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-11T12:37:53Z",
+        "date" : "2026-11-11T13:00:01Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
 
         ],
         "update" : {
-          "edSignature" : "IRzby8x/r8X4TMgmv84iMx7RFl2qvTPZlcivIxYP5bayU9PMikGjvdd1H/L5+WCzuodvDYds4tV+ClWslYaXBA==",
-          "length" : 26785026,
-          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.9.0/HD-Music-1.9.0-update.zip"
+          "edSignature" : "Uqa7Ga1cJK5o4K2B/6AKi9YoTsQm3nwAbGkjVqaMXQDDPynTckYsM+qt2wvkbGVJKABOC+2PqVYvRXkug3jpCQ==",
+          "length" : 26843707,
+          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.9.1/HD-Music-1.9.1-update.zip"
         },
-        "version" : "1.9.0",
+        "version" : "1.9.1",
         "zip" : {
-          "edSignature" : "Fabr6UfPHJztyj65jHHwpKxpRRvHhmQ2fJRCzB+txGe1gcGZxNVmhqVI7Xa444WsW+zmWdHmww7LDyM1hEULAw==",
-          "length" : 26794353,
-          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.9.0/HD-Music-1.9.0.zip"
+          "edSignature" : "RfQkbrEsGHjGZrogQ9JszoSSUW+/OEvrliJ/ZURvaSq7Tir0d8ZngNq58FQmFJWXpGx0z3iQrElL1itZiOtSDw==",
+          "length" : 26853094,
+          "url" : "https://github.com/explainsims/store/releases/download/hdmusic-1.9.1/HD-Music-1.9.1.zip"
         }
       },
       "screenshots" : [
@@ -695,5 +695,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-11T12:37:53Z"
+  "updated" : "2026-11-11T13:00:01Z"
 }

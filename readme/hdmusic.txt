@@ -1,4 +1,4 @@
-HD Music 1.9.0
+HD Music 1.9.1
 HD Music is a music player for DSD and hi-res audio. It plays DSF, DFF (including
 DST-compressed), SACD ISO images, Blu-ray audio, audio CDs and every common PCM format,
 and shows you exactly what reaches your DAC. It keeps a library of your music wherever it
@@ -46,7 +46,9 @@ USING HD Music
     password and keeps it in your Keychain.
 
   • Radio (⌘5): thousands of stations on a world map. Click a place to hear
-    what's on there, or search by name, country or genre. Star the ones
+    what's on there, or a part of the world beside the map (North America,
+    Europe, Sub-Continent, South Pacific…) to go there, or search by name,
+    country or genre. Star the ones
     you like. Radio plays through HD Music's own output, so your DAC, EQ
     and Signal Path all apply, and the song title shows when the station
     sends it. Stations come from the free Radio Browser directory.
