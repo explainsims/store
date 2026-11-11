@@ -3,13 +3,13 @@
   <channel>
     <title>Corkboard</title>
     <item>
-      <title>Corkboard 1.0.0</title>
-      <pubDate>Wed, 11 Nov 2026 08:54:49 +0000</pubDate>
-      <sparkle:version>58</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Corkboard 1.0.1</title>
+      <pubDate>Wed, 11 Nov 2026 09:43:39 +0000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release: a board for the front of the classroom, with 26 widgets, presenter view, menu-bar tools, Rollbook classes, phone voting and a phone remote.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/corkboard-1.0.0/Corkboard-1.0.0-update.zip" length="13734389" type="application/octet-stream" sparkle:edSignature="qDaRagaLTPBuaeafyCaDhB15fZDbu7128TfPra/cyHtDZSxeR+jrelsBU3PJQX0FI3znFSIxFOlav1RN5sCzDw=="/>
+      <description><![CDATA[<ul><li>The menu-bar icon is now in colour, a little cork tile like the app's own icon. While a timer runs, its wedge shows the time left, with the time beside it. Settings › General can make it black and white again.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/corkboard-1.0.1/Corkboard-1.0.1-update.zip" length="13770386" type="application/octet-stream" sparkle:edSignature="bQfRx1SU3kAhQ+y8Nsou4Wcb3MFnpxfTapXL2oV7ejAbUfnanDYQLoFiT42f4NcOmLw8zRdgg9dvOR/DXxEDAQ=="/>
     </item>
   </channel>
 </rss>

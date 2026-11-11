@@ -1,4 +1,4 @@
-Corkboard 1.0.0
+Corkboard 1.0.1
 A board for the front of the classroom. Put it on the TV or projector and pin
 timers, a name picker, groups, a voice-level meter, a traffic light, work
 symbols, polls, text, pictures, videos and more to it. A deck holds the
