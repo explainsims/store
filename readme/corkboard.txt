@@ -1,4 +1,4 @@
-Corkboard 1.0.1
+Corkboard 1.0.2
 A board for the front of the classroom. Put it on the TV or projector and pin
 timers, a name picker, groups, a voice-level meter, a traffic light, work
 symbols, polls, text, pictures, videos and more to it. A deck holds the
@@ -74,8 +74,9 @@ USING Corkboard
 
   • Class lists: Settings → Classes. Type or paste names, or import a
     spreadsheet's CSV. SSIS staff: in Rollbook's Settings → Privacy, turn
-    on "Share my classes with Corkboard" and your current and next class
-    appear, with anyone away left out.
+    on "Share my classes with Corkboard" and all your classes appear, any
+    time. "This class" and "Next class" follow the timetable, with anyone
+    away left out.
 
   • Exam board: Decks → New Deck → Exam board. Give it a title, the start
     time, the reading time and the length. Reading time and writing time
