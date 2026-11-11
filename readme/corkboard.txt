@@ -1,0 +1,130 @@
+Corkboard 1.0.0
+A board for the front of the classroom. Put it on the TV or projector and pin
+timers, a name picker, groups, a voice-level meter, a traffic light, work
+symbols, polls, text, pictures, videos and more to it. A deck holds the
+screens for a lesson.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Corkboard.app: the app
+  • Install Corkboard.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
+    on macOS 27.
+  • A TV or projector is optional. With one set to Extend (not Mirror),
+    the board goes on the TV and a control window stays on your Mac.
+
+
+INSTALL
+
+  1. Double-click "Install Corkboard.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Corkboard.command" into the Terminal window, and press Return.
+
+  2. The installer moves Corkboard into Applications and opens it, with a
+     first deck to try.
+
+  Prefer to do it by hand? Drag Corkboard into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Corkboard
+
+  • The bar along the bottom adds widgets. Click one and it appears on
+    the board. "All" shows every widget, and "Edit the Bar…" there picks
+    which ones sit on the bar.
+
+  • Drag a widget to move it, and its corners to resize it. The round
+    handle under it rotates it. Click a widget to see its toolbar:
+    settings, show on every screen (a pin appears on it), spotlight,
+    more (duplicate, lock, front and back), delete.
+
+  • Background (on the bar) changes what's behind the widgets: gradients,
+    moving backgrounds, colours, paper, the Mac's own wallpapers, your own
+    pictures and slideshows.
+
+  • The strip at the top right holds the deck's screens. + adds one; the
+    arrow keys move between them. The deck's name at the top left opens
+    your decks, templates and more.
+
+  • Draw (on the bar, or the D key) lets you write over the board.
+
+  • Present (top right) puts the board on a TV or projector. If the TV is
+    set to Extend, presenter view opens on your Mac: a copy of the board,
+    buttons for each widget, your notes for the screen, and what's next.
+
+  • Keys: 1 blurs the screen ("Eyes on me"), 2 plays a chime, B hides the
+    bar, F is full screen, K lists every shortcut.
+
+  • The menu-bar icon has quick tools that work over any app, Keynote and
+    videos included: a timer, pick a name, make groups, a traffic light,
+    the voice-level meter and blur. Anywhere: Control-Option-T starts a
+    timer, -N picks a name, -G makes groups, -B blurs the screen.
+
+  • Class lists: Settings → Classes. Type or paste names, or import a
+    spreadsheet's CSV. SSIS staff: in Rollbook's Settings → Privacy, turn
+    on "Share my classes with Corkboard" and your current and next class
+    appear, with anyone away left out.
+
+  • Exam board: Decks → New Deck → Exam board. Give it a title, the start
+    time, the reading time and the length. Reading time and writing time
+    start by themselves, with a big clock, the times and your rules.
+
+  • Seating plan (in All): rows, desks in pairs, group tables or a
+    horseshoe. "Seat the class" fills it (shuffled, A to Z, or by the
+    deck's groups) and keeps chosen pairs apart. Click two seats to swap.
+
+  • Lesson autopilot (with Rollbook): in a deck's menu, "Opens for a
+    Block". When that block starts, the deck opens by itself, with a
+    button to go back to the one you had open.
+
+  • Phone remote: Settings → Voting, or the menu-bar icon. Turn it on,
+    scan the code with your phone and type the 6-digit PIN shown on your
+    Mac (never on the board). Your phone then changes screens, starts
+    timers, picks names, rolls dice and more. Same Wi-Fi as your Mac.
+
+  • Polls students answer on their phones: in a poll's settings, set
+    "How to vote" to students' phones. A QR code and an address appear on
+    the board. Phones must be on the same Wi-Fi as your Mac. Some school
+    networks keep devices apart; then use buttons on the board instead.
+
+
+PERMISSIONS IT MAY ASK FOR
+
+  • Microphone: only for the voice-level meter. Nothing is recorded.
+  • Camera: only for the camera widget (a webcam, a document camera or
+    your iPhone's camera). Nothing is recorded.
+  • Incoming connections: only if your Mac's firewall is on, when students
+    vote from their phones. Click Allow.
+
+
+GOOD TO KNOW
+
+  • Your decks are saved as you go, in iCloud Drive → Corkboard, so your
+    other Mac sees them too. Deleted decks wait 30 days in Recently
+    Deleted (in the Decks window) before they go for good.
+
+  • To share a deck with a colleague: the deck menu → Share Deck…. They
+    double-click the file to open it in their own Corkboard.
+
+  • To update: Corkboard → Check for Updates…, or unzip a newer copy and
+    run its installer. Your decks and settings stay.
+
+  • To uninstall: quit Corkboard (from its menu-bar icon or with ⌘Q) and
+    drag it from Applications to the Trash. Your decks stay in iCloud Drive.
+
+  • Corkboard is free and open source, an alternative to Classroomscreen.
+    It isn't made by or affiliated with Classroomscreen. It isn't from the
+    App Store and isn't notarized by Apple, which is why macOS asks you to
+    confirm it the first time.

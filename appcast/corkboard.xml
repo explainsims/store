@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Corkboard</title>
+    <item>
+      <title>Corkboard 1.0.0</title>
+      <pubDate>Wed, 11 Nov 2026 08:54:49 +0000</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: a board for the front of the classroom, with 26 widgets, presenter view, menu-bar tools, Rollbook classes, phone voting and a phone remote.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/corkboard-1.0.0/Corkboard-1.0.0-update.zip" length="13734389" type="application/octet-stream" sparkle:edSignature="qDaRagaLTPBuaeafyCaDhB15fZDbu7128TfPra/cyHtDZSxeR+jrelsBU3PJQX0FI3znFSIxFOlav1RN5sCzDw=="/>
+    </item>
+  </channel>
+</rss>

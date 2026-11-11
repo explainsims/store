@@ -145,6 +145,61 @@
       "tagline" : "Convert files by dragging onto a pop-up wheel."
     },
     {
+      "alternativeTo" : "Classroomscreen",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.corkboard",
+      "icon" : "https://store.explainsims.com/icons/corkboard.png",
+      "id" : "corkboard",
+      "kind" : "tools",
+      "licence" : "MIT",
+      "name" : "Corkboard",
+      "needs" : "Optional: a TV or projector set to Extend for presenter view; Rollbook for SSIS class lists",
+      "readmeURL" : "https://store.explainsims.com/readme/corkboard.txt",
+      "release" : {
+        "build" : "58",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-11T08:54:49Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: a board for the front of the classroom, with 26 widgets, presenter view, menu-bar tools, Rollbook classes, phone voting and a phone remote."
+        ],
+        "update" : {
+          "edSignature" : "qDaRagaLTPBuaeafyCaDhB15fZDbu7128TfPra/cyHtDZSxeR+jrelsBU3PJQX0FI3znFSIxFOlav1RN5sCzDw==",
+          "length" : 13734389,
+          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.0.0/Corkboard-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "ZtZ8WRHO/dTw8HW9HCsTXkJJochH78kXIyfAGx8vGgy6whfbsMwPuq5HibFg9K90GablQPxgs7Ye/gRnU5iEBQ==",
+          "length" : 13742947,
+          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.0.0/Corkboard-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/corkboard/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/corkboard/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/corkboard/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/corkboard/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/corkboard/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/corkboard/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/corkboard/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/corkboard/4-light.jpg"
+        }
+      ],
+      "summary" : "Put a board on the TV and pin widgets to it: timers, a names wheel, groups, a seating plan, a voice-level meter, a traffic light, work symbols, polls, text, pictures, video, PDFs, a camera and more. Decks of screens save to iCloud Drive. Presenter view on your Mac, tools that float over Keynote, polls students answer on their phones, and a phone remote.",
+      "tagline" : "A board for the front of the classroom, with timers, names, groups and polls."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.figureit",
       "icon" : "https://store.explainsims.com/icons/figureit.png",
@@ -640,5 +695,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-10T04:23:39Z"
+  "updated" : "2026-11-11T08:54:49Z"
 }
