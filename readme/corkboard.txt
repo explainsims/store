@@ -1,4 +1,4 @@
-Corkboard 1.0.2
+Corkboard 1.1.0
 A board for the front of the classroom. Put it on the TV or projector and pin
 timers, a name picker, groups, a voice-level meter, a traffic light, work
 symbols, polls, text, pictures, videos and more to it. A deck holds the
@@ -81,6 +81,12 @@ USING Corkboard
   • Exam board: Decks → New Deck → Exam board. Give it a title, the start
     time, the reading time and the length. Reading time and writing time
     start by themselves, with a big clock, the times and your rules.
+
+  • Quiet scene: in the voice level's settings, choose Scene (or start
+    from the Quiet animals template). While the room stays under the
+    limit, animals come into a picture one by one. When it's too loud,
+    the weather turns and they hurry away. Each class keeps a collection
+    of every animal it has spotted (settings › Collection › Show…).
 
   • Seating plan (in All): rows, desks in pairs, group tables or a
     horseshoe. "Seat the class" fills it (shuffled, A to Z, or by the

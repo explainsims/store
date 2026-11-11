@@ -156,26 +156,26 @@
       "needs" : "Optional: a TV or projector set to Extend for presenter view; Rollbook for SSIS class lists",
       "readmeURL" : "https://store.explainsims.com/readme/corkboard.txt",
       "release" : {
-        "build" : "61",
+        "build" : "62",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-11T09:57:46Z",
+        "date" : "2026-11-11T11:49:44Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Choose any of your classes from Rollbook (with Rollbook 1.2.4), any time. Fixes a name picker, group maker or seating plan that used a saved list or a Rollbook class disappearing when its deck was opened again."
+          "New: Quiet scene. Choose Scene in the voice level (or start from the Quiet animals template): while the class works quietly, animals come into a picture one by one; when it's too loud the weather turns and they hurry away. Six pictures, rare animals, and a collection for each class."
         ],
         "update" : {
-          "edSignature" : "PTIMYa1OUCHGG/cuY40Yj8ogGEREfR+DvJtGoBC48OgFH2q9jQ752kZ7ySx5HqkmzOOTlBgULGe+jjOY0hiJAg==",
-          "length" : 13864864,
-          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.0.2/Corkboard-1.0.2-update.zip"
+          "edSignature" : "1sfric/JFaBPpvD1BkA+k42Q1uSza0vwAZj+pvRsQM/l+mn46dWKHuEdPLbs4CvXD56sriFI2PxbB4P3pP23BA==",
+          "length" : 14316851,
+          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.1.0/Corkboard-1.1.0-update.zip"
         },
-        "version" : "1.0.2",
+        "version" : "1.1.0",
         "zip" : {
-          "edSignature" : "eRbDFk/Mq2SUkG2OTsk0+dAag1JJl6HphtzhsxvLyiZC1hvHNqOihQSAvNPhjUVVb+eELXCtYdZuWaBjKeOpCw==",
-          "length" : 13873443,
-          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.0.2/Corkboard-1.0.2.zip"
+          "edSignature" : "HNID/hph08ZmwsYFYRSFrkBd0p5VEFZbupc5pju5l6z6Anzsd/SSaUatE7uT1p7EJIW8fCGljQn+XaDUUzpNDA==",
+          "length" : 14325585,
+          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.1.0/Corkboard-1.1.0.zip"
         }
       },
       "screenshots" : [
@@ -695,5 +695,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-11T09:57:46Z"
+  "updated" : "2026-11-11T11:49:44Z"
 }

@@ -3,13 +3,13 @@
   <channel>
     <title>Corkboard</title>
     <item>
-      <title>Corkboard 1.0.2</title>
-      <pubDate>Wed, 11 Nov 2026 09:57:46 +0000</pubDate>
-      <sparkle:version>61</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Corkboard 1.1.0</title>
+      <pubDate>Wed, 11 Nov 2026 11:49:44 +0000</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Choose any of your classes from Rollbook (with Rollbook 1.2.4), any time. Fixes a name picker, group maker or seating plan that used a saved list or a Rollbook class disappearing when its deck was opened again.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/corkboard-1.0.2/Corkboard-1.0.2-update.zip" length="13864864" type="application/octet-stream" sparkle:edSignature="PTIMYa1OUCHGG/cuY40Yj8ogGEREfR+DvJtGoBC48OgFH2q9jQ752kZ7ySx5HqkmzOOTlBgULGe+jjOY0hiJAg=="/>
+      <description><![CDATA[<ul><li>New: Quiet scene. Choose Scene in the voice level (or start from the Quiet animals template): while the class works quietly, animals come into a picture one by one; when it's too loud the weather turns and they hurry away. Six pictures, rare animals, and a collection for each class.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/corkboard-1.1.0/Corkboard-1.1.0-update.zip" length="14316851" type="application/octet-stream" sparkle:edSignature="1sfric/JFaBPpvD1BkA+k42Q1uSza0vwAZj+pvRsQM/l+mn46dWKHuEdPLbs4CvXD56sriFI2PxbB4P3pP23BA=="/>
     </item>
   </channel>
 </rss>
