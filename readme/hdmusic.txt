@@ -1,4 +1,4 @@
-HD Music 1.8.2
+HD Music 1.9.0
 HD Music is a music player for DSD and hi-res audio. It plays DSF, DFF (including
 DST-compressed), SACD ISO images, Blu-ray audio, audio CDs and every common PCM format,
 and shows you exactly what reaches your DAC. It keeps a library of your music wherever it
@@ -145,11 +145,19 @@ USING HD Music
     to your DAC and tells you whether it's Bit-perfect, DSD untouched (DoP),
     or Converted, and why. With a level meter and spectrum.
 
-  • EQ & DSP (⌥⌘3): a parametric EQ with presets (import AutoEQ files for
-    your headphones), loudness levelling (ReplayGain), headphone
-    crossfeed, balance. Turn it off for bit-perfect playback. To level
-    files that have no ReplayGain tags, use a playlist's ⋯ menu ▸ Measure
-    Loudness.
+  • EQ & DSP (⌥⌘3): pick your headphones (Choose Headphones…) and HD
+    Music evens out their sound, using AutoEQ's measurements of thousands
+    of headphones. Your own parametric EQ and presets go on top. Each
+    output (your DAC, the Mac's speakers, AirPods…) keeps its own EQ.
+    Also loudness levelling (ReplayGain), headphone crossfeed, balance.
+    Turn it all off for bit-perfect playback. To level files that have no
+    ReplayGain tags, use a playlist's ⋯ menu ▸ Measure Loudness.
+
+  • EQ for all Mac sound (EQ & DSP ▸ Every app, or the menu-bar
+    controls): while HD Music is open, Spotify, YouTube, Apple Music and
+    every other app go through the EQ of the output they play on. Needs
+    macOS 14.2 or later. macOS asks once whether HD Music may hear other
+    apps; say Allow. After each HD Music update macOS asks again.
 
   • Converter (⌥⌘2): DSD to FLAC, ALAC or WAV; SACD ISO or DST to plain
     DSF; PCM to another rate or format. Drop files on it, or right-click
