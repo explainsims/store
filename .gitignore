@@ -1,4 +1,5 @@
 downloads/
 .DS_Store
-# iCloud's duplicate copies ("name 2.jpg") when the two Macs both change a file: never part of the site.
-* 2.*
+# iCloud's duplicate copies ("name 2.jpg", "name 3.jpg"…) when the two Macs both change a file: never part of the site.
+* [2-9].*
+* [1-9][0-9].*
