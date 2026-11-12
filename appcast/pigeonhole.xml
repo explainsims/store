@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Pigeonhole</title>
+    <item>
+      <title>Pigeonhole 1.2.1</title>
+      <pubDate>Thu, 12 Nov 2026 08:05:14 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: spaces of tabs for Chrome and Edge, Pigeonhole's page in every window, history, groups, and your spaces on both Macs through iCloud Drive.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.2.1/Pigeonhole-1.2.1-update.zip" length="2481391" type="application/octet-stream" sparkle:edSignature="0K2drMYLAWVK6Zn9A/xpj6opqoPpAzNSgLlmruwuNRbpQKhuy2q+8E9VqHeNirmaEtLmv5mKhsHriHy+tmghDQ=="/>
+    </item>
+  </channel>
+</rss>

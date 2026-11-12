@@ -407,6 +407,69 @@
       "tagline" : "Volume and brightness sliders on your trackpad's edges."
     },
     {
+      "alternativeTo" : "Workona",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.pigeonhole",
+      "icon" : "https://store.explainsims.com/icons/pigeonhole.png",
+      "id" : "pigeonhole",
+      "kind" : "menubar",
+      "licence" : "MIT",
+      "name" : "Pigeonhole",
+      "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
+      "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
+      "release" : {
+        "build" : "8",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-12T08:05:14Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: spaces of tabs for Chrome and Edge, Pigeonhole's page in every window, history, groups, and your spaces on both Macs through iCloud Drive."
+        ],
+        "update" : {
+          "edSignature" : "0K2drMYLAWVK6Zn9A/xpj6opqoPpAzNSgLlmruwuNRbpQKhuy2q+8E9VqHeNirmaEtLmv5mKhsHriHy+tmghDQ==",
+          "length" : 2481391,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.2.1/Pigeonhole-1.2.1-update.zip"
+        },
+        "version" : "1.2.1",
+        "zip" : {
+          "edSignature" : "Y3tRaW/OT6235Q+5rW5kgEsib1Tpg6kPoaj79jh8069AFQ/hlO65+sfgxks979jP+spWNn+PutuIa7MCLarhBA==",
+          "length" : 2490721,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.2.1/Pigeonhole-1.2.1.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/pigeonhole/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/pigeonhole/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/pigeonhole/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/pigeonhole/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/pigeonhole/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/pigeonhole/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/pigeonhole/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/pigeonhole/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/pigeonhole/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/pigeonhole/5-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/pigeonhole/6-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/pigeonhole/6-light.jpg"
+        }
+      ],
+      "summary" : "Give each project its own space of tabs in Chrome and Edge. Switch a window to a space and its tabs come back as you left them; everything is saved as you browse, with history. Pigeonhole's page, the first tab of every window, lists all your spaces and their tabs. Spaces follow you to your other Mac through iCloud Drive.",
+      "tagline" : "Spaces of tabs for Chrome and Edge."
+    },
+    {
       "alternativeTo" : "Skitch",
       "audience" : "everyone",
       "bundleID" : "local.scrawl.Scrawl",
@@ -748,5 +811,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-12T05:55:42Z"
+  "updated" : "2026-11-12T08:05:14Z"
 }

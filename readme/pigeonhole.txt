@@ -1,0 +1,146 @@
+Pigeonhole 1.2.1
+Spaces of tabs for Chrome and Edge. Give each project or class its own
+space: switch a window to it and its tabs come back just as you left them.
+Everything is saved as you browse, and your spaces follow you to your other
+browser and your other Mac.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Pigeonhole.app: the app
+  • Install Pigeonhole.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
+    on macOS 27.
+  • Google Chrome or Microsoft Edge (or both).
+  • If you use Workona's tab manager, turn it off first (Workona → Settings
+    → Tab Management), or remove its extension. Two tab managers moving the
+    same tabs would fight.
+
+
+INSTALL
+
+  1. Double-click "Install Pigeonhole.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Pigeonhole.command" into the Terminal window, and press Return.
+
+  2. The installer moves Pigeonhole into Applications and opens it. Its
+     Settings open at Browsers.
+
+  3. Add Pigeonhole's extension to Chrome (and Edge, if you use it). It's free
+     and doesn't need the Web Store:
+       a. Click "Open Extensions Page" (or type chrome://extensions in
+          Chrome's address bar; in Edge it's edge://extensions).
+       b. Turn on "Developer mode" (top right in Chrome, on the left in
+          Edge).
+       c. Click "Load unpacked" and choose the folder Pigeonhole shows you
+          ("Show Folder"). In the folder window, ⌘⇧G and
+          ~/Library/Application Support/Pigeonhole/Extension gets you there.
+     Settings → Browsers shows "Connected" a moment later.
+
+  Prefer to do it by hand? Drag Pigeonhole into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Pigeonhole
+
+  • Make a space: click Pigeonhole's button in the browser's toolbar (the
+    little cabinet), then "Save window as space". Give it a name and a
+    colour. The button's badge always shows which space a window is.
+
+  • Switch: press ⌥A (Option-A) or click the button, pick a space and press
+    Return. This window's tabs are swapped for that space's. ⌘-Return opens
+    it in a new window instead. Type to search spaces and every saved tab.
+
+  • Everything saves by itself: new tabs, closed tabs, the order, tab
+    groups. Close a space (⌥W, or "Close space") and its tabs are kept for
+    next time.
+
+  • Pinned tabs (Gmail, say) stay in every window whatever the space. In
+    Settings you can make them belong to their space instead.
+
+  • Pigeonhole's page is the first, pinned tab of every window. Its sidebar
+    lists all your spaces; click one to see its tabs, double-click to open
+    it here. For a closed space, click a tab to open the space at that tab,
+    or use the arrow to open just that tab. Opening a space from the page
+    keeps you on the page.
+
+  • Tick tabs (the box at the left of each row) to move them, put them in
+    a group, close or remove them, or drag them onto a space in the
+    sidebar. Each section (Pinned, each group, the other tabs) has its own
+    box to tick all its tabs, and an arrow to fold it away. "Group…" puts
+    ticked tabs in a new group or an existing one, or takes them out. "All spaces" shows each
+    space as a card, and / searches every saved tab. Settings → General
+    can turn the page off; the switcher's grid button brings it back.
+
+  • Move a tab to another space: ⌥D, or right-click the page → "Move tab to
+    space". "New space…" at the bottom makes a new one for it. ⌥N makes a
+    new space.
+
+  • The side panel (the panel button in Pigeonhole's popup) lists this
+    space's tabs: tick some to move them, put them to sleep or close them.
+    "Close duplicates" and "Sort" tidy up.
+
+  • History: the clock button. A snapshot is kept every hour while you use
+    a space, and each time it closes. Tick the tabs you want back, or
+    "Restore all" to put the space back as it was then.
+
+  • The menu bar: Pigeonhole's icon lists your spaces, how many tabs each has
+    and where it's open. Click one to open it in your browser (hold Option
+    for the other browser). ⌃⌥A (Control-Option-A) shows the switcher from
+    any app. Recently Closed and Archive are there too.
+
+  • Settings (from the menu):
+      – General: how switching works. "Quick" keeps the old space's tabs
+        ready in one minimised window, so going back is instant (they fall
+        asleep after 15 minutes and close after 4 hours). "Light" closes
+        them and reopens them later. Also: pinned tabs, putting idle tabs
+        to sleep, how long history is kept, opening at login, and the
+        menu-bar icon's colour.
+      – Browsers: setting up the extension, and whether each browser is
+        connected.
+      – Sync: where your spaces are kept, and your other Mac.
+      – Shortcuts: the ⌃⌥A shortcut. The browser shortcuts (⌥A, ⌥D, ⌥N,
+        ⌥W) are changed in the browser: chrome://extensions/shortcuts.
+
+
+YOUR SPACES
+
+  • They're kept in iCloud Drive → Pigeonhole, so your other Mac has them
+    too (install Pigeonhole there and add the extension). Nothing is sent
+    anywhere else: there's no account and no server.
+
+  • If a space is open on both Macs (or in Chrome and Edge) and changes in
+    one, the other asks: "Use theirs" or "Keep this window's".
+
+  • The first time, macOS may ask whether Pigeonhole can use iCloud Drive.
+    Click Allow. If iCloud Drive is off, your spaces stay on this Mac.
+
+
+GOOD TO KNOW
+
+  • To update: unzip a newer copy and run its installer. It replaces the
+    old one and keeps your settings and spaces. The extension updates
+    itself from the app.
+
+  • To uninstall: quit Pigeonhole and drag it from Applications to the
+    Trash. Remove its extension in chrome://extensions. Your spaces stay in
+    iCloud Drive → Pigeonhole until you delete that folder.
+
+  • Chrome may remind you now and then that a Developer mode extension is
+    installed. That's normal for extensions added with Load unpacked.
+
+  • Pigeonhole is free and open source, an open-source alternative to
+    Workona's tab manager (not affiliated with Workona). It isn't from the
+    App Store and isn't notarized by Apple, which is why macOS asks you to
+    confirm it the first time.
