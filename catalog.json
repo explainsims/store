@@ -156,26 +156,26 @@
       "needs" : "Optional: a TV or projector set to Extend for presenter view; Rollbook for SSIS class lists",
       "readmeURL" : "https://store.explainsims.com/readme/corkboard.txt",
       "release" : {
-        "build" : "80",
+        "build" : "81",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-12T01:33:58Z",
+        "date" : "2026-11-12T01:41:25Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "New: a hall pass; the timetable as a lesson pie or Now and next (it can follow Rollbook's bell); escape rooms with padlocks and links between screens; and the weather with air quality. Also: NASA's picture of the day works again, easier + and − buttons, and pictures for countdown events."
+          "New widgets start with the settings you used last: a timer at your last length and sounds, a text card in your last font, and so on (never their content). Turn it off or forget them in Settings › General."
         ],
         "update" : {
-          "edSignature" : "RqdCyuAQC/7sUgYm4N0u+T3wQKzxn83k3HcibcVjhHI+Kv9svr/UMcWtmbDTsQSYvjZxDxnQ/q0X1DJ8sdByDA==",
-          "length" : 17122102,
-          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.2.0/Corkboard-1.2.0-update.zip"
+          "edSignature" : "kv2UWvuXNsMxT+1rDtblKvqb0im6fxBX8uF+eioFvcBQ6VpgouKS8DruuP31bVIS5BbCOeJf2ixVnQu2UJGRCQ==",
+          "length" : 17202521,
+          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.2.1/Corkboard-1.2.1-update.zip"
         },
-        "version" : "1.2.0",
+        "version" : "1.2.1",
         "zip" : {
-          "edSignature" : "v1bkDh+Qq+Myy+HM3n1ydFDPQOpd2ppVk9r0yZEe8tVLd7pJKDzARVRg3yHKTsdsJxk63Jo9nEjLbnoRY/7GDw==",
-          "length" : 17131467,
-          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.2.0/Corkboard-1.2.0.zip"
+          "edSignature" : "ammd1VfgEd3vnOzF+VazU8UnA4aHbPqDwiC6hNe3Ua9/faaZJMEYNZu4n2g+gb3BE9j4/TDshbXhNkeptlzUBw==",
+          "length" : 17211997,
+          "url" : "https://github.com/explainsims/store/releases/download/corkboard-1.2.1/Corkboard-1.2.1.zip"
         }
       },
       "screenshots" : [
@@ -748,5 +748,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-12T01:33:58Z"
+  "updated" : "2026-11-12T01:41:25Z"
 }

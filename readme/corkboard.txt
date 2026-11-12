@@ -1,4 +1,4 @@
-Corkboard 1.2.0
+Corkboard 1.2.1
 A board for the front of the classroom. Put it on the TV or projector and pin
 timers, a name picker, groups, a voice-level meter, a traffic light, work
 symbols, polls, text, pictures, videos and more to it. A deck holds the
@@ -44,6 +44,11 @@ USING Corkboard
   • The bar along the bottom adds widgets. Click one and it appears on
     the board. "All" shows every widget, and "Edit the Bar…" there picks
     which ones sit on the bar.
+
+  • Each widget remembers how you set it up last time: a new timer
+    starts at your last length and sounds, a text card in your last
+    font, and so on (never the content: words, votes, answers). Turn it
+    off, or forget them, in Settings → General.
 
   • Drag a widget to move it, and its corners to resize it. The round
     handle under it rotates it. Click a widget to see its toolbar:

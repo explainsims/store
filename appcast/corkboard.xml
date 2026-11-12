@@ -3,13 +3,13 @@
   <channel>
     <title>Corkboard</title>
     <item>
-      <title>Corkboard 1.2.0</title>
-      <pubDate>Thu, 12 Nov 2026 01:33:58 +0000</pubDate>
-      <sparkle:version>80</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <title>Corkboard 1.2.1</title>
+      <pubDate>Thu, 12 Nov 2026 01:41:25 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>New: a hall pass; the timetable as a lesson pie or Now and next (it can follow Rollbook's bell); escape rooms with padlocks and links between screens; and the weather with air quality. Also: NASA's picture of the day works again, easier + and − buttons, and pictures for countdown events.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/corkboard-1.2.0/Corkboard-1.2.0-update.zip" length="17122102" type="application/octet-stream" sparkle:edSignature="RqdCyuAQC/7sUgYm4N0u+T3wQKzxn83k3HcibcVjhHI+Kv9svr/UMcWtmbDTsQSYvjZxDxnQ/q0X1DJ8sdByDA=="/>
+      <description><![CDATA[<ul><li>New widgets start with the settings you used last: a timer at your last length and sounds, a text card in your last font, and so on (never their content). Turn it off or forget them in Settings › General.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/corkboard-1.2.1/Corkboard-1.2.1-update.zip" length="17202521" type="application/octet-stream" sparkle:edSignature="kv2UWvuXNsMxT+1rDtblKvqb0im6fxBX8uF+eioFvcBQ6VpgouKS8DruuP31bVIS5BbCOeJf2ixVnQu2UJGRCQ=="/>
     </item>
   </channel>
 </rss>
