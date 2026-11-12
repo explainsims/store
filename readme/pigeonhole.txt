@@ -1,4 +1,4 @@
-Pigeonhole 1.2.1
+Pigeonhole 1.3.0
 Spaces of tabs for Chrome and Edge. Give each project or class its own
 space: switch a window to it and its tabs come back just as you left them.
 Everything is saved as you browse, and your spaces follow you to your other
@@ -79,7 +79,13 @@ USING Pigeonhole
     a group, close or remove them, or drag them onto a space in the
     sidebar. Each section (Pinned, each group, the other tabs) has its own
     box to tick all its tabs, and an arrow to fold it away. "Group…" puts
-    ticked tabs in a new group or an existing one, or takes them out. "All spaces" shows each
+    ticked tabs in a new group or an existing one, or takes them out.
+
+  • Drag to rearrange: drag a tab up or down the list (a line shows where
+    it lands). Drop it among a group's tabs, or on the group's header, to
+    put it in that group; among the other tabs to take it out. Drag a
+    group's header to move the whole group. This works for this window's
+    tabs and for a closed space's saved tabs. "All spaces" shows each
     space as a card, and / searches every saved tab. Settings → General
     can turn the page off; the switcher's grid button brings it back.
 
