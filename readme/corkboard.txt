@@ -1,4 +1,4 @@
-Corkboard 1.2.1
+Corkboard 1.3.0
 A board for the front of the classroom. Put it on the TV or projector and pin
 timers, a name picker, groups, a voice-level meter, a traffic light, work
 symbols, polls, text, pictures, videos and more to it. A deck holds the
@@ -55,6 +55,12 @@ USING Corkboard
     settings, show on every screen (a pin appears on it), spotlight,
     more (duplicate, lock, front and back), delete.
 
+  • Class mode, for touch boards: Class mode on the bar (or Shift-
+    Command-K, or the menu-bar icon). Students can use the widgets:
+    start timers, spin the wheel, roll dice, vote, draw. Nothing can be
+    moved, deleted or set up, and the bar hides. To leave, press and
+    hold the small lock in the bottom-right corner for 3 seconds.
+
   • Background (on the bar) changes what's behind the widgets: gradients,
     moving backgrounds, colours, paper, the Mac's own wallpapers, your own
     pictures and slideshows.
@@ -95,9 +101,31 @@ USING Corkboard
 
   • Hall pass (in All): click Sign out, then a name (and where to, if
     you like). The board shows who's out and for how long, amber when
-    it's been a while. One at a time unless you turn that off. Today's
-    trips are listed in its settings and presenter view, never on the
-    board, and clear themselves the next day.
+    it's been a while. One at a time unless you turn that off; then
+    others can join the line, and the next one's turn shows on the
+    board. Today's trips are listed in its settings and presenter view,
+    never on the board, and clear themselves the next day.
+
+  • Students on their own devices: in the hall pass's or a waiting
+    list's settings, turn on "Students can use this on their devices".
+    The card shows a QR code and a 4-letter join code. Students scan it
+    (or go to the address and type the code), pick their name once a
+    lesson, and then sign out, join the line for the pass, and come back
+    on their phone or laptop. The board updates straight away. While
+    they're out, their screen is the pass, with the time ticking. "Ask me
+    first" makes them ask; you tap ✓ or ✕ on the board, in presenter
+    view or on the phone remote. The code changes each lesson (with
+    Rollbook) or each day; New Code changes it now. Students only see
+    their own trip and place in line, never anyone else's. Devices must
+    be on the same Wi-Fi as your Mac.
+
+  • Waiting list (in All): students tap Add me, their name and what
+    they need ("I need help", "Check my work", "I'm done"). The board
+    lists them in the order they asked, with how long they've waited;
+    tap ✓ when you're done with someone and the next moves up. Students
+    can also join on their phones or laptops with the code on the card
+    (same Wi-Fi as your Mac). Change the reasons in its settings. The
+    list clears itself the next day.
 
   • Lesson pie and Now and next: in a timetable's settings, Show as.
     The pie shows the lesson's parts in colours with a hand at now;
