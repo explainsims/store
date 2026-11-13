@@ -363,29 +363,28 @@
       "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
       "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
       "release" : {
-        "build" : "11",
+        "build" : "12",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-13T01:56:17Z",
+        "date" : "2026-11-13T08:31:18Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Pigeonhole now keeps your pinned tabs and puts them in every window: every space, new windows too. If Chrome comes back from a restart without them, Pigeonhole puts them back.",
-          "Tick “Disable pinned tabs for this space” beside a space’s Pinned section to keep them out of that space.",
-          "“Pinned tabs” in the page’s sidebar lists them, with a history to bring back one you closed.",
-          "Close duplicates never closes a pinned tab."
+          "The waiting-tabs window now stays minimised. Chrome and Edge on the Mac had been opening it as an ordinary window.",
+          "If something brings it forward (clicking Chrome in the Dock, say), it goes back down and the window you were using comes forward, or a new window when it was the only one.",
+          "When Chrome starts, the waiting window it brings back from last time is closed right away. Nothing is lost: every space is saved."
         ],
         "update" : {
-          "edSignature" : "I0QPultsg9Xqj9YS2k9i5cWM59rw231YuLNB0FpxATg4VSqCh1mOKOsSogJZc2Wb4KXjv9t5MUqolfAuRwCBAg==",
-          "length" : 2492872,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.4.0/Pigeonhole-1.4.0-update.zip"
+          "edSignature" : "qMuWqG33e274RoK56RitVRj+6VKQUkWWCUuva3K+Isgc65BkFEdXBUMS9sGa4vMBDl+r38K3yzXRLf/sb+AIAQ==",
+          "length" : 2493649,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.4.1/Pigeonhole-1.4.1-update.zip"
         },
-        "version" : "1.4.0",
+        "version" : "1.4.1",
         "zip" : {
-          "edSignature" : "P7X8frYR6UPlc3QipNp6lNJIFm8UsjdoUQNqiNAPwoDVN4Aod3wl7KxQj+mD5bfJuBn3MtRp59eiSeXngKXvCQ==",
-          "length" : 2502461,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.4.0/Pigeonhole-1.4.0.zip"
+          "edSignature" : "k53dhUAhZwKGsEsZH4BvVLVW7jqzFi8lPu0VHnzt6DNev3QGNcQlthgsyV3MICnin4xYTenHJIWFSIhnlfOABw==",
+          "length" : 2503258,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.4.1/Pigeonhole-1.4.1.zip"
         }
       },
       "screenshots" : [
@@ -759,5 +758,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-13T06:29:08Z"
+  "updated" : "2026-11-13T08:31:18Z"
 }

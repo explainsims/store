@@ -1,4 +1,4 @@
-Pigeonhole 1.4.0
+Pigeonhole 1.4.1
 Spaces of tabs for Chrome and Edge. Give each project or class its own
 space: switch a window to it and its tabs come back just as you left them.
 Everything is saved as you browse, and your spaces follow you to your other
@@ -114,7 +114,8 @@ USING Pigeonhole
   • Settings (from the menu):
       – General: how switching works. "Quick" keeps the old space's tabs
         ready in one minimised window, so going back is instant (they fall
-        asleep after 15 minutes and close after 4 hours). "Light" closes
+        asleep after 15 minutes and close after 4 hours). Pigeonhole keeps
+        that window minimised, out of your way. "Light" closes
         them and reopens them later. Also: pinned tabs, putting idle tabs
         to sleep, how long history is kept, opening at login, and the
         menu-bar icon's colour.

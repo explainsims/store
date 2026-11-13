@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.4.0</title>
-      <pubDate>Fri, 13 Nov 2026 01:56:17 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <title>Pigeonhole 1.4.1</title>
+      <pubDate>Fri, 13 Nov 2026 08:31:18 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Pigeonhole now keeps your pinned tabs and puts them in every window: every space, new windows too. If Chrome comes back from a restart without them, Pigeonhole puts them back.</li><li>Tick “Disable pinned tabs for this space” beside a space’s Pinned section to keep them out of that space.</li><li>“Pinned tabs” in the page’s sidebar lists them, with a history to bring back one you closed.</li><li>Close duplicates never closes a pinned tab.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.4.0/Pigeonhole-1.4.0-update.zip" length="2492872" type="application/octet-stream" sparkle:edSignature="I0QPultsg9Xqj9YS2k9i5cWM59rw231YuLNB0FpxATg4VSqCh1mOKOsSogJZc2Wb4KXjv9t5MUqolfAuRwCBAg=="/>
+      <description><![CDATA[<ul><li>The waiting-tabs window now stays minimised. Chrome and Edge on the Mac had been opening it as an ordinary window.</li><li>If something brings it forward (clicking Chrome in the Dock, say), it goes back down and the window you were using comes forward, or a new window when it was the only one.</li><li>When Chrome starts, the waiting window it brings back from last time is closed right away. Nothing is lost: every space is saved.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.4.1/Pigeonhole-1.4.1-update.zip" length="2493649" type="application/octet-stream" sparkle:edSignature="qMuWqG33e274RoK56RitVRj+6VKQUkWWCUuva3K+Isgc65BkFEdXBUMS9sGa4vMBDl+r38K3yzXRLf/sb+AIAQ=="/>
     </item>
   </channel>
 </rss>
