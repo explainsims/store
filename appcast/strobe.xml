@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Strobe</title>
+    <item>
+      <title>Strobe 1.0.0</title>
+      <pubDate>Fri, 13 Nov 2026 23:24:31 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/strobe-1.0.0/Strobe-1.0.0-update.zip" length="4945396" type="application/octet-stream" sparkle:edSignature="oRjlBY6PDW58GtMGpT1p8ZnAgkTllQPpRTzBUu9clLwBa9oXbsWMJ6hYiDtx/ZeNoehfRxHgMVqnbVeTHDvHAg=="/>
+    </item>
+  </channel>
+</rss>

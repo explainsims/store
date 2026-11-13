@@ -1,0 +1,83 @@
+Strobe 1.0.0
+Video motion analysis for physics labs. Open a video of something moving,
+set the scale and the axes, click the object on each frame (or let Strobe
+track it), and get position, velocity and acceleration as a table and
+graphs, with fits, uncertainties and a strobe picture for worksheets.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Strobe.app: the app
+  • Install Strobe.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
+    on macOS 27.
+
+
+INSTALL
+
+  1. Double-click "Install Strobe.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Strobe.command" into the Terminal window, and press Return.
+
+  2. The installer moves Strobe into Applications and opens it.
+
+  Prefer to do it by hand? Drag Strobe into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Strobe
+
+  • Start: open a video (or drag one onto Strobe's icon), File → Open from
+    Photos (slow motion opens at its full frame rate), or try a sample.
+    Strobe reads each frame's own time from the file, so there's no frame
+    rate to type in.
+
+  • 1. Scale (S): drag along something you know the length of, such as a
+    metre stick, and type its length (1 m, 50 cm, 1.000 ± 0.002 m).
+  • 2. Axes (X): click the origin, drag to turn the x axis.
+  • 3. Track: Add point (A) — click the object on each frame; clicks snap
+    to its centre (hold Option to place a point exactly). Auto-track (T) —
+    draw a box round the object; check any hollow points it isn't sure of.
+  • Edit (E): drag points, the scale's ends or the origin. Delete removes
+    the selected point. Command-Z undoes anything.
+
+  • Panels float over the video: Inspector, Graph, Data, Overlays, Objects,
+    Collision and Custom Table (View menu). Tab hides them all.
+  • Graph: pick what to plot, drag across it to choose a range, then pick a
+    fit. Turn on error bars and max/min gradient lines in its … menu.
+  • Give objects a mass for energy and momentum; track two objects for the
+    Collision panel.
+  • Export: data as CSV, Copy Data (Shift-Command-C) to paste into Google
+    Sheets or Excel, graph pictures, a strobe-picture worksheet with an
+    answer key, and a movie with the arrows drawn in.
+
+  • Projects are .strobe files with the video inside. Save to Google Drive
+    (Option-Command-S) puts them in a Strobe folder in your Drive; Open from
+    Google Drive opens them on any Mac or iPhone. Sign in from Settings.
+    Strobe only sees the files it saves and the ones you pick.
+
+  • Opening from Photos asks for access to your Photos library.
+
+
+GOOD TO KNOW
+
+  • To update: Strobe → Check for Updates…, or unzip a newer copy and run
+    its installer. It replaces the old one and keeps your settings.
+
+  • To uninstall: quit Strobe and drag it from Applications to the Trash.
+
+  • Strobe is free and open source (MIT), an open-source alternative to
+    video-analysis tools such as Vernier Video Analysis and Tracker, and not
+    affiliated with either. It isn't from the App Store and isn't notarized
+    by Apple, which is why macOS asks you to confirm it the first time.

@@ -672,6 +672,66 @@
       "tagline" : "Install any of these apps in one click, and keep them all up to date."
     },
     {
+      "alternativeTo" : "Vernier Video Analysis and Tracker",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.strobe",
+      "icon" : "https://store.explainsims.com/icons/strobe.png",
+      "id" : "strobe",
+      "internet" : "Only for Google Drive, if you sign in, and for update checks",
+      "kind" : "tools",
+      "licence" : "MIT",
+      "name" : "Strobe",
+      "privacyURL" : "https://store.explainsims.com/privacy/strobe.txt",
+      "readmeURL" : "https://store.explainsims.com/readme/strobe.txt",
+      "release" : {
+        "build" : "7",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-13T23:24:31Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "oRjlBY6PDW58GtMGpT1p8ZnAgkTllQPpRTzBUu9clLwBa9oXbsWMJ6hYiDtx/ZeNoehfRxHgMVqnbVeTHDvHAg==",
+          "length" : 4945396,
+          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.0/Strobe-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "AQzAx4HHHzj6k/I23O5AroEjdAS2KwvQD+fctHisnpd2fetf3hO3G4HTXW2s7L4wLrvDyuwXVMZH59xGaeGHAA==",
+          "length" : 4950874,
+          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.0/Strobe-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/strobe/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/strobe/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/strobe/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/strobe/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/strobe/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/strobe/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/strobe/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/strobe/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/strobe/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/strobe/5-light.jpg"
+        }
+      ],
+      "summary" : "Open a video of something moving, set the scale and the axes, and click the object on each frame, or draw a box round it and let Strobe track it. You get position, velocity and acceleration in a table and on graphs, with fits, uncertainties and max/min gradient lines, energy and momentum for collisions, and a strobe-picture worksheet with an answer key. Slow motion from Photos opens at its full frame rate. Projects are .strobe files with the video inside, kept on your Mac or in your Google Drive.",
+      "tagline" : "Track motion in a video, then graph it and fit it."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.throw",
       "icon" : "https://store.explainsims.com/icons/throw.png",
@@ -817,5 +877,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-13T23:23:16Z"
+  "updated" : "2026-11-13T23:24:31Z"
 }
