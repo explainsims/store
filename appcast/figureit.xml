@@ -3,13 +3,13 @@
   <channel>
     <title>Figure It</title>
     <item>
-      <title>Figure It 0.5.10</title>
-      <pubDate>Mon, 09 Nov 2026 00:39:04 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
+      <title>Figure It 0.5.11</title>
+      <pubDate>Fri, 13 Nov 2026 06:29:08 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.5.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Check for Updates… in the Figure It menu. From now on Figure It updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10-update.zip" length="5366760" type="application/octet-stream" sparkle:edSignature="qAMtolga/TszcWJ+5X4T7Vfucq4K/9juoAZDvV7VmvpOzJJToFfP126yraM6IZMZ14xUGtNE8tptFWtHeltsCg=="/>
+      <description><![CDATA[<ul><li>Coordinate grid: number an axis in π radians or degrees, with gridlines every π/6, π/4, π/3, π/2 or π for trig graphs. Fractions and π on the axes are stacked (3π over 2) so they never run into each other.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.11/Figure-It-0.5.11-update.zip" length="5433101" type="application/octet-stream" sparkle:edSignature="zBFEUVvxKuzsTkFxsfN2EivUeCyqVpwMI4SlBz1xmY9Y0A1sTMl80dwMQsIgpssgSiB+/u5xXMxA81IBbv1PDw=="/>
     </item>
   </channel>
 </rss>

@@ -154,26 +154,26 @@
       "name" : "Figure It",
       "readmeURL" : "https://store.explainsims.com/readme/figureit.txt",
       "release" : {
-        "build" : "22",
+        "build" : "24",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T00:39:04Z",
+        "date" : "2026-11-13T06:29:08Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Check for Updates… in the Figure It menu. From now on Figure It updates itself, checking once a day."
+          "Coordinate grid: number an axis in π radians or degrees, with gridlines every π/6, π/4, π/3, π/2 or π for trig graphs. Fractions and π on the axes are stacked (3π over 2) so they never run into each other."
         ],
         "update" : {
-          "edSignature" : "qAMtolga/TszcWJ+5X4T7Vfucq4K/9juoAZDvV7VmvpOzJJToFfP126yraM6IZMZ14xUGtNE8tptFWtHeltsCg==",
-          "length" : 5366760,
-          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10-update.zip"
+          "edSignature" : "zBFEUVvxKuzsTkFxsfN2EivUeCyqVpwMI4SlBz1xmY9Y0A1sTMl80dwMQsIgpssgSiB+/u5xXMxA81IBbv1PDw==",
+          "length" : 5433101,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.11/Figure-It-0.5.11-update.zip"
         },
-        "version" : "0.5.10",
+        "version" : "0.5.11",
         "zip" : {
-          "edSignature" : "Fsq3DxHlb7pRYTiyv2ZTeRPceXtOQETbTlkQjKYzP2z+mdZ5GCUSuPOgs9OzqEsvODqlxzvN40EXsCWkxWWtCg==",
-          "length" : 5375771,
-          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.10/Figure-It-0.5.10.zip"
+          "edSignature" : "lxSEZs6wVbUJAX+Svsqjj58B0LvzSX5ZQcAy/z9Z8ppbihi52TySE85Mh8Zun81wBQyevFACmKU0au5koZulBw==",
+          "length" : 5442112,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.11/Figure-It-0.5.11.zip"
         }
       },
       "screenshots" : [
@@ -759,5 +759,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-13T01:56:17Z"
+  "updated" : "2026-11-13T06:29:08Z"
 }
