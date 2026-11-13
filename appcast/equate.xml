@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Equate</title>
+    <item>
+      <title>Equate 1.0.0</title>
+      <pubDate>Fri, 13 Nov 2026 23:23:16 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: snip an equation and paste it as LaTeX, a Word or Google Docs equation, plain text or a picture. Read on your Mac, nothing uploaded.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/equate-1.0.0/Equate-1.0.0-update.zip" length="273835372" type="application/octet-stream" sparkle:edSignature="CDKtwnE9euXKE1DO7ua2EQKCVaoYK3T/efSBXERmHZ5H40RwZRQbdXrbI3aSVm2oKQPPyWu7iLQvF5dqISJ0AQ=="/>
+    </item>
+  </channel>
+</rss>

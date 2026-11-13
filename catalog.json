@@ -145,6 +145,65 @@
       "tagline" : "Convert files by dragging onto a pop-up wheel."
     },
     {
+      "alternativeTo" : "Mathpix Snipping Tool",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.equate",
+      "icon" : "https://store.explainsims.com/icons/equate.png",
+      "id" : "equate",
+      "kind" : "menubar",
+      "licence" : "MIT",
+      "name" : "Equate",
+      "needs" : "Screen Recording for snipping. Apple's second opinion needs macOS 27 with Apple Intelligence on; Equate works without it",
+      "readmeURL" : "https://store.explainsims.com/readme/equate.txt",
+      "release" : {
+        "build" : "3",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-13T23:23:16Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: snip an equation and paste it as LaTeX, a Word or Google Docs equation, plain text or a picture. Read on your Mac, nothing uploaded."
+        ],
+        "update" : {
+          "edSignature" : "CDKtwnE9euXKE1DO7ua2EQKCVaoYK3T/efSBXERmHZ5H40RwZRQbdXrbI3aSVm2oKQPPyWu7iLQvF5dqISJ0AQ==",
+          "length" : 273835372,
+          "url" : "https://github.com/explainsims/store/releases/download/equate-1.0.0/Equate-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "A6QbslXl6YfYhfx5warez8Qyfbd4ELkMYXvhCiiIcnvx/j5UgFUBqoKz5bFj/SA96TarWtrz3Yb4vEdoLpjNDg==",
+          "length" : 273842265,
+          "url" : "https://github.com/explainsims/store/releases/download/equate-1.0.0/Equate-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/equate/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/equate/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/equate/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/equate/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/equate/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/equate/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/equate/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/equate/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/equate/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/equate/5-light.jpg"
+        }
+      ],
+      "summary" : "Press ⌃⌥E and drag round an equation in a PDF, a web page or a picture. Equate reads it on your Mac and puts it on the clipboard in the best form for the app you're in: a real equation in Word and Google Docs, a sharp picture in Pages and Keynote, LaTeX everywhere else. It also reads PDFs, iPhone photos of the whiteboard and equations you write on the trackpad, and keeps a history. No account, no limit, nothing uploaded.",
+      "tagline" : "Snip any equation, paste it as LaTeX, Word or Google Docs maths."
+    },
+    {
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.figureit",
       "icon" : "https://store.explainsims.com/icons/figureit.png",
@@ -758,5 +817,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-13T08:31:18Z"
+  "updated" : "2026-11-13T23:23:16Z"
 }
