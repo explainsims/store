@@ -1,0 +1,83 @@
+Rummage 1.0.0
+Find any file on your Mac by its name, dates, size, kind or anything else, fast and
+without an index. And find files by what's in them: Rummage reads your documents
+and pictures on your Mac, so "the worksheet with the skateboard on the ramp" finds it.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Rummage.app: the app
+  • Install Rummage.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later.
+    Searching by meaning (Rummage) needs macOS 15 or later.
+
+
+INSTALL
+
+  1. Double-click "Install Rummage.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Rummage.command" into the Terminal window, and press Return.
+
+  2. The installer moves Rummage into Applications and opens it.
+
+  Prefer to do it by hand? Drag Rummage into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Rummage
+
+  • Choose where to look in the sidebar (Home, your disk, a network share, a
+    folder). Shift-click to add more than one place.
+
+  • Set the rules at the top: File name contains…, Date modified within the
+    last…, Size, Kind, Tags, Contains text, and many more. Click + for another
+    rule, or hold + for a group (Any of these / All / None). Expert rules are
+    in the Expert submenu. Press Find (⌘Return).
+
+  • Results show as a List (⌘1), a Tree of folders (⌘2) or Preview pictures
+    (⌘3). Space shows Quick Look, ⌘R shows a file in the Finder, ⌘O opens it,
+    ⌘⌫ moves it to the Trash. Right-click for everything else (Open With,
+    Copy Path, Get Info, Rename, Label…). The filter field narrows the list.
+
+  • Recent and saved searches are in the sidebar. Save a search with ⌘S.
+    Find Any File's saved searches (.faf) open too.
+
+  • Rummage (find by meaning): switch it on in Settings → Rummage and choose
+    the folders it may read. The first time it downloads its reading model
+    (about 0.9 GB) and then reads your files in the background, which can take
+    a few hours; it pauses on battery and while you search. Then use the rule
+    "Means" and type a sentence. Everything stays on your Mac.
+
+  • Quick Find: set a hotkey in Settings → General to search from any app.
+
+  • Full Disk Access: so Rummage can see every folder, turn it on in System
+    Settings → Privacy & Security → Full Disk Access (use + to add Rummage).
+
+  • Search as root (system folders, other users' folders): Settings → Search
+    → Search as root, then switch on Rummage in System Settings → General →
+    Login Items & Extensions. Then hold ⌥ and press Find.
+
+
+GOOD TO KNOW
+
+  • To update: use Rummage → Check for Updates…, or unzip a newer copy and
+    run its installer. Your settings stay.
+
+  • To uninstall: quit Rummage and drag it from Applications to the Trash.
+    Rummage's index and model are in your Library → Application Support →
+    Rummage folder; delete that folder too to free the space.
+
+  • Rummage is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time.

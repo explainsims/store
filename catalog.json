@@ -476,6 +476,65 @@
       "tagline" : "Spaces of tabs for Chrome and Edge."
     },
     {
+      "alternativeTo" : "Find Any File",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.rummage",
+      "icon" : "https://store.explainsims.com/icons/rummage.png",
+      "id" : "rummage",
+      "kind" : "tools",
+      "licence" : "MIT",
+      "name" : "Rummage",
+      "needs" : "Searching by meaning needs macOS 15 and an Apple Silicon Mac, and a one-time download of its reading model (about 0.9 GB)",
+      "readmeURL" : "https://store.explainsims.com/readme/rummage.txt",
+      "release" : {
+        "build" : "7",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-13T23:25:07Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: every Find Any File rule and its speed (about 7× faster in a home folder), plus Rummage, which finds files by what's in them, read on your Mac."
+        ],
+        "update" : {
+          "edSignature" : "BbT92NdAHhbelUa5KiQ2sr74QjUEu2Lg2saZk5u7LKu8eoFpmj9o8p9dPX6sUvF0Mn0rBE05f7PgM7IT2DuyAw==",
+          "length" : 22546957,
+          "url" : "https://github.com/explainsims/store/releases/download/rummage-1.0.0/Rummage-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "4ebj7QVffU3f6PZYelwEQLZtFtMUGFWfk0zRrkRwD54dx2v+xPb8lx87OHrAQB6uEEqR+yUGKLdClnATi0Q3Dg==",
+          "length" : 22553991,
+          "url" : "https://github.com/explainsims/store/releases/download/rummage-1.0.0/Rummage-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/rummage/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/rummage/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/rummage/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/rummage/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/rummage/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/rummage/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/rummage/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/rummage/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/rummage/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/rummage/5-light.jpg"
+        }
+      ],
+      "summary" : "Find any file by its name, dates, size, kind, tags, contents and more, straight from the disk with no index, and several times faster than a one-folder-at-a-time search in your home folder. Turn on Rummage and it also finds files by what they're about: a sentence like “the worksheet with the skateboard on the ramp” finds the PDF, the scan or the photo, read on your Mac and never uploaded. Opens Find Any File's saved searches.",
+      "tagline" : "Find any file, even by what's in it."
+    },
+    {
       "alternativeTo" : "Skitch",
       "audience" : "everyone",
       "bundleID" : "local.scrawl.Scrawl",
@@ -877,5 +936,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-13T23:24:31Z"
+  "updated" : "2026-11-13T23:25:07Z"
 }

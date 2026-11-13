@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Rummage</title>
+    <item>
+      <title>Rummage 1.0.0</title>
+      <pubDate>Fri, 13 Nov 2026 23:25:07 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: every Find Any File rule and its speed (about 7× faster in a home folder), plus Rummage, which finds files by what's in them, read on your Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/rummage-1.0.0/Rummage-1.0.0-update.zip" length="22546957" type="application/octet-stream" sparkle:edSignature="BbT92NdAHhbelUa5KiQ2sr74QjUEu2Lg2saZk5u7LKu8eoFpmj9o8p9dPX6sUvF0Mn0rBE05f7PgM7IT2DuyAw=="/>
+    </item>
+  </channel>
+</rss>
