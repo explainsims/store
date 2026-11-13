@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.3.0</title>
-      <pubDate>Thu, 12 Nov 2026 08:50:48 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <title>Pigeonhole 1.4.0</title>
+      <pubDate>Fri, 13 Nov 2026 01:56:17 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Drag to rearrange tabs and whole groups on Pigeonhole's page and in the side panel; fold sections, tick a whole section, bigger tick boxes and a Group menu; opening a space from the page keeps you on it.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.3.0/Pigeonhole-1.3.0-update.zip" length="2484365" type="application/octet-stream" sparkle:edSignature="pQav1ZLOSeGt2Yk9aT8hbYPkEPudrSppNaWIMqRyAsW0XZsi1Er8HPRzyVzpuqXgtDY4HFNwO+zvrapbTKfEBA=="/>
+      <description><![CDATA[<ul><li>Pigeonhole now keeps your pinned tabs and puts them in every window: every space, new windows too. If Chrome comes back from a restart without them, Pigeonhole puts them back.</li><li>Tick “Disable pinned tabs for this space” beside a space’s Pinned section to keep them out of that space.</li><li>“Pinned tabs” in the page’s sidebar lists them, with a history to bring back one you closed.</li><li>Close duplicates never closes a pinned tab.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.4.0/Pigeonhole-1.4.0-update.zip" length="2492872" type="application/octet-stream" sparkle:edSignature="I0QPultsg9Xqj9YS2k9i5cWM59rw231YuLNB0FpxATg4VSqCh1mOKOsSogJZc2Wb4KXjv9t5MUqolfAuRwCBAg=="/>
     </item>
   </channel>
 </rss>
