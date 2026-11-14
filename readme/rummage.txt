@@ -1,4 +1,4 @@
-Rummage 1.0.0
+Rummage 1.0.1
 Find any file on your Mac by its name, dates, size, kind or anything else, fast and
 without an index. And find files by what's in them: Rummage reads your documents
 and pictures on your Mac, so "the worksheet with the skateboard on the ramp" finds it.

@@ -3,13 +3,13 @@
   <channel>
     <title>Rummage</title>
     <item>
-      <title>Rummage 1.0.0</title>
-      <pubDate>Fri, 13 Nov 2026 23:25:07 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Rummage 1.0.1</title>
+      <pubDate>Sat, 14 Nov 2026 11:48:57 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release: every Find Any File rule and its speed (about 7× faster in a home folder), plus Rummage, which finds files by what's in them, read on your Mac.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/rummage-1.0.0/Rummage-1.0.0-update.zip" length="22546957" type="application/octet-stream" sparkle:edSignature="BbT92NdAHhbelUa5KiQ2sr74QjUEu2Lg2saZk5u7LKu8eoFpmj9o8p9dPX6sUvF0Mn0rBE05f7PgM7IT2DuyAw=="/>
+      <description><![CDATA[<ul><li>The toolbar's eye, box and trash icons are gone: set invisible items, package contents and the Trash with the pickers under the rules.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/rummage-1.0.1/Rummage-1.0.1-update.zip" length="22536453" type="application/octet-stream" sparkle:edSignature="o5LRuD80HHum1NG22hf9AQEB6KsfA1jKmD3OCuEznz3xinWPndgCKVvNpweu31fsYIkg8yQrQ00zlNUuWcW1CA=="/>
     </item>
   </channel>
 </rss>

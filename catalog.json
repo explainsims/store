@@ -487,26 +487,26 @@
       "needs" : "Searching by meaning needs macOS 15 and an Apple Silicon Mac, and a one-time download of its reading model (about 0.9 GB)",
       "readmeURL" : "https://store.explainsims.com/readme/rummage.txt",
       "release" : {
-        "build" : "7",
+        "build" : "9",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-13T23:25:07Z",
+        "date" : "2026-11-14T11:48:57Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "First release: every Find Any File rule and its speed (about 7× faster in a home folder), plus Rummage, which finds files by what's in them, read on your Mac."
+          "The toolbar's eye, box and trash icons are gone: set invisible items, package contents and the Trash with the pickers under the rules."
         ],
         "update" : {
-          "edSignature" : "BbT92NdAHhbelUa5KiQ2sr74QjUEu2Lg2saZk5u7LKu8eoFpmj9o8p9dPX6sUvF0Mn0rBE05f7PgM7IT2DuyAw==",
-          "length" : 22546957,
-          "url" : "https://github.com/explainsims/store/releases/download/rummage-1.0.0/Rummage-1.0.0-update.zip"
+          "edSignature" : "o5LRuD80HHum1NG22hf9AQEB6KsfA1jKmD3OCuEznz3xinWPndgCKVvNpweu31fsYIkg8yQrQ00zlNUuWcW1CA==",
+          "length" : 22536453,
+          "url" : "https://github.com/explainsims/store/releases/download/rummage-1.0.1/Rummage-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "4ebj7QVffU3f6PZYelwEQLZtFtMUGFWfk0zRrkRwD54dx2v+xPb8lx87OHrAQB6uEEqR+yUGKLdClnATi0Q3Dg==",
-          "length" : 22553991,
-          "url" : "https://github.com/explainsims/store/releases/download/rummage-1.0.0/Rummage-1.0.0.zip"
+          "edSignature" : "wAYAno/mDZBpjZxhQKqEXdzrTAxxw803LxZ5rUpU4NjfApo1E+jdTGhy/+v2fRu9UsNLOhARNoojERFLx0bzAA==",
+          "length" : 22543487,
+          "url" : "https://github.com/explainsims/store/releases/download/rummage-1.0.1/Rummage-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -936,5 +936,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-13T23:25:07Z"
+  "updated" : "2026-11-14T11:48:57Z"
 }
