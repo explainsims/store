@@ -156,26 +156,26 @@
       "needs" : "Screen Recording for snipping. Apple's second opinion needs macOS 27 with Apple Intelligence on; Equate works without it",
       "readmeURL" : "https://store.explainsims.com/readme/equate.txt",
       "release" : {
-        "build" : "3",
+        "build" : "7",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-13T23:23:16Z",
+        "date" : "2026-11-14T12:12:34Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "First release: snip an equation and paste it as LaTeX, a Word or Google Docs equation, plain text or a picture. Read on your Mac, nothing uploaded."
+          "Snips now freeze the screen first, so what's inside your box is exactly what gets read (snips in some browsers were cut short on the right). The result panel has the usual close and minimise buttons."
         ],
         "update" : {
-          "edSignature" : "CDKtwnE9euXKE1DO7ua2EQKCVaoYK3T/efSBXERmHZ5H40RwZRQbdXrbI3aSVm2oKQPPyWu7iLQvF5dqISJ0AQ==",
-          "length" : 273835372,
-          "url" : "https://github.com/explainsims/store/releases/download/equate-1.0.0/Equate-1.0.0-update.zip"
+          "edSignature" : "gxZ4b5GOwhk6Xvcr+NGzr/X7d5yoICh6d+0LcrCscLP2JsuXcrZmZp0ZeqASBcF+KzeL7sE/G29OzLCAOC5nAg==",
+          "length" : 273854500,
+          "url" : "https://github.com/explainsims/store/releases/download/equate-1.0.1/Equate-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "A6QbslXl6YfYhfx5warez8Qyfbd4ELkMYXvhCiiIcnvx/j5UgFUBqoKz5bFj/SA96TarWtrz3Yb4vEdoLpjNDg==",
-          "length" : 273842265,
-          "url" : "https://github.com/explainsims/store/releases/download/equate-1.0.0/Equate-1.0.0.zip"
+          "edSignature" : "ZQQWXPdKei8zxUh9oaRE33h2nOJtJuOphK75mKgMU1KGYghdctxSbraQCT12lDBnAb4KbpH+fgaEHwIvhJMTBg==",
+          "length" : 273861414,
+          "url" : "https://github.com/explainsims/store/releases/download/equate-1.0.1/Equate-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -938,5 +938,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-14T11:49:20Z"
+  "updated" : "2026-11-14T12:12:34Z"
 }

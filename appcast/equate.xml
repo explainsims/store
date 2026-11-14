@@ -3,13 +3,13 @@
   <channel>
     <title>Equate</title>
     <item>
-      <title>Equate 1.0.0</title>
-      <pubDate>Fri, 13 Nov 2026 23:23:16 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Equate 1.0.1</title>
+      <pubDate>Sat, 14 Nov 2026 12:12:34 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release: snip an equation and paste it as LaTeX, a Word or Google Docs equation, plain text or a picture. Read on your Mac, nothing uploaded.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/equate-1.0.0/Equate-1.0.0-update.zip" length="273835372" type="application/octet-stream" sparkle:edSignature="CDKtwnE9euXKE1DO7ua2EQKCVaoYK3T/efSBXERmHZ5H40RwZRQbdXrbI3aSVm2oKQPPyWu7iLQvF5dqISJ0AQ=="/>
+      <description><![CDATA[<ul><li>Snips now freeze the screen first, so what's inside your box is exactly what gets read (snips in some browsers were cut short on the right). The result panel has the usual close and minimise buttons.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/equate-1.0.1/Equate-1.0.1-update.zip" length="273854500" type="application/octet-stream" sparkle:edSignature="gxZ4b5GOwhk6Xvcr+NGzr/X7d5yoICh6d+0LcrCscLP2JsuXcrZmZp0ZeqASBcF+KzeL7sE/G29OzLCAOC5nAg=="/>
     </item>
   </channel>
 </rss>

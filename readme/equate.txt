@@ -1,4 +1,4 @@
-Equate 1.0.0
+Equate 1.0.1
 Snip an equation anywhere on your screen and paste it as LaTeX, as a real
 equation in Word or Google Docs, as plain text or as a picture. Equate reads
 it on your Mac: no account, no limit, nothing is uploaded.
@@ -45,6 +45,7 @@ USING Equate
     the clipboard in the best form for the app you were in: just press
     Command-V. That's a real equation in Word and Google Docs, a sharp
     picture in Pages and Keynote, and $$ LaTeX $$ in Obsidian and Notion.
+    Close the panel with its red button or Esc.
 
   • Want another format? The panel's buttons copy LaTeX (Command-1), a
     Word equation (Command-2), a Google Docs equation (Command-3), MathML
