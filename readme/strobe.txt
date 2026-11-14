@@ -1,4 +1,4 @@
-Strobe 1.0.0
+Strobe 1.0.1
 Video motion analysis for physics labs. Open a video of something moving,
 set the scale and the axes, click the object on each frame (or let Strobe
 track it), and get position, velocity and acceleration as a table and
@@ -52,8 +52,12 @@ USING Strobe
   • Edit (E): drag points, the scale's ends or the origin. Delete removes
     the selected point. Command-Z undoes anything.
 
-  • Panels float over the video: Inspector, Graph, Data, Overlays, Objects,
-    Collision and Custom Table (View menu). Tab hides them all.
+  • Everything is a floating panel, the video too: drag one by its title
+    bar, resize it from its corner, and show or hide panels in the View
+    menu. Auto Arrange (Option-Command-A, or the button beside the panels
+    menu) puts each one in a recommended place and keeps them tidy as the
+    window changes size, until you move one yourself. Tab hides all the
+    panels so the video fills the window.
   • Graph: pick what to plot, drag across it to choose a range, then pick a
     fit. Turn on error bars and max/min gradient lines in its … menu.
   • Give objects a mass for energy and momentum; track two objects for the

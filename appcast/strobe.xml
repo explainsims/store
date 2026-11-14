@@ -3,12 +3,13 @@
   <channel>
     <title>Strobe</title>
     <item>
-      <title>Strobe 1.0.0</title>
-      <pubDate>Fri, 13 Nov 2026 23:24:31 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Strobe 1.0.1</title>
+      <pubDate>Sat, 14 Nov 2026 11:49:20 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/strobe-1.0.0/Strobe-1.0.0-update.zip" length="4945396" type="application/octet-stream" sparkle:edSignature="oRjlBY6PDW58GtMGpT1p8ZnAgkTllQPpRTzBUu9clLwBa9oXbsWMJ6hYiDtx/ZeNoehfRxHgMVqnbVeTHDvHAg=="/>
+      <description><![CDATA[<ul><li>The video is a floating panel too: drag it by its title bar, resize it from its corner, and its play bar and zoom buttons go with it.</li><li>Auto Arrange (Option-Command-A, or the new toolbar button) puts every panel in a recommended place with nothing overlapping, and keeps them tidy as the window changes size until you move one yourself. Where you put them is saved with the project.</li><li>Tab hides the other panels so the video fills the window, and the Data table spreads out to fill a wide panel.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/strobe-1.0.1/Strobe-1.0.1-update.zip" length="5043152" type="application/octet-stream" sparkle:edSignature="UU1G1wXZIM6E8D72+OgCuzdpmze0SkRowYfiLZSkPDrFBnyf+UfQYMCUeGZOkoUZugxCoFMui7x2UFtyeQY2Cg=="/>
     </item>
   </channel>
 </rss>

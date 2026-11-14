@@ -743,26 +743,28 @@
       "privacyURL" : "https://store.explainsims.com/privacy/strobe.txt",
       "readmeURL" : "https://store.explainsims.com/readme/strobe.txt",
       "release" : {
-        "build" : "7",
+        "build" : "10",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-13T23:24:31Z",
+        "date" : "2026-11-14T11:49:20Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-
+          "The video is a floating panel too: drag it by its title bar, resize it from its corner, and its play bar and zoom buttons go with it.",
+          "Auto Arrange (Option-Command-A, or the new toolbar button) puts every panel in a recommended place with nothing overlapping, and keeps them tidy as the window changes size until you move one yourself. Where you put them is saved with the project.",
+          "Tab hides the other panels so the video fills the window, and the Data table spreads out to fill a wide panel."
         ],
         "update" : {
-          "edSignature" : "oRjlBY6PDW58GtMGpT1p8ZnAgkTllQPpRTzBUu9clLwBa9oXbsWMJ6hYiDtx/ZeNoehfRxHgMVqnbVeTHDvHAg==",
-          "length" : 4945396,
-          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.0/Strobe-1.0.0-update.zip"
+          "edSignature" : "UU1G1wXZIM6E8D72+OgCuzdpmze0SkRowYfiLZSkPDrFBnyf+UfQYMCUeGZOkoUZugxCoFMui7x2UFtyeQY2Cg==",
+          "length" : 5043152,
+          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.1/Strobe-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "AQzAx4HHHzj6k/I23O5AroEjdAS2KwvQD+fctHisnpd2fetf3hO3G4HTXW2s7L4wLrvDyuwXVMZH59xGaeGHAA==",
-          "length" : 4950874,
-          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.0/Strobe-1.0.0.zip"
+          "edSignature" : "a0nvFfcBk9eyC61lZQNvOEddqvBmky+IbfnJMX+ObBl1jXAHuDjiR0z/i+QuzYnptf1pST1gniyOUO1G6Ks1BQ==",
+          "length" : 5048735,
+          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.1/Strobe-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -936,5 +938,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-14T11:48:57Z"
+  "updated" : "2026-11-14T11:49:20Z"
 }
