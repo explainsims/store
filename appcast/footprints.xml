@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Footprints</title>
+    <item>
+      <title>Footprints 1.0.0</title>
+      <pubDate>Sat, 14 Nov 2026 14:13:49 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release. See how a Google Doc was written: replay it, find what was pasted and where it came from, make a PDF report, and check a whole class at once. Everything stays on your computer.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/footprints-1.0.0/Footprints-1.0.0-update.zip" length="1920701" type="application/octet-stream" sparkle:edSignature="5uSsC1UbvZ2KeHhkckLh2PMHDVTucrbJQlpQMnczDFQM09h5cEE/n1SwHEPTnuyjjGJmKxQ4CAv0bg4QfVhVCA=="/>
+    </item>
+  </channel>
+</rss>

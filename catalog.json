@@ -261,6 +261,67 @@
       "tagline" : "Figures for tests and worksheets, with student copies and answer keys."
     },
     {
+      "alternativeTo" : "Draftback and Revision History",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.footprints",
+      "icon" : "https://store.explainsims.com/icons/footprints.png",
+      "id" : "footprints",
+      "internet" : "Only Google Docs, to read a doc’s history as you, and update checks",
+      "kind" : "tools",
+      "licence" : "MIT",
+      "name" : "Footprints",
+      "needs" : "Google Chrome or Microsoft Edge, and edit access to the docs you check. Add its extension once with Load unpacked: the app shows how",
+      "privacyURL" : "https://store.explainsims.com/privacy/footprints.txt",
+      "readmeURL" : "https://store.explainsims.com/readme/footprints.txt",
+      "release" : {
+        "build" : "8",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-14T14:13:49Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release. See how a Google Doc was written: replay it, find what was pasted and where it came from, make a PDF report, and check a whole class at once. Everything stays on your computer."
+        ],
+        "update" : {
+          "edSignature" : "5uSsC1UbvZ2KeHhkckLh2PMHDVTucrbJQlpQMnczDFQM09h5cEE/n1SwHEPTnuyjjGJmKxQ4CAv0bg4QfVhVCA==",
+          "length" : 1920701,
+          "url" : "https://github.com/explainsims/store/releases/download/footprints-1.0.0/Footprints-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "jOF/3D6mIH3hS/NNKqXQbCYUj0gqq5QjciJc0Fsv60qtEiff6Hf9tVTqiW/N23UGAwnIVw+PewFDeAM93CC8Cg==",
+          "length" : 1928573,
+          "url" : "https://github.com/explainsims/store/releases/download/footprints-1.0.0/Footprints-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/footprints/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/footprints/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/footprints/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/footprints/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/footprints/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/footprints/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/footprints/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/footprints/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/footprints/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/footprints/5-light.jpg"
+        }
+      ],
+      "summary" : "Open any Google Doc you can edit and click the Footprints button: watch the doc write itself again, with typed text, pastes from outside, moved text and text another student’s doc had first all marked, and see when the writer worked. Make a one-page PDF report, or check every doc linked on a Toddle assignment or Drive folder at once, so a paragraph that turns up in two students’ docs shows who had it first. Everything is worked out on your computer; nothing is sent anywhere.",
+      "tagline" : "See how a Google Doc was written."
+    },
+    {
       "alternativeTo" : "DaisyDisk",
       "audience" : "everyone",
       "bundleID" : "org.freeup.FreeUp",
@@ -938,5 +999,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-14T12:12:34Z"
+  "updated" : "2026-11-14T14:13:49Z"
 }

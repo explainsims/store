@@ -1,0 +1,93 @@
+Footprints 1.0.0
+See how a Google Doc was written. Footprints adds a button to Google Docs
+that replays the writing like a film, shows when the writer worked, and
+marks the text that was pasted in. It makes a PDF report, and it can check
+a whole class's docs at once.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Footprints.app: the app
+  • Install Footprints.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
+    on macOS 27.
+  • Google Chrome or Microsoft Edge (or both).
+  • Edit access to the docs you want to check. Google only shares a doc's
+    detailed history with people who can edit it.
+
+
+INSTALL
+
+  1. Double-click "Install Footprints.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Footprints.command" into the Terminal window, and press Return.
+
+  2. The installer moves Footprints into Applications and opens it.
+
+  3. Add Footprints's extension to Chrome (and Edge, if you use it). It's free
+     and doesn't need the Web Store:
+       • Open chrome://extensions (edge://extensions in Edge).
+       • Turn on Developer mode.
+       • Click Load unpacked and choose the folder Footprints shows you:
+         ~/Library/Application Support/Footprints/Extension
+         (In the folder dialog, press ⌘⇧G and paste that path.)
+     A welcome page opens to show it worked.
+
+
+USING Footprints
+
+  • Open any Google Doc you can edit. The Footprints button is next to
+    Share. Click it for a summary: time spent writing, sessions, words, what
+    was typed and what was pasted, and the days the writing happened.
+
+  • Watch replay plays the doc back. New text is underlined in green,
+    deleted text is struck through, and pasted text is tinted: amber for a
+    paste from outside the doc, blue for text moved within it, purple for
+    text another student's doc had first. Drag along the timeline, press
+    the arrow keys to step one save at a time, and space to play or pause.
+
+  • PDF report makes a one-page report to keep with an assessment.
+
+  • To check a class: open a Toddle assignment, a Drive folder or any page
+    that links to the docs, click Footprints in the browser's toolbar and
+    choose "Check every doc on this page". Footprints reads each doc and
+    compares them with each other, so a paragraph that turns up in two
+    students' docs shows who had it first. Download the table as a CSV, or
+    all the reports as one PDF.
+
+  • Settings (in the toolbar menu): when a pause starts a new session, how
+    long a paste has to be to be listed, and how long histories are kept.
+
+
+GOOD TO KNOW
+
+  • Nothing leaves your computer. Footprints reads each doc's history from
+    Google Docs as you, in your browser, and works everything out on this
+    Mac. It has no server, no account and no tracking.
+
+  • A paste or a short session isn't proof of anything on its own. Use what
+    Footprints shows to start a conversation with the writer.
+
+  • Google Docs merges edits made within a second or two of each other, so
+    tiny corrections may not show in the replay.
+
+  • To update: use Check for Updates… in Footprints, or unzip a newer copy and
+    run its installer. The extension updates itself from the same folder.
+
+  • To uninstall: remove Footprints from chrome://extensions, then drag
+    Footprints from Applications to the Trash.
+
+  • Footprints is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time. It's an open-source alternative to Draftback and Revision
+    History, and isn't affiliated with them or with Google.

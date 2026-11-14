@@ -1,0 +1,47 @@
+Footprints privacy
+Footprints works entirely on your own computer. It has no account, no ads and
+no analytics, and there's no Footprints server: nothing about you, your
+students or their documents is ever sent to us or anyone else. Last updated
+14 November 2026.
+
+
+WHAT FOOTPRINTS READS
+
+  • A Google Doc's saved history, only when you ask: when you click the
+    Footprints button in a doc, open a replay, or check a class. It asks
+    Google Docs for the history as you, from inside your browser, the same
+    way Google Docs' own version history does. Google only shares it with
+    people who can edit the doc.
+  • Links on the page you're on, only when you click "Check every doc on
+    this page", to find the Google Docs it links to.
+  • Footprints can't see your other tabs, your browsing, or any site other
+    than Google Docs.
+
+
+WHAT FOOTPRINTS KEEPS
+
+  • Histories it has read, so they open quickly next time and only new
+    saves are read. They're kept in the browser's storage on this computer,
+    for 30 days unless you change it in Settings, where "Forget all" deletes
+    them at once. You can also choose to keep nothing.
+  • A fingerprint of each doc it has read (short codes for runs of words),
+    used to find text shared between docs. It's kept and deleted with the
+    histories.
+  • Your settings, in the browser on this computer.
+  • PDF reports and CSV files only go where you save them.
+
+
+THE MAC APP
+
+  • Footprints.app only puts the extension in a folder on your Mac and
+    shows how to add it to Chrome and Edge.
+  • It goes online only to check for updates (store.explainsims.com), and
+    sends nothing about you when it does.
+
+
+GOOD TO KNOW
+
+  • Footprints is free and open source.
+  • A paste or a short session isn't proof of anything on its own: use what
+    Footprints shows to start a conversation with the writer.
+  • Questions: use Feedback on Footprints' page in Storefront.
