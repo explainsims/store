@@ -1,4 +1,4 @@
-Footprints 1.0.0
+Footprints 1.0.1
 See how a Google Doc was written. Footprints adds a button to Google Docs
 that replays the writing like a film, shows when the writer worked, and
 marks the text that was pasted in. It makes a PDF report, and it can check
@@ -40,7 +40,9 @@ INSTALL
        • Turn on Developer mode.
        • Click Load unpacked and choose the folder Footprints shows you:
          ~/Library/Application Support/Footprints/Extension
-         (In the folder dialog, press ⌘⇧G and paste that path.)
+         Quickest way: click Copy Path in Footprints's window. In the
+         window Load unpacked opens, press ⌘⇧G (Command-Shift-G),
+         then ⌘V to paste, then Return, and click Select.
      A welcome page opens to show it worked.
 
 

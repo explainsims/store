@@ -274,26 +274,26 @@
       "privacyURL" : "https://store.explainsims.com/privacy/footprints.txt",
       "readmeURL" : "https://store.explainsims.com/readme/footprints.txt",
       "release" : {
-        "build" : "8",
+        "build" : "10",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-14T14:13:49Z",
+        "date" : "2026-11-15T00:44:02Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "First release. See how a Google Doc was written: replay it, find what was pasted and where it came from, make a PDF report, and check a whole class at once. Everything stays on your computer."
+          "Every browser's setup steps now have Open Extensions, Show Folder and Copy Path buttons, and explain how to reach the extension's folder with ⌘⇧G (Command-Shift-G) in the Load unpacked window."
         ],
         "update" : {
-          "edSignature" : "5uSsC1UbvZ2KeHhkckLh2PMHDVTucrbJQlpQMnczDFQM09h5cEE/n1SwHEPTnuyjjGJmKxQ4CAv0bg4QfVhVCA==",
-          "length" : 1920701,
-          "url" : "https://github.com/explainsims/store/releases/download/footprints-1.0.0/Footprints-1.0.0-update.zip"
+          "edSignature" : "QZsn48VPu1cj6GUvCKfVscQbT1LfMWMOETBZTKv2OoWAJcA8sjB4a3/6MVVWJn9iMZ14oCym1BZIPjVgPJg3Bg==",
+          "length" : 1932266,
+          "url" : "https://github.com/explainsims/store/releases/download/footprints-1.0.1/Footprints-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "jOF/3D6mIH3hS/NNKqXQbCYUj0gqq5QjciJc0Fsv60qtEiff6Hf9tVTqiW/N23UGAwnIVw+PewFDeAM93CC8Cg==",
-          "length" : 1928573,
-          "url" : "https://github.com/explainsims/store/releases/download/footprints-1.0.0/Footprints-1.0.0.zip"
+          "edSignature" : "F8dM488kV372FZmE7H8rguLH6UGzRdLVDsSWrLC5BrijTNN9ap/6bjzoiIt3/vqW++A/FkBEctbWJfi8VBx7Bw==",
+          "length" : 1940192,
+          "url" : "https://github.com/explainsims/store/releases/download/footprints-1.0.1/Footprints-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -999,5 +999,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-14T14:13:49Z"
+  "updated" : "2026-11-15T00:44:02Z"
 }

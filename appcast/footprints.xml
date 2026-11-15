@@ -3,13 +3,13 @@
   <channel>
     <title>Footprints</title>
     <item>
-      <title>Footprints 1.0.0</title>
-      <pubDate>Sat, 14 Nov 2026 14:13:49 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Footprints 1.0.1</title>
+      <pubDate>Sun, 15 Nov 2026 00:44:02 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release. See how a Google Doc was written: replay it, find what was pasted and where it came from, make a PDF report, and check a whole class at once. Everything stays on your computer.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/footprints-1.0.0/Footprints-1.0.0-update.zip" length="1920701" type="application/octet-stream" sparkle:edSignature="5uSsC1UbvZ2KeHhkckLh2PMHDVTucrbJQlpQMnczDFQM09h5cEE/n1SwHEPTnuyjjGJmKxQ4CAv0bg4QfVhVCA=="/>
+      <description><![CDATA[<ul><li>Every browser's setup steps now have Open Extensions, Show Folder and Copy Path buttons, and explain how to reach the extension's folder with ⌘⇧G (Command-Shift-G) in the Load unpacked window.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/footprints-1.0.1/Footprints-1.0.1-update.zip" length="1932266" type="application/octet-stream" sparkle:edSignature="QZsn48VPu1cj6GUvCKfVscQbT1LfMWMOETBZTKv2OoWAJcA8sjB4a3/6MVVWJn9iMZ14oCym1BZIPjVgPJg3Bg=="/>
     </item>
   </channel>
 </rss>
