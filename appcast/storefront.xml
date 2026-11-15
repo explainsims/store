@@ -3,13 +3,13 @@
   <channel>
     <title>Storefront</title>
     <item>
-      <title>Storefront 1.3.1</title>
-      <pubDate>Tue, 10 Nov 2026 04:23:39 +0000</pubDate>
-      <sparkle:version>44</sparkle:version>
-      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <title>Storefront 1.3.2</title>
+      <pubDate>Sun, 15 Nov 2026 01:47:32 +0000</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sign in to SSIS and open Settings from the bottom of the Storefront window, so nothing needs the menu-bar icon (a full menu bar can hide it). Cancel stops a sign-in that never came back from the browser.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.3.1/Storefront-1.3.1-update.zip" length="4087012" type="application/octet-stream" sparkle:edSignature="BXv84Q1CC3Tb3hljqvzrze48OpNPq72qKMjfBu7ufH0eYx2vUQMpUf9uZvYAqxBq7vwEryocHhFQwvBLJA+LAA=="/>
+      <description><![CDATA[<ul><li>Apps show a green New label for their first week on the store, until you install them</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.3.2/Storefront-1.3.2-update.zip" length="4140696" type="application/octet-stream" sparkle:edSignature="3RQKuiTxbRaWyMaqMfe96u3+qjBqEZxxW6roNWi8aiqLi9OpvxiWqofRXTXP7J5dthMcEzw/o6Lc+Y1Izp84CA=="/>
     </item>
   </channel>
 </rss>

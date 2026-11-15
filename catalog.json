@@ -1,6 +1,7 @@
 {
   "apps" : [
     {
+      "added" : "2026-11-08T01:39:34Z",
       "audience" : "everyone",
       "bundleID" : "local.APODWallpaper",
       "icon" : "https://store.explainsims.com/icons/apodwallpaper.png",
@@ -47,6 +48,7 @@
       "tagline" : "NASA's picture of the day, Live Earth or the night sky, as your wallpaper."
     },
     {
+      "added" : "2026-11-08T01:39:44Z",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.chao",
       "icon" : "https://store.explainsims.com/icons/chao.png",
@@ -99,6 +101,7 @@
       "tagline" : "A Southern Vietnamese word a day, with tone practice."
     },
     {
+      "added" : "2026-11-08T01:39:57Z",
       "alternativeTo" : "Tangerine",
       "audience" : "everyone",
       "bundleID" : "com.local.citrus",
@@ -145,6 +148,7 @@
       "tagline" : "Convert files by dragging onto a pop-up wheel."
     },
     {
+      "added" : "2026-11-13T23:24:23Z",
       "alternativeTo" : "Mathpix Snipping Tool",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.equate",
@@ -204,6 +208,7 @@
       "tagline" : "Snip any equation, paste it as LaTeX, Word or Google Docs maths."
     },
     {
+      "added" : "2026-11-08T14:07:22Z",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.figureit",
       "icon" : "https://store.explainsims.com/icons/figureit.png",
@@ -261,6 +266,7 @@
       "tagline" : "Figures for tests and worksheets, with student copies and answer keys."
     },
     {
+      "added" : "2026-11-14T14:13:58Z",
       "alternativeTo" : "Draftback and Revision History",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.footprints",
@@ -322,6 +328,7 @@
       "tagline" : "See how a Google Doc was written."
     },
     {
+      "added" : "2026-11-08T01:40:07Z",
       "alternativeTo" : "DaisyDisk",
       "audience" : "everyone",
       "bundleID" : "org.freeup.FreeUp",
@@ -371,6 +378,7 @@
       "tagline" : "See what fills your disk, on a sunburst map."
     },
     {
+      "added" : "2026-11-08T01:40:23Z",
       "alternativeTo" : "Sony's Hi-Res Audio Player",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.hdmusic",
@@ -423,6 +431,7 @@
       "tagline" : "Hi-res and DSD player, with a library, radio and EQ."
     },
     {
+      "added" : "2026-11-08T01:40:35Z",
       "alternativeTo" : "VolumePad",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.hem",
@@ -472,6 +481,7 @@
       "tagline" : "Volume and brightness sliders on your trackpad's edges."
     },
     {
+      "added" : "2026-11-12T08:05:24Z",
       "alternativeTo" : "Workona",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.pigeonhole",
@@ -535,6 +545,7 @@
       "tagline" : "Spaces of tabs for Chrome and Edge."
     },
     {
+      "added" : "2026-11-13T23:30:01Z",
       "alternativeTo" : "Find Any File",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.rummage",
@@ -594,6 +605,7 @@
       "tagline" : "Find any file, even by what's in it."
     },
     {
+      "added" : "2026-11-08T01:40:46Z",
       "alternativeTo" : "Skitch",
       "audience" : "everyone",
       "bundleID" : "local.scrawl.Scrawl",
@@ -639,6 +651,7 @@
       "tagline" : "Screenshots with arrows, text and blur."
     },
     {
+      "added" : "2026-11-11T15:13:43Z",
       "alternativeTo" : "OpenLink",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.signpost",
@@ -692,6 +705,7 @@
       "tagline" : "Choose the browser and profile for every link."
     },
     {
+      "added" : "2026-11-08T01:40:56Z",
       "alternativeTo" : "CheatSheet",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.smartcut",
@@ -741,6 +755,7 @@
       "tagline" : "Hold ⌘ to see every shortcut in the app you're using."
     },
     {
+      "added" : "2026-11-08T01:39:22Z",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.storefront",
       "icon" : "https://store.explainsims.com/icons/storefront.png",
@@ -750,26 +765,26 @@
       "name" : "Storefront",
       "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
       "release" : {
-        "build" : "44",
+        "build" : "58",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-10T04:23:39Z",
+        "date" : "2026-11-15T01:47:32Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Sign in to SSIS and open Settings from the bottom of the Storefront window, so nothing needs the menu-bar icon (a full menu bar can hide it). Cancel stops a sign-in that never came back from the browser."
+          "Apps show a green New label for their first week on the store, until you install them"
         ],
         "update" : {
-          "edSignature" : "BXv84Q1CC3Tb3hljqvzrze48OpNPq72qKMjfBu7ufH0eYx2vUQMpUf9uZvYAqxBq7vwEryocHhFQwvBLJA+LAA==",
-          "length" : 4087012,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.1/Storefront-1.3.1-update.zip"
+          "edSignature" : "3RQKuiTxbRaWyMaqMfe96u3+qjBqEZxxW6roNWi8aiqLi9OpvxiWqofRXTXP7J5dthMcEzw/o6Lc+Y1Izp84CA==",
+          "length" : 4140696,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.2/Storefront-1.3.2-update.zip"
         },
-        "version" : "1.3.1",
+        "version" : "1.3.2",
         "zip" : {
-          "edSignature" : "xBQZTZi5BQgCcw/DXSvwRes5hzYhFGV4i9FtZtFJNAYl9B9Llx6PfmjwVw1ogEp84jL2dkgytLyP6ha/6BMcCg==",
-          "length" : 4093249,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.1/Storefront-1.3.1.zip"
+          "edSignature" : "C+IM3o0UPjc5OkgPcI82mrkv7wEgePRBGqyWWsmp0xGszkkS89JosdjZ4oflm5ATU7JB/3j4sfGxzcQ2zOPkAg==",
+          "length" : 4146934,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.2/Storefront-1.3.2.zip"
         }
       },
       "screenshots" : [
@@ -790,6 +805,7 @@
       "tagline" : "Install any of these apps in one click, and keep them all up to date."
     },
     {
+      "added" : "2026-11-13T23:24:40Z",
       "alternativeTo" : "Vernier Video Analysis and Tracker",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.strobe",
@@ -852,6 +868,7 @@
       "tagline" : "Track motion in a video, then graph it and fit it."
     },
     {
+      "added" : "2026-11-08T01:41:10Z",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.throw",
       "icon" : "https://store.explainsims.com/icons/throw.png",
@@ -900,6 +917,7 @@
       "tagline" : "AirPlay to TVs from the menu bar, then arrange them."
     },
     {
+      "added" : "2026-11-08T01:41:24Z",
       "alternativeTo" : "Bartender",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.tuck",
@@ -945,6 +963,7 @@
       "tagline" : "Tidy the menu bar. Tuck icons away behind an arrow."
     },
     {
+      "added" : "2026-11-08T01:42:09Z",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.wordcell",
       "icon" : "https://store.explainsims.com/icons/wordcell.png",
@@ -997,5 +1016,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-15T00:56:26Z"
+  "updated" : "2026-11-15T01:47:32Z"
 }
