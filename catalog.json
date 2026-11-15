@@ -765,26 +765,26 @@
       "name" : "Storefront",
       "readmeURL" : "https://store.explainsims.com/readme/storefront.txt",
       "release" : {
-        "build" : "58",
+        "build" : "59",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-15T01:47:32Z",
+        "date" : "2026-11-15T01:57:43Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Apps show a green New label for their first week on the store, until you install them"
+          "The New label shows for an app's whole first week on the store, installed or not, as on the website"
         ],
         "update" : {
-          "edSignature" : "3RQKuiTxbRaWyMaqMfe96u3+qjBqEZxxW6roNWi8aiqLi9OpvxiWqofRXTXP7J5dthMcEzw/o6Lc+Y1Izp84CA==",
-          "length" : 4140696,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.2/Storefront-1.3.2-update.zip"
+          "edSignature" : "J3pgtPujwYg608sOOa32LUu1xmEBiY/241Dh1ag4fwBrER+99nZXZEAr99kcQ0P7eQISOPtAIvmcL9XwC0A/DA==",
+          "length" : 4141026,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.3/Storefront-1.3.3-update.zip"
         },
-        "version" : "1.3.2",
+        "version" : "1.3.3",
         "zip" : {
-          "edSignature" : "C+IM3o0UPjc5OkgPcI82mrkv7wEgePRBGqyWWsmp0xGszkkS89JosdjZ4oflm5ATU7JB/3j4sfGxzcQ2zOPkAg==",
-          "length" : 4146934,
-          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.2/Storefront-1.3.2.zip"
+          "edSignature" : "7rPLCTmR1Q2TZfNDWpYKLZjvELvJFtEqR8x2R67bBi3QMFMGgzhJ8v/I7yvlFyRbtvQwuvFR9GTqZVjfNrJ3CA==",
+          "length" : 4147264,
+          "url" : "https://github.com/explainsims/store/releases/download/storefront-1.3.3/Storefront-1.3.3.zip"
         }
       },
       "screenshots" : [
@@ -1016,5 +1016,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-15T01:47:32Z"
+  "updated" : "2026-11-15T01:57:43Z"
 }
