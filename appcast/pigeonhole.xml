@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.5.0</title>
-      <pubDate>Sun, 15 Nov 2026 00:56:26 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <title>Pigeonhole 1.5.1</title>
+      <pubDate>Sun, 15 Nov 2026 02:07:20 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Your pinned tabs are now the same in Chrome and Edge and on your other Macs: pin, unpin or reorder one anywhere and it follows everywhere. The first time your browsers meet, their pinned tabs are combined, so none are lost. A browser's own pages (its settings, its extensions) stay pinned only in that browser. Setting up the extension is easier too: Settings › Browsers has Open Extensions, Show Folder and Copy Path, with how to find the folder with ⌘⇧G.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.5.0/Pigeonhole-1.5.0-update.zip" length="2524666" type="application/octet-stream" sparkle:edSignature="ZloqwXlDRpkAuJr40nrxNFfLEMCqhQa0FXr7iHVIQnHCpxCo77uzltXxUynGHxRgPuLkDWwFzmr91UxbE6B8DA=="/>
+      <description><![CDATA[<ul><li>When a space is open in two browsers or on two Macs with different tabs, both now ask “Use theirs” or “Keep this window’s”, and the first answer settles it in both. Tabs both windows had stay open as they were, so they don’t reload. Closing the space in one browser without answering ends the question in the other.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.5.1/Pigeonhole-1.5.1-update.zip" length="2526718" type="application/octet-stream" sparkle:edSignature="JXVHqfvad6ay2jW8UG+D8OhCazaYo84HYOIn12SLpT/U1iSvcOKZIT5UhBuRVRTfUX0wlzia8A5aWu8UXVrgDA=="/>
     </item>
   </channel>
 </rss>

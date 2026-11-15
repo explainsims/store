@@ -493,26 +493,26 @@
       "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
       "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
       "release" : {
-        "build" : "15",
+        "build" : "16",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-15T00:56:26Z",
+        "date" : "2026-11-15T02:07:20Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Your pinned tabs are now the same in Chrome and Edge and on your other Macs: pin, unpin or reorder one anywhere and it follows everywhere. The first time your browsers meet, their pinned tabs are combined, so none are lost. A browser's own pages (its settings, its extensions) stay pinned only in that browser. Setting up the extension is easier too: Settings › Browsers has Open Extensions, Show Folder and Copy Path, with how to find the folder with ⌘⇧G."
+          "When a space is open in two browsers or on two Macs with different tabs, both now ask “Use theirs” or “Keep this window’s”, and the first answer settles it in both. Tabs both windows had stay open as they were, so they don’t reload. Closing the space in one browser without answering ends the question in the other."
         ],
         "update" : {
-          "edSignature" : "ZloqwXlDRpkAuJr40nrxNFfLEMCqhQa0FXr7iHVIQnHCpxCo77uzltXxUynGHxRgPuLkDWwFzmr91UxbE6B8DA==",
-          "length" : 2524666,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.0/Pigeonhole-1.5.0-update.zip"
+          "edSignature" : "JXVHqfvad6ay2jW8UG+D8OhCazaYo84HYOIn12SLpT/U1iSvcOKZIT5UhBuRVRTfUX0wlzia8A5aWu8UXVrgDA==",
+          "length" : 2526718,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.1/Pigeonhole-1.5.1-update.zip"
         },
-        "version" : "1.5.0",
+        "version" : "1.5.1",
         "zip" : {
-          "edSignature" : "SKggVJ5fR0xMMri20bNNpJL5FHtlUmkMRdp7zpoflLvHzp3m2ecNzNyyNDfxsGXYceQB99KxxhXQ/zqx1bNJBQ==",
-          "length" : 2534381,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.0/Pigeonhole-1.5.0.zip"
+          "edSignature" : "ij7a5pV14019FyO18S6oEvIEaIEATGcFHweR499gSmD/44MHxXSKJsJiRxawjSc13OiSGronARo07+R6YwhECw==",
+          "length" : 2536478,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.1/Pigeonhole-1.5.1.zip"
         }
       },
       "screenshots" : [
@@ -1016,5 +1016,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-15T01:57:43Z"
+  "updated" : "2026-11-15T02:07:20Z"
 }
