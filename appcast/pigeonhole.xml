@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.4.1</title>
-      <pubDate>Fri, 13 Nov 2026 08:31:18 +0000</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <title>Pigeonhole 1.5.0</title>
+      <pubDate>Sun, 15 Nov 2026 00:56:26 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>The waiting-tabs window now stays minimised. Chrome and Edge on the Mac had been opening it as an ordinary window.</li><li>If something brings it forward (clicking Chrome in the Dock, say), it goes back down and the window you were using comes forward, or a new window when it was the only one.</li><li>When Chrome starts, the waiting window it brings back from last time is closed right away. Nothing is lost: every space is saved.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.4.1/Pigeonhole-1.4.1-update.zip" length="2493649" type="application/octet-stream" sparkle:edSignature="qMuWqG33e274RoK56RitVRj+6VKQUkWWCUuva3K+Isgc65BkFEdXBUMS9sGa4vMBDl+r38K3yzXRLf/sb+AIAQ=="/>
+      <description><![CDATA[<ul><li>Your pinned tabs are now the same in Chrome and Edge and on your other Macs: pin, unpin or reorder one anywhere and it follows everywhere. The first time your browsers meet, their pinned tabs are combined, so none are lost. A browser's own pages (its settings, its extensions) stay pinned only in that browser. Setting up the extension is easier too: Settings › Browsers has Open Extensions, Show Folder and Copy Path, with how to find the folder with ⌘⇧G.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.5.0/Pigeonhole-1.5.0-update.zip" length="2524666" type="application/octet-stream" sparkle:edSignature="ZloqwXlDRpkAuJr40nrxNFfLEMCqhQa0FXr7iHVIQnHCpxCo77uzltXxUynGHxRgPuLkDWwFzmr91UxbE6B8DA=="/>
     </item>
   </channel>
 </rss>

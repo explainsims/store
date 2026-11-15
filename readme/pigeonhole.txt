@@ -1,4 +1,4 @@
-Pigeonhole 1.4.1
+Pigeonhole 1.5.0
 Spaces of tabs for Chrome and Edge. Give each project or class its own
 space: switch a window to it and its tabs come back just as you left them.
 Everything is saved as you browse, and your spaces follow you to your other
@@ -74,6 +74,11 @@ USING Pigeonhole
     the page's sidebar lists them, with a history to bring back one you
     closed. In Settings you can make them belong to their space instead.
 
+  • Your pinned tabs are the same in Chrome and Edge, and on your other
+    Mac. Pin one in Edge and Chrome pins it too; unpin it on one Mac and
+    it goes on the other. The browser's own pages (its settings, its
+    extensions) stay pinned only in that browser.
+
   • Pigeonhole's page is the first, pinned tab of every window. Its sidebar
     lists all your spaces; click one to see its tabs, double-click to open
     it here. For a closed space, click a tab to open the space at that tab,
@@ -128,8 +133,8 @@ USING Pigeonhole
 
 YOUR SPACES
 
-  • They're kept in iCloud Drive → Pigeonhole, so your other Mac has them
-    too (install Pigeonhole there and add the extension). Nothing is sent
+  • They're kept in iCloud Drive → Pigeonhole (your pinned tabs too), so your
+    other Mac has them (install Pigeonhole there and add the extension). Nothing is sent
     anywhere else: there's no account and no server.
 
   • If a space is open on both Macs (or in Chrome and Edge) and changes in
