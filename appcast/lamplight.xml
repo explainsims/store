@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Lamplight</title>
+    <item>
+      <title>Lamplight 1.0.0</title>
+      <pubDate>Mon, 16 Nov 2026 23:27:32 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/explainsims/store/releases/download/lamplight-1.0.0/Lamplight-1.0.0-update.zip" length="8540919" type="application/octet-stream" sparkle:edSignature="pfWbREFNRB0y3BEx/SJJfG8WziHg/8Zxsdl76cgbwrBsyskvtctFjkHcWFJvyr4Z2V/qC2ZcVVxhBZz3oXNdCg=="/>
+    </item>
+  </channel>
+</rss>

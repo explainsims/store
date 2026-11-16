@@ -481,6 +481,71 @@
       "tagline" : "Volume and brightness sliders on your trackpad's edges."
     },
     {
+      "added" : "2026-11-16T23:27:32Z",
+      "alternativeTo" : "Read&Write for Google Chrome",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.lamplight",
+      "icon" : "https://store.explainsims.com/icons/lamplight.png",
+      "id" : "lamplight",
+      "internet" : "Only a one-time download of each language, for translating (by the browser) and for talk and type (by macOS), and update checks",
+      "kind" : "tools",
+      "licence" : "MIT",
+      "name" : "Lamplight",
+      "needs" : "Google Chrome 138 or Microsoft Edge 148 or newer. Add its extension once with Load unpacked: the app shows how. Simpler words need Apple Intelligence (macOS 26 or later)",
+      "readmeURL" : "https://store.explainsims.com/readme/lamplight.txt",
+      "release" : {
+        "build" : "14",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-16T23:27:32Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+
+        ],
+        "update" : {
+          "edSignature" : "pfWbREFNRB0y3BEx/SJJfG8WziHg/8Zxsdl76cgbwrBsyskvtctFjkHcWFJvyr4Z2V/qC2ZcVVxhBZz3oXNdCg==",
+          "length" : 8540919,
+          "url" : "https://github.com/explainsims/store/releases/download/lamplight-1.0.0/Lamplight-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "L+aFtf9AtYNnpGsTyXqRnT1PrLZ0K8DQDTX34xIleiyShwggW75+qX72ReRqrwUwm+GVuQ31G2rx4lI5uphxBw==",
+          "length" : 8589378,
+          "url" : "https://github.com/explainsims/store/releases/download/lamplight-1.0.0/Lamplight-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/lamplight/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/lamplight/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/lamplight/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/lamplight/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/lamplight/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/lamplight/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/lamplight/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/lamplight/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/lamplight/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/lamplight/5-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/lamplight/6-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/lamplight/6-light.jpg"
+        }
+      ],
+      "summary" : "Lamplight reads any web page, Google Doc or PDF aloud in Chrome or Edge, lighting up each word as it goes. Double-click a word for its picture, pronunciation, a simple meaning and the word in Vietnamese, Korean, Chinese or Japanese; translate a sentence or a whole page; open it in a calm reader with the translation under each paragraph; and keep words in a word bank to practise. With the app running, students can talk and type in English or their own language, and on Macs with Apple Intelligence, rewrite a hard sentence in simpler words. Reading, translating, talk and type and simpler words all happen on the computer, with no account.",
+      "tagline" : "Reading help for students learning English."
+    },
+    {
       "added" : "2026-11-12T08:05:24Z",
       "alternativeTo" : "Workona",
       "audience" : "everyone",
@@ -1082,5 +1147,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-16T23:21:50Z"
+  "updated" : "2026-11-16T23:27:32Z"
 }

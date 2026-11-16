@@ -1,0 +1,115 @@
+Lamplight 1.0.0
+Reading help for students learning English, in Chrome and Edge. Lamplight
+reads any page aloud and lights up each word, explains a word with a
+picture, and translates into Vietnamese, Korean, Chinese or Japanese.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Lamplight.app: the app (it carries the browser extension)
+  • Install Lamplight.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
+    on macOS 27.
+  • Google Chrome 138 or newer, or Microsoft Edge 148 or newer. They
+    translate on this computer, with no internet needed once your
+    language has downloaded.
+  • For simpler words: a Mac with Apple Intelligence turned on
+    (System Settings → Apple Intelligence & Siri).
+
+
+INSTALL
+
+  1. Double-click "Install Lamplight.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Lamplight.command" into the Terminal window, and press Return.
+
+  2. The installer moves Lamplight into Applications and opens it. It lives
+     in the menu bar (the little lamp).
+
+  3. Add Lamplight's extension to Chrome (and Edge, if you use it). It's free
+     and doesn't need the Web Store:
+       • Open chrome://extensions (edge://extensions in Edge).
+       • Turn on Developer mode.
+       • Click Load unpacked and choose the folder Lamplight shows you:
+         ~/Library/Application Support/Lamplight/Extension
+         Quickest way: click Copy Path in Lamplight's window. In the
+         window Load unpacked opens, press ⌘⇧G (Command-Shift-G),
+         then ⌘V to paste, then Return, and click Select.
+     A welcome page opens. Pick your language, click "Get" to download it
+     for translating (once), and listen to the voices.
+
+
+USING Lamplight
+
+  • The toolbar: click the lamp in the browser's toolbar and choose "Show
+    the toolbar on this page", or turn on "Show on every website" once.
+    It's always there in Google Docs. Drag it by the lamp to any corner.
+    ⌥⇧L (Option-Shift-L) shows or hides it.
+
+  • Read aloud: press Play, or select some text and press ⌥⇧R. Each word
+    lights up as it's read. Hover (the pointer button) reads any sentence
+    you rest the pointer on.
+
+  • Look up a word: double-click it. The card shows a picture, how to say
+    it, what it means, the word in your language, and the sentence it came
+    from. Press "Add to word bank" to keep it.
+
+  • Translate: select a sentence and press Translate. Simpler English
+    rewrites a hard sentence in plain words.
+
+  • The reader: the page button opens the page, a Google Doc or a PDF in a
+    calm view, with your language under each paragraph. Choose the font
+    (Lexend, Atkinson Hyperlegible, OpenDyslexic), size, spacing, page
+    colour and a reading ruler.
+
+  • Word bank: the star button. Practise your words (the ones due come
+    back on their own, sooner if you missed them), copy them into a Google
+    Sheet, or save them as a CSV.
+
+  • Talk and type: click in a text box, then the microphone, and speak.
+    The switch on the microphone bubble chooses English or your own
+    language. The first time, macOS asks to let Lamplight use the microphone and
+    speech recognition: click Allow (or turn them on in System Settings →
+    Privacy & Security → Microphone and → Speech Recognition). In Google
+    Docs the microphone starts Docs' own Voice typing.
+
+  • Better voices: Lamplight reads with the Mac's own voices. For clearer
+    ones, open System Settings, search for "Spoken Content", then System
+    voice → Manage Voices…, and add a Premium or Enhanced voice for your
+    language. Lamplight's window shows which voices this Mac has.
+
+
+GOOD TO KNOW
+
+  • Nothing leaves your computer. Reading, translating, looking up words,
+    talk and type and simpler words all happen on this Mac. Lamplight has
+    no account, no server and no tracking.
+
+  • Talk and type and simpler words need Lamplight running. It opens at
+    login on its own (Launch at Login in its menu turns that off).
+    Everything else works without it.
+
+  • Simpler words are written by on-device AI, which can make mistakes.
+    Check them against the original.
+
+  • To update: use Check for Updates… in Lamplight's menu, or unzip a newer
+    copy and run its installer. The extension updates itself from the same
+    folder.
+
+  • To uninstall: remove Lamplight from chrome://extensions, then quit
+    Lamplight and drag it from Applications to the Trash.
+
+  • Lamplight is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time. It's an open-source alternative to Read&Write for Google
+    Chrome, and isn't affiliated with Texthelp or with Google.
