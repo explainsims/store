@@ -493,26 +493,26 @@
       "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
       "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
       "release" : {
-        "build" : "16",
+        "build" : "18",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-15T02:07:20Z",
+        "date" : "2026-11-16T03:09:05Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "When a space is open in two browsers or on two Macs with different tabs, both now ask “Use theirs” or “Keep this window’s”, and the first answer settles it in both. Tabs both windows had stay open as they were, so they don’t reload. Closing the space in one browser without answering ends the question in the other."
+          "Fixes pinned tabs piling up during a Google Meet call: Meet's floating window is no longer treated as a browser window, and any extra copies of a pinned tab or of Pigeonhole's page close by themselves. Pigeonhole's page also comes back after the extension reloads."
         ],
         "update" : {
-          "edSignature" : "JXVHqfvad6ay2jW8UG+D8OhCazaYo84HYOIn12SLpT/U1iSvcOKZIT5UhBuRVRTfUX0wlzia8A5aWu8UXVrgDA==",
-          "length" : 2526718,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.1/Pigeonhole-1.5.1-update.zip"
+          "edSignature" : "9JjTScrRilNLKTv9q7eHjMPwyz5+iIt/45RD3fjsa9uZLHztgVXUdPUifuKsOQAgPV6K9u2ELNhCu6e4rmm/DA==",
+          "length" : 2527599,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.3/Pigeonhole-1.5.3-update.zip"
         },
-        "version" : "1.5.1",
+        "version" : "1.5.3",
         "zip" : {
-          "edSignature" : "ij7a5pV14019FyO18S6oEvIEaIEATGcFHweR499gSmD/44MHxXSKJsJiRxawjSc13OiSGronARo07+R6YwhECw==",
-          "length" : 2536478,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.1/Pigeonhole-1.5.1.zip"
+          "edSignature" : "thHgKYlqQPiyPvl/KYzDWnNQOAyJuj/lrX7S35BwASAO56lh72Gpsn9NGkEuwa3R7eAyzKvcDMp9JiBN1I5SBg==",
+          "length" : 2537360,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.5.3/Pigeonhole-1.5.3.zip"
         }
       },
       "screenshots" : [
@@ -1016,5 +1016,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-15T02:07:20Z"
+  "updated" : "2026-11-16T03:09:05Z"
 }
