@@ -877,26 +877,26 @@
       "name" : "Throw",
       "readmeURL" : "https://store.explainsims.com/readme/throw.txt",
       "release" : {
-        "build" : "16",
+        "build" : "18",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T06:25:20Z",
+        "date" : "2026-11-16T03:49:53Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Finds Apple TVs close by the way Screen Mirroring does, even on school networks that keep them apart (over direct Wi-Fi), and connects to them reliably. If Control Center doesn't list a screen, Throw tries System Settings › Displays."
+          "While presenting, the cover over your desktop icons now shows your wallpaper exactly as your desktop does, instead of always cropping it to fill the screen. Do Not Disturb now goes off reliably when a screen disconnects, even if another Control Center menu (Wi-Fi, say) is open at that moment."
         ],
         "update" : {
-          "edSignature" : "NBrRqLmaulTLI0bjyA2Sx6ZI5BW++iHepTIZT58sy6vVMpONtb6O3EqhPqchv0farrpwX9wzONan2EFN6fScAQ==",
-          "length" : 3210063,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.0/Throw-1.1.0-update.zip"
+          "edSignature" : "6A2kHtDl4055GCcheFr2VZCgxPUl15iXMJX1Jwa/UU3YqSPNn9XZZ6jywCUBeitdVQaYAy59Qs4mpkliMZAFBQ==",
+          "length" : 3225020,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.1/Throw-1.1.1-update.zip"
         },
-        "version" : "1.1.0",
+        "version" : "1.1.1",
         "zip" : {
-          "edSignature" : "ElWviVN291B6/SqxNe4qpTebLPcAumG/S33IKiHsL8YpGZSVzIY4KrF6g8p0LLexWlkigmhCpX4YuLmZeTHMCg==",
-          "length" : 3215339,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.0/Throw-1.1.0.zip"
+          "edSignature" : "CtS2RiP7YWJpahokVPrgcw47T9lbTuVjzJuTlLfB4PsNjjAGXXnw+PU3VO/XSdrxbroyqBFjj9RmBRnqc/WuBw==",
+          "length" : 3230295,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.1/Throw-1.1.1.zip"
         }
       },
       "screenshots" : [
@@ -1016,5 +1016,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-16T03:48:59Z"
+  "updated" : "2026-11-16T03:49:53Z"
 }
