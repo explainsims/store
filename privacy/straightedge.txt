@@ -1,0 +1,50 @@
+Straightedge privacy
+Straightedge works entirely on your own computer. It has no account, no ads
+and no analytics, and there's no Straightedge server: nothing about you, your
+students or their data is ever sent to us or anyone else. Last updated
+17 November 2026.
+
+
+WHAT STRAIGHTEDGE READS
+
+  • The cells you graph, only when you ask: when you click Graph in a
+    Google Sheet, press ⌥⇧G, or click Straightedge in the toolbar. It reads
+    them inside your browser the way a copy would, without touching your
+    clipboard, so it can only read what you could copy yourself.
+  • While its panel is open beside a sheet, the same cells again after you
+    edit them, so the graph keeps up. It never reads other cells unless you
+    ask it to add columns beside your data.
+  • Which cells are selected in a sheet (not what's in them), so its
+    panel can offer to graph a new selection.
+  • Straightedge can't see your other tabs, your browsing, or any site
+    other than Google Sheets.
+
+
+WHAT STRAIGHTEDGE KEEPS
+
+  • Each sheet's last graph (which cells, the columns and transforms you
+    chose, the words on the graph), so it opens the same way next time.
+    It's kept in the browser's storage on this computer.
+  • Your settings, in the browser on this computer.
+  • Pictures, SVG files and copied results only go where you put them.
+
+
+WHAT STRAIGHTEDGE WRITES
+
+  • Nothing in your sheet unless you ask: Put in sheet adds a picture of the
+    graph beside your data, and Add the processed columns adds columns of
+    formulas there.
+
+
+THE MAC APP
+
+  • Straightedge.app only puts the extension in a folder on your Mac and
+    shows how to add it to Chrome and Edge.
+  • It goes online only to check for updates (store.explainsims.com), and
+    sends nothing about you when it does.
+
+
+GOOD TO KNOW
+
+  • Straightedge is free and open source.
+  • Questions: use Feedback on Straightedge's page in Storefront.

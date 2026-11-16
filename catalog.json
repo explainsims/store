@@ -805,6 +805,72 @@
       "tagline" : "Install any of these apps in one click, and keep them all up to date."
     },
     {
+      "added" : "2026-11-16T23:21:50Z",
+      "alternativeTo" : "Vernier Graphical Analysis and Logger Pro",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.straightedge",
+      "icon" : "https://store.explainsims.com/icons/straightedge.png",
+      "id" : "straightedge",
+      "internet" : "Only Google Sheets, to read the cells you graph, and update checks",
+      "kind" : "tools",
+      "licence" : "MIT",
+      "name" : "Straightedge",
+      "needs" : "Google Chrome or Microsoft Edge, and Google Sheets. Add its extension once with Load unpacked: the app shows how",
+      "privacyURL" : "https://store.explainsims.com/privacy/straightedge.txt",
+      "readmeURL" : "https://store.explainsims.com/readme/straightedge.txt",
+      "release" : {
+        "build" : "12",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-16T23:21:50Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: physics graphs from Google Sheets data, with error bars, one-click linearising, IB max/min lines through every error bar, the gradient and intercept with uncertainties and units, a large view for the board, and a guide for teachers and students."
+        ],
+        "update" : {
+          "edSignature" : "4UostqgHggcaRlgcW+Yj0giaZBQlxUhCQJiFlC1KSPs6cHqPUX1Qo9vNJRME4FbwQoPA+lZP5O4HKssit3EVCA==",
+          "length" : 1810791,
+          "url" : "https://github.com/explainsims/store/releases/download/straightedge-1.2.2/Straightedge-1.2.2-update.zip"
+        },
+        "version" : "1.2.2",
+        "zip" : {
+          "edSignature" : "iD46zKroxSQzZrdcI86u5imuitMQHVKTWJISARgXI9IRClNwVyLVaNdWz/A0y7h+jAvxSB+H2IN8izmutmx2Dw==",
+          "length" : 4263626,
+          "url" : "https://github.com/explainsims/store/releases/download/straightedge-1.2.2/Straightedge-1.2.2.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/straightedge/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/straightedge/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/straightedge/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/straightedge/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/straightedge/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/straightedge/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/straightedge/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/straightedge/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/straightedge/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/straightedge/5-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/straightedge/6-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/straightedge/6-light.jpg"
+        }
+      ],
+      "summary" : "Select your lab data in a Google Sheet and click Graph: Straightedge draws it in a panel beside the sheet, with error bars from your uncertainty columns, a best-fit line, and the steepest and shallowest lines through every error bar, then gives the gradient and intercept with their uncertainties and units. Linearise in one click (y², x², √x, 1/x, log–log), work out g or k from the gradient, open the graph large for the board, and copy it into a lab report. Made for IB and AP physics; everything is worked out on your computer, and a 14-page guide comes in the zip.",
+      "tagline" : "Physics graphs from Google Sheets, with error bars and max/min lines."
+    },
+    {
       "added" : "2026-11-13T23:24:40Z",
       "alternativeTo" : "Vernier Video Analysis and Tracker",
       "audience" : "everyone",
@@ -1016,5 +1082,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-16T03:49:53Z"
+  "updated" : "2026-11-16T23:21:50Z"
 }

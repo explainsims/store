@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Straightedge</title>
+    <item>
+      <title>Straightedge 1.2.2</title>
+      <pubDate>Mon, 16 Nov 2026 23:21:50 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: physics graphs from Google Sheets data, with error bars, one-click linearising, IB max/min lines through every error bar, the gradient and intercept with uncertainties and units, a large view for the board, and a guide for teachers and students.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/straightedge-1.2.2/Straightedge-1.2.2-update.zip" length="1810791" type="application/octet-stream" sparkle:edSignature="4UostqgHggcaRlgcW+Yj0giaZBQlxUhCQJiFlC1KSPs6cHqPUX1Qo9vNJRME4FbwQoPA+lZP5O4HKssit3EVCA=="/>
+    </item>
+  </channel>
+</rss>

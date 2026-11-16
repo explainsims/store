@@ -1,0 +1,122 @@
+Straightedge 1.2.2
+Turn lab data in Google Sheets into a proper physics graph. Select your
+data, click Graph, and Straightedge draws it beside the sheet with error bars,
+a best-fit line and the steepest and shallowest lines, and gives the
+gradient and intercept with their uncertainties and units.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Straightedge.app: the app
+  • Install Straightedge.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later. It was made and tested
+    on macOS 27.
+  • Google Chrome or Microsoft Edge (or both).
+
+
+INSTALL
+
+  1. Double-click "Install Straightedge.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Straightedge.command" into the Terminal window, and press Return.
+
+  2. The installer moves Straightedge into Applications and opens it.
+
+  3. Add Straightedge's extension to Chrome (and Edge, if you use it). It's free
+     and doesn't need the Web Store:
+       • Open chrome://extensions (edge://extensions in Edge).
+       • Turn on Developer mode.
+       • Click Load unpacked and choose the folder Straightedge shows you:
+         ~/Library/Application Support/Straightedge/Extension
+         Quickest way: click Copy Path in Straightedge's window. In the
+         window Load unpacked opens, press ⌘⇧G (Command-Shift-G),
+         then ⌘V to paste, then Return, and click Select.
+     A welcome page opens to show it worked.
+
+  4. Pin Straightedge to the toolbar: click the puzzle piece at the top right
+     of the browser, then the pin next to Straightedge.
+
+
+USING Straightedge
+
+  • In a Google Sheet, select your table: the headers and the numbers. Put
+    each uncertainty column beside its quantity, for example
+    "Length L / m", "ΔL / m", "Period T / s", "ΔT / s". A fixed uncertainty
+    can go in the header instead: "Length L / m ± 0.001".
+    Repeated trials ("T1", "T2", "T3") are averaged for you.
+
+  • Click Graph, next to Share (or press ⌥⇧G, or click Straightedge in the
+    toolbar). The graph opens in a panel beside the sheet. The panel
+    belongs to that sheet: it hides when you go to another tab and comes
+    back when you return. (In any other tab, the toolbar button opens a
+    large page where you can paste a table to graph.)
+
+  • Open large in a tab (the button at the top) shows the graph big, for
+    the board or a projector. "Hide the controls" there leaves just the
+    graph and the results. The panel and the large tab stay in step: change
+    a title, a transform or a point in one and the other follows.
+
+  • Choose what goes up the side (y) and along the bottom (x), and their
+    uncertainties, with the menus at the top.
+
+  • Click the title, an axis title or a line in the key to change its
+    words: the version worked out for you (like "T² / s²"), one made from
+    your column headings (like "Period squared, T² / s²"), or your own.
+
+  • Linearise with one click: y², √x, 1/x, log–log or ln y, or pick any
+    power or log from the menu beside each axis. The error bars and the
+    axis titles follow. If the data curves, Straightedge suggests what to try.
+
+  • The steepest and shallowest lines go through every error bar. Drag their
+    ends to draw them by eye, the way the IB guide describes. If no straight
+    line fits every bar, Straightedge says so and points to the odd point.
+    Click any point to leave it out of the fit, and again to put it back.
+
+  • "Work out g, k or another quantity from the gradient": if your theory
+    says the gradient is, say, 4π²/g, type  g = 4π²/m  and get g with its
+    uncertainty and unit. Use m for the gradient and c for the intercept.
+    Add another measured value after a semicolon:
+    k = 4π²M/m; M = 0.200 ± 0.001 kg
+
+  • Copy image puts a sharp picture of the graph on the clipboard: paste it
+    into Google Docs, Slides, Word or Pages. Put in sheet places it beside
+    your data. The ••• menu downloads PNG or SVG, copies the results as
+    text, and adds the processed columns (like T² and Δ(T²)) to the sheet
+    as formulas.
+
+  • The graph updates by itself when you change a number in the sheet.
+
+  • Settings (the gear): IB or AP, how the gradient's uncertainty is worked
+    out (max/min lines through every bar, through the first and last bars,
+    or the least-squares standard error), rounding, the graph's look, and
+    whether to suggest linearisations.
+
+
+GOOD TO KNOW
+
+  • Nothing leaves your computer. Straightedge reads only the cells you graph,
+    in your browser, and works everything out on this Mac. It has no
+    server, no account and no tracking.
+
+  • It reads cells the way a copy would, without touching your clipboard,
+    so it can't read a sheet whose owner has turned off copying.
+
+  • To update: use Check for Updates… in Straightedge, or unzip a newer copy and
+    run its installer. The extension updates itself from the same folder.
+
+  • To uninstall: remove Straightedge from chrome://extensions, then drag
+    Straightedge from Applications to the Trash.
+
+  • Straightedge is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time. It isn't affiliated with Google, Vernier or Desmos.
