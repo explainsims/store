@@ -3,13 +3,13 @@
   <channel>
     <title>APOD Wallpaper</title>
     <item>
-      <title>APOD Wallpaper 1.2.1</title>
-      <pubDate>Mon, 09 Nov 2026 00:38:12 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <title>APOD Wallpaper 1.3.0</title>
+      <pubDate>Mon, 16 Nov 2026 03:48:59 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Check for Updates… in the menu. From now on APOD Wallpaper updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/apodwallpaper-1.2.1/APOD-Wallpaper-1.2.1-update.zip" length="4301564" type="application/octet-stream" sparkle:edSignature="iK2QCkMdd6q5J70qskiyS/2ocZycXRGOeJ5H55Nx4rfGwlRpgqjxLaz9iIOp8ImK4ZwUUiMFjewh1cfy29CwAQ=="/>
+      <description><![CDATA[<ul><li>Picture of the Day Fit in the menu: Automatic, Fit to Width or Fit to Height. A tall or very wide picture can now fill your screen (cropped) or show whole, whichever you prefer, and the menu says what your choice does to today's picture.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/apodwallpaper-1.3.0/APOD-Wallpaper-1.3.0-update.zip" length="4309708" type="application/octet-stream" sparkle:edSignature="E+k64PJOVoVbOJOe2uMBTr6pKaiGJh2nP0ayJkFBz031L9hc6wbNn/qt40EJR7d1qhaEfwNWY/0/f14Ft/m1CQ=="/>
     </item>
   </channel>
 </rss>

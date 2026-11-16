@@ -54,6 +54,9 @@ USING APOD WALLPAPER
           A new picture every day at 07:00 UTC (2 pm in Thailand and
           Vietnam), a few hours after NASA posts it. If your Mac is off or
           asleep then, it updates as soon as it's back.
+          Picture of the Day Fit sets how a picture that isn't your screen's
+          shape fits: Automatic (fills the screen unless it's very tall or
+          wide, then shows it whole on black), Fit to Width or Fit to Height.
 
       Live Earth
           The whole Earth as a weather satellite sees it, updated every 20
