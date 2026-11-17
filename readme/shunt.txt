@@ -1,0 +1,81 @@
+Shunt 1.0.0
+Move the window you're using, or just the browser tab you're looking at,
+to another Space or another screen with one shortcut.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Shunt.app: the app
+  • Install Shunt.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later.
+
+
+INSTALL
+
+  1. Double-click "Install Shunt.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Shunt.command" into the Terminal window, and press Return.
+
+  2. The installer moves Shunt into Applications and opens it.
+
+  Prefer to do it by hand? Drag Shunt into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Shunt
+
+  Shunt lives in the menu bar (the little blue tile with a window on a
+  rail). The first time, it asks for one permission:
+
+    System Settings → Privacy & Security → Accessibility → turn on Shunt.
+
+  It also uses Mission Control's own "Move left a space" and "Move right a
+  space" shortcuts, so leave those on (System Settings → Keyboard →
+  Keyboard Shortcuts → Mission Control). They're on unless you changed them.
+
+  The keys:
+
+    ⌃⌘ ← →     the window goes one Space left or right
+    ⌃⌘ ↑       the window goes to the other screen (a monitor, or an
+               AirPlay TV set to Extend)
+    ⌃⌘ ↓       back to the Mac's own screen
+    ⌃⌘ 1–9     to Desktop 1–9
+    add ⇧      just the browser tab (Chrome, Edge, Safari)
+    ⌃⌘ Z       undo the last move
+
+  Hold ⌃⌘ and press an arrow more than once to go further. A small map
+  shows where it went. Change any key in Settings (click the menu-bar icon,
+  then Settings…).
+
+  The menu-bar icon also shows your Spaces: click one to send the window
+  you were using there, or click a window under "Bring here" to fetch it
+  from another Space.
+
+  "Go with it" leaves you where the window went; "Stay here" slides over
+  and straight back. A tab sent to a TV fills it, and your Mac keeps the
+  focus. With no TV connected, ⌃⌘↑ offers to open Throw so you can pick
+  one.
+
+
+GOOD TO KNOW
+
+  • To update: click the menu-bar icon, then Check for Updates…, or unzip
+    a newer copy and run its installer. It keeps your settings.
+
+  • To uninstall: quit Shunt from its menu-bar icon and drag it from
+    Applications to the Trash.
+
+  • Shunt is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time.

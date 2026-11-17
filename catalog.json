@@ -716,6 +716,66 @@
       "tagline" : "Screenshots with arrows, text and blur."
     },
     {
+      "added" : "2026-11-17T16:28:02Z",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.shunt",
+      "icon" : "https://store.explainsims.com/icons/shunt.png",
+      "id" : "shunt",
+      "internet" : "Only update checks",
+      "kind" : "menubar",
+      "licence" : "MIT",
+      "name" : "Shunt",
+      "needs" : "Accessibility, and Mission Control’s “Move left/right a space” shortcuts left on (they are unless you changed them). Throw for AirPlay TVs; Pigeonhole for a tab to join a Chrome or Edge window already there",
+      "readmeURL" : "https://store.explainsims.com/readme/shunt.txt",
+      "release" : {
+        "build" : "4",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-17T16:28:02Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: move the window you're using, or just its browser tab, to another Space or screen with one key."
+        ],
+        "update" : {
+          "edSignature" : "WOk6FOTBk9SZZwcXFxi6HWDEsA563q3Bh4OisMQyubrMJcra51hqwisJTWPlNb5uA65pjmwtfHoKn8ZN8ldRBQ==",
+          "length" : 3921653,
+          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.0.0/Shunt-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "3RvjssphAhGdNodBZVIUH6BHvIqZkeN/FPyCHNnesC9dHLU2dnt8TQnJ7amWzuPL9byH+aZnx3ekOJNrwWY7AA==",
+          "length" : 3926985,
+          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.0.0/Shunt-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/shunt/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/shunt/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/shunt/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/shunt/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/shunt/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/shunt/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/shunt/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/shunt/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/shunt/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/shunt/5-light.jpg"
+        }
+      ],
+      "summary" : "Press ⌃⌘→ and the window you’re using slides to the next Space with you; ⌃⌘↑ puts it on another screen or an AirPlay TV, and ⌃⌘↓ brings it back. Add ⇧ to move just the browser tab. A small map shows where it went, and ⌃⌘Z puts it back.",
+      "tagline" : "Send a window, or just a tab, to another Space or screen with one key."
+    },
+    {
       "added" : "2026-11-11T15:13:43Z",
       "alternativeTo" : "OpenLink",
       "audience" : "everyone",
@@ -1154,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-17T01:51:29Z"
+  "updated" : "2026-11-17T16:28:02Z"
 }

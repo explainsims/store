@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Shunt</title>
+    <item>
+      <title>Shunt 1.0.0</title>
+      <pubDate>Tue, 17 Nov 2026 16:28:02 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: move the window you're using, or just its browser tab, to another Space or screen with one key.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.0.0/Shunt-1.0.0-update.zip" length="3921653" type="application/octet-stream" sparkle:edSignature="WOk6FOTBk9SZZwcXFxi6HWDEsA563q3Bh4OisMQyubrMJcra51hqwisJTWPlNb5uA65pjmwtfHoKn8ZN8ldRBQ=="/>
+    </item>
+  </channel>
+</rss>
