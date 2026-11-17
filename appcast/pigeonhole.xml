@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.5.3</title>
-      <pubDate>Mon, 16 Nov 2026 03:09:05 +0000</pubDate>
-      <sparkle:version>18</sparkle:version>
-      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+      <title>Pigeonhole 1.6.1</title>
+      <pubDate>Tue, 17 Nov 2026 16:28:36 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Fixes pinned tabs piling up during a Google Meet call: Meet's floating window is no longer treated as a browser window, and any extra copies of a pinned tab or of Pigeonhole's page close by themselves. Pigeonhole's page also comes back after the extension reloads.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.5.3/Pigeonhole-1.5.3-update.zip" length="2527599" type="application/octet-stream" sparkle:edSignature="9JjTScrRilNLKTv9q7eHjMPwyz5+iIt/45RD3fjsa9uZLHztgVXUdPUifuKsOQAgPV6K9u2ELNhCu6e4rmm/DA=="/>
+      <description><![CDATA[<ul><li>Works with Shunt: a Chrome or Edge tab you send to another Space joins the browser window already there, and Shunt's undo puts it back where it was.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.6.1/Pigeonhole-1.6.1-update.zip" length="2574281" type="application/octet-stream" sparkle:edSignature="pngFvYeI1K/DWiU/qArxODo1K+mVFiuFQv+qIN+T5W9yIFAraIbRPehAdG/NRKFyta8B2p68TbR12HamBBPkAA=="/>
     </item>
   </channel>
 </rss>
