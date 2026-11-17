@@ -1,8 +1,10 @@
-Strobe 1.0.1
-Video motion analysis for physics labs. Open a video of something moving,
-set the scale and the axes, click the object on each frame (or let Strobe
-track it), and get position, velocity and acceleration as a table and
-graphs, with fits, uncertainties and a strobe picture for worksheets.
+Strobe 1.1.0
+Motion analysis for physics labs, from video and from Vernier Go Direct
+sensors. Open a video of something moving, set the scale and the axes,
+click the object on each frame (or let Strobe track it), and get position,
+velocity and acceleration as a table and graphs, with fits, uncertainties
+and a strobe picture for worksheets. Or start a sensor experiment and
+collect from Go Direct sensors over Bluetooth or USB.
 
 
 WHAT'S IN THIS FOLDER
@@ -74,6 +76,31 @@ USING Strobe
   • Opening from Photos asks for access to your Photos library.
 
 
+SENSOR EXPERIMENTS (NEW IN 1.1)
+
+  • File → New Sensor Experiment (Command-N), or Sensor Experiment on the
+    welcome window. Turn a Go Direct sensor on (its light blinks red) and
+    click Connect beside it, or plug it in by USB. The first time, macOS
+    asks to let Strobe use Bluetooth.
+  • Tick the channels to record. Zero makes the reading zero; Reverse
+    flips its sign (so a push on a force sensor reads positive). The bulb
+    button blinks a sensor's light, to tell which one is which.
+  • The button left of Collect sets how to collect: Time Based (a rate and
+    a duration, or Continuous; a trigger can start it when a reading rises
+    above or falls below a value, keeping a little from before), Events
+    with Entry (Keep a point and type a value, such as a volume; each point
+    averages a second of readings), Selected Events, or Photogate Timing
+    (gate, pendulum, pulse or picket fence, timed by the photogate itself
+    to the microsecond).
+  • Space collects and stops; Return keeps a point. Each Collect makes a
+    run; earlier runs stay on the graph to compare.
+  • Drag across the graph to choose a stretch, then use Integral (the area
+    under force–time is the impulse), Statistics, Tangent or a fit, with IB
+    error bars and max/min gradient lines.
+  • No sensor to hand? The Sensors panel has pretend ones to try.
+  • Sensor experiments are .strobe files too, and open on the iPhone.
+
+
 GOOD TO KNOW
 
   • To update: Strobe → Check for Updates…, or unzip a newer copy and run
@@ -82,6 +109,7 @@ GOOD TO KNOW
   • To uninstall: quit Strobe and drag it from Applications to the Trash.
 
   • Strobe is free and open source (MIT), an open-source alternative to
-    video-analysis tools such as Vernier Video Analysis and Tracker, and not
-    affiliated with either. It isn't from the App Store and isn't notarized
+    video-analysis tools such as Vernier Video Analysis and Tracker, and to
+    Vernier Graphical Analysis for Go Direct sensors, and not affiliated
+    with Vernier or Tracker. It isn't from the App Store and isn't notarized
     by Apple, which is why macOS asks you to confirm it the first time.

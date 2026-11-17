@@ -3,13 +3,13 @@
   <channel>
     <title>Strobe</title>
     <item>
-      <title>Strobe 1.0.1</title>
-      <pubDate>Sat, 14 Nov 2026 11:49:20 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <title>Strobe 1.1.0</title>
+      <pubDate>Tue, 17 Nov 2026 01:51:29 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>The video is a floating panel too: drag it by its title bar, resize it from its corner, and its play bar and zoom buttons go with it.</li><li>Auto Arrange (Option-Command-A, or the new toolbar button) puts every panel in a recommended place with nothing overlapping, and keeps them tidy as the window changes size until you move one yourself. Where you put them is saved with the project.</li><li>Tab hides the other panels so the video fills the window, and the Data table spreads out to fill a wide panel.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/strobe-1.0.1/Strobe-1.0.1-update.zip" length="5043152" type="application/octet-stream" sparkle:edSignature="UU1G1wXZIM6E8D72+OgCuzdpmze0SkRowYfiLZSkPDrFBnyf+UfQYMCUeGZOkoUZugxCoFMui7x2UFtyeQY2Cg=="/>
+      <description><![CDATA[<ul><li>Sensor experiments: collect data from Vernier Go Direct sensors over Bluetooth, or USB on the Mac. File › New Sensor Experiment (Command-N).</li><li>Time Based runs with a trigger, Events with Entry (type a value such as a mass or volume for each point), Selected Events, and photogate timing (gate, pendulum, pulse, picket fence).</li><li>Compare runs on one graph; analyse a stretch with the integral (impulse), statistics, a tangent or a fit, with IB error bars and max/min lines.</li><li>Pretend sensors to try it without one, and sensor experiments open on the iPhone too.</li><li>A 19-page guide for teachers and students comes in the download.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/strobe-1.1.0/Strobe-1.1.0-update.zip" length="6740661" type="application/octet-stream" sparkle:edSignature="CH6UdXXthaEq01k8gdjTOVIJRxKP2fwpkAES8wZAxzLLqJCVlDYHjDYH0e8VyT05XqSZSsmdpKNf86mniWs2Aw=="/>
     </item>
   </channel>
 </rss>

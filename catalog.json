@@ -937,7 +937,7 @@
     },
     {
       "added" : "2026-11-13T23:24:40Z",
-      "alternativeTo" : "Vernier Video Analysis and Tracker",
+      "alternativeTo" : "Vernier Video Analysis, Graphical Analysis and Tracker",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.strobe",
       "icon" : "https://store.explainsims.com/icons/strobe.png",
@@ -946,31 +946,34 @@
       "kind" : "tools",
       "licence" : "MIT",
       "name" : "Strobe",
+      "needs" : "A Vernier Go Direct sensor for sensor experiments (Bluetooth, or USB on the Mac)",
       "privacyURL" : "https://store.explainsims.com/privacy/strobe.txt",
       "readmeURL" : "https://store.explainsims.com/readme/strobe.txt",
       "release" : {
-        "build" : "10",
+        "build" : "17",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-14T11:49:20Z",
+        "date" : "2026-11-17T01:51:29Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "The video is a floating panel too: drag it by its title bar, resize it from its corner, and its play bar and zoom buttons go with it.",
-          "Auto Arrange (Option-Command-A, or the new toolbar button) puts every panel in a recommended place with nothing overlapping, and keeps them tidy as the window changes size until you move one yourself. Where you put them is saved with the project.",
-          "Tab hides the other panels so the video fills the window, and the Data table spreads out to fill a wide panel."
+          "Sensor experiments: collect data from Vernier Go Direct sensors over Bluetooth, or USB on the Mac. File › New Sensor Experiment (Command-N).",
+          "Time Based runs with a trigger, Events with Entry (type a value such as a mass or volume for each point), Selected Events, and photogate timing (gate, pendulum, pulse, picket fence).",
+          "Compare runs on one graph; analyse a stretch with the integral (impulse), statistics, a tangent or a fit, with IB error bars and max/min lines.",
+          "Pretend sensors to try it without one, and sensor experiments open on the iPhone too.",
+          "A 19-page guide for teachers and students comes in the download."
         ],
         "update" : {
-          "edSignature" : "UU1G1wXZIM6E8D72+OgCuzdpmze0SkRowYfiLZSkPDrFBnyf+UfQYMCUeGZOkoUZugxCoFMui7x2UFtyeQY2Cg==",
-          "length" : 5043152,
-          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.1/Strobe-1.0.1-update.zip"
+          "edSignature" : "CH6UdXXthaEq01k8gdjTOVIJRxKP2fwpkAES8wZAxzLLqJCVlDYHjDYH0e8VyT05XqSZSsmdpKNf86mniWs2Aw==",
+          "length" : 6740661,
+          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.1.0/Strobe-1.1.0-update.zip"
         },
-        "version" : "1.0.1",
+        "version" : "1.1.0",
         "zip" : {
-          "edSignature" : "a0nvFfcBk9eyC61lZQNvOEddqvBmky+IbfnJMX+ObBl1jXAHuDjiR0z/i+QuzYnptf1pST1gniyOUO1G6Ks1BQ==",
-          "length" : 5048735,
-          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.0.1/Strobe-1.0.1.zip"
+          "edSignature" : "H5N5Vyv90fGnOBqADkHpMWJBjNKNwY9apON6vQ4lPNDml4xuNszjz88PiKcBJBbqOYEwS0XgVuVBtkDMJWCRBQ==",
+          "length" : 9011433,
+          "url" : "https://github.com/explainsims/store/releases/download/strobe-1.1.0/Strobe-1.1.0.zip"
         }
       },
       "screenshots" : [
@@ -993,10 +996,14 @@
         {
           "dark" : "https://store.explainsims.com/shots/strobe/5-dark.jpg",
           "light" : "https://store.explainsims.com/shots/strobe/5-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/strobe/6-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/strobe/6-light.jpg"
         }
       ],
-      "summary" : "Open a video of something moving, set the scale and the axes, and click the object on each frame, or draw a box round it and let Strobe track it. You get position, velocity and acceleration in a table and on graphs, with fits, uncertainties and max/min gradient lines, energy and momentum for collisions, and a strobe-picture worksheet with an answer key. Slow motion from Photos opens at its full frame rate. Projects are .strobe files with the video inside, kept on your Mac or in your Google Drive.",
-      "tagline" : "Track motion in a video, then graph it and fit it."
+      "summary" : "Open a video of something moving, set the scale and the axes, and click the object on each frame, or draw a box round it and let Strobe track it. You get position, velocity and acceleration in a table and on graphs, with fits, uncertainties and max/min gradient lines, energy and momentum for collisions, and a strobe-picture worksheet with an answer key. Sensor experiments collect data from Vernier Go Direct sensors over Bluetooth or USB: time-based runs with a trigger, events with typed values such as masses or volumes, and photogate timing, with integrals, statistics, tangents and fits. Projects are .strobe files, kept on your Mac or in your Google Drive.",
+      "tagline" : "Track motion in video or collect Vernier sensor data, then graph and fit it."
     },
     {
       "added" : "2026-11-08T01:41:10Z",
@@ -1147,5 +1154,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-16T23:27:32Z"
+  "updated" : "2026-11-17T01:51:29Z"
 }
