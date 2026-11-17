@@ -1075,26 +1075,26 @@
       "name" : "Throw",
       "readmeURL" : "https://store.explainsims.com/readme/throw.txt",
       "release" : {
-        "build" : "18",
+        "build" : "23",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-16T03:49:53Z",
+        "date" : "2026-11-17T16:28:24Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "While presenting, the cover over your desktop icons now shows your wallpaper exactly as your desktop does, instead of always cropping it to fill the screen. Do Not Disturb now goes off reliably when a screen disconnects, even if another Control Center menu (Wi-Fi, say) is open at that moment."
+          "A throw://open link opens Throw's menu, so Shunt can offer a TV when you send a window to the other screen and there isn't one yet."
         ],
         "update" : {
-          "edSignature" : "6A2kHtDl4055GCcheFr2VZCgxPUl15iXMJX1Jwa/UU3YqSPNn9XZZ6jywCUBeitdVQaYAy59Qs4mpkliMZAFBQ==",
-          "length" : 3225020,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.1/Throw-1.1.1-update.zip"
+          "edSignature" : "fUsv5HQSd2pCmhGjxdCOQ6DWJOPXp/i2Sje04D/Yv5O1xVPzaYgCiGVU4Z+8vxrc0K8MluolhSr71FzTkOexAw==",
+          "length" : 3252296,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.2/Throw-1.1.2-update.zip"
         },
-        "version" : "1.1.1",
+        "version" : "1.1.2",
         "zip" : {
-          "edSignature" : "CtS2RiP7YWJpahokVPrgcw47T9lbTuVjzJuTlLfB4PsNjjAGXXnw+PU3VO/XSdrxbroyqBFjj9RmBRnqc/WuBw==",
-          "length" : 3230295,
-          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.1/Throw-1.1.1.zip"
+          "edSignature" : "78JM/YJ5MiLhS4A9Nt2VY1nnwHdf5GGumCHf9zq9Qe22sWdsbxRzxihukBKb+Z1AcwugmEQbxXss/kpIZjeVDg==",
+          "length" : 3257572,
+          "url" : "https://github.com/explainsims/store/releases/download/throw-1.1.2/Throw-1.1.2.zip"
         }
       },
       "screenshots" : [
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-17T16:28:02Z"
+  "updated" : "2026-11-17T16:28:24Z"
 }

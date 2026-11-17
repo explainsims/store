@@ -3,13 +3,13 @@
   <channel>
     <title>Throw</title>
     <item>
-      <title>Throw 1.1.1</title>
-      <pubDate>Mon, 16 Nov 2026 03:49:53 +0000</pubDate>
-      <sparkle:version>18</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <title>Throw 1.1.2</title>
+      <pubDate>Tue, 17 Nov 2026 16:28:24 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>While presenting, the cover over your desktop icons now shows your wallpaper exactly as your desktop does, instead of always cropping it to fill the screen. Do Not Disturb now goes off reliably when a screen disconnects, even if another Control Center menu (Wi-Fi, say) is open at that moment.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/throw-1.1.1/Throw-1.1.1-update.zip" length="3225020" type="application/octet-stream" sparkle:edSignature="6A2kHtDl4055GCcheFr2VZCgxPUl15iXMJX1Jwa/UU3YqSPNn9XZZ6jywCUBeitdVQaYAy59Qs4mpkliMZAFBQ=="/>
+      <description><![CDATA[<ul><li>A throw://open link opens Throw's menu, so Shunt can offer a TV when you send a window to the other screen and there isn't one yet.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/throw-1.1.2/Throw-1.1.2-update.zip" length="3252296" type="application/octet-stream" sparkle:edSignature="fUsv5HQSd2pCmhGjxdCOQ6DWJOPXp/i2Sje04D/Yv5O1xVPzaYgCiGVU4Z+8vxrc0K8MluolhSr71FzTkOexAw=="/>
     </item>
   </channel>
 </rss>
