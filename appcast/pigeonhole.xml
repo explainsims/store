@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.6.1</title>
-      <pubDate>Tue, 17 Nov 2026 16:28:36 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <title>Pigeonhole 1.6.2</title>
+      <pubDate>Wed, 18 Nov 2026 01:01:20 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Works with Shunt: a Chrome or Edge tab you send to another Space joins the browser window already there, and Shunt's undo puts it back where it was.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.6.1/Pigeonhole-1.6.1-update.zip" length="2574281" type="application/octet-stream" sparkle:edSignature="pngFvYeI1K/DWiU/qArxODo1K+mVFiuFQv+qIN+T5W9yIFAraIbRPehAdG/NRKFyta8B2p68TbR12HamBBPkAA=="/>
+      <description><![CDATA[<ul><li>Works with Shunt's ⌃⌥⇧⌘ + arrow: the tab goes into a window of its own with no Pigeonhole page and no pinned tabs, and Shunt's undo puts it back.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.6.2/Pigeonhole-1.6.2-update.zip" length="2575097" type="application/octet-stream" sparkle:edSignature="F7DhyZTSgNYfafdzwZT+McnzMl6vWISU18/KFZpXWcuaRCxYhvQb/8RHq92TE2wHLpUm33MALtyn0zhPQYpzBQ=="/>
     </item>
   </channel>
 </rss>

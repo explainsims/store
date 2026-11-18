@@ -558,26 +558,26 @@
       "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
       "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
       "release" : {
-        "build" : "22",
+        "build" : "23",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-17T16:28:36Z",
+        "date" : "2026-11-18T01:01:20Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Works with Shunt: a Chrome or Edge tab you send to another Space joins the browser window already there, and Shunt's undo puts it back where it was."
+          "Works with Shunt's ⌃⌥⇧⌘ + arrow: the tab goes into a window of its own with no Pigeonhole page and no pinned tabs, and Shunt's undo puts it back."
         ],
         "update" : {
-          "edSignature" : "pngFvYeI1K/DWiU/qArxODo1K+mVFiuFQv+qIN+T5W9yIFAraIbRPehAdG/NRKFyta8B2p68TbR12HamBBPkAA==",
-          "length" : 2574281,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.6.1/Pigeonhole-1.6.1-update.zip"
+          "edSignature" : "F7DhyZTSgNYfafdzwZT+McnzMl6vWISU18/KFZpXWcuaRCxYhvQb/8RHq92TE2wHLpUm33MALtyn0zhPQYpzBQ==",
+          "length" : 2575097,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.6.2/Pigeonhole-1.6.2-update.zip"
         },
-        "version" : "1.6.1",
+        "version" : "1.6.2",
         "zip" : {
-          "edSignature" : "BycBEsD1jOOaOhzTef6MHwMNQNRB9PtEQkqHzP8W2v4bpUJhTJ/bEORa53G+N5R8C8xyG2eR45Js4+u++qGrAw==",
-          "length" : 2584042,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.6.1/Pigeonhole-1.6.1.zip"
+          "edSignature" : "IUKt+rW84jPAQBcI+zVL59FcLNW/FMFlVuPpB+aqVU9shinkt8MFvLeGLWx3bnIb8EkCoRSNONVs2/x2e1Z3DQ==",
+          "length" : 2584858,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.6.2/Pigeonhole-1.6.2.zip"
         }
       },
       "screenshots" : [
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-18T01:01:02Z"
+  "updated" : "2026-11-18T01:01:20Z"
 }
