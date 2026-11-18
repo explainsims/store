@@ -3,13 +3,13 @@
   <channel>
     <title>Shunt</title>
     <item>
-      <title>Shunt 1.2.0</title>
-      <pubDate>Wed, 18 Nov 2026 01:44:15 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <title>Shunt 1.2.1</title>
+      <pubDate>Wed, 18 Nov 2026 02:02:48 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>⌘-click several tabs and they all move together. A tab you send to a Desktop or the TV joins the browser window already there (with ⌥⇧, only a window of tabs on their own), and no window of just pinned tabs is left behind. ⌃⌘Z puts every tab back in its place. Needs Pigeonhole 1.7.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.2.0/Shunt-1.2.0-update.zip" length="3970672" type="application/octet-stream" sparkle:edSignature="t/pWzN5U7/ysUhltlr1a9jTETjb8kGrEbCxCKHzOXCo7dlQhiePLJAiZ1F5bFqtY6WfrqFQYjd8E9yMBW9xoBA=="/>
+      <description><![CDATA[<ul><li>Tabs sent with ⌥⇧ join a window that's already there (a window of tabs on their own first), so tabs brought back from the TV go back into your browser window. A new bare window is made only when there's nothing to join. Needs Pigeonhole 1.7.1.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.2.1/Shunt-1.2.1-update.zip" length="3970660" type="application/octet-stream" sparkle:edSignature="zpa66GD3OZyHfCcV1tLaRKa5Scpp/sEmzz93ahd2UB5+WecySLIgVcrTR5qSg99ePQHpp6zX2rGxEQhDIqsRDg=="/>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-Shunt 1.2.0
+Shunt 1.2.1
 Move the window you're using, or just the browser tab you're looking at,
 to another Space or another screen with one shortcut.
 
@@ -53,8 +53,8 @@ USING Shunt
     ⌃⌘ 1–9     to Desktop 1–9
     add ⇧      just the browser tab, or all the tabs you've selected
                (⌘-click tabs to select several). Chrome, Edge, Safari
-    add ⌥⇧     just the tab, on its own: no pinned tabs come with it,
-               and a second tab sent the same way joins it
+    add ⌥⇧     just the tab, on its own: no new pinned tabs. It joins
+               a window that's already there, or else gets one of its own
     ⌃⌘ Z       undo the last move
 
   Hold ⌃⌘ and press an arrow more than once to go further. A small map
