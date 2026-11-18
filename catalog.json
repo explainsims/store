@@ -728,26 +728,26 @@
       "needs" : "Accessibility, and Mission Control’s “Move left/right a space” shortcuts left on (they are unless you changed them). Throw for AirPlay TVs; Pigeonhole for a tab to join a Chrome or Edge window already there",
       "readmeURL" : "https://store.explainsims.com/readme/shunt.txt",
       "release" : {
-        "build" : "10",
+        "build" : "11",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-18T02:02:48Z",
+        "date" : "2026-11-18T04:44:24Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Tabs sent with ⌥⇧ join a window that's already there (a window of tabs on their own first), so tabs brought back from the TV go back into your browser window. A new bare window is made only when there's nothing to join. Needs Pigeonhole 1.7.1."
+          "Incognito windows: moving a tab now always takes it from the window you're in, as a new incognito window. Shunt only hands tab moves to Pigeonhole 1.7.2 or later, which never guesses which window you meant."
         ],
         "update" : {
-          "edSignature" : "zpa66GD3OZyHfCcV1tLaRKa5Scpp/sEmzz93ahd2UB5+WecySLIgVcrTR5qSg99ePQHpp6zX2rGxEQhDIqsRDg==",
-          "length" : 3970660,
-          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.2.1/Shunt-1.2.1-update.zip"
+          "edSignature" : "6iOEXh+QmoGPhwZMM4jCh8g+Uin6EQ9VATTwJ4lRVM5IBmGb6QeA+sfF3u2vUnFaCLwWVtt4W/DhUOhpiiNbCA==",
+          "length" : 3970694,
+          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.2.2/Shunt-1.2.2-update.zip"
         },
-        "version" : "1.2.1",
+        "version" : "1.2.2",
         "zip" : {
-          "edSignature" : "JK0jtnlUP3f8WZjXFaSoSWHSW9brQEtGfFNJGEILCMDRvZjTRyUp3GQckmEgUwCKYBfnGHxDBKgYrNX2vlFeCA==",
-          "length" : 3976087,
-          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.2.1/Shunt-1.2.1.zip"
+          "edSignature" : "wSVB+tseWRfmGM+p11rAXxKepK2tGRqow+ONLn2eDS/GDxt7Ui1Tg7jmz1fa5A7wuqRrTzOHWURB1sAIRmpLCQ==",
+          "length" : 3976121,
+          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.2.2/Shunt-1.2.2.zip"
         }
       },
       "screenshots" : [
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-18T04:44:11Z"
+  "updated" : "2026-11-18T04:44:24Z"
 }

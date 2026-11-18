@@ -1,4 +1,4 @@
-Shunt 1.2.1
+Shunt 1.2.2
 Move the window you're using, or just the browser tab you're looking at,
 to another Space or another screen with one shortcut.
 

@@ -3,13 +3,13 @@
   <channel>
     <title>Shunt</title>
     <item>
-      <title>Shunt 1.2.1</title>
-      <pubDate>Wed, 18 Nov 2026 02:02:48 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <title>Shunt 1.2.2</title>
+      <pubDate>Wed, 18 Nov 2026 04:44:24 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Tabs sent with ⌥⇧ join a window that's already there (a window of tabs on their own first), so tabs brought back from the TV go back into your browser window. A new bare window is made only when there's nothing to join. Needs Pigeonhole 1.7.1.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.2.1/Shunt-1.2.1-update.zip" length="3970660" type="application/octet-stream" sparkle:edSignature="zpa66GD3OZyHfCcV1tLaRKa5Scpp/sEmzz93ahd2UB5+WecySLIgVcrTR5qSg99ePQHpp6zX2rGxEQhDIqsRDg=="/>
+      <description><![CDATA[<ul><li>Incognito windows: moving a tab now always takes it from the window you're in, as a new incognito window. Shunt only hands tab moves to Pigeonhole 1.7.2 or later, which never guesses which window you meant.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.2.2/Shunt-1.2.2-update.zip" length="3970694" type="application/octet-stream" sparkle:edSignature="6iOEXh+QmoGPhwZMM4jCh8g+Uin6EQ9VATTwJ4lRVM5IBmGb6QeA+sfF3u2vUnFaCLwWVtt4W/DhUOhpiiNbCA=="/>
     </item>
   </channel>
 </rss>
