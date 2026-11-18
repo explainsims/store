@@ -1,4 +1,4 @@
-Pigeonhole 1.7.0
+Pigeonhole 1.7.1
 Spaces of tabs for Chrome and Edge. Give each project or class its own
 space: switch a window to it and its tabs come back just as you left them.
 Everything is saved as you browse, and your spaces follow you to your other
