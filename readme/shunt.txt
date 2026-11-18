@@ -1,4 +1,4 @@
-Shunt 1.0.0
+Shunt 1.1.0
 Move the window you're using, or just the browser tab you're looking at,
 to another Space or another screen with one shortcut.
 
@@ -52,6 +52,7 @@ USING Shunt
     ⌃⌘ ↓       back to the Mac's own screen
     ⌃⌘ 1–9     to Desktop 1–9
     add ⇧      just the browser tab (Chrome, Edge, Safari)
+    add ⌥⇧     just the tab, on its own: no pinned tabs come with it
     ⌃⌘ Z       undo the last move
 
   Hold ⌃⌘ and press an arrow more than once to go further. A small map

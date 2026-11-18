@@ -3,13 +3,13 @@
   <channel>
     <title>Shunt</title>
     <item>
-      <title>Shunt 1.0.0</title>
-      <pubDate>Tue, 17 Nov 2026 16:28:02 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Shunt 1.1.0</title>
+      <pubDate>Wed, 18 Nov 2026 01:01:02 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release: move the window you're using, or just its browser tab, to another Space or screen with one key.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.0.0/Shunt-1.0.0-update.zip" length="3921653" type="application/octet-stream" sparkle:edSignature="WOk6FOTBk9SZZwcXFxi6HWDEsA563q3Bh4OisMQyubrMJcra51hqwisJTWPlNb5uA65pjmwtfHoKn8ZN8ldRBQ=="/>
+      <description><![CDATA[<ul><li>⌃⌥⇧⌘ + an arrow moves just the tab, on its own: its new window has no Pigeonhole page and no pinned tabs (needs Pigeonhole 1.6.2). ⌃⌘Z puts it back. Settings is a little wider so every shortcut fits on its row, and its window is named after the tab you're on.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.1.0/Shunt-1.1.0-update.zip" length="3964436" type="application/octet-stream" sparkle:edSignature="D+ywJk6+PDFOgMOdjegR+qic9pJeT064PJfZNw47Q4PbLJSZfzX0xMSn1UQdUaXto++uiG/+KY9T8itH6Z5sCQ=="/>
     </item>
   </channel>
 </rss>
