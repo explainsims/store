@@ -3,13 +3,13 @@
   <channel>
     <title>Shunt</title>
     <item>
-      <title>Shunt 1.1.0</title>
-      <pubDate>Wed, 18 Nov 2026 01:01:02 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Shunt 1.2.0</title>
+      <pubDate>Wed, 18 Nov 2026 01:44:15 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>⌃⌥⇧⌘ + an arrow moves just the tab, on its own: its new window has no Pigeonhole page and no pinned tabs (needs Pigeonhole 1.6.2). ⌃⌘Z puts it back. Settings is a little wider so every shortcut fits on its row, and its window is named after the tab you're on.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.1.0/Shunt-1.1.0-update.zip" length="3964436" type="application/octet-stream" sparkle:edSignature="D+ywJk6+PDFOgMOdjegR+qic9pJeT064PJfZNw47Q4PbLJSZfzX0xMSn1UQdUaXto++uiG/+KY9T8itH6Z5sCQ=="/>
+      <description><![CDATA[<ul><li>⌘-click several tabs and they all move together. A tab you send to a Desktop or the TV joins the browser window already there (with ⌥⇧, only a window of tabs on their own), and no window of just pinned tabs is left behind. ⌃⌘Z puts every tab back in its place. Needs Pigeonhole 1.7.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/shunt-1.2.0/Shunt-1.2.0-update.zip" length="3970672" type="application/octet-stream" sparkle:edSignature="t/pWzN5U7/ysUhltlr1a9jTETjb8kGrEbCxCKHzOXCo7dlQhiePLJAiZ1F5bFqtY6WfrqFQYjd8E9yMBW9xoBA=="/>
     </item>
   </channel>
 </rss>

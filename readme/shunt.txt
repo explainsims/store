@@ -1,4 +1,4 @@
-Shunt 1.1.0
+Shunt 1.2.0
 Move the window you're using, or just the browser tab you're looking at,
 to another Space or another screen with one shortcut.
 
@@ -51,8 +51,10 @@ USING Shunt
                AirPlay TV set to Extend)
     ⌃⌘ ↓       back to the Mac's own screen
     ⌃⌘ 1–9     to Desktop 1–9
-    add ⇧      just the browser tab (Chrome, Edge, Safari)
-    add ⌥⇧     just the tab, on its own: no pinned tabs come with it
+    add ⇧      just the browser tab, or all the tabs you've selected
+               (⌘-click tabs to select several). Chrome, Edge, Safari
+    add ⌥⇧     just the tab, on its own: no pinned tabs come with it,
+               and a second tab sent the same way joins it
     ⌃⌘ Z       undo the last move
 
   Hold ⌃⌘ and press an arrow more than once to go further. A small map

@@ -728,26 +728,26 @@
       "needs" : "Accessibility, and Mission Control’s “Move left/right a space” shortcuts left on (they are unless you changed them). Throw for AirPlay TVs; Pigeonhole for a tab to join a Chrome or Edge window already there",
       "readmeURL" : "https://store.explainsims.com/readme/shunt.txt",
       "release" : {
-        "build" : "6",
+        "build" : "8",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-18T01:01:02Z",
+        "date" : "2026-11-18T01:44:15Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "⌃⌥⇧⌘ + an arrow moves just the tab, on its own: its new window has no Pigeonhole page and no pinned tabs (needs Pigeonhole 1.6.2). ⌃⌘Z puts it back. Settings is a little wider so every shortcut fits on its row, and its window is named after the tab you're on."
+          "⌘-click several tabs and they all move together. A tab you send to a Desktop or the TV joins the browser window already there (with ⌥⇧, only a window of tabs on their own), and no window of just pinned tabs is left behind. ⌃⌘Z puts every tab back in its place. Needs Pigeonhole 1.7."
         ],
         "update" : {
-          "edSignature" : "D+ywJk6+PDFOgMOdjegR+qic9pJeT064PJfZNw47Q4PbLJSZfzX0xMSn1UQdUaXto++uiG/+KY9T8itH6Z5sCQ==",
-          "length" : 3964436,
-          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.1.0/Shunt-1.1.0-update.zip"
+          "edSignature" : "t/pWzN5U7/ysUhltlr1a9jTETjb8kGrEbCxCKHzOXCo7dlQhiePLJAiZ1F5bFqtY6WfrqFQYjd8E9yMBW9xoBA==",
+          "length" : 3970672,
+          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.2.0/Shunt-1.2.0-update.zip"
         },
-        "version" : "1.1.0",
+        "version" : "1.2.0",
         "zip" : {
-          "edSignature" : "Gv8YeQxMnjWQmWEOGSirjf2woFtWCYirwICcYP8tfUefXM8qaHxlI5PePv7oREyQlafpzHEL3PDK8ArHEqyPAg==",
-          "length" : 3969799,
-          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.1.0/Shunt-1.1.0.zip"
+          "edSignature" : "TeTIRykSP7qoMvYfYl9HNBfAYLY33x72ty7EIp8VMlLRrfi8WYOhGXSc4oBIcOHa/sZx5bsBMtV840EJOaRbDw==",
+          "length" : 3976089,
+          "url" : "https://github.com/explainsims/store/releases/download/shunt-1.2.0/Shunt-1.2.0.zip"
         }
       },
       "screenshots" : [
@@ -772,7 +772,7 @@
           "light" : "https://store.explainsims.com/shots/shunt/5-light.jpg"
         }
       ],
-      "summary" : "Press ⌃⌘→ and the window you’re using slides to the next Space with you; ⌃⌘↑ puts it on another screen or an AirPlay TV, and ⌃⌘↓ brings it back. Add ⇧ to move just the browser tab, or ⌥⇧ to move it on its own, without any pinned tabs. A small map shows where it went, and ⌃⌘Z puts it back.",
+      "summary" : "Press ⌃⌘→ and the window you’re using slides to the next Space with you; ⌃⌘↑ puts it on another screen or an AirPlay TV, and ⌃⌘↓ brings it back. Add ⇧ to move just the browser tab (or every tab you’ve selected), or ⌥⇧ to move it on its own, without any pinned tabs. A small map shows where it went, and ⌃⌘Z puts it back.",
       "tagline" : "Send a window, or just a tab, to another Space or screen with one key."
     },
     {
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-18T01:01:20Z"
+  "updated" : "2026-11-18T01:44:15Z"
 }
