@@ -558,26 +558,26 @@
       "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
       "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
       "release" : {
-        "build" : "25",
+        "build" : "26",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-18T02:03:03Z",
+        "date" : "2026-11-18T04:44:11Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Works with Shunt 1.2.1: a tab sent on its own joins the browser window already where it's going (a window of tabs on their own first) instead of always opening a new one, so tabs come back into your window."
+          "Safer with Shunt: Pigeonhole only moves tabs from the exact window you're in. Before, a tab moved from an incognito window could take a tab from an ordinary window instead. Incognito tabs now move the browser's own way (turn on Allow in Incognito for Pigeonhole if you want them to join windows too)."
         ],
         "update" : {
-          "edSignature" : "4cq1JTh2wD4eo+8l4n8QYyLKkw+1xeUBlBJeu+4bMKPc0aNn66dSr8AY9UfXzaDIBG1ffjgjJjJUOSX94EzPCA==",
-          "length" : 2577624,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.1/Pigeonhole-1.7.1-update.zip"
+          "edSignature" : "iBaXRJEEqb44hkwAvaiMhwq2IuZ8GGaSpbwV/gxbpESGEnFN6gEJ+0Ddit60bU239qtIcBwtgiXuy3WZnCbpAw==",
+          "length" : 2577737,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.2/Pigeonhole-1.7.2-update.zip"
         },
-        "version" : "1.7.1",
+        "version" : "1.7.2",
         "zip" : {
-          "edSignature" : "s9eXiuSTihMIeCklHRw97slB1jsypeJwTy8wE7XH5k6gUK+CR+gHvGWRdy3azBw0b7StqOmd2u9A55Ml3pRtCg==",
-          "length" : 2587384,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.1/Pigeonhole-1.7.1.zip"
+          "edSignature" : "w8J33dnT3+ezO65jbxufu8oUMythFtYEXNBrui8+sJBKdeVkS86YJnY5vmx7Ckmtklu4XJdlVnuk493WTw2pAw==",
+          "length" : 2587498,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.2/Pigeonhole-1.7.2.zip"
         }
       },
       "screenshots" : [
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-18T02:03:03Z"
+  "updated" : "2026-11-18T04:44:11Z"
 }

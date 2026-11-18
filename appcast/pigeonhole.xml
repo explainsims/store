@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.7.1</title>
-      <pubDate>Wed, 18 Nov 2026 02:03:03 +0000</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <title>Pigeonhole 1.7.2</title>
+      <pubDate>Wed, 18 Nov 2026 04:44:11 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Works with Shunt 1.2.1: a tab sent on its own joins the browser window already where it's going (a window of tabs on their own first) instead of always opening a new one, so tabs come back into your window.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.7.1/Pigeonhole-1.7.1-update.zip" length="2577624" type="application/octet-stream" sparkle:edSignature="4cq1JTh2wD4eo+8l4n8QYyLKkw+1xeUBlBJeu+4bMKPc0aNn66dSr8AY9UfXzaDIBG1ffjgjJjJUOSX94EzPCA=="/>
+      <description><![CDATA[<ul><li>Safer with Shunt: Pigeonhole only moves tabs from the exact window you're in. Before, a tab moved from an incognito window could take a tab from an ordinary window instead. Incognito tabs now move the browser's own way (turn on Allow in Incognito for Pigeonhole if you want them to join windows too).</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.7.2/Pigeonhole-1.7.2-update.zip" length="2577737" type="application/octet-stream" sparkle:edSignature="iBaXRJEEqb44hkwAvaiMhwq2IuZ8GGaSpbwV/gxbpESGEnFN6gEJ+0Ddit60bU239qtIcBwtgiXuy3WZnCbpAw=="/>
     </item>
   </channel>
 </rss>
