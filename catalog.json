@@ -558,26 +558,26 @@
       "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
       "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
       "release" : {
-        "build" : "23",
+        "build" : "24",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-18T01:01:20Z",
+        "date" : "2026-11-18T01:44:29Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Works with Shunt's ⌃⌥⇧⌘ + arrow: the tab goes into a window of its own with no Pigeonhole page and no pinned tabs, and Shunt's undo puts it back."
+          "Works with Shunt 1.2: several selected tabs move together, tabs join the window already where they're going, and a window left with only pinned tabs closes (your pinned tabs stay everywhere else). Undo puts each tab back in its place."
         ],
         "update" : {
-          "edSignature" : "F7DhyZTSgNYfafdzwZT+McnzMl6vWISU18/KFZpXWcuaRCxYhvQb/8RHq92TE2wHLpUm33MALtyn0zhPQYpzBQ==",
-          "length" : 2575097,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.6.2/Pigeonhole-1.6.2-update.zip"
+          "edSignature" : "JqIynx1HvSffg+rTCS1LjJaof2FVe44jPV7AUtOM9UQnPD+99Z+5bTMbyhdg2I9rFq94AJ73iK0MbQgqAULHBQ==",
+          "length" : 2577549,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.0/Pigeonhole-1.7.0-update.zip"
         },
-        "version" : "1.6.2",
+        "version" : "1.7.0",
         "zip" : {
-          "edSignature" : "IUKt+rW84jPAQBcI+zVL59FcLNW/FMFlVuPpB+aqVU9shinkt8MFvLeGLWx3bnIb8EkCoRSNONVs2/x2e1Z3DQ==",
-          "length" : 2584858,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.6.2/Pigeonhole-1.6.2.zip"
+          "edSignature" : "O7sQxN16kB1huQWBAtMlsXamVkneq1cuJB8MtPxY7VVpNc1OH6+O4G1g6iz9TyS1pOw4r/w+/63N+noMCNKNDA==",
+          "length" : 2587310,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.0/Pigeonhole-1.7.0.zip"
         }
       },
       "screenshots" : [
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-18T01:44:15Z"
+  "updated" : "2026-11-18T01:44:29Z"
 }

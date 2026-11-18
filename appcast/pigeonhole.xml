@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.6.2</title>
-      <pubDate>Wed, 18 Nov 2026 01:01:20 +0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+      <title>Pigeonhole 1.7.0</title>
+      <pubDate>Wed, 18 Nov 2026 01:44:29 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Works with Shunt's ⌃⌥⇧⌘ + arrow: the tab goes into a window of its own with no Pigeonhole page and no pinned tabs, and Shunt's undo puts it back.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.6.2/Pigeonhole-1.6.2-update.zip" length="2575097" type="application/octet-stream" sparkle:edSignature="F7DhyZTSgNYfafdzwZT+McnzMl6vWISU18/KFZpXWcuaRCxYhvQb/8RHq92TE2wHLpUm33MALtyn0zhPQYpzBQ=="/>
+      <description><![CDATA[<ul><li>Works with Shunt 1.2: several selected tabs move together, tabs join the window already where they're going, and a window left with only pinned tabs closes (your pinned tabs stay everywhere else). Undo puts each tab back in its place.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.7.0/Pigeonhole-1.7.0-update.zip" length="2577549" type="application/octet-stream" sparkle:edSignature="JqIynx1HvSffg+rTCS1LjJaof2FVe44jPV7AUtOM9UQnPD+99Z+5bTMbyhdg2I9rFq94AJ73iK0MbQgqAULHBQ=="/>
     </item>
   </channel>
 </rss>
