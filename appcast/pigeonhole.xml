@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.7.2</title>
-      <pubDate>Wed, 18 Nov 2026 04:44:11 +0000</pubDate>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+      <title>Pigeonhole 1.7.3</title>
+      <pubDate>Wed, 18 Nov 2026 09:10:35 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Safer with Shunt: Pigeonhole only moves tabs from the exact window you're in. Before, a tab moved from an incognito window could take a tab from an ordinary window instead. Incognito tabs now move the browser's own way (turn on Allow in Incognito for Pigeonhole if you want them to join windows too).</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.7.2/Pigeonhole-1.7.2-update.zip" length="2577737" type="application/octet-stream" sparkle:edSignature="iBaXRJEEqb44hkwAvaiMhwq2IuZ8GGaSpbwV/gxbpESGEnFN6gEJ+0Ddit60bU239qtIcBwtgiXuy3WZnCbpAw=="/>
+      <description><![CDATA[<ul><li>Fixes tab groups disappearing from saved spaces. When the extension reloaded (it does on every update) while a space's tabs were waiting after a Quick switch, Pigeonhole could save that space without its groups. Groups now survive reloads and updates. If a space lost its groups, open it in Pigeonhole's page, choose History, pick a snapshot from before, and click Restore all.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.7.3/Pigeonhole-1.7.3-update.zip" length="2581339" type="application/octet-stream" sparkle:edSignature="hzeEa3FTBXl1cbw+53btRu6+P6WMMYDQFnwd+fW4822OuHLTXqGZu936vSdo5XW9yfA8EZVYfIXaqg+uiIGPAQ=="/>
     </item>
   </channel>
 </rss>

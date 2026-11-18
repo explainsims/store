@@ -558,26 +558,26 @@
       "needs" : "Google Chrome or Microsoft Edge. Add its extension once with Load unpacked: Settings › Browsers shows how",
       "readmeURL" : "https://store.explainsims.com/readme/pigeonhole.txt",
       "release" : {
-        "build" : "26",
+        "build" : "27",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-18T04:44:11Z",
+        "date" : "2026-11-18T09:10:35Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Safer with Shunt: Pigeonhole only moves tabs from the exact window you're in. Before, a tab moved from an incognito window could take a tab from an ordinary window instead. Incognito tabs now move the browser's own way (turn on Allow in Incognito for Pigeonhole if you want them to join windows too)."
+          "Fixes tab groups disappearing from saved spaces. When the extension reloaded (it does on every update) while a space's tabs were waiting after a Quick switch, Pigeonhole could save that space without its groups. Groups now survive reloads and updates. If a space lost its groups, open it in Pigeonhole's page, choose History, pick a snapshot from before, and click Restore all."
         ],
         "update" : {
-          "edSignature" : "iBaXRJEEqb44hkwAvaiMhwq2IuZ8GGaSpbwV/gxbpESGEnFN6gEJ+0Ddit60bU239qtIcBwtgiXuy3WZnCbpAw==",
-          "length" : 2577737,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.2/Pigeonhole-1.7.2-update.zip"
+          "edSignature" : "hzeEa3FTBXl1cbw+53btRu6+P6WMMYDQFnwd+fW4822OuHLTXqGZu936vSdo5XW9yfA8EZVYfIXaqg+uiIGPAQ==",
+          "length" : 2581339,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.3/Pigeonhole-1.7.3-update.zip"
         },
-        "version" : "1.7.2",
+        "version" : "1.7.3",
         "zip" : {
-          "edSignature" : "w8J33dnT3+ezO65jbxufu8oUMythFtYEXNBrui8+sJBKdeVkS86YJnY5vmx7Ckmtklu4XJdlVnuk493WTw2pAw==",
-          "length" : 2587498,
-          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.2/Pigeonhole-1.7.2.zip"
+          "edSignature" : "wfDGngjfNUTUfPEtjzdTum/4Q3vvuRJ9jlE50xtl8PgPReDjyeXIuNxbMXBOwAaByHJXpUTL9XSgASI9D834Bg==",
+          "length" : 2591100,
+          "url" : "https://github.com/explainsims/store/releases/download/pigeonhole-1.7.3/Pigeonhole-1.7.3.zip"
         }
       },
       "screenshots" : [
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-18T04:44:24Z"
+  "updated" : "2026-11-18T09:10:35Z"
 }
