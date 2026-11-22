@@ -3,13 +3,13 @@
   <channel>
     <title>Storefront</title>
     <item>
-      <title>Storefront 1.3.3</title>
-      <pubDate>Sun, 15 Nov 2026 01:57:43 +0000</pubDate>
-      <sparkle:version>59</sparkle:version>
-      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+      <title>Storefront 1.3.5</title>
+      <pubDate>Sun, 22 Nov 2026 11:48:53 +0000</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>The New label shows for an app's whole first week on the store, installed or not, as on the website</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.3.3/Storefront-1.3.3-update.zip" length="4141026" type="application/octet-stream" sparkle:edSignature="J3pgtPujwYg608sOOa32LUu1xmEBiY/241Dh1ag4fwBrER+99nZXZEAr99kcQ0P7eQISOPtAIvmcL9XwC0A/DA=="/>
+      <description><![CDATA[<ul><li>Right after login or a wake, Storefront now waits for Wi-Fi before checking for updates, and checks again as soon as the connection is back. Before, a check in those first seconds said you were offline, and the next one was hours away.</li><li>Opens at login only from the copy in Applications, never from a spare copy elsewhere on the Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/storefront-1.3.5/Storefront-1.3.5-update.zip" length="4185537" type="application/octet-stream" sparkle:edSignature="zuhp7SDPDnxV1AHM/b2yZMaPdsa2PINIgehur94YU0ANgGcD2VwJ901C0ApLLcqdWJh7smhLDzDlESse3qW+Ag=="/>
     </item>
   </channel>
 </rss>
