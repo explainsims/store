@@ -1,4 +1,4 @@
-Pigeonhole 1.7.3
+Pigeonhole 1.7.4
 Spaces of tabs for Chrome and Edge. Give each project or class its own
 space: switch a window to it and its tabs come back just as you left them.
 Everything is saved as you browse, and your spaces follow you to your other
@@ -140,7 +140,9 @@ YOUR SPACES
   • If a space is open on both Macs (or in Chrome and Edge) and changes in
     one, both ask: "Use theirs" or "Keep this window's". Answer in either
     one and both windows end up with the same tabs. Tabs they both had
-    stay open as they were.
+    stay open as they were. If you leave the space without answering, the
+    tabs you changed in this window stay (if you changed none, theirs do),
+    and the other copy is kept in the space's History.
 
   • The first time, macOS may ask whether Pigeonhole can use iCloud Drive.
     Click Allow. If iCloud Drive is off, your spaces stay on this Mac.

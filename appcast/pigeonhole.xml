@@ -3,13 +3,13 @@
   <channel>
     <title>Pigeonhole</title>
     <item>
-      <title>Pigeonhole 1.7.3</title>
-      <pubDate>Wed, 18 Nov 2026 09:10:35 +0000</pubDate>
-      <sparkle:version>27</sparkle:version>
-      <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+      <title>Pigeonhole 1.7.4</title>
+      <pubDate>Sun, 22 Nov 2026 12:27:45 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Fixes tab groups disappearing from saved spaces. When the extension reloaded (it does on every update) while a space's tabs were waiting after a Quick switch, Pigeonhole could save that space without its groups. Groups now survive reloads and updates. If a space lost its groups, open it in Pigeonhole's page, choose History, pick a snapshot from before, and click Restore all.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.7.3/Pigeonhole-1.7.3-update.zip" length="2581339" type="application/octet-stream" sparkle:edSignature="hzeEa3FTBXl1cbw+53btRu6+P6WMMYDQFnwd+fW4822OuHLTXqGZu936vSdo5XW9yfA8EZVYfIXaqg+uiIGPAQ=="/>
+      <description><![CDATA[<ul><li>If a space changed on your other Mac while it was open here and you leave it without answering &quot;Use theirs&quot; or &quot;Keep this window's&quot;, the tabs you changed in this window now stay, and the other Mac's copy is kept in the space's History. The question also goes away by itself once the window has the same tabs as the other copy.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/pigeonhole-1.7.4/Pigeonhole-1.7.4-update.zip" length="2582216" type="application/octet-stream" sparkle:edSignature="KX0gu/sb8LK3QN2PPlRypB6NKE0vefJMN4m84kuk7wiw1JFwqrJojFGQfEQu23qco6BMXF5HlHyCAoF/njcfAw=="/>
     </item>
   </channel>
 </rss>
