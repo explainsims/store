@@ -11,26 +11,26 @@
       "name" : "APOD Wallpaper",
       "readmeURL" : "https://store.explainsims.com/readme/apodwallpaper.txt",
       "release" : {
-        "build" : "5",
+        "build" : "6",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-16T03:48:59Z",
+        "date" : "2026-11-22T11:48:35Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Picture of the Day Fit in the menu: Automatic, Fit to Width or Fit to Height. A tall or very wide picture can now fill your screen (cropped) or show whole, whichever you prefer, and the menu says what your choice does to today's picture."
+          "Right after login or a wake, the new picture now waits for Wi-Fi and downloads as soon as the connection is back. Before, a download in those first seconds failed, and yesterday's picture (or an old Live Earth) stayed up for up to 20 minutes."
         ],
         "update" : {
-          "edSignature" : "E+k64PJOVoVbOJOe2uMBTr6pKaiGJh2nP0ayJkFBz031L9hc6wbNn/qt40EJR7d1qhaEfwNWY/0/f14Ft/m1CQ==",
-          "length" : 4309708,
-          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.3.0/APOD-Wallpaper-1.3.0-update.zip"
+          "edSignature" : "AMLIYYRS9hOe4+6gCTwcibLPclQNxopi7YbOF8gpH/YFDqD/pCF70yUvHweibnj68XBLAKgdUGKfLiygI76tCw==",
+          "length" : 4338683,
+          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.3.1/APOD-Wallpaper-1.3.1-update.zip"
         },
-        "version" : "1.3.0",
+        "version" : "1.3.1",
         "zip" : {
-          "edSignature" : "bkrmK76n30E3kPzS9q+aJiObuuTRzsQj1xRDvKhmt/jF3JCxNSrIN59FEleKknesKGfkx/cdjSepx01hQyJoAg==",
-          "length" : 4318958,
-          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.3.0/APOD-Wallpaper-1.3.0.zip"
+          "edSignature" : "0KWxpoiSdz48Xznsu8dktOKG2kh0XI+f/4Q/ZLu0BPb7JdmN6/Y2UEePD8ufYXjedHGAldoSa6RjOqD2nZ3mDQ==",
+          "length" : 4347933,
+          "url" : "https://github.com/explainsims/store/releases/download/apodwallpaper-1.3.1/APOD-Wallpaper-1.3.1.zip"
         }
       },
       "screenshots" : [
@@ -1214,5 +1214,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-18T09:10:35Z"
+  "updated" : "2026-11-22T11:48:35Z"
 }

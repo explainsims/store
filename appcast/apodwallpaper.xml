@@ -3,13 +3,13 @@
   <channel>
     <title>APOD Wallpaper</title>
     <item>
-      <title>APOD Wallpaper 1.3.0</title>
-      <pubDate>Mon, 16 Nov 2026 03:48:59 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <title>APOD Wallpaper 1.3.1</title>
+      <pubDate>Sun, 22 Nov 2026 11:48:35 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Picture of the Day Fit in the menu: Automatic, Fit to Width or Fit to Height. A tall or very wide picture can now fill your screen (cropped) or show whole, whichever you prefer, and the menu says what your choice does to today's picture.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/apodwallpaper-1.3.0/APOD-Wallpaper-1.3.0-update.zip" length="4309708" type="application/octet-stream" sparkle:edSignature="E+k64PJOVoVbOJOe2uMBTr6pKaiGJh2nP0ayJkFBz031L9hc6wbNn/qt40EJR7d1qhaEfwNWY/0/f14Ft/m1CQ=="/>
+      <description><![CDATA[<ul><li>Right after login or a wake, the new picture now waits for Wi-Fi and downloads as soon as the connection is back. Before, a download in those first seconds failed, and yesterday's picture (or an old Live Earth) stayed up for up to 20 minutes.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/apodwallpaper-1.3.1/APOD-Wallpaper-1.3.1-update.zip" length="4338683" type="application/octet-stream" sparkle:edSignature="AMLIYYRS9hOe4+6gCTwcibLPclQNxopi7YbOF8gpH/YFDqD/pCF70yUvHweibnj68XBLAKgdUGKfLiygI76tCw=="/>
     </item>
   </channel>
 </rss>
