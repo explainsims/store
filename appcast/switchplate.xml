@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Switchplate</title>
+    <item>
+      <title>Switchplate 1.0.0</title>
+      <pubDate>Tue, 24 Nov 2026 15:26:51 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: Keep awake (with the lid closed too, even on battery), quick switches, Quit on close and Clean keyboard.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/switchplate-1.0.0/Switchplate-1.0.0-update.zip" length="3634812" type="application/octet-stream" sparkle:edSignature="p82DRiyBqK2lXaenaONuwFkW9EWtHVNhhS9ASMPhEDPHzjvU50DE3imW/bcom6Vu0f0MVIZ8tQFqE8UmpMs+Cg=="/>
+    </item>
+  </channel>
+</rss>

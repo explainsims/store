@@ -1,0 +1,100 @@
+Switchplate 1.0.0
+A menu-bar app with four handy jobs: keep the Mac awake (even with the lid
+closed, on battery too), one-click switches like dark mode and Empty Trash,
+quit apps when you close their last window, and lock the keyboard while
+you clean it.
+
+
+WHAT'S IN THIS FOLDER
+
+  • Switchplate.app: the app
+  • Install Switchplate.command: installs it (run this)
+  • Read Me.txt: this file
+
+
+BEFORE YOU START
+
+  • Any Mac (Apple Silicon or Intel) running macOS 14 or later.
+
+
+INSTALL
+
+  1. Double-click "Install Switchplate.command".
+
+     If macOS says it can't be opened ("Apple could not verify…"): click
+     Done, open System Settings → Privacy & Security, scroll down and click
+     "Open Anyway", then double-click the installer again.
+
+     Or open Terminal, type  bash  followed by a space, drag
+     "Install Switchplate.command" into the Terminal window, and press Return.
+
+  2. The installer moves Switchplate into Applications and opens it.
+
+  Prefer to do it by hand? Drag Switchplate into Applications and open it. The
+  first time, macOS blocks it: go to System Settings → Privacy & Security
+  and click "Open Anyway".
+
+
+USING Switchplate
+
+  Switchplate lives in the menu bar: a small blue tile with a light switch.
+  Click it for the menu. The top switch in the icon glows orange while
+  the Mac is being kept awake.
+
+  KEEP AWAKE
+    Switch it on, or pick 15 min, 1 hour, 2 hours, Until… or Always.
+    ⌥-click the menu-bar icon to switch it on or off without the menu.
+    In Settings → Keep awake it can also come on by itself: while chosen
+    apps are open, on power, with a TV or second screen, or while Throw
+    presents. The menu also says which other apps are keeping the Mac
+    awake.
+
+    "Also with the lid closed" lets you close the lid and carry the Mac
+    while things keep running, on battery too. It needs a one-time OK:
+    click Set Up…, then in System Settings → General → Login Items &
+    Extensions, turn on Switchplate under "Allow in the Background". It
+    stops by itself when the battery falls below 20% (you can change
+    this) or if the Mac gets too hot. A closed Mac in a bag gets warm.
+    While it's on, the Mac doesn't sleep from the Apple menu either:
+    turn Keep awake off first.
+
+  QUICK TOGGLES
+    One click each: Dark mode, Hide desktop icons, Eject disks, Empty
+    Trash, Lock screen, Night Shift, Do Not Disturb, Mute mic, Sleep
+    screen, Hide Dock, Clean keyboard, Screen saver. Empty Trash always
+    asks first, because it can't be undone. Choose which tiles show,
+    their order and a shortcut for each in Settings → Quick toggles.
+
+  QUIT ON CLOSE
+    Switch it on and choose apps (Preview, say). When you close an app's
+    last window, a notice says "Quitting…" for a few seconds; click Keep
+    It Open to stop it. Windows on other desktops and minimised windows
+    still count. In Settings → Quit on close you can also quit any app
+    that has had no windows for an hour (mail and chat apps are left
+    alone).
+
+  CLEAN KEYBOARD
+    Click the Clean keyboard tile, choose the keyboard (or keyboard and
+    trackpad), a black screen or a small notice, and how long. To stop
+    early, type  done . The power button and closing the lid always stop
+    it too.
+
+  PERMISSIONS
+    Switchplate asks the first time a feature needs it:
+    • Accessibility (Quit on close, Clean keyboard, Do Not Disturb):
+      System Settings → Privacy & Security → Accessibility → Switchplate.
+    • Control Finder (Empty Trash) and System Events (Hide Dock): macOS
+      asks with a button; say OK.
+
+
+GOOD TO KNOW
+
+  • To update: use "Check for Updates…" in the menu, or unzip a newer
+    copy and run its installer. Your settings stay.
+
+  • To uninstall: quit Switchplate (in its menu) and drag it from
+    Applications to the Trash.
+
+  • Switchplate is free and open source. It isn't from the App Store and isn't
+    notarized by Apple, which is why macOS asks you to confirm it the
+    first time.

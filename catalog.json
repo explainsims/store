@@ -1075,6 +1075,66 @@
       "tagline" : "Track motion in video or collect Vernier sensor data, then graph and fit it."
     },
     {
+      "added" : "2026-11-24T15:26:51Z",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.switchplate",
+      "icon" : "https://store.explainsims.com/icons/switchplate.png",
+      "id" : "switchplate",
+      "internet" : "Only update checks",
+      "kind" : "menubar",
+      "licence" : "MIT",
+      "name" : "Switchplate",
+      "needs" : "Accessibility for Quit on close, Clean keyboard and Do Not Disturb; a one-time OK in Login Items to keep the Mac awake with the lid closed; permission to control Finder (Empty Trash) and System Events (Hide Dock)",
+      "readmeURL" : "https://store.explainsims.com/readme/switchplate.txt",
+      "release" : {
+        "build" : "4",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-24T15:26:51Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First release: Keep awake (with the lid closed too, even on battery), quick switches, Quit on close and Clean keyboard."
+        ],
+        "update" : {
+          "edSignature" : "p82DRiyBqK2lXaenaONuwFkW9EWtHVNhhS9ASMPhEDPHzjvU50DE3imW/bcom6Vu0f0MVIZ8tQFqE8UmpMs+Cg==",
+          "length" : 3634812,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.0/Switchplate-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "TeVbjUuCDKqFASMFDVNc5FGdYnW/e3TufhIS1Y8WI8Dmsx9WMPWhDpA/p5WTtkCdjAHq6uOOwV9GSIPqf0aTBg==",
+          "length" : 3643107,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.0/Switchplate-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/switchplate/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/switchplate/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/switchplate/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/switchplate/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/switchplate/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/switchplate/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/switchplate/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/switchplate/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/switchplate/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/switchplate/5-light.jpg"
+        }
+      ],
+      "summary" : "Keep the Mac awake for a while, always, or by itself while chosen apps are open, on power or with a TV, and with the lid closed too, even on battery, so whatever is running carries on while you carry the Mac; it stops at a battery level you choose or if the Mac gets hot. One-click switches for dark mode, hiding desktop icons, ejecting disks, emptying the Trash (it always asks first), locking the screen, Night Shift, Do Not Disturb and more. Chosen apps quit when you close their last window, and the keyboard and trackpad lock while you wipe them clean.",
+      "tagline" : "Keep awake (even with the lid closed), quick switches, quit on close and a cleaning lock, in one menu."
+    },
+    {
       "added" : "2026-11-08T01:41:10Z",
       "audience" : "everyone",
       "bundleID" : "com.lennoxmeldrum.throw",
@@ -1223,5 +1283,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-24T15:26:30Z"
+  "updated" : "2026-11-24T15:26:51Z"
 }
