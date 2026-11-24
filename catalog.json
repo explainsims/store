@@ -826,7 +826,7 @@
           "light" : "https://store.explainsims.com/shots/signpost/4-light.jpg"
         }
       ],
-      "summary" : "Each time you open a link or an HTML file, choose the browser and the profile from a list right by the pointer. Tracking tags come out, redirect links are unwrapped, and the menu keeps your recent links.",
+      "summary" : "Each time you open a link or an HTML file, choose the browser and the profile from a list right by the pointer. Tracking tags come out and redirect links are unwrapped, in links you open and links you copy, and the menu keeps your recent links.",
       "tagline" : "Choose the browser and profile for every link."
     },
     {
