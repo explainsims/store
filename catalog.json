@@ -338,26 +338,26 @@
       "name" : "FreeUp",
       "readmeURL" : "https://store.explainsims.com/readme/freeup.txt",
       "release" : {
-        "build" : "5",
+        "build" : "10",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T00:39:18Z",
+        "date" : "2026-11-24T14:24:32Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Check for Updates… in the FreeUp menu. From now on FreeUp updates itself, checking once a day."
+          "Clean Up: Cleaner (caches, logs, files of apps you removed), Uninstaller (an app with everything it left behind), Chat Downloads (old Zalo, WhatsApp and Telegram photos and videos) and Old Installers. Everything goes to the Trash after you see the list."
         ],
         "update" : {
-          "edSignature" : "w1x2HeO8ruWrwA30TXo11Bguoppux+QHcQlsMjXFQs3smflEibvtAQAfEnipJGTLgBvvgR84EN8U47fGfjSzCQ==",
-          "length" : 3286191,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1-update.zip"
+          "edSignature" : "oVtlKN0pqWZ4jTT9GTm9awys+5GmJU1eiVrgC27JzCtlalNb12hHN4sXtvx8sAYnQBNmjGWY8agUJcC/+h6EAA==",
+          "length" : 4165515,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.2.0/FreeUp-2.2.0-update.zip"
         },
-        "version" : "2.1.1",
+        "version" : "2.2.0",
         "zip" : {
-          "edSignature" : "O5uZDJP5YTdvRcYvBOrHFlm9jtvTHqjgc4tT0U1611oX1usSCTKdN/oCyARBwcKEUdF0XXr6i7XuMuwcVbViCw==",
-          "length" : 3291121,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1.zip"
+          "edSignature" : "FVG5nyjZdRJRGVuYJzpl7U8v6a/q1KacXUFXw09CYzCC8cymL+EbfypvSLyZvVt0oN/LYGtRNCvppxPYxh5kBw==",
+          "length" : 4170694,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.2.0/FreeUp-2.2.0.zip"
         }
       },
       "screenshots" : [
@@ -374,7 +374,7 @@
           "light" : "https://store.explainsims.com/shots/freeup/3-light.jpg"
         }
       ],
-      "summary" : "Scans a disk or folder and draws it as rings. Click to go in, drag what you don't need to be deleted, and see the space come back.",
+      "summary" : "Scans a disk or folder and draws it as rings. Click to go in, drag what you don't need to be deleted, and see the space come back. Clean Up clears caches, old chat downloads and installers, and uninstalls apps with everything they left behind.",
       "tagline" : "See what fills your disk, on a sunburst map."
     },
     {
@@ -1215,5 +1215,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-22T12:27:45Z"
+  "updated" : "2026-11-24T14:24:32Z"
 }

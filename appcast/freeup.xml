@@ -3,13 +3,13 @@
   <channel>
     <title>FreeUp</title>
     <item>
-      <title>FreeUp 2.1.1</title>
-      <pubDate>Mon, 09 Nov 2026 00:39:18 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+      <title>FreeUp 2.2.0</title>
+      <pubDate>Tue, 24 Nov 2026 14:24:32 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Check for Updates… in the FreeUp menu. From now on FreeUp updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/freeup-2.1.1/FreeUp-2.1.1-update.zip" length="3286191" type="application/octet-stream" sparkle:edSignature="w1x2HeO8ruWrwA30TXo11Bguoppux+QHcQlsMjXFQs3smflEibvtAQAfEnipJGTLgBvvgR84EN8U47fGfjSzCQ=="/>
+      <description><![CDATA[<ul><li>Clean Up: Cleaner (caches, logs, files of apps you removed), Uninstaller (an app with everything it left behind), Chat Downloads (old Zalo, WhatsApp and Telegram photos and videos) and Old Installers. Everything goes to the Trash after you see the list.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/freeup-2.2.0/FreeUp-2.2.0-update.zip" length="4165515" type="application/octet-stream" sparkle:edSignature="oVtlKN0pqWZ4jTT9GTm9awys+5GmJU1eiVrgC27JzCtlalNb12hHN4sXtvx8sAYnQBNmjGWY8agUJcC/+h6EAA=="/>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-FreeUp 2.1.1
+FreeUp 2.2.0
 FreeUp shows what's taking up space on your Mac as a colourful map, and
 helps you free it up safely.
 
@@ -46,6 +46,16 @@ USING FreeUp
 
   • The Insights tab suggests caches, build files and old downloads to
     look at.
+
+  • Clean Up, on the start page: Cleaner (caches, logs, files of apps you
+    removed), Uninstaller (an app with all its files), Chat Downloads (old
+    Zalo, WhatsApp and Telegram photos and videos) and Old Installers
+    (disk images and packages in Downloads). You see what will move and
+    the total first, and everything goes to the Trash. Close a chat app
+    before clearing its downloads.
+
+  • macOS may ask "FreeUp would like to access data from other apps".
+    Click Allow so FreeUp can measure them (or give it Full Disk Access).
 
   • Cloud files: FreeUp never downloads anything. Files that are only in
     iCloud, Google Drive, OneDrive or Dropbox count as zero, because they
