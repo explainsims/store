@@ -1,4 +1,4 @@
-Hem 1.0.1
+Hem 1.0.2
 Slide a finger along an edge of your MacBook's trackpad to change the
 volume, the screen brightness or the keyboard backlight, or to skip
 through what's playing. You choose which edges do what, so your palms
@@ -78,6 +78,9 @@ USING Hem
 
 
 GOOD TO KNOW
+
+  • While Switchplate's Clean keyboard is running, Hem ignores the trackpad,
+    so wiping along an edge doesn't change anything.
 
   • Skipping through media works with apps that answer the Mac's own skip
     buttons, such as Safari and other browsers playing video, and Podcasts.

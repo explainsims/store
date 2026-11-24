@@ -441,26 +441,26 @@
       "name" : "Hem",
       "readmeURL" : "https://store.explainsims.com/readme/hem.txt",
       "release" : {
-        "build" : "4",
+        "build" : "9",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T00:39:55Z",
+        "date" : "2026-11-24T15:26:30Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Check for Updates… at the bottom of Hem's panel. From now on Hem updates itself, checking once a day."
+          "Pauses while Switchplate's Clean keyboard is running, so wiping along a trackpad edge doesn't change the volume or brightness."
         ],
         "update" : {
-          "edSignature" : "wqLRLmR+AuMAvLRQyFffYdKJqZGLImHFDKqbLpm7d1v+anwgaOdQIKor1Xr+vMquIoNFO4DBeZrsG0JC4wT/CA==",
-          "length" : 2321718,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.1/Hem-1.0.1-update.zip"
+          "edSignature" : "rRUu8u8MgHvt0vBt10zKn2N4PE6RX20LTtv7MEyrON2JAWU1UxxXmGMAITzXV1tdwq9GPw1UmxEEXrygUaEuDw==",
+          "length" : 2355336,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.2/Hem-1.0.2-update.zip"
         },
-        "version" : "1.0.1",
+        "version" : "1.0.2",
         "zip" : {
-          "edSignature" : "QRlVck3mLqSkuTUbwLnR/96HkOlIlbzGNkLJMDDx0SAhm8J/xIfaR8FnWAsThsoS0V6RIJhSSO2Yl/GLB0AxCg==",
-          "length" : 2326450,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.1/Hem-1.0.1.zip"
+          "edSignature" : "/nE0OqmKNpC3FdTtAPkDExcIwPTZyciPq5/WdsVIcNku0b3Vg4Cld+nlMagL8zrg2wChML/E7BE5iTrU8diLBA==",
+          "length" : 2360118,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.2/Hem-1.0.2.zip"
         }
       },
       "screenshots" : [
@@ -1223,5 +1223,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-24T14:49:41Z"
+  "updated" : "2026-11-24T15:26:30Z"
 }
