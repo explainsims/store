@@ -3,13 +3,13 @@
   <channel>
     <title>Signpost</title>
     <item>
-      <title>Signpost 1.0.0</title>
-      <pubDate>Wed, 11 Nov 2026 15:13:33 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Signpost 1.1.0</title>
+      <pubDate>Tue, 24 Nov 2026 14:33:01 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release: choose the browser and the profile for every link and HTML file, with tracking tags removed and redirect links unwrapped.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/signpost-1.0.0/Signpost-1.0.0-update.zip" length="2864632" type="application/octet-stream" sparkle:edSignature="+zhfL5bvoIIGBp+guP1uxRLgBAS+UYTplsPBlu1EJdzelZxl6BLevhQ8ES4oPBRvmR42kVEdHQv+MO22NwbHCw=="/>
+      <description><![CDATA[<ul><li>Cleans links as you copy them: tracking tags come out and redirects are unwrapped, with the same settings as links you open. Passwords and text that's more than a link are left alone, and the menu can put the original back.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/signpost-1.1.0/Signpost-1.1.0-update.zip" length="2964926" type="application/octet-stream" sparkle:edSignature="+BDoRlUnPCNB9FuPJCm2eZgTzZbdVAKh2Q0ZVPMl0U1gXhqMfuPyvBE52SLq+m/dsZgDY3WM1/sq/tEVEbYBAw=="/>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
-Signpost 1.0.0
+Signpost 1.1.0
 Each time you open a link or an HTML file, Signpost asks where it should go:
 which browser, and which browser profile. It takes out tracking tags and
-shows where redirect links really go.
+shows where redirect links really go, and cleans links you copy too.
 
 
 WHAT'S IN THIS FOLDER
@@ -57,6 +57,12 @@ USING Signpost
     but still opens them through Microsoft's safety check. Settings → Links
     can keep them as they are or unwrap them completely.
 
+  • Links you copy: copy a link anywhere and, a moment later, the clean
+    one is on the clipboard, with the same settings. Passwords, text
+    that's more than a link, and Signpost's own copies are left alone.
+    The menu shows the last cleaned copy: choose Put Back Original Link to
+    get the link as you copied it. Settings → Links turns this off.
+
   • HTML files: double-click one and choose a browser, or an app that edits
     HTML (TextEdit, Xcode…), Quick Look or Show in Finder.
 
@@ -82,6 +88,10 @@ PERMISSIONS
   • Arc: the first time you open a link in an Arc space, macOS asks
     whether Signpost may control Arc. Without it, Arc still opens the link,
     in whichever space is in front.
+
+  • Links you copy: Signpost only reads a copy when macOS says it holds a
+    link. If macOS asks whether Signpost may paste from other apps, choose
+    Allow, or Settings → Links shows where to allow it.
 
   • Nothing else. Signpost only goes online to check for updates, and to
     look up short links (bit.ly, t.co…) if you turn that on.

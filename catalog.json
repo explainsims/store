@@ -786,26 +786,26 @@
       "name" : "Signpost",
       "readmeURL" : "https://store.explainsims.com/readme/signpost.txt",
       "release" : {
-        "build" : "7",
+        "build" : "12",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-11T15:13:33Z",
+        "date" : "2026-11-24T14:33:01Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "First release: choose the browser and the profile for every link and HTML file, with tracking tags removed and redirect links unwrapped."
+          "Cleans links as you copy them: tracking tags come out and redirects are unwrapped, with the same settings as links you open. Passwords and text that's more than a link are left alone, and the menu can put the original back."
         ],
         "update" : {
-          "edSignature" : "+zhfL5bvoIIGBp+guP1uxRLgBAS+UYTplsPBlu1EJdzelZxl6BLevhQ8ES4oPBRvmR42kVEdHQv+MO22NwbHCw==",
-          "length" : 2864632,
-          "url" : "https://github.com/explainsims/store/releases/download/signpost-1.0.0/Signpost-1.0.0-update.zip"
+          "edSignature" : "+BDoRlUnPCNB9FuPJCm2eZgTzZbdVAKh2Q0ZVPMl0U1gXhqMfuPyvBE52SLq+m/dsZgDY3WM1/sq/tEVEbYBAw==",
+          "length" : 2964926,
+          "url" : "https://github.com/explainsims/store/releases/download/signpost-1.1.0/Signpost-1.1.0-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.1.0",
         "zip" : {
-          "edSignature" : "rQiJOx0nn+Ti57i1B/YlEq5HF+LZsXUKXPFZN63S9fbHO4hPo3R2fEXMYOPAW2hHgJ/bDdaN4ZeXJ8Q3LtGzCA==",
-          "length" : 2870866,
-          "url" : "https://github.com/explainsims/store/releases/download/signpost-1.0.0/Signpost-1.0.0.zip"
+          "edSignature" : "asnBwXX4sz6E4+364wt02u9JT+y5wZkTfUEigFwBZZvMqqLVipPMbmqk5Qrcq04oUiLDymeOddYz67X1EhoLDg==",
+          "length" : 2971373,
+          "url" : "https://github.com/explainsims/store/releases/download/signpost-1.1.0/Signpost-1.1.0.zip"
         }
       },
       "screenshots" : [
@@ -1215,5 +1215,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-24T14:24:32Z"
+  "updated" : "2026-11-24T14:33:01Z"
 }
