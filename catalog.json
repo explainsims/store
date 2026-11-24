@@ -840,26 +840,26 @@
       "name" : "SmartCut",
       "readmeURL" : "https://store.explainsims.com/readme/smartcut.txt",
       "release" : {
-        "build" : "7",
+        "build" : "9",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-09T10:41:51Z",
+        "date" : "2026-11-24T14:49:41Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Launch at Login now always opens this copy in Applications. Before, a Mac could keep opening an old copy at login."
+          "Tap ⌘ twice for a command bar: besides the app's commands it opens apps, switches to windows and browser tabs, finds files (and hands bigger searches to Rummage), runs your Shortcuts and System Settings pages, and works out sums, unit conversions, physics constants, time zones and currency. ⌘V and ⌘C now work in the search field."
         ],
         "update" : {
-          "edSignature" : "Im78aCi0CZ8hCWKHjCP/vB7lkyWX4KaDtdMJ3tEKR7zjOc+mnpP3pj5gOGl9gfnOvuXzO9pDRU4KuYOp78FZCA==",
-          "length" : 2053020,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.2/SmartCut-1.0.2-update.zip"
+          "edSignature" : "O9BIdG9qI/inBqGlwPAvTRnLKrnY5pvDNKKK17zJT1NnOzd4rOAqChl6KnWWFQYrJyA3zz1PIi4JismtrGC3Dg==",
+          "length" : 2857284,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.1.0/SmartCut-1.1.0-update.zip"
         },
-        "version" : "1.0.2",
+        "version" : "1.1.0",
         "zip" : {
-          "edSignature" : "Q9uVUvtV+Suj21jouwZUZXky+CZ/usksRRicNB4jwn6+joOjmsAQDtz5TI/jjVMkKupGbP9WaxnCHja4JIlfCQ==",
-          "length" : 2058822,
-          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.0.2/SmartCut-1.0.2.zip"
+          "edSignature" : "t/Cm5S3m7/RLFkxz+A0YxBV76/AYIw47IDcPebkktI8YiOIQTa2BinA95E2YViEtWIglHvQv0rYm7ttWpuJiBg==",
+          "length" : 2863585,
+          "url" : "https://github.com/explainsims/store/releases/download/smartcut-1.1.0/SmartCut-1.1.0.zip"
         }
       },
       "screenshots" : [
@@ -874,9 +874,17 @@
         {
           "dark" : "https://store.explainsims.com/shots/smartcut/3-dark.jpg",
           "light" : "https://store.explainsims.com/shots/smartcut/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/smartcut/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/smartcut/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/smartcut/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/smartcut/5-light.jpg"
         }
       ],
-      "summary" : "Hold ⌘ and a panel lists the front app's keyboard shortcuts, including Google Docs, Sheets, Slides and Gmail in your browser. Type to filter, and find hotkeys that clash.",
+      "summary" : "Hold ⌘ and a panel lists the front app's keyboard shortcuts, including Google Docs, Sheets, Slides and Gmail in your browser. Tap ⌘ twice for a command bar: run any command, open apps, switch windows and tabs, find files, and work out sums, conversions, time zones and currency. Find hotkeys that clash too.",
       "tagline" : "Hold ⌘ to see every shortcut in the app you're using."
     },
     {
@@ -1215,5 +1223,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-24T14:33:01Z"
+  "updated" : "2026-11-24T14:49:41Z"
 }

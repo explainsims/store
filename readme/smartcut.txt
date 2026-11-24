@@ -1,4 +1,4 @@
-SmartCut 1.0.2
+SmartCut 1.1.0
 Hold ⌘ in any app to see all its keyboard shortcuts. Let go and they're gone.
 
 
@@ -44,8 +44,20 @@ USING SmartCut
     Click one to run it. Let go of ⌘ and the panel disappears.
 
   • Tap ⌘ twice, or click the ⌘ icon in the menu bar, to keep the panel
-    open. Type to find any command (even ones without a shortcut), use ↑ ↓
-    to choose, ↩ to run it and ⎋ to close.
+    open as a command bar. Type, and it finds:
+      - the app's own commands first (even ones without a shortcut);
+      - an answer to a sum, like 12 × 3.5 + 15%, a conversion, like
+        72 f in c or 5 km, a time, like 3pm Saigon in London, or money,
+        like 100 usd in vnd. Press ↩ to copy it;
+      - apps, open windows (on every Desktop) and the tabs open in Chrome,
+        Edge and Safari;
+      - files and folders. If you have Rummage, a last row hands the search
+        to it, to look everywhere;
+      - your Shortcuts, System Settings pages, Lock Screen, Sleep, Dark
+        Mode and more, and a web search.
+    Use ↑ ↓ to choose, ⇥ to jump to the next group, ↩ to open or run it,
+    ⌘↩ to show a file in Finder, ⌘Y to preview a file, and ⎋ to close.
+    Settings › Command Bar chooses what it searches.
 
   • In a browser showing Google Docs, Sheets, Slides, Gmail, Calendar or
     Drive, you see that app's own shortcuts first, with a switch to the
@@ -58,13 +70,20 @@ USING SmartCut
     find, and the ones that clash.
 
   • Settings (right-click the menu-bar icon): how long to hold ⌘, apps to
-    skip, the colour or black-and-white icon, and Launch at Login.
+    skip, the colour or black-and-white icon, Launch at Login, and what the
+    command bar searches.
+
+  • The first time the command bar looks at a browser's tabs, macOS asks
+    whether SmartCut may see them. It asks once more the first time you
+    turn Dark Mode on or off from the bar. Click OK.
 
 
 GOOD TO KNOW
 
-  • SmartCut only reads menus and the ⌘ key. It doesn't record what you
-    type or send anything anywhere.
+  • SmartCut only reads menus, the ⌘ key and what you type into its own
+    bar. It doesn't record what you type anywhere else. The only thing it
+    downloads is the day's exchange rates for money answers (from
+    ExchangeRate-API), and nothing about you is sent with that.
 
   • After installing a newer copy, macOS may need SmartCut turned off and on
     again in Accessibility settings, because the app isn't signed with a
