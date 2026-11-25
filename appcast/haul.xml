@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Haul</title>
+    <item>
+      <title>Haul 1.0.0</title>
+      <pubDate>Wed, 25 Nov 2026 01:08:15 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First version: an open-source alternative to Downie. Download video and audio from YouTube and 1,800 other sites, with Just a part, transcripts and sponsor skipping.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/haul-1.0.0/Haul-1.0.0-update.zip" length="53207473" type="application/octet-stream" sparkle:edSignature="hC0xS9J+1GxI9uKxEBpc7cRMUnbdfXqN96ltLXynfCKJ3JLGAt+CuyCI4pddsxXam+2Aj3/GtDn3G8fCChAFCQ=="/>
+    </item>
+  </channel>
+</rss>

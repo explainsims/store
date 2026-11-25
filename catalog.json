@@ -378,6 +378,67 @@
       "tagline" : "See what fills your disk, on a sunburst map."
     },
     {
+      "added" : "2026-11-25T01:07:52Z",
+      "alternativeTo" : "Downie",
+      "audience" : "everyone",
+      "bundleID" : "com.lennoxmeldrum.haul",
+      "icon" : "https://store.explainsims.com/icons/haul.png",
+      "id" : "haul",
+      "internet" : "The sites you download from, GitHub for its download engine (on first launch and once a day), SponsorBlock if you skip sponsors, and update checks",
+      "kind" : "tools",
+      "licence" : "MIT",
+      "name" : "Haul",
+      "needs" : "An internet connection the first time it opens, to fetch its download engine (about 55 MB). Chrome or Edge for the extension (optional)",
+      "readmeURL" : "https://store.explainsims.com/readme/haul.txt",
+      "release" : {
+        "build" : "6",
+        "chips" : [
+          "x86_64",
+          "arm64"
+        ],
+        "date" : "2026-11-25T01:08:15Z",
+        "minimumSystemVersion" : "14.0",
+        "notes" : [
+          "First version: an open-source alternative to Downie. Download video and audio from YouTube and 1,800 other sites, with Just a part, transcripts and sponsor skipping."
+        ],
+        "update" : {
+          "edSignature" : "hC0xS9J+1GxI9uKxEBpc7cRMUnbdfXqN96ltLXynfCKJ3JLGAt+CuyCI4pddsxXam+2Aj3/GtDn3G8fCChAFCQ==",
+          "length" : 53207473,
+          "url" : "https://github.com/explainsims/store/releases/download/haul-1.0.0/Haul-1.0.0-update.zip"
+        },
+        "version" : "1.0.0",
+        "zip" : {
+          "edSignature" : "ImVlayiUiMf46dKWHX3stFDVITjE/+nvimLeFFlZIHmiI7OCTJgfxDFd4URv14MtrntUGo2cnd1qQDRHPe83Aw==",
+          "length" : 53213097,
+          "url" : "https://github.com/explainsims/store/releases/download/haul-1.0.0/Haul-1.0.0.zip"
+        }
+      },
+      "screenshots" : [
+        {
+          "dark" : "https://store.explainsims.com/shots/haul/1-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/haul/1-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/haul/2-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/haul/2-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/haul/3-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/haul/3-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/haul/4-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/haul/4-light.jpg"
+        },
+        {
+          "dark" : "https://store.explainsims.com/shots/haul/5-dark.jpg",
+          "light" : "https://store.explainsims.com/shots/haul/5-light.jpg"
+        }
+      ],
+      "summary" : "Paste or drop a link, or send it from Chrome or Edge, and Haul downloads the video or song in the quality you like, as a file that plays in QuickTime, Keynote and on iPhones. Cut out just the part you need, save a transcript, skip sponsor segments, or keep only the sound. Pages it can't read open in Find on a Page, which lists every video they play.",
+      "tagline" : "Save video and audio from YouTube and 1,800 other sites."
+    },
+    {
       "added" : "2026-11-08T01:40:23Z",
       "alternativeTo" : "Sony's Hi-Res Audio Player",
       "audience" : "everyone",
@@ -1283,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-24T15:26:51Z"
+  "updated" : "2026-11-25T01:08:15Z"
 }
