@@ -218,26 +218,26 @@
       "name" : "Figure It",
       "readmeURL" : "https://store.explainsims.com/readme/figureit.txt",
       "release" : {
-        "build" : "24",
+        "build" : "26",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-13T06:29:08Z",
+        "date" : "2026-11-25T09:12:07Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Coordinate grid: number an axis in π radians or degrees, with gridlines every π/6, π/4, π/3, π/2 or π for trig graphs. Fractions and π on the axes are stacked (3π over 2) so they never run into each other."
+          "22 new figures: VSEPR shapes, electrochemical cells, rate law and equilibrium graphs, phase diagrams, bond energy curves, chromatography, electric and magnetic fields, circular motion, torque, levers, pendulums, springs, roller coasters, cladograms, tree diagrams, scatter and dot plots, normal curves, tables of values, nets and segment addition. Type a cladogram's own tree and a tree diagram's probabilities."
         ],
         "update" : {
-          "edSignature" : "zBFEUVvxKuzsTkFxsfN2EivUeCyqVpwMI4SlBz1xmY9Y0A1sTMl80dwMQsIgpssgSiB+/u5xXMxA81IBbv1PDw==",
-          "length" : 5433101,
-          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.11/Figure-It-0.5.11-update.zip"
+          "edSignature" : "KOxsX62MiQCSj6jGWwqw3de16yZ1+M6T86C6rzxpc177B1XtABEBsGZe9u6BG8LTsStkUani5hwM7CVmS/2lDQ==",
+          "length" : 5726709,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-1.0.0/Figure-It-1.0.0-update.zip"
         },
-        "version" : "0.5.11",
+        "version" : "1.0.0",
         "zip" : {
-          "edSignature" : "lxSEZs6wVbUJAX+Svsqjj58B0LvzSX5ZQcAy/z9Z8ppbihi52TySE85Mh8Zun81wBQyevFACmKU0au5koZulBw==",
-          "length" : 5442112,
-          "url" : "https://github.com/explainsims/store/releases/download/figureit-0.5.11/Figure-It-0.5.11.zip"
+          "edSignature" : "Xw/a82171W1uverup+JHBU/bppvmnJT6az2z7tsdRfYfyybPPAvo/xiKbM/YzjXhwy8pIWu9JOjF6FPtyGEpAA==",
+          "length" : 5736189,
+          "url" : "https://github.com/explainsims/store/releases/download/figureit-1.0.0/Figure-It-1.0.0.zip"
         }
       },
       "screenshots" : [
@@ -262,7 +262,7 @@
           "light" : "https://store.explainsims.com/shots/figureit/5-light.jpg"
         }
       ],
-      "summary" : "73 figures for Physics, Chemistry, Biology, Maths and Economics. Change the numbers and labels, make a student copy and an answer key, make versions A, B and C, then drag the figure into Pages, Keynote or Google Docs.",
+      "summary" : "95 figures for Physics, Chemistry, Biology, Maths and Economics. Change the numbers and labels, make a student copy and an answer key, make versions A, B and C, then drag the figure into Pages, Keynote or Google Docs.",
       "tagline" : "Figures for tests and worksheets, with student copies and answer keys."
     },
     {
@@ -1344,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-25T01:15:29Z"
+  "updated" : "2026-11-25T09:12:07Z"
 }

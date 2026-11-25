@@ -1,5 +1,5 @@
-Figure It 0.5.11
-Figures for tests and worksheets: 73 of them, for Physics, Chemistry, Biology, Maths
+Figure It 1.0.0
+Figures for tests and worksheets: 95 of them, for Physics, Chemistry, Biology, Maths
 and Economics. Change the numbers and labels, make a student copy and an answer key,
 then drag the figure into Pages, Keynote or Google Docs.
 
@@ -74,13 +74,15 @@ USING Figure It
     Your test's font, label size and line weight, so figures match the
     rest of the paper, and a keyboard shortcut for a quick figure.
 
-  Figure It needs no special permissions and doesn't use the internet.
+  Figure It needs no special permissions. It only goes online to check
+  for updates.
 
 
 GOOD TO KNOW
 
-  • To update: use Storefront, or unzip a newer copy and run its installer.
-    It replaces the old one and keeps your figures and settings.
+  • To update: choose Check for Updates… in the Figure It menu, use
+    Storefront, or unzip a newer copy and run its installer. Each replaces
+    the old one and keeps your figures and settings.
 
   • To uninstall: quit Figure It and drag it from Applications to the Trash.
     Your figures stay in iCloud Drive › Figure It.

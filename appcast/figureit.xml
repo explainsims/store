@@ -3,13 +3,13 @@
   <channel>
     <title>Figure It</title>
     <item>
-      <title>Figure It 0.5.11</title>
-      <pubDate>Fri, 13 Nov 2026 06:29:08 +0000</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>0.5.11</sparkle:shortVersionString>
+      <title>Figure It 1.0.0</title>
+      <pubDate>Wed, 25 Nov 2026 09:12:07 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Coordinate grid: number an axis in π radians or degrees, with gridlines every π/6, π/4, π/3, π/2 or π for trig graphs. Fractions and π on the axes are stacked (3π over 2) so they never run into each other.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-0.5.11/Figure-It-0.5.11-update.zip" length="5433101" type="application/octet-stream" sparkle:edSignature="zBFEUVvxKuzsTkFxsfN2EivUeCyqVpwMI4SlBz1xmY9Y0A1sTMl80dwMQsIgpssgSiB+/u5xXMxA81IBbv1PDw=="/>
+      <description><![CDATA[<ul><li>22 new figures: VSEPR shapes, electrochemical cells, rate law and equilibrium graphs, phase diagrams, bond energy curves, chromatography, electric and magnetic fields, circular motion, torque, levers, pendulums, springs, roller coasters, cladograms, tree diagrams, scatter and dot plots, normal curves, tables of values, nets and segment addition. Type a cladogram's own tree and a tree diagram's probabilities.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/figureit-1.0.0/Figure-It-1.0.0-update.zip" length="5726709" type="application/octet-stream" sparkle:edSignature="KOxsX62MiQCSj6jGWwqw3de16yZ1+M6T86C6rzxpc177B1XtABEBsGZe9u6BG8LTsStkUani5hwM7CVmS/2lDQ=="/>
     </item>
   </channel>
 </rss>
