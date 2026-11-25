@@ -3,12 +3,13 @@
   <channel>
     <title>Lamplight</title>
     <item>
-      <title>Lamplight 1.0.0</title>
-      <pubDate>Mon, 16 Nov 2026 23:27:32 +0000</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Lamplight 1.1.0</title>
+      <pubDate>Wed, 25 Nov 2026 14:51:17 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/explainsims/store/releases/download/lamplight-1.0.0/Lamplight-1.0.0-update.zip" length="8540919" type="application/octet-stream" sparkle:edSignature="pfWbREFNRB0y3BEx/SJJfG8WziHg/8Zxsdl76cgbwrBsyskvtctFjkHcWFJvyr4Z2V/qC2ZcVVxhBZz3oXNdCg=="/>
+      <description><![CDATA[<ul><li>Simpler words is taken out, on the advice of our EAL teachers. Reading aloud, the word card, translation, the reader, the word bank and talk and type work as before.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/lamplight-1.1.0/Lamplight-1.1.0-update.zip" length="8493401" type="application/octet-stream" sparkle:edSignature="gQt/9J32eSbVwMMFWTcNm/9jMiY3Bofig2GhyLpQAwAjfDcxoJtAO3GQgN9BTb9qXk1jnRQhAWHltqFf8h51BQ=="/>
     </item>
   </channel>
 </rss>
