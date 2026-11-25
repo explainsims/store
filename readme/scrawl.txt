@@ -1,7 +1,8 @@
-Scrawl 1.1.1
-Take a snapshot of any part of your screen, mark it up with arrows, text,
-shapes and highlights, then copy or save it. Everything you take is kept
-in a library, so you can change it again later.
+Scrawl 1.2.0
+Take a snapshot of any part of your screen, or a whole long page as one
+tall picture, mark it up with arrows, text, shapes and highlights, then
+copy or save it. Everything you take is kept in a library, so you can
+change it again later.
 
 
 WHAT'S IN THIS FOLDER
@@ -43,6 +44,7 @@ USING Scrawl
     ⌥⇧⌘5    the same area as last time
     ⌃⇧⌘5    the same as ⇧⌘5, after a countdown
     ⇧⌘6     the whole screen
+    ⇧⌘7     a scrolling snapshot: a whole long page as one tall picture
 
   ⇧⌘5 and ⇧⌘6 are also macOS's own screenshot keys. To use them for
   Scrawl, turn those off in System Settings → Keyboard → Keyboard
@@ -51,6 +53,31 @@ USING Scrawl
 
   The first time, Scrawl asks for Screen Recording permission. Click
   "Open System Settings", turn Scrawl on, and let macOS reopen it.
+
+  Updating from Scrawl 1.1? Version 1.2 is signed differently, so macOS
+  asks once more: in System Settings → Privacy & Security → Screen &
+  System Audio Recording, turn Scrawl off and on again. From then on,
+  updates keep the permission.
+
+  Scrolling snapshots. Press ⇧⌘7 (or choose Scrolling Snapshot in the
+  menu bar), then drag over the part of the window that scrolls, or click
+  a window to take all of it. A bar appears under it:
+
+    • Scroll down as usual, with the trackpad or mouse. The strip beside
+      the area shows the picture growing. Scrolling back up is fine.
+    • Or click "Scroll for me": Scrawl scrolls by itself and stops at
+      the bottom. The first time, macOS asks to let Scrawl control your
+      computer (System Settings → Privacy & Security → Accessibility);
+      turn Scrawl on and click "Scroll for me" again.
+    • Click Done (or press Return, or ⇧⌘7 again) to open the picture.
+      Cancel (Escape) throws it away.
+
+  Bars that stay put, like a site's menu bar, a list's column headings or
+  a cookie notice, appear once, at the top or bottom, and a sidebar that
+  doesn't scroll appears once at the top. A very long page stops after
+  about 15 to 25 screens (sooner for a wider area), so the picture stays
+  quick to edit and share. If the bar says it lost its place, scroll
+  back up a little.
 
   Marking it up. Pick a tool in the side panel: arrow, text, rectangle,
   filled rectangle (to hide something), rounded rectangle, ellipse, line,

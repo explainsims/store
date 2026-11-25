@@ -741,25 +741,25 @@
       "name" : "Scrawl",
       "readmeURL" : "https://store.explainsims.com/readme/scrawl.txt",
       "release" : {
-        "build" : "3",
+        "build" : "12",
         "chips" : [
           "arm64"
         ],
-        "date" : "2026-11-09T00:40:08Z",
+        "date" : "2026-11-25T01:15:29Z",
         "minimumSystemVersion" : "27.0",
         "notes" : [
-          "Check for Updates… in Scrawl's menu. From now on Scrawl updates itself, checking once a day."
+          "Scrolling capture: take a whole long page or list as one tall picture (⇧⌘7). Scroll as usual, or click Scroll for me. Updating from 1.1: turn Scrawl off and on once in Privacy & Security › Screen & System Audio Recording."
         ],
         "update" : {
-          "edSignature" : "PdxDRRlwQ/n4oqUQO/IWn5yir7N+9uXJPhlDthB0Y/jCZ0eV+sNPuwuhpGI72yIAf8aTVCIEcMr8OxXSRaWpAw==",
-          "length" : 2234763,
-          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1-update.zip"
+          "edSignature" : "lmIFjJ+LeJamJ6aZ21iRWkIo3PeAURUYqMQQKzxaL6HnblqXcz9v2zbwEj588blwoksX10yQyxsZVZMz3OlkAQ==",
+          "length" : 2390426,
+          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.2.0/Scrawl-1.2.0-update.zip"
         },
-        "version" : "1.1.1",
+        "version" : "1.2.0",
         "zip" : {
-          "edSignature" : "rkHpAagZ2NcmjmS7doj6JFXKcVQGHNTSvAZJ8nFru/bNJz8BDDID0nYpaZQDB26Y6q/4lusJRRmaL4qJjsPeCQ==",
-          "length" : 2239934,
-          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1.zip"
+          "edSignature" : "o2dB/ilmImu+QQ6arCienrxGQG5AL29IuJR+lV52wExvKTiZnpcZsCtXdFJSAYALud7/A75W2IPEj2+Pv7XQAQ==",
+          "length" : 2396186,
+          "url" : "https://github.com/explainsims/store/releases/download/scrawl-1.2.0/Scrawl-1.2.0.zip"
         }
       },
       "screenshots" : [
@@ -1344,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-25T01:08:15Z"
+  "updated" : "2026-11-25T01:15:29Z"
 }

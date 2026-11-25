@@ -3,13 +3,13 @@
   <channel>
     <title>Scrawl</title>
     <item>
-      <title>Scrawl 1.1.1</title>
-      <pubDate>Mon, 09 Nov 2026 00:40:08 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <title>Scrawl 1.2.0</title>
+      <pubDate>Wed, 25 Nov 2026 01:15:29 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Check for Updates… in Scrawl's menu. From now on Scrawl updates itself, checking once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/scrawl-1.1.1/Scrawl-1.1.1-update.zip" length="2234763" type="application/octet-stream" sparkle:edSignature="PdxDRRlwQ/n4oqUQO/IWn5yir7N+9uXJPhlDthB0Y/jCZ0eV+sNPuwuhpGI72yIAf8aTVCIEcMr8OxXSRaWpAw=="/>
+      <description><![CDATA[<ul><li>Scrolling capture: take a whole long page or list as one tall picture (⇧⌘7). Scroll as usual, or click Scroll for me. Updating from 1.1: turn Scrawl off and on once in Privacy &amp; Security › Screen &amp; System Audio Recording.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/scrawl-1.2.0/Scrawl-1.2.0-update.zip" length="2390426" type="application/octet-stream" sparkle:edSignature="lmIFjJ+LeJamJ6aZ21iRWkIo3PeAURUYqMQQKzxaL6HnblqXcz9v2zbwEj588blwoksX10yQyxsZVZMz3OlkAQ=="/>
     </item>
   </channel>
 </rss>
