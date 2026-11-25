@@ -1,4 +1,4 @@
-Switchplate 1.0.0
+Switchplate 1.0.1
 A menu-bar app with four handy jobs: keep the Mac awake (even with the lid
 closed, on battery too), one-click switches like dark mode and Empty Trash,
 quit apps when you close their last window, and lock the keyboard while

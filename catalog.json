@@ -1148,26 +1148,26 @@
       "needs" : "Accessibility for Quit on close, Clean keyboard and Do Not Disturb; a one-time OK in Login Items to keep the Mac awake with the lid closed; permission to control Finder (Empty Trash) and System Events (Hide Dock)",
       "readmeURL" : "https://store.explainsims.com/readme/switchplate.txt",
       "release" : {
-        "build" : "4",
+        "build" : "8",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-24T15:26:51Z",
+        "date" : "2026-11-25T12:00:21Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "First release: Keep awake (with the lid closed too, even on battery), quick switches, Quit on close and Clean keyboard."
+          "Quit on close now quits apps like Terminal when their last window closes. Before, a hidden window the app keeps made it look open, so it never quit."
         ],
         "update" : {
-          "edSignature" : "p82DRiyBqK2lXaenaONuwFkW9EWtHVNhhS9ASMPhEDPHzjvU50DE3imW/bcom6Vu0f0MVIZ8tQFqE8UmpMs+Cg==",
-          "length" : 3634812,
-          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.0/Switchplate-1.0.0-update.zip"
+          "edSignature" : "U0oC7c63C6i+NP+fmuVxpZidf8C3y7C+CsbchBdfcr0kHGD44GBJp+AK+Igl8rPVR1Vf4MG0sr0Ae2oVsvbvBA==",
+          "length" : 3638625,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.1/Switchplate-1.0.1-update.zip"
         },
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "zip" : {
-          "edSignature" : "TeVbjUuCDKqFASMFDVNc5FGdYnW/e3TufhIS1Y8WI8Dmsx9WMPWhDpA/p5WTtkCdjAHq6uOOwV9GSIPqf0aTBg==",
-          "length" : 3643107,
-          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.0/Switchplate-1.0.0.zip"
+          "edSignature" : "nb3jPdakHCXlq45aUXYdWZRTXHJzRdP2L1L72WPvi3a+kHuqh/A0KRFlohkQ0wnnWHH+R6vA+gBQ7G7dlbMjAg==",
+          "length" : 3646919,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.1/Switchplate-1.0.1.zip"
         }
       },
       "screenshots" : [
@@ -1344,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-25T11:41:52Z"
+  "updated" : "2026-11-25T12:00:21Z"
 }

@@ -3,13 +3,13 @@
   <channel>
     <title>Switchplate</title>
     <item>
-      <title>Switchplate 1.0.0</title>
-      <pubDate>Tue, 24 Nov 2026 15:26:51 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Switchplate 1.0.1</title>
+      <pubDate>Wed, 25 Nov 2026 12:00:21 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First release: Keep awake (with the lid closed too, even on battery), quick switches, Quit on close and Clean keyboard.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/switchplate-1.0.0/Switchplate-1.0.0-update.zip" length="3634812" type="application/octet-stream" sparkle:edSignature="p82DRiyBqK2lXaenaONuwFkW9EWtHVNhhS9ASMPhEDPHzjvU50DE3imW/bcom6Vu0f0MVIZ8tQFqE8UmpMs+Cg=="/>
+      <description><![CDATA[<ul><li>Quit on close now quits apps like Terminal when their last window closes. Before, a hidden window the app keeps made it look open, so it never quit.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/switchplate-1.0.1/Switchplate-1.0.1-update.zip" length="3638625" type="application/octet-stream" sparkle:edSignature="U0oC7c63C6i+NP+fmuVxpZidf8C3y7C+CsbchBdfcr0kHGD44GBJp+AK+Igl8rPVR1Vf4MG0sr0Ae2oVsvbvBA=="/>
     </item>
   </channel>
 </rss>
