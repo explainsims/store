@@ -502,26 +502,26 @@
       "name" : "Hem",
       "readmeURL" : "https://store.explainsims.com/readme/hem.txt",
       "release" : {
-        "build" : "9",
+        "build" : "11",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-24T15:26:30Z",
+        "date" : "2026-11-25T11:41:52Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Pauses while Switchplate's Clean keyboard is running, so wiping along a trackpad edge doesn't change the volume or brightness."
+          "Brightness can now turn the screen off: it still stops at 0%, and sliding on past the stop turns the screen off. Slide back or press a brightness key to turn it on again."
         ],
         "update" : {
-          "edSignature" : "rRUu8u8MgHvt0vBt10zKn2N4PE6RX20LTtv7MEyrON2JAWU1UxxXmGMAITzXV1tdwq9GPw1UmxEEXrygUaEuDw==",
-          "length" : 2355336,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.2/Hem-1.0.2-update.zip"
+          "edSignature" : "A0SC5ZG1rI9LG/JOqt+i5NiDDwWEtSfNDKOAWK+BYmto4ch4RZGRp+t5wtvQATHJDiMYWwhhWA5D0OttZpa4Cw==",
+          "length" : 2366259,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.1.0/Hem-1.1.0-update.zip"
         },
-        "version" : "1.0.2",
+        "version" : "1.1.0",
         "zip" : {
-          "edSignature" : "/nE0OqmKNpC3FdTtAPkDExcIwPTZyciPq5/WdsVIcNku0b3Vg4Cld+nlMagL8zrg2wChML/E7BE5iTrU8diLBA==",
-          "length" : 2360118,
-          "url" : "https://github.com/explainsims/store/releases/download/hem-1.0.2/Hem-1.0.2.zip"
+          "edSignature" : "1IRER3T1TnedVMrqxtKmRXQhP9OqWfxoV0P+ZPEVs/SIXd0kraeZOyneS0I+mTQPVjCe/Ms+H1oozjRJrd24Cw==",
+          "length" : 2371138,
+          "url" : "https://github.com/explainsims/store/releases/download/hem-1.1.0/Hem-1.1.0.zip"
         }
       },
       "screenshots" : [
@@ -1344,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-25T09:12:07Z"
+  "updated" : "2026-11-25T11:41:52Z"
 }

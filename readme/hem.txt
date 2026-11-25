@@ -1,4 +1,4 @@
-Hem 1.0.2
+Hem 1.1.0
 Slide a finger along an edge of your MacBook's trackpad to change the
 volume, the screen brightness or the keyboard backlight, or to skip
 through what's playing. You choose which edges do what, so your palms
@@ -54,6 +54,11 @@ USING Hem
   • Bottom edge: slide right to make the screen brighter, left to make it
     dimmer. Tap once, then slide, to skip through what's playing (10
     seconds a step, right for ahead and left for back).
+
+  • Brightness stops at 0%, the dimmest the screen goes while it's still
+    lit. To turn the screen off, keep sliding left past the stop: you feel
+    two ticks, then a bump, and the screen goes dark. Slide right again,
+    or press a brightness key, to turn it back on.
 
   • Start right at the edge and slide along it. Moving the pointer, clicking,
     dragging and two-finger scrolling all work as usual, even near the edges.

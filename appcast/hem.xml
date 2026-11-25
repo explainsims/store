@@ -3,13 +3,13 @@
   <channel>
     <title>Hem</title>
     <item>
-      <title>Hem 1.0.2</title>
-      <pubDate>Tue, 24 Nov 2026 15:26:30 +0000</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Hem 1.1.0</title>
+      <pubDate>Wed, 25 Nov 2026 11:41:52 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Pauses while Switchplate's Clean keyboard is running, so wiping along a trackpad edge doesn't change the volume or brightness.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/hem-1.0.2/Hem-1.0.2-update.zip" length="2355336" type="application/octet-stream" sparkle:edSignature="rRUu8u8MgHvt0vBt10zKn2N4PE6RX20LTtv7MEyrON2JAWU1UxxXmGMAITzXV1tdwq9GPw1UmxEEXrygUaEuDw=="/>
+      <description><![CDATA[<ul><li>Brightness can now turn the screen off: it still stops at 0%, and sliding on past the stop turns the screen off. Slide back or press a brightness key to turn it on again.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/hem-1.1.0/Hem-1.1.0-update.zip" length="2366259" type="application/octet-stream" sparkle:edSignature="A0SC5ZG1rI9LG/JOqt+i5NiDDwWEtSfNDKOAWK+BYmto4ch4RZGRp+t5wtvQATHJDiMYWwhhWA5D0OttZpa4Cw=="/>
     </item>
   </channel>
 </rss>
