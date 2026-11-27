@@ -1145,7 +1145,7 @@
       "kind" : "menubar",
       "licence" : "MIT",
       "name" : "Switchplate",
-      "needs" : "Accessibility for Quit on close, Clean keyboard and Do Not Disturb; a one-time OK in Login Items to keep the Mac awake with the lid closed; permission to control Finder (Empty Trash) and System Events (Hide Dock)",
+      "needs" : "Accessibility for Quit on close, Clean keyboard and Do Not Disturb; your Mac's password once, to set up keeping awake with the lid closed; permission to control Finder (Empty Trash) and System Events (Hide Dock)",
       "readmeURL" : "https://store.explainsims.com/readme/switchplate.txt",
       "release" : {
         "build" : "20",
