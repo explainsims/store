@@ -1,4 +1,4 @@
-Switchplate 1.0.5
+Switchplate 1.0.6
 A menu-bar app with four handy jobs: keep the Mac awake (even with the lid
 closed, on battery too), one-click switches like dark mode and Empty Trash,
 quit apps when you close their last window, and lock the keyboard while
@@ -78,6 +78,10 @@ USING Switchplate
     Immediately, 1 or 5 minutes, or 30 minutes to 4 hours. With
     Immediately an app quits once its last window is closed and you've
     moved to another app.
+    A few apps hide instead of closing when you click their red button
+    (Discord): that click counts as closing. Chat, mail and call apps
+    are on "Never quit these this way" to begin with; take one off the
+    list if you want it to quit too.
 
   CLEAN KEYBOARD
     Click the Clean keyboard tile, choose the keyboard (or keyboard and
