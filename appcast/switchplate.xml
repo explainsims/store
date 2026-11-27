@@ -3,13 +3,13 @@
   <channel>
     <title>Switchplate</title>
     <item>
-      <title>Switchplate 1.0.6</title>
-      <pubDate>Fri, 27 Nov 2026 04:35:21 +0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <title>Switchplate 1.0.7</title>
+      <pubDate>Fri, 27 Nov 2026 04:50:28 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Quit on close now works for apps that only hide their window when you click the red button (Activity Monitor), and for apps that hide themselves instead of closing (Discord): the click counts as closing. Minimising or hiding an app yourself still keeps it open.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/switchplate-1.0.6/Switchplate-1.0.6-update.zip" length="3749827" type="application/octet-stream" sparkle:edSignature="MZftyJF0tDyr1lci83lMA61UXZVvW7S+Xi4iGgxpei7Ir9/XoYGP94UgnM6z/Bkyc+RmdL6yuXqxb9lWK1AsAA=="/>
+      <description><![CDATA[<ul><li>The app lists in Settings › Quit on close now show every app. “Never quit these this way” holds 17 apps but only showed about seven, so apps like Discord looked as if they weren't on it.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/switchplate-1.0.7/Switchplate-1.0.7-update.zip" length="3757460" type="application/octet-stream" sparkle:edSignature="leGm5D6zXOhGtTH9C8rjFbGKB05LxFyUJOzqQXuhfv1c1bA2DfO2+s6ldyB2lAHUJl87IW6RpLaaMLRjjOKrAw=="/>
     </item>
   </channel>
 </rss>

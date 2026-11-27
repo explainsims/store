@@ -1148,26 +1148,26 @@
       "needs" : "Accessibility for Quit on close, Clean keyboard and Do Not Disturb; your Mac's password once, to set up keeping awake with the lid closed; permission to control Finder (Empty Trash) and System Events (Hide Dock)",
       "readmeURL" : "https://store.explainsims.com/readme/switchplate.txt",
       "release" : {
-        "build" : "23",
+        "build" : "24",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-27T04:35:21Z",
+        "date" : "2026-11-27T04:50:28Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Quit on close now works for apps that only hide their window when you click the red button (Activity Monitor), and for apps that hide themselves instead of closing (Discord): the click counts as closing. Minimising or hiding an app yourself still keeps it open."
+          "The app lists in Settings › Quit on close now show every app. “Never quit these this way” holds 17 apps but only showed about seven, so apps like Discord looked as if they weren't on it."
         ],
         "update" : {
-          "edSignature" : "MZftyJF0tDyr1lci83lMA61UXZVvW7S+Xi4iGgxpei7Ir9/XoYGP94UgnM6z/Bkyc+RmdL6yuXqxb9lWK1AsAA==",
-          "length" : 3749827,
-          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.6/Switchplate-1.0.6-update.zip"
+          "edSignature" : "leGm5D6zXOhGtTH9C8rjFbGKB05LxFyUJOzqQXuhfv1c1bA2DfO2+s6ldyB2lAHUJl87IW6RpLaaMLRjjOKrAw==",
+          "length" : 3757460,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.7/Switchplate-1.0.7-update.zip"
         },
-        "version" : "1.0.6",
+        "version" : "1.0.7",
         "zip" : {
-          "edSignature" : "EkKke9DPUjS+59uGiP0DLvgHFbxVMjCqE5U+tBSOrtG71Qd27vD+LHKWOKJJzofImArsl5OVbNm4YuTAi1IiCQ==",
-          "length" : 3758328,
-          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.6/Switchplate-1.0.6.zip"
+          "edSignature" : "8051o6vhB1mEu/sfrpCztwTwcPp3QFBcgOLtW7xG33NpwP+NmclRJmPuFZ6W4jZUmDkzHQ0h5PTvho+UQvMiCw==",
+          "length" : 3765961,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.7/Switchplate-1.0.7.zip"
         }
       },
       "screenshots" : [
@@ -1344,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-27T04:35:21Z"
+  "updated" : "2026-11-27T04:50:28Z"
 }
