@@ -338,26 +338,26 @@
       "name" : "FreeUp",
       "readmeURL" : "https://store.explainsims.com/readme/freeup.txt",
       "release" : {
-        "build" : "10",
+        "build" : "12",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-24T14:24:32Z",
+        "date" : "2026-11-27T03:11:38Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Clean Up: Cleaner (caches, logs, files of apps you removed), Uninstaller (an app with everything it left behind), Chat Downloads (old Zalo, WhatsApp and Telegram photos and videos) and Old Installers. Everything goes to the Trash after you see the list."
+          "The Uninstaller can now move apps that sit straight in the Applications folder. 2.2.0 refused them, and every private cache, with “FreeUp doesn’t move this”. The banner says “Uninstalled” only when the app has really gone, and gives the reason when something stays."
         ],
         "update" : {
-          "edSignature" : "oVtlKN0pqWZ4jTT9GTm9awys+5GmJU1eiVrgC27JzCtlalNb12hHN4sXtvx8sAYnQBNmjGWY8agUJcC/+h6EAA==",
-          "length" : 4165515,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.2.0/FreeUp-2.2.0-update.zip"
+          "edSignature" : "GCletGcMhlbiUkaP8dKWwf/0/FAtlB3v8kru4hxiCRFf2NsuRcyxjZSH1rU/Mnt4kj5uHZbMbTfcj8yHzJ0bAQ==",
+          "length" : 4214794,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.2.1/FreeUp-2.2.1-update.zip"
         },
-        "version" : "2.2.0",
+        "version" : "2.2.1",
         "zip" : {
-          "edSignature" : "FVG5nyjZdRJRGVuYJzpl7U8v6a/q1KacXUFXw09CYzCC8cymL+EbfypvSLyZvVt0oN/LYGtRNCvppxPYxh5kBw==",
-          "length" : 4170694,
-          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.2.0/FreeUp-2.2.0.zip"
+          "edSignature" : "dLb0V6gmp1VQFse7D4IjMwVcIT0m6ZTj6e/cIFQwRSgGKaC8/UYOySNHw+5WwJ9pDrLTw5mspLobGwcTWRcQDg==",
+          "length" : 4219973,
+          "url" : "https://github.com/explainsims/store/releases/download/freeup-2.2.1/FreeUp-2.2.1.zip"
         }
       },
       "screenshots" : [
@@ -1344,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-27T03:05:16Z"
+  "updated" : "2026-11-27T03:11:38Z"
 }

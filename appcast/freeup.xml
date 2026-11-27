@@ -3,13 +3,13 @@
   <channel>
     <title>FreeUp</title>
     <item>
-      <title>FreeUp 2.2.0</title>
-      <pubDate>Tue, 24 Nov 2026 14:24:32 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <title>FreeUp 2.2.1</title>
+      <pubDate>Fri, 27 Nov 2026 03:11:38 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Clean Up: Cleaner (caches, logs, files of apps you removed), Uninstaller (an app with everything it left behind), Chat Downloads (old Zalo, WhatsApp and Telegram photos and videos) and Old Installers. Everything goes to the Trash after you see the list.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/freeup-2.2.0/FreeUp-2.2.0-update.zip" length="4165515" type="application/octet-stream" sparkle:edSignature="oVtlKN0pqWZ4jTT9GTm9awys+5GmJU1eiVrgC27JzCtlalNb12hHN4sXtvx8sAYnQBNmjGWY8agUJcC/+h6EAA=="/>
+      <description><![CDATA[<ul><li>The Uninstaller can now move apps that sit straight in the Applications folder. 2.2.0 refused them, and every private cache, with “FreeUp doesn’t move this”. The banner says “Uninstalled” only when the app has really gone, and gives the reason when something stays.</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/freeup-2.2.1/FreeUp-2.2.1-update.zip" length="4214794" type="application/octet-stream" sparkle:edSignature="GCletGcMhlbiUkaP8dKWwf/0/FAtlB3v8kru4hxiCRFf2NsuRcyxjZSH1rU/Mnt4kj5uHZbMbTfcj8yHzJ0bAQ=="/>
     </item>
   </channel>
 </rss>
