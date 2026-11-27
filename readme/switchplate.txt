@@ -1,4 +1,4 @@
-Switchplate 1.0.1
+Switchplate 1.0.2
 A menu-bar app with four handy jobs: keep the Mac awake (even with the lid
 closed, on battery too), one-click switches like dark mode and Empty Trash,
 quit apps when you close their last window, and lock the keyboard while
@@ -69,7 +69,10 @@ USING Switchplate
     Switch it on and choose apps (Preview, say). When you close an app's
     last window, a notice says "Quitting…" for a few seconds; click Keep
     It Open to stop it. Windows on other desktops and minimised windows
-    still count. In Settings → Quit on close you can also quit any app
+    still count. In Settings → Quit on close, "Wait before quitting"
+    sets how long: Immediately (no notice), a few seconds, or 1 or 5
+    minutes (the notice comes up for the last 10 seconds). Opening a
+    window during the wait keeps the app open. You can also quit any app
     that has had no windows for an hour (mail and chat apps are left
     alone).
 
