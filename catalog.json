@@ -1148,26 +1148,26 @@
       "needs" : "Accessibility for Quit on close, Clean keyboard and Do Not Disturb; a one-time OK in Login Items to keep the Mac awake with the lid closed; permission to control Finder (Empty Trash) and System Events (Hide Dock)",
       "readmeURL" : "https://store.explainsims.com/readme/switchplate.txt",
       "release" : {
-        "build" : "11",
+        "build" : "20",
         "chips" : [
           "x86_64",
           "arm64"
         ],
-        "date" : "2026-11-27T03:05:16Z",
+        "date" : "2026-11-27T04:08:34Z",
         "minimumSystemVersion" : "14.0",
         "notes" : [
-          "Quit on close can now wait Immediately, 1 minute or 5 minutes; the Keep It Open notice shows for the last 10 seconds of a long wait. Keep awake with the lid closed didn't work before, and this version has a fix for it: after updating, click Allow… beside “Also with the lid closed” in the menu."
+          "Apps with no windows can now quit Immediately, or after 1 or 5 minutes. Keep awake with the lid closed now works and keeps working after updates: click Set Up… beside “Also with the lid closed” and type your Mac's password once (the earlier Login Items step is no longer used)."
         ],
         "update" : {
-          "edSignature" : "3IaDYn5+yMC5Cq7ib3w1S/9KLCTjr18Gl4EushGrcGlt+4rgF5rZE706nnPR+/oAbzIpxvCTXhFzCEOeZBCiBg==",
-          "length" : 3651402,
-          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.2/Switchplate-1.0.2-update.zip"
+          "edSignature" : "eDEjq07+0eORaVN/7BrAm5CXp1wuafDPQR0Q7flKoWxDJ0/d8OTIJp9OlnyR2Jj/Ep2y0lP1kylvvaeHlwMIAw==",
+          "length" : 3705964,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.5/Switchplate-1.0.5-update.zip"
         },
-        "version" : "1.0.2",
+        "version" : "1.0.5",
         "zip" : {
-          "edSignature" : "FRdTAPTNgQEXd06kIFkRyDutels8DKMdK4nHQQN5uANy9Qevcq99TBmgF0PylEUB/uglwFoDvn3mcvTHXMigAg==",
-          "length" : 3659793,
-          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.2/Switchplate-1.0.2.zip"
+          "edSignature" : "lzwZpgaJb5SsEzJhWlhxnnt0NHOg8T+8UMh13I6AIEQuhO44xqUnfpvDlGJXE8fzGV4bHyNgAoR2oF1Yj5BIDA==",
+          "length" : 3714349,
+          "url" : "https://github.com/explainsims/store/releases/download/switchplate-1.0.5/Switchplate-1.0.5.zip"
         }
       },
       "screenshots" : [
@@ -1344,5 +1344,5 @@
   ],
   "format" : 1,
   "name" : "ExplAIn Sims · Mac apps",
-  "updated" : "2026-11-27T03:11:38Z"
+  "updated" : "2026-11-27T04:08:34Z"
 }

@@ -1,4 +1,4 @@
-Switchplate 1.0.2
+Switchplate 1.0.5
 A menu-bar app with four handy jobs: keep the Mac awake (even with the lid
 closed, on battery too), one-click switches like dark mode and Empty Trash,
 quit apps when you close their last window, and lock the keyboard while
@@ -50,9 +50,10 @@ USING Switchplate
     awake.
 
     "Also with the lid closed" lets you close the lid and carry the Mac
-    while things keep running, on battery too. It needs a one-time OK:
-    click Set Up…, then in System Settings → General → Login Items &
-    Extensions, turn on Switchplate under "Allow in the Background". It
+    while things keep running, on battery too. It needs setting up
+    once: click Set Up… beside it and type your Mac's password. That
+    installs a small helper which only switches lid-close sleep off
+    and on (Settings → Keep awake has Remove…). It
     stops by itself when the battery falls below 20% (you can change
     this) or if the Mac gets too hot. A closed Mac in a bag gets warm.
     While it's on, the Mac doesn't sleep from the Apple menu either:
@@ -73,8 +74,10 @@ USING Switchplate
     sets how long: Immediately (no notice), a few seconds, or 1 or 5
     minutes (the notice comes up for the last 10 seconds). Opening a
     window during the wait keeps the app open. You can also quit any app
-    that has had no windows for an hour (mail and chat apps are left
-    alone).
+    that has no windows (mail and chat apps are left alone): choose
+    Immediately, 1 or 5 minutes, or 30 minutes to 4 hours. With
+    Immediately an app quits once its last window is closed and you've
+    moved to another app.
 
   CLEAN KEYBOARD
     Click the Clean keyboard tile, choose the keyboard (or keyboard and

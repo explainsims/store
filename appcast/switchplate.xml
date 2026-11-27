@@ -3,13 +3,13 @@
   <channel>
     <title>Switchplate</title>
     <item>
-      <title>Switchplate 1.0.2</title>
-      <pubDate>Fri, 27 Nov 2026 03:05:16 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Switchplate 1.0.5</title>
+      <pubDate>Fri, 27 Nov 2026 04:08:34 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Quit on close can now wait Immediately, 1 minute or 5 minutes; the Keep It Open notice shows for the last 10 seconds of a long wait. Keep awake with the lid closed didn't work before, and this version has a fix for it: after updating, click Allow… beside “Also with the lid closed” in the menu.</li></ul>]]></description>
-      <enclosure url="https://github.com/explainsims/store/releases/download/switchplate-1.0.2/Switchplate-1.0.2-update.zip" length="3651402" type="application/octet-stream" sparkle:edSignature="3IaDYn5+yMC5Cq7ib3w1S/9KLCTjr18Gl4EushGrcGlt+4rgF5rZE706nnPR+/oAbzIpxvCTXhFzCEOeZBCiBg=="/>
+      <description><![CDATA[<ul><li>Apps with no windows can now quit Immediately, or after 1 or 5 minutes. Keep awake with the lid closed now works and keeps working after updates: click Set Up… beside “Also with the lid closed” and type your Mac's password once (the earlier Login Items step is no longer used).</li></ul>]]></description>
+      <enclosure url="https://github.com/explainsims/store/releases/download/switchplate-1.0.5/Switchplate-1.0.5-update.zip" length="3705964" type="application/octet-stream" sparkle:edSignature="eDEjq07+0eORaVN/7BrAm5CXp1wuafDPQR0Q7flKoWxDJ0/d8OTIJp9OlnyR2Jj/Ep2y0lP1kylvvaeHlwMIAw=="/>
     </item>
   </channel>
 </rss>
